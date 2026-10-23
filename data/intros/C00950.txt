@@ -1,0 +1,93 @@
+UC San Diego
+UC San Diego Previously Published Works
+Title
+Congressional politics of international financial rescues
+Permalink https://escholarship.org/uc/item/9s48g24g
+Journal
+American Journal of Political Science, 49(3)
+ISSN
+0092-5853
+Author
+Broz, J. Lawrence
+Publication Date
+2005-07-01
+ 
+Peer reviewed eScholarship.org
+Powered by the California Digital Library
+University of California
+
+Congressional Politics of International
+Financial Rescues
+J. Lawrence Broz
+University of California, San Diego
+In the 1990s, the American executive organized ﬁnancial rescues for Mexico and several Asian economies. These rescues were controversial in Congress, where members voted repeatedly to reduce or eliminate the executive’s freedom to engage in them. I analyze these roll calls with an eye toward explaining who opposes and who supports international ﬁnancial rescues.
+I argue that the interests of private actors (district constituencies and interest groups) have an important effect on member voting. Following Stolper-Samuelson reasoning, I ﬁnd that a member is signiﬁcantly more likely to favor (oppose) rescues as the proportion of high-skilled (low-skilled) workers in a district increases. In addition, I ﬁnd that campaign contributions from international banks increase the probability that a member will vote in favor of rescues. Overall, the ﬁndings suggest that the distributional effects of rescues ﬁnd expression in Congress and constrain U.S. international ﬁnancial policymaking.
+I n the 1990s, currency crises in Latin America and East
+Asia impelled the American executive to assume the mantle of leadership in international financial affairs.
+Faced with the possibility that financial market instabil- ity would undercut economic growth and threaten policy reforms in these regions, Clinton administration officials organized a series of major financial rescues (“bailouts” to detractors). Congress, however, balked at the execu- tive’sinternationalistapproachtoemergingmarketcrises.
+Lawmakers opposed the use of government funds in the
+Mexican peso crisis, passed legislation that temporarily removed the executive’s discretion to use the Exchange
+Stabilization Fund (ESF) for financial rescues, and then threatened permanent restrictions. This opposition is im- portant because the ability of the executive to stabilize the international financial system and to orchestrate financial rescuesdependsuponthecontinuedsupportof Congress.
+Executive authority in this domain is a delegated power, subject to the will of Congress.
+J. Lawrence Broz is associate professor of political science, University of California, San Diego, 9500 Gilman Dr. M/C 0521, La Jolla, CA
+92093-0521 (jlbroz@ucsd.edu).
+For research assistance, I thank Mark Farrales, Stephanie Rickard, Joseph Gochal, and Sarah Matthews. For comments, I am grateful to participants at the Research Group on Political Institutions and Economic Policy (PIEP) conference, Harvard University; the Political
+Economy of International Finance (PEIF) conference, Georgetown University; and the Politics Department Seminar, New York University.
+I am particularly indebted to Jeffry Frieden, Tom Romer, Howard Rosenthal, Bruce Bueno de Mesquita, Gary Cox, Jude Hayes, Brian
+Roberts, John Freeman, Benjamin Cohen, Ken Scheve, Allen Kessler, and Alex Kuo.
+1In other work, I analyze voting on International Monetary Fund (IMF) quota increases—a related topic since the IMF engages in financial rescues as part of its mandate to stabilize global financial markets (Broz 2003). The results are very similar to those on ESF rescues. However, the relationship between Congress and the IMF involves additional levels of delegation that require special analytical treatment.
+I explore the sources of congressional opposition to global financial rescues and the factors that motivated lawmakers to rein in the independence of the executive in the 1990s. While excellent scholarship on the topic ex- ists (DeLong and Eichengreen 2001; Henning 1999; Roett
+1996; Schwartz 1997), this is the first article to evaluate systematically the determinants of legislator positions on financial rescues. The empirical analysis covers the uni- verse of roll-call votes in the House of Representatives that pertain exclusively to the executive’s capacity to en- gage in international financial rescues through the ESF.1
+There were three such votes, all on amendments to om- nibus appropriations bills. Each amendment was written to constrain or eliminate the autonomy of the executive withrespecttoESF-fundedrescues.Table1describesthese amendments.
+The evidence supports two main arguments, each of which follow from the assumption that members of
+Congress care about reelection and take positions on
+American Journal of Political Science, Vol. 49, No. 3, July 2005, Pp. 479–496
+C⃝2005 by the Midwest Political Science Association
+ISSN 0092-5853
+479
+
+480
+J. LAWRENCE BROZ
+TABLE 1
+House Roll-Call Votes on Exchange Stabilization Fund Rescues
+Sanders 1995
+Sanders 1998
+Sanders 1999
+Number
+H.AMDT.572
+H.AMDT.730
+H.AMDT.293
+Congress
+104th
+105th
+106th
+Sponsor
+Sanders (Ind. VT)
+Sanders (Ind. VT)
+Sanders (Ind. VT)
+Roll call
+No. 531
+No. 291
+No. 304
+Date
+7-19-95
+7-16-98
+7-15-99
+Summary
+Prohibits the use of any funds made available in the bill for the salaries and expenses of any employee, including any employee of the Executive Office of the President, in connection with the obligation of expenditure of funds in the
+Exchange Stabilization Fund for the purpose of bolstering any foreign currency.
+A “nay” vote supports ESF rescues.
+Prohibits any loan in excess of
+$250 million to a foreign entity through the Exchange
+Stabilization Fund.
+A “nay” vote supports ESF rescues.
+Prohibits loans or credits in excess of $1 billion to a foreign entity or government through the
+Exchange Stabilization Fund unless approved by Congress.
+A “nay” vote supports ESF rescues.
+Result
+Y = 245, N = 183
+Y = 195, N = 226
+Y = 192, N = 228
+Party split
+Rep: Y = 156, N = 73
+Dem: Y = 88

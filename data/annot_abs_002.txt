@@ -1,0 +1,41 @@
+# batch_002 — abstracts
+00179|Theory|Theory|Slavery emerges at intermediate stages of agricultural development in a growth model with endogenous property rights, then gives way to free labour.||
+00170|United States|Hist|The slaughter of the Plains bison was triggered by a European tanning innovation and foreign leather demand under open access and policy failure.||
+00746|El Salvador|RD|Cooperatives created by the 1980 land reform (above 500 ha) specialize differently from outside-owned farms, with more equal worker pay and comparable productivity.||
+00016|Theory|Book|Democracy arises when elites cannot credibly promise redistribution under a revolutionary threat and repression is costly; it consolidates when coups are unattractive.|M_commit+,M_median+|
+00232|United States|Panel|Abolishing poll taxes and literacy tests raised turnout among the poor, lowered the pivotal voter's income and raised welfare spending.|M_median+|F3
+00040|Theory|Theory|Western elites extended the franchise as a commitment to redistribution to avert revolution, explaining the Kuznets curve.|M_commit+,M_median+|
+00259|Theory|Theory|Elections are self-enforcing when the electoral calendar coordinates citizens' threat to rebel; fraud and armed losers threaten that equilibrium.|M_coord+,M_moralhazard+|
+00300|United Kingdom|Panel|Swing riots near English constituencies raised the vote share of pro-reform politicians before the 1832 Reform Act.|M_commit+|
+00411|Africa|IV|Negative rainfall shocks were followed by improvements in democratic institutions in sub-Saharan Africa: a window of opportunity.|M_commit+|
+00059|Cross-country|IV|Democracy raises redistribution only when elites are weak at the transition and the new regime escapes an elite-written constitution.|M_commit+,M_median~|
+00350|United States|Panel|Women's suffrage coincided with immediate and growing increases in state spending and more liberal votes by congressional delegations.|M_median+|F3
+00921|United Kingdom|RD|The 1867 Second Reform Act did not reduce the aristocracy's political role in Cabinet or Parliament.|M_commit+|
+01054|Cross-country|Book|Case studies of eight liberalizing countries show how political reforms condition fiscal, monetary and trade adjustment.||
+01422|Theory|Theory|A party able to cause unrest wins more often when its threat is uncertain; posturing leads to platform divergence.|M_commit+|
+00126|Theory|Theory|Franchise extensions are used by a divided elite; growth and democratization occur together only with a critical mass of industrial workers and weak landlords.|M_commit+|
+00154|Cross-country|Panel|Democracy raises tax revenue, schooling and structural change but has no robust effect on inequality.|M_median~|
+00774|Cross-country|Panel|With country fixed effects, income has no causal effect on democracy; both reflect divergent historical paths.|M_commit+|
+00775|Uruguay|Lab|Policies raise cooperation more when chosen democratically than when imposed: democracy affects behaviour directly.|M_culture+|
+00557|Indonesia|DiD|District democratization after Suharto raised firm productivity and improved local business regulation.||
+00795|Indonesia|DiD|Indonesia's school construction program raised village public goods, partly through more educated village heads.|M_citizencand+|F3
+00020|Venezuela|DiD|Voters on Chávez's published list of recall signers saw earnings fall 5% and employment fall 1.3 points: political discrimination.|M_clientelism+|
+00065|Africa|Desc|African autocrats share cabinet posts across ethnic groups roughly in proportion to population: inclusive coalitions limit the risk of coups and revolts.|M_commit+,M_fear~|
+00245|Cross-country|Panel|Successful autocracies have selectorates that remove bad leaders without losing power; leader deaths show they handle succession.|M_selection+|
+00427|Theory|Theory|Insecure dictators hire mediocre but loyal viziers because competent ones are better at plotting.|M_commit+|
+00584|China|Panel|China introduced village elections when bureaucratic capacity was low and curtailed them as resources grew, trading local accountability for vertical control.|M_selection+,M_bureau+|
+00466|Theory|Theory|A "stationary bandit" with an encompassing interest provides order; secure property and lasting democracy share the same conditions.|M_statecap+,M_commit+|
+00269|Theory|Theory|Kleptocrats survive by divide-and-rule, threatening those who propose collective action; aid and resource rents make it easier.|M_coord+,M_commit+|
+00479|Theory|Theory|A ruler's need to deter rebellion and corruption by governors can generate an entrenched aristocracy and constitutional checks.|M_commit+|
+00606|China|Panel|Rigid, progressive grain procurement caused famine mortality to rise with food production across Chinese regions, 1959–61.|M_statecap~|
+00920|Cross-country|Review|Reviews formal models of autocracy organized around information asymmetries and commitment problems.|M_commit+|
+00499|Vietnam|Panel|Promotions of officials raise infrastructure in their ancestral hometowns, even for officials without budget authority.|M_probvote~|
+00500|China|RD|Promotion-linked "death ceilings" reduced accidental deaths but induced manipulation of reported deaths just below the ceilings.|M_bureau+|F6
+00973|China|DiD|Data-rich public-security contracts led facial-recognition AI firms to develop more commercial software.||
+00688|Theory|Theory|A settled ruler with an encompassing interest limits extraction and provides public goods; majority rule goes further.|M_statecap+|
+00116|Theory|Theory|Self-enforcing ruling coalitions in non-democracies have characteristic sizes because their winning subcoalitions are not self-enforcing.|M_commit+|
+00603|Theory|Theory|Regimes manipulate information to deter uprisings; more signals make them easier to overthrow unless information control has scale economies.|M_coord+,M_media+|
+00991|Argentina; Mexico; United States|Book|Subnational authoritarian enclaves persist inside national democracies through "boundary control".|M_commit+|
+00788|Cross-country|IV|Irrigation-dependent societies are less democratic today because elites monopolized water and land.|M_commit+|
+00989|China|IV|Prefectures with higher civil-exam quotas saw more revolutionary participation after the exam's abolition cut elite opportunities.|M_commit+,M_coord+|
+01625|China|Desc|China privatized most state firms after 1998 while creating new state-controlled firms that account for a fifth of growth.||

@@ -1,0 +1,35 @@
+Electoral Rule Disproportionality and Platform
+Polarization
+Konstantinos Matakos∗
+Orestis Troumpounis†
+Dimitrios Xefteris‡§
+October 16, 2015
+∗King’s College London, Department of Political Economy, Strand Room S.2.43, London WC2R 2LS,
+United Kingdom; e-mail: konstantinos.matakos@kcl.ac.uk
+†Department of Economics, Lancaster University, The Management School, Bailrigg, LA1 4YX,
+United Kingdom, e-mail: o.troumpounis@lancaster.ac.uk
+‡Department of Economics, University of Cyprus, PO Box 20537, 1678 Nicosia, Cyprus, e-mail: xefteris.dimitrios@ucy.ac.cy
+§Authors’ names are intentionally ordered alphabetically. The original idea was Xefteris’. We are grateful to three referees and the editor for their recommendations. Troumpounis acknowledges ﬁnancial support from the Spanish Ministry of Economy and Competitiveness through grant ECO2012-34581.
+1
+
+Abstract
+Despite common perception, existing theoretical literature lacks a complete for- mal argument regarding the relationship between the electoral rule disproportional- ity and platform polarization. In this paper, we build a model that incorporates the disproportionality of the electoral system in a standard Downsian electoral com- petition setup with mainly, but not necessarily purely, policy-motivated parties.
+We ﬁrst show that in equilibrium, platform polarization is decreasing in the level of the electoral rule disproportionality. We then argue that the number of parties has a positive eﬀect on platform polarization when polarization is measured by the distance between the two most distant platforms. This eﬀect does not hold when polarization is measured by the widely used Dalton index. Constructing a dataset covering more than 300 elections, our main theoretical ﬁndings are empir- ically supported, pointing towards the electoral rule disproportionality as a major determinant of polarization.
+Keywords: proportional representation; disproportional electoral systems; po- larization; policy-motivated parties; number of parties; Duvergerian predictions
+The data, code, and any additional materials required to replicate all analyses in this article are available on the American Journal of Political Science Dataverse within the Harvard Dataverse Network at http://dx.doi.org/10.7910/DVN/OX5CZF.
+2
+
+Party-system polarization has a signiﬁcant eﬀect on a wide array of policy issues, rang- ing from the political stability (Sartori 1976) and cabinet survival (Warwick 1994) to the eﬀectiveness of policy making (Tsebelis 2002) and political representation (Abney, Mor- rison, and Stradiotto 2007; Huber and Powell 1994). Additionally, polarization may have a strong negative eﬀect on economic performance and growth (Frye 2002) and increase the risk of social tension and violent conﬂict within and between nation states (Esteban and Schneider 2008). Among several alternative theories proposed, one can attribute po- larization to a wide range of forces spanning from informational or media-related factors
+(e.g., DellaVigna and Kaplan 2007; Grosser and Palfrey 2013) to candidates’ diﬀering policy preferences (e.g., Calvert 1985; Roemer 1994).
+In this paper, we focus on one institutional and one structural determinant of polar- ization and ask the following questions: How does the electoral rule disproportionality determine the polarization of a party-system when parties are mainly, but not necessarily purely, policy motivated?1 How does the nature of political competition and the number of competing parties aﬀect polarization? Finally, does empirical evidence support the predictions of the theory?
+In light of contradicting empirical results regarding the eﬀect of the electoral rule disproportionality on platform polarization (e.g., Andrews and Money 2009; Budge and
+McDonald 2006; Calvo and Hellwig 2011; Curini and Hino 2012; Dalton 2008; Dow 2011,
+2001; Ezrow 2008), the development of robust theoretical predictions becomes extremely relevant. In the ﬁrst part of this paper, we do precisely this: We incorporate the electoral rule disproportionality in a Downsian setup and develop two distinct theoretical predic- tions. We show the existence of a unique equilibrium in which the degree of platform polarization is a) decreasing in the level of electoral rule disproportionality, independently of how polarization is measured, and b) increasing in the number of competing parties
+1In the main text, we present our results considering only policy-motivated parties.
+In the online appendix, we show that our results are robust to partially oﬃce-motivated parties.
+3
+ when polarization is measured by the distance between the two most distant platforms
+(MDP). If, instead, polarization is measured by the extensively used Dalton index (DI), we argue that the eﬀect of the number of competing parties on platform polarization is nontrivial. In the second part of the paper, we provide empirical evidence in support of these theoretical ﬁndings.
+The relationship between electoral rules and platform polarization has previously been explored. In his seminal work Cox (1990) analyzed a model with purely oﬃce-motivated parties and argued in favor of a negative link between the disproportionality of the elec- toral rule and platform polarization. More recently, Calvo and Hellwig (2011) applied an alternative approach based on a probabilistic voting model (a l`a Adams, Merrill, and
+Grofman 2005), which also led to formal arguments in favor of the negative relation- ship between the electoral rule disproportionality and platform polarization. Using a citizen-candidate model, Iaryczower and Mattozzi (2013) show that certain equilibria of a proportional system lead to larger polarization than certain equilibria of plurality rule elections.
+We believe that the features of an equilibrium of a formal model can better support an empirically testable hypothesis if this equilibrium meets three criteria: a) the equilibrium is proven to exist, b) it is essentially unique, and c) it relies on standard assum

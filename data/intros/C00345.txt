@@ -1,0 +1,35 @@
+194
+American Economic Review: Papers & Proceedings 2008, 98:2, 194–200 http://www.aeaweb.org/articles.php?doi=10.1257/aer.98.2.194
+Recent advances in voting theory have shed  light on the influence of pivotality on voter  choices when voters have asymmetric private  information, and the implications of this for  information aggregation in committees and  elections. Of particular interest is the result  that voters may optimally choose to vote con- trary to their own private information, even in  committees or elections where all voters share  the same preferences (David Austen-Smith and 
+Jeffrey Banks 1996). A related insight is that  abstention can occur even when voting is cost- less, as in the so-called “Swing Voter’s Curse”  literature (Timothy Feddersen and Wolfgang 
+Pesendorfer 1996). The reason is that private  signals give voters information about the mar- ginal distribution of states (given by voter sig- nals), but what matters for an optimal decision  is the distribution of states conditional on a piv- otal event. For example, the pivotal event under  majority rule arises when the aggregate votes of  the other voters is either a tie or one vote away  from a tie. These conditional distributions can  be much different from the unconditional dis- tribution of states. Because of these differences,  some results are quite unintuitive and seem  behaviorally implausible at first blush. Because  these results have important implications about  information aggregation and the efficiency of 
+Information Aggregation and Strategic Abstention  in Large Laboratory Elections
+By Marco Battaglini, Rebecca B. Morton, and Thomas R. Palfrey* election outcomes and committee decisions 
+(Feddersen and Pesendorfer 1997, 1999), there  is a need to test these theories, especially with  respect to environments where the predictions  seem implausible.
+More generally, the view that voters condi- tion their choices on pivotality remains contro- versial, especially among political scientists. 
+Due to many confounding factors, attempts to  test these theories by empirical study of voter  behavior have been quite limited. For example,  a number of researchers have used historical and  survey data to establish a correlation between  information and turnout (Palfrey and Keith 
+Poole 1987; Thomas Coupe and Abdul Noury 
+2004; Matthew Gentzkow 2005, and others), but  establishing a causal link has been more difficult 
+(David Lassen 2005). Moreover, such a relation- ship might also be consistent with a simpler deci- sion-theoretic model (John Matsusaka 1995). As 
+Lassen specifically points out (p. 116), observa- tional data are not rich enough in variation, nor  do they provide researchers with enough con- trols to evaluate empirically the nuances of the  pivotal voter approach. The laboratory may be  the only place where such a study is possible.
+This difficulty suggests a valuable role for lab- oratory experiments, where confounding factors  can be eliminated and the environment can be  controlled in order to obtain separation between  the predictions of equilibrium theories based on  game theory and pivotality versus nonequilib- rium theories based on traditional decision the- ory. A few experimental papers have appeared  in the literature in the last decade, testing pivotal  voter models, but many open questions remain, 
+ See Donald Green and Ian Shapiro’s (1996) critical  point of view. Jeffrey Friedman (1996) contains a collec- tion of articles addressing this controversy, and Feddersen 
+(2004) reviews related literature pertaining specifically to  abstention.
+ See, for example, Serena Guarnaschelli, Richard 
+McKelvey, and Palfrey (2000), Battaglini, Morton, and 
+* Battaglini: Department of Economics, Princeton Uni- versity, Princeton, NJ 08544 (e-mail: mbattagl@princeton. edu); Morton: Department of Politics, NYU, New York, 
+NY 10012 (e-mail: rebecca.morton@nyu.edu); Palfrey: 
+Division of the Humanities and Social Sciences, Califor- nia Institute of Technology, Mail Code 228-77, Pasadena, 
+CA 91125 (e-mail: trp@hss.caltech.edu). We acknowl- edge financial support from the National Science Founda- tion (SES-0418150, SES-0617820, and SES-0450712), the 
+Gordon and Betty Moore Foundation, PLESS at Princeton, 
+CESS at NYU, and SSEL at Caltech. We also thank Stephen 
+Coate, participants at the 2006 Wallis Political Economy 
+Conference, the 2007 meetings of the Public Choice Soci- ety, David Austen-Smith and Massimo Morelli for com- ments. Rajeev Advani, Anna Bassi, Karen Kaiser, Kristin 
+Michelitch, Uliana Popova, Anwar Ruff, and Stephanie 
+Wang provided valuable research assistance.
+
+VOL. 98 NO. 2
+195
+Information Aggregation and Abstention including questions about the generalizability of  these findings to large elections.
+This paper focuses squarely on the question of  how these findings may change when the num- ber of voters is scaled up. Because these models  are intended to apply to both relatively small  committees and mass elections (and everything  in between), answering the scaling-up question  is essential to understanding the general appli- cability of the theory.
+We explore the scaling-up question with  respect to one specific application of the theory,  the Swing Voter’s Curse (SVC). The SVC refers  to a situation in which a voter, conditioning on  being pivotal, may rationally choose to vote  against his prior, or may abstain even if his prior  clearly favors a given alternative. To see why  this may happen, imagine a situation in which  alternative a is superior to alternative b, given  prior information. Assume that most voters  vote without observing which alternative is ex  post superior (uninformed voters); some voters,  however, have access to a private signal which  reveals the true state (informed voters). In this  case, it is not possible that the uninformed vot- ers, following their prior, vote for a. If this were  the case, an uninformed voter would indeed  realize that, conditional on

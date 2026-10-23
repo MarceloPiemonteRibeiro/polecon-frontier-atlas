@@ -1,0 +1,41 @@
+# round 3, batch_001
+W2892139511|Cross-country|Panel|Democracy is robustly associated with higher manufacturing wages, driven by political competition and participation.|M_median+|
+W2129260435|Cross-country|Desc|A dichotomous democracy dataset for 1800–2007 shows modernization variables' correlation with democracy declining over time.||
+W2781833702|Cross-country|Review|Statistical studies cannot say whether democracy fosters growth; institutions matter but regime type is too coarse.|M_median~|
+W3124257343|Cross-country|Review|Within-country evidence says democracy promotes development, depending on reform sequencing, form of government and expectations.|M_commit+|
+W2127409878|Cross-country|Panel|Democracies earn fewer monopoly rents and provide more health and education services than autocracies.|M_median+|
+W1535803599|Theory|Book|Development is the expansion of freedoms; markets, parties, legislatures and media advance it and are sustained by values.||
+W2016319068|Cross-country|Panel|Democracy is associated with better health outcomes (lower infant mortality), especially in poorer countries.|M_median+,M_selection+|
+W2128748095|Cross-country|Panel|Democracy has no direct effect on growth but an indirect one through life expectancy in poor countries and secondary schooling in richer ones.|M_median+|
+00919|Theory|Theory|Courts that care about government's ability to meet crises keep affirming executive authority claims, so executive power accumulates.|M_commit+|
+W1535643370|Cross-country|Book|Leaders with small winning coalitions survive by providing private goods; large coalitions require public goods (selectorate theory).|M_commit+,M_probvote+|
+W4241481346|Mexico|Book|The PRI survived through elections that tied voters' interests to the regime and confronted them with strategic dilemmas.|M_clientelism+,M_coord+|
+W296931085|Cross-country|Book|Dictators face the problems of controlling the masses and sharing power with elites; institutions solve commitment and monitoring problems.|M_commit+,M_fear+|
+W4300022765|Cross-country|Book|Competitive authoritarian regimes democratized when Western linkage was strong; otherwise survival depended on cohesive coercive party organizations.|M_commit+,M_statecap+|
+W3122016866|Cross-country|Panel|Parties, legislatures and councils help dictators share power credibly, but only when allies can credibly threaten rebellion.|M_commit+,M_collective+|
+W2086651280|Cross-country|Panel|Dictators needing cooperation make policy concessions through legislatures and parties; facing rebellion threats they also share more rents.|M_commit+|
+W1531969211|Egypt|Book|Competitive elections in Mubarak's Egypt eased distributional conflict over spoils among regime elites.|M_clientelism+|
+W2127408858|Theory|Book|A rational-choice model of dictators' choices between repression and loyalty, with applications from Rome to Pinochet.|M_fear+|
+W2156625419|Cross-country|Panel|Oil and mineral exports are associated with authoritarian rule, through rentier, repression and stalled-modernization effects.|M_statecap+,M_fear+|
+W381582087|Cross-country|Theory|Defines competitive authoritarianism, the post-Cold War hybrid regime with meaningful but unfair elections.|M_commit~|
+W1484634968|Cross-country|Panel|Legislatures and parties help dictators co-opt opposition and affect policy and survival.|M_commit+|
+W2138772657|Cross-country|Review|Elections under authoritarianism serve purposes beyond democratization; calls for studying their variation.|M_coord~|
+02103|Cross-country|Book|Economic grievance has repeatedly fuelled populist reaction in modern history.||
+02715|France|IV|Disclosure of municipalities' toxic loans raised populist candidacies and votes and punished incumbents.|M_moralhazard+|
+W4213331037|Europe; Latin America|Book|Democracy is institutionalized uncertainty; simultaneous transitions to democracy and markets face trade-offs that may derail both.|M_commit+|
+W2147703902|Europe|Panel|Populist far-right parties gain with immigration and permissive electoral systems; unemployment matters only when immigration is high.|M_diversity+|
+W1995964689|Cross-country|Desc|The Archigos dataset codes leaders' entry, exit and fate for 188 countries since 1875.||
+02266|Kenya|RCT|SMS reminders from the electoral commission raised turnout but lowered trust in the electoral system when administration faltered.||
+01778|Theory|Theory|In list PR, voters' expectations about the outcome determine which candidates on a party list are salient to them.||
+01760|Theory|Theory|Intermediation by strategic candidates can make information aggregation in elections impossible, encouraging conformism.|M_median~,M_cheaptalk~|
+W1504854090|Cross-country|Review|Low and unequal turnout biases influence against the less well-off; compulsory voting is the best remedy.|M_median~|
+W2035534527|United States|Book|Political participation in the US depends heavily on mobilization by parties, campaigns and groups.|M_collective+|
+W2037668165|Theory|Review|Turnout is a low-cost, low-benefit decision, so rational-choice accounts work once strategic politicians and mobilization are included.||
+W2239471341|United States|Struct|Turnout rises with predicted closeness because leaders spend more effort when likely to be pivotal.|M_collective+|
+W2332251037|United States|Survey|Better-informed voters are more ideologically extreme and much more likely to vote.||
+W1971398141|Denmark|NatExp|Voters in districts that piloted decentralization were better informed and more likely to vote in Copenhagen's referendum.|M_media+|
+W2008477779|Theory|Review|Duverger's law has been reformulated and tested over time, showing political science accumulates knowledge.||
+W2117318745|United States|Survey|Low US turnout stems from the party system and registration laws, not citizen attitudes.||
+W2140897975|Theory|Theory|Condorcet's majority criterion is not always statistically best, but his maximum-likelihood ranking (Kemeny's rule) is.||
+W2151544484|United States|Survey|Time, money and civic skills explain political participation and why socioeconomic status predicts it.||
+W1690251713|United States|DiD|Poll taxes and literacy tests cut turnout, Black school resources and Black labour income, while raising land values.|M_median+,M_commit+|F3

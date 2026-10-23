@@ -1,0 +1,39 @@
+This article addresses what is arguably one of the most basic economic questions: how do wealth-income and capital-output ratios evolve in the long run and why?
+Until recently it was difﬁcult to properly address this ques- tion, because national accounts were mostly about ﬂows, not stocks. Economists had at their disposal a large body of historical series on ﬂows of output, income, and consumption—but limited data on stocks of assets and liabilities. When needed, for example, for growth accounting exercises, estimates of capital stocks were typically obtained by cumulating past ﬂows of saving and invest- ment. Although suitable for some purposes, this procedure se- verely limits the set of questions one can ask.
+In recent years, the statistical institutes of nearly all de- veloped countries have started publishing retrospective national stock accounts, including annual and consistent balance sheets.
+Following new international guidelines, the balance sheets report
+*We are grateful to numerous seminar participants for their reactions. This revised and shortened version also beneﬁted from the comments of the editor and three anonymous referees.
+! The Author(s) 2014. Published by Oxford University Press, on behalf of President and Fellows of Harvard College. All rights reserved. For Permissions, please email: journals.permissions@oup.com
+The Quarterly Journal of Economics (2014), 1255–1310. doi:10.1093/qje/qju018.
+Advance Access publication on May 21, 2014.
+1255
+ at London School of economics on September 15, 2014 http://qje.oxfordjournals.org/
+Downloaded from 
+ on the market value of all the nonﬁnancial and ﬁnancial assets and liabilities held by each sector of the economy (households, government, and corporations) and by the rest of the world.
+They can be used to measure the stocks of private and national wealth at current market value.
+This article makes use of these new balance sheets to estab- lish a number of facts and analyze whether standard capital accu- mulation models can account for these facts. We stress at the outset that we are well aware of the deﬁciencies of existing balance sheets. In many ways these series are still in their infancy. But they are the best data we have to study wealth accumulation—a question so important that we cannot wait for perfect data before we start addressing it, and which has indeed been addressed in the past by many authors using far less data than we presently have.
+In addition, we feel that the best way for scholars to contribute to future data improvement is to use existing balance sheets in a conceptually coherent manner, so as to better identify their limi- tations. Our article, therefore, can also be viewed as an attempt to assess the internal consistency of the ﬂow and stock sides of exist- ing national accounts and to pinpoint the areas in which progress needs to be made.
+Our contribution is twofold. First, we put together a new macro-historical data set on wealth and income, whose main characteristics are summarized in Table I. To our knowledge, it is the ﬁrst international database to include long-run, homoge- neous information on national wealth. The database is available online, along with a comprehensive Data Appendix that precisely documents the data construction process. For the eight largest developed economies in the world—the United States, Japan,
+Germany, France, the United Kingdom, Italy, Canada, and
+Australia—we have ofﬁcial annual series covering the 1970–
+2010 period. Through to the world wars, there was a lively trad- ition of national wealth accounting in many countries. By com- bining numerous historical estimates in a systematic and consistent manner, we are able to extend our series as far back as 1870 (Germany), 1770 (United States), and 1700 (United
+Kingdom and France). The resulting database provides extensive information on the structure of wealth, saving, and investment. It can be used to study core macroeconomic questions—such as pri- vate capital accumulation, the dynamics of the public debt, and patterns in net foreign asset positions—altogether and over un- usually long periods of time.
+QUARTERLY JOURNAL OF ECONOMICS
+1256
+ at London School of economics on September 15, 2014 http://qje.oxfordjournals.org/
+Downloaded from 
+
+Our second contribution is to exploit the database to estab- lish a number of new results. We ﬁrst document that wealth- income ratios have been gradually rising in each of the top eight developed countries over the past four decades, from about 200–300% in 1970 to 400–600% in 2010 (Figure I).
+Taking a long-run perspective, today’s ratios appear to be return- ing to the high values observed in Europe in the eighteenth and nineteenth centuries, namely, about 600–700%, despite consider- able changes in the nature of wealth (Figures II and III). In the United States, the wealth-income ratio has also followed a
+U-shaped pattern, but less marked (Figure IV).
+To understand these dynamics, we provide detailed decom- positions of wealth accumulation into volume effects (saving) and relative price effects (real capital gains and losses). The results show that the U-shaped evolution of European wealth-income ratios can be explained by two main factors. The ﬁrst is a long- run swing in relative asset prices, which, we argue, was itself largely driven by changes in capital policies in the course of the twentieth century. Before World War I, capital markets ran un- fettered. A number of anticapital policies were then put into place, which depressed asset prices through to the 1970s. These policies were gradually lifted from the 1980s on, contributing to an asset price recovery.
+The second key explanation for the return of high wealth- income ratios is the slowdown of productivity and population growth. According to the Harrod-Domar-Solow formula, in the
+TABLE I
+A NEW MACRO DATABASE ON INCOME AND WEALTH
+Total period covered in database
+Annual series
+Decennial estimates
+United States
+1770–2010
+1869–2010
+177

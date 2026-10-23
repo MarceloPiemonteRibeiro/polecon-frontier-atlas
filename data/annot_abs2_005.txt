@@ -1,0 +1,41 @@
+# round 2, batch_005 — abstracts
+01783|Romania|DiD|CCTV monitoring with credible punishment cut exam fraud but widened the score gap between poor and non-poor students.|M_corruption+|
+01913|Cross-country|Book|Explains corruption through incentives and norms and why voters often fail to oust corrupt politicians.|M_corruption+|
+01782|United States|DiD|A WIC reform against vendor price discrimination drove vendors out, cutting take-up and raising prices for other shoppers.||
+02742|Cross-country|XC|Procurement practice predicts outcomes but procurement law does not; stricter rules help only where public-sector capacity is low.|M_bureau+,M_statecap+|
+02397|Indonesia|Survey|Mentioning corruption sharply lowers perceived program success, yet people accept $2 of leakage for $1 more aid: the disutility ignores amounts.|M_corruption~|
+02315|Germany|NatExp|Bankers in an elite service club misallocate credit to fellow members, consistent with rent-extracting elite networks.|M_corruption+,M_capture+|
+01784|Cross-country|Review|Income, state capacity and peace cluster through common drivers and mutual complementarities.|M_statecap+|
+02187|Cross-country|DiD|Mass mobilization for war, not suffrage or left government, drove large rises in tax progressivity.|M_statecap+,M_median-|
+00501|China|Panel|Self-reported birth-policy enforcement predicts mayors' promotion but true performance does not: misreporting undermines meritocratic screening.|M_career~,M_bureau+|
+01888|Theory|Theory|Public bureaucracy is efficient for sovereign transactions such as foreign affairs even if inefficient elsewhere.|M_bureau+|
+01890|Cross-country|Review|Public-sector incentives must handle multiple principals, multiple tasks and motivated agents; reviews cases and evidence.|M_bureau+|
+01889|Theory|Theory|Oversight through consumer complaints makes bureaucrats accede to demands, so bureaucracies ignore complaints, over-monitor and delay.|M_bureau+|
+02071|United States|Panel|Elected utility regulators are more pro-consumer than appointed ones, because appointment bundles regulation with more salient issues.|M_visibility+,M_moralhazard+|
+02737|Theory|Theory|Matching mission-motivated agents to principals economizes on incentives but can entrench bureaucratic conservatism.|M_bureau+|
+02453|Theory|Theory|Agencies' capacity investments constrain legislators; targetable capacity in professionalized agencies raises implementation without delegation.|M_bureau+|
+01938|United States|Struct|Appointed judges achieve congruence through selection, elected judges through reelection incentives, which may deter skilled candidates.|M_selection+,M_moralhazard+|
+01785|United States|DiD|After civil-service reforms, state politicians shifted spending from reformed bureaucracies to local governments, cutting long-term investment.|M_bureau+,M_clientelism+|
+01787|Ghana|Hist|High-performing "interstitial" niches inside weak states pool scarce bureaucratic resources and invert some Weberian features.|M_bureau+|
+02738|India|Panel|Elite officers who cannot reach top posts before retirement perform worse and are suspended more; raising the retirement age weakens this.|M_career+,M_bureau+|F6
+02744|India|NatExp|Affirmative-action recruits to the Indian Administrative Service implement MGNREGA no worse than others.|M_bureau~,M_citizencand~|
+01786|India|Survey|Under-resourced local development officials implement worse, and resources are scarcer where political responsibility is less clear.|M_bureau+,M_visibility+|F6
+01788|Theory|Review|"Capacity" abstracts from the information and incentive problems inside bureaucracies; research should study actual performance.|M_bureau+|
+02394|Zambia|RCT|Advertising career benefits attracted more talented, equally prosocial health workers who delivered better health outcomes.|M_bureau+|F6
+02739|India|RCT|A best-practice school-management program scaled to 600,000 schools without changing accountability had no effect on learning, only more paperwork.|M_bureau+|F6
+02395|Rwanda|RCT|Pay-for-percentile contracts raised learning 0.16 SD through effort and 0.20 SD including selection.|M_bureau+|
+02396|Pakistan|RCT|Performance pay attracted higher-ability, more responsive teachers; including sorting, the test-score effect doubles.|M_bureau+|
+02743|United States|DiD|Wilson's segregation of the civil service widened the Black–white earnings gap and harmed Black civil servants' descendants.|M_diversity+|
+02747|United States|DiD|The Pendleton Act's exams raised educated outsiders' share but reduced lower-SES federal employees.|M_bureau~|
+02392|Sierra Leone|RCT|Meritocratic promotion raised health workers' productivity 22%; pay progression helps under meritocracy and hurts morale otherwise.|M_bureau+|
+02393|Sierra Leone|RCT|Sharing incentives equally between frontline health workers and supervisors raised visits 61% and improved health.|M_bureau+|
+02745|United States|RCT|Public housing officials respond equally to Black and white requests but less warmly to Hispanic applicants.|M_diversity~|
+02748|United States|RCT|School principals respond less to Muslim and atheist families, more so when beliefs are signalled as intense.|M_diversity+|
+02746|United States|Desc|Burglary investigation thoroughness depends on forced entry, not victim race, but forced entry differs across neighbourhoods.||
+02369|Kenya|RCT|Outside funding to women's groups did not strengthen them but shifted membership and leadership to better-off women, pushing out the marginalized.|M_capture+|
+02268|Indonesia|RCT|Plebiscites raised satisfaction and legitimacy relative to meetings but barely changed which projects were chosen.|M_capture~|
+01941|Japan|Struct|Japan's merger incentives were weak relative to the optimum, leaving too many municipalities after the Heisei amalgamations.||
+01972|Theory|Theory|Decentralized districts diverge to deter free-riding on their experiments; progressive centralization creates a policy tournament.||
+02350|Brazil|NatExp|River pollution rises toward downstream county borders and with more jurisdictions: decentralization creates spillovers.|M_collective+|
+01789|Sierra Leone|RCT|Nudging chiefs to delegate to skilled community members improved infrastructure outcomes; boosting participation did not.|M_capture+|
+02349|Brazil|RD|Deforestation jumps at Brazil's Amazon border under pro-exploitation policy, vanishes under enforcement and returns with deregulation.|M_statecap+|

@@ -1,0 +1,47 @@
+NBER WORKING PAPER SERIES
+RANDOMIZATION FOR CAUSALITY, ETHNOGRAPHY FOR MECHANISMS: ILLIQUID 
+SAVINGS FOR LIQUOR IN AN AUTARKIC SOCIETY
+Ricardo Godoy
+Dean Karlan
+Jonathan Zinman
+Working Paper 29566 http://www.nber.org/papers/w29566
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+December 2021, Revised Decembet 2021
+Research was funded by a grant from the World Bank Research Committee (RF-P12503-RESE-
+BBRSB) and the Bill and Melinda Gates Foundation. We thank Harry Patrinos (World Bank) for  his support and patience, Dylan Ramshaw and Innovations for Poverty Action for managing  fieldwork, Tomás Huanca and Esther Conde of CBIDSI and CBIDSI surveyors and translators  for exceptional fieldwork, and Mike Feng, Zachary Groff, Michael Ioannou, Javier Madrazo, 
+Diego Santa Maria, Glynis Startz, and Jonathan Hy Vayness for excellent research assistance. 
+Institutional Review Board approval from Yale University (0805003895), Northwestern 
+University (STU00208598) and Innovations for Poverty Action (SP201.2010.01.01). This trial is  registered in the American Economic Association’s registry for randomized controlled trials (ID 
+AEARCTR-0008670). The views expressed herein are those of the authors and do not necessarily  reflect the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been  peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies  official NBER publications.
+© 2021 by Ricardo Godoy, Dean Karlan, and Jonathan Zinman. All rights reserved. Short  sections of text, not to exceed two paragraphs, may be quoted without explicit permission  provided that full credit, including © notice, is given to the source.
+
+Randomization for Causality, Ethnography for Mechanisms: Illiquid Savings for Liquor in  an Autarkic Society
+Ricardo Godoy, Dean Karlan, and Jonathan Zinman
+NBER Working Paper No. 29566
+December 2021, Revised Decembet 2021
+JEL No. D12,I12,O15
+ABSTRACT
+What should researchers do when confronted with surprising results? Financial access  innovations usually leave “temptation” spending unaffected or reduced. However, we found that  promotion of savings lockboxes in a largely autarkic society increased alcohol consumption and  blood pressure, despite no one reporting intentions to save for alcohol. To probe mechanisms that  could explain this pattern, we then used ethnographic methods, including direct observations of  drinking (“scans”) and debriefing interviews to discuss the earlier trial results. We learn that  sponsoring drinks confers prestige, but the stigma attached to drinking by outsiders likely  discouraged reporting intentions to save for it.
+Ricardo Godoy
+Heller-Brown Building rgodoy@brandeis.edu
+Dean Karlan
+Kellogg Global Hub
+Northwestern University
+2211 Campus Drive
+Evanston, IL 60208 and CEPR and also NBER dean.karlan@gmail.com
+Jonathan Zinman
+Department of Economics
+Dartmouth College
+314 Rockefeller Hall
+Hanover, NH 03755 and NBER jzinman@dartmouth.edu
+A data appendix is available at http://www.nber.org/data-appendix/w29566
+
+Human behavior is complex and often confounds researchers. What is a researcher to do when  confronted with a surprising result? Economists tend to search for alternative theories and probe  for evidence of faulty data or identification assumptions. Increasingly, we may use Bayesian  estimation and/or attempt to replicate the study. 
+We take a complementary approach of using ethnographic methods to probe mechanisms. Our  ethnography comes after a standard randomized controlled trial (RCT) setup: an intervention  sandwiched between a baseline and an endline survey. Ethnographic and related qualitative  methods are well established in other social sciences, particularly cultural anthropology. Whether  such methods are commonly used in economics as we do here is difficult to quantify, but we can  quantify whether such methods are discussed in publications. They are not, if the universe of 96  articles using RCTs published in the “top five” economics journals from January 2016 through 
+August 2021 is a good indication (Table 1). We do not find any paper taking the approach we do  here, of using qualitative methods to probe mechanisms, with Carneiro et al. (2021) coming closest  in their use of "a parallel stream of qualitative analysis" to corroborate quantitative findings and  develop hypotheses to test in future work (p. 2545).1 
+We started this project focused on identifying whether and how the introduction of a savings  technology would affect economic outcomes and well-being in a relatively autarkic setting. We  find some expected results, namely evidence that financial and physical assets increase. We also  find some unexpected results: temptation spending and particularly hard alcohol consumption  increase. This last result withstands additional statistical scrutiny; most compellingly, we find  biometric evidence that blood pressure increases, and specifically on the sub-group (men) in which  we observe the largest increase in alcohol consumption. The increase in alcohol consumption  pushed against the theory and prior empirical evidence that motivated our initial study design. 
+1 Beyond the 96 papers, the closest economics paper we know of is Bergman et al. (2020), which uses in- depth qualitative interviews to explore mechanisms underlying treatment effects that were not  unexpected. See also Fryer (2011) and Allen et al. (2014) in economics. Even in public health, where  researchers have used qualitative methods extensively to inform survey design, study recruitment, and  outcome measurement, using ethnographic methods to help interpret results, as we do here, is “virtually  unheard of” (Mannell et al. 2021, p. 19). Mannell et al. is an exception: they use debriefing interviews 
+(but not scans) to probe mechanisms following a diabetes intervention in Bangladesh. Davis et al. (2019)  also advoc

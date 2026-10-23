@@ -1,0 +1,56 @@
+NBER WORKING PAPER SERIES
+LOOKING BEYOND THE INCUMBENT:
+THE EFFECTS OF EXPOSING CORRUPTION ON ELECTORAL OUTCOMES
+Alberto Chong
+Ana L. De La O
+Dean Karlan
+Leonard Wantchekon
+Working Paper 17679 http://www.nber.org/papers/w17679
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+December 2011
+We are grateful to Kyla Levin-Russell, Fernando Martel Garcia, Beniamino Savonitto, Alejandro Ortiz,
+Anna York and Douglas Randall for excellent research assistance. We also like to thank Katherine
+Casey, Don Green, Ken Scheve, and Susan Stokes for useful comments, as well as participants of the EGAP-NYU conference, the Political Economy Seminar at the University of Chicago, the CSDS seminar at Columbia University, the experimental lunch seminar at the University of Chicago, the
+UNC-Duke working group on Latin American politics and Redistribution, Public Goods and Political
+Market Failures at Yale. We acknowledge partial funding from the Inter-American Development Bank.
+The views expressed herein are those of the authors and do not necessarily reflect the views of the
+National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peer- reviewed or been subject to the review by the NBER Board of Directors that accompanies official
+NBER publications.
+© 2011 by Alberto Chong, Ana L. De La O, Dean Karlan, and Leonard Wantchekon. All rights reserved.
+Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
+
+Looking Beyond the Incumbent: The Effects of Exposing Corruption on Electoral Outcomes
+Alberto Chong, Ana L. De La O, Dean Karlan, and Leonard Wantchekon
+NBER Working Paper No. 17679
+December 2011
+JEL No. H0
+ABSTRACT
+Does information about rampant political corruption increase electoral participation and the support for challenger parties? Democratic theory assumes that offering more information to voters will enhance electoral accountability. However, if there is consistent evidence suggesting that voters punish corrupt incumbents, it is unclear whether this translates into increased support for challengers and higher political participation. We provide experimental evidence that information about copious corruption not only decreases incumbent support in local elections in Mexico, but also decreases voter turnout, challengers' votes, and erodes voters' identification with the party of the corrupt incumbent. Our results suggest that while flows of information are necessary, they may be insufficient to improve political accountability, since voters may respond to information by withdrawing from the political process. We conclude with a discussion of the institutional contexts that could allow increased access to information to promote government accountability.
+Alberto Chong
+Inter-American Development Bank
+ALBERTOCH@iadb.org
+Ana L. De La O
+Yale University
+177 Prospect Street
+New Haven, CT 06520 ana.delao@yale.edu
+Dean Karlan
+Department of Economics
+Yale University
+P.O. Box 208269
+New Haven, CT 06520-8629 and NBER dean.karlan@yale.edu
+Leonard Wantchekon
+Princeton University lwantche@princeton.edu
+
+Democratic theory assumes that oﬀering more information to voters will enhance their ability to retain in oﬃce incumbents who perform well, and oust from oﬃce incumbents who do not (Manin, Przeworski, and Stokes 1999). However, if there is consistent evidence suggesting that voters punish corrupt incumbents (Peter and
+Welch 1980, Chang and Golden 2004, Ferraz and Finan 2008), it is unclear whether this translates into increased support for challengers and higher political participa- tion.2 In other words, information about corruption may not improve political ac- countability, if voters respond to it by withdrawing from the political process. We therefore need to further investigate the eﬀect of information beyond the political fate of the corrupt incumbents.
+Theoretically, information about corruption could mobilize voters, who would oth- erwise abstain, to vote the corrupt incumbent out of power. Less informed voters may also abstain in order to delegate their vote to more informed voters (Feddersen and
+Pesendorfer 1996). On the other hand, information about corruption can lead to ab- stentions if voters become disenchanted with their government, and with the political system in general.3
+If the exposure of rampant corruption leads voters to believe that voting will not beneﬁt them (either because they lose trust in governments, or in their ability to respond to their constituents’ needs), then they will not bother to vote since the costs of casting a ballot would be bigger than the beneﬁts (Aldrich 1993).
+Abstention can also be appealing to voters who disapprove of corrupt incumbents but would prefer to abstain from voting for a party other than their own for ideolog- ical reasons.4 If exposure to information about corruption inﬂuences voter turnout,
+2Previous work on political corruption has focused mainly on the electoral returns of corrupt incumbents. The empirical record shows that exposure of corruption is associated with incumbent vote loss. However, even when their wrongdoing is exposed and they lose votes, corrupt incumbents often times retain their oﬃce (Peters and Welch 1980, Chang and Golden 2004).
+3A vast literature has documented that perceptions and experiences of corruption undermine voters’ conﬁdence in public institutions (Della Porta 2000, Clausen, Kraaym and Nyiri 2011, Cho and Kirwin 2007 and Bowler and Karp 2004), erode the legitimacy of the political system, reduce trust in politicians and civil servants (Pharr 2000, Anderson and Tverdova 2003, Selignson 2002,
+Morris and Klesner 2010, Eek and Rothstein 2006, Richey 2010), and reduce voter’s conﬁdence in their government’s ability to solve problems (Caillier 2010).
+4Rundquist et al. (1977) argue that corruption charges compete with o

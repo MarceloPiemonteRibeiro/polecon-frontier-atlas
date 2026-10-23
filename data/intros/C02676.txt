@@ -1,0 +1,38 @@
+Does competition increase the amount of information revealed? A long tradition in political and legal thought holds that the answer is yes. This view has motivated protection of freedom of speech and freedom of the press, media ownership regulation, the adversarial judicial system, and many other policies.1
+Economic theory suggests several mechanisms by which competition can increase information revela- tion. Milgrom and Roberts (1986) study veriﬁable message games and point out that if in each state there is a sender who wishes that state to be known, then full revelation is the unique equilibrium. Shin (1998) shows that two adversarial senders who convey veriﬁable messages about their independent signals always gener- ate more information than a single signal directly observed by the receiver. In a cheap talk setting, Battaglini
+(2002) establishes that it is generically possible to construct a full revelation equilibrium when there are two senders and uncertainty is multidimensional.2 These results, however, do not imply that competition must increase information in all settings, as the following example makes clear.
+Example. There are two pharmaceutical companies j = 1,2 each of which produces a drug, and a unit mass of potential consumers indexed by i. For a given consumer i, drug j may have either low or high efﬁcacy, which we represent by ωij ∈{l,h}, with Pr
+
+ωij = h
+
+= 0.2, distributed independently across consumers and drugs. All consumers prefer high efﬁcacy and are otherwise indifferent between the drugs, but they differ in their outside options: half always buy whichever drug has the higher expected efﬁcacy, while the other half buys the better drug only if its Pr
+
+ωij = h
+ is greater than 0.5. The share of these two types is independent of ωij.
+Each ﬁrm j simultaneously chooses one of two disclosure policies: a completely uninformative signal
+(null), or a fully informative one
+ revealj
+ that allows each consumer i to determine ωij for that ﬁrm’s drug. The ﬁrms maximize the share of consumers buying their drug. We can represent this situation as the following normal form game: null reveal2 null
+.25,.25
+.40,.20 reveal1
+.20,.40
+.34,.34
+1See Gentzkow and Shapiro (2008) and references cited therein.
+2This is the case even though the two senders observe the same signal so that in the absence of conﬂict the second sender adds no value to the receiver.
+2
+
+This is a Prisoner’s Dilemma. Revealing information is beneﬁcial for the ﬁrms’ joint proﬁts as it increases expected proﬁts from the consumers who buy only if Pr
+
+ωij = h
+
+> 0.5. (Those consumers never buy unless given information.) But revealing information is unilaterally unattractive since it disadvantages the revealing ﬁrm in the competition for the consumers who always buy. The uninformative signal is thus a dominant strategy and the unique equilibrium yields no information. In contrast, if the ﬁrms were to collude and maximize the sum of their payoffs, they would choose (reveal1,reveal2).
+In this example, competition between the ﬁrms decreases information revelation and lowers consumer welfare. Note that the situation would be very different if ﬁrms could disclose information not only about their own drug, but also about their competitor’s drug—i.e., if each ﬁrm could choose reveal1 and/or reveal2.
+In this case, each ﬁrm would prefer to unilaterally disclose the efﬁcacy of their competitor’s drug, and full revelation would be an equilibrium.
+The main contribution of this paper is to identify a necessary and sufﬁcient condition on the information environment (i.e., the set of signals available to each sender) under which competition cannot decrease information revelation. We consider a setting where senders with a common prior simultaneously conduct costless, publicly observed experiments (“signals”) about an unknown state of the world. The information revealed by these signals can be succinctly summarized by the induced distribution of posterior beliefs
+(Blackwell 1953). We refer to this distribution of beliefs as the outcome of the game. We allow senders to have arbitrary utility functions over outcomes.
+We say that an information environment is Blackwell-connected if for any proﬁle of others’ strategies, each sender has a signal available that allows her to unilaterally deviate to any feasible outcome that is more informative. Note that the environment in the example above is not Blackwell-connected, because starting from (null,null), ﬁrm 1 cannot unilaterally deviate to induce the more informative outcome pro- duced by (null,reveal2). The modiﬁed game where ﬁrms can disclose information about their competitors is Blackwell-connected. More generally, whenever the information environment is Blackwell-connected, any individual sender can generate as much information as all senders can do jointly.
+Our main result shows that every pure-strategy equilibrium outcome is no less informative than the collu- sive outcome (regardless of preferences) if and only if the information environment is Blackwell-connected.
+Moreover, when the environment is Blackwell-connected and all senders have access to the same set of signals, there is a simple way to characterize the set of pure-strategy equilibrium outcomes.
+3
+
+Building on the example above, we might ask more generally whether a joint venture between two pharmaceutical companies that allows them to coordinate decisions about clinical trials would result in con- sumers becoming more or less informed about the quality of the ﬁrms’ drugs. If each ﬁrm can commission a range of clinical trials about the efﬁcacy of both drugs, the environment is Blackwell-connected, and our result implies that the joint venture could only reduce consumers’ information. In contrast, if each ﬁrm can conduct clinical trials only about its own drug, the information environment is not Blackwell-connected, so there are some demand systems for which the joint venture will make consumers more informed. We deve

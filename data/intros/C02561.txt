@@ -1,0 +1,34 @@
+THIS PAPER STUDIES the causes and consequences of internal seasonal migra- tion in northwestern Bangladesh, a region where over 5 million people live below the poverty line, and must cope with a regular pre-harvest seasonal famine. This seasonal famine—known locally as monga—is emblematic of the widespread lean or “hungry” seasons experienced throughout South Asia and Sub-Saharan Africa, in which households are forced into extreme poverty for part of the year.2 The proximate causes of the famine season are easily
+1We are grateful to AusAID, the International Growth Centre and the U.S. Department of
+Labor for ﬁnancial support. We thank the Palli Karma Sahayak Foundation and RDRS for their collaboration in ﬁeldwork and program implementation. We thank, without implicating,
+Tim Besley, Abhijit Banerjee, Judy Chevalier, Esther Duﬂo, Andrew Foster, Ted Miguel, Ro- hini Pande, Ben Polak, Chris Woodruff, John Gibson, Chris Udry, Dean Yang, Michael Clemens,
+Francisco Rodriguez, Chung Wing Tse, Angelino Viceisza, David Atkin, Peter Schott, Jonathan
+Feinstein, Mark Rosenzweig, Andrew Zeitlin, Jean-Marc Robin, four anonymous referees, con- ference participants at the 20th BREAD conference, 2010 ASSA conference, Federal Reserve
+Bank of Atlanta, 2011 NEUDC Conference, 2nd IGC Growth Week 2010, 2013 World Bank
+ABCDE Conference, and seminar participants at Yale University, UC-Berkeley, MIT/Harvard,
+Stanford University, London School of Economics, University of Toulouse, Columbia Univer- sity, Johns Hopkins University, Inter-American Development Bank, UC-Santa Barbara, World
+Bank, U.S. Department of Labor, IFPRI, Sacred Heart University, and Brown University for comments. Julia Brown, Laura Feeney, Alamgir Kabir, Daniel Tello, Talya Wyzanski, Tetyana
+Zelenska provided excellent research assistance.
+2Seasonal poverty has been documented in Ethiopia (Dercon and Krishnan (2000)), where poverty and malnourishment increase 27% during the lean season, Mozambique and Malawi
+© 2014 The Econometric Society
+DOI: 10.3982/ECTA10489
+
+1672
+G. BRYAN, S. CHOWDHURY, AND A. M. MOBARAK understood—work opportunities are scarce between planting and harvest in agrarian areas, and grain prices rise during this period (Khandker and Mah- mud (2012)). Understanding how a famine can occur every year despite the existence of potential mitigation strategies is, however, more challenging. We explore one obvious mitigation option—temporary migration to nearby urban areas that offer better employment opportunities. We randomly assign a cash or credit incentive (of $8.50, which covers the round-trip travel cost) condi- tional on a household member migrating during the 2008 monga season. We document very large economic returns to migration. To explore why people who were induced to migrate by our program were not already migrating de- spite these high returns, we build a model with risk aversion, credit constraints, and savings.
+The random assignment of incentives allows us to generate among the ﬁrst experimental estimates of the effects of migration. Estimating the returns to migration is the subject of a very large literature, but one that has been ham- pered by difﬁcult selection issues (Akee (2010), Grogger and Hanson (2011)).3
+Most closely related to our work are a small number of experimental and quasi- experimental studies of the effects of migration, many of which are cited in
+McKenzie and Yang (2010) and McKenzie (2012). These studies often exploit exogenous variation in immigration policies to study the effects of permanent international migration.4
+Migration induced by our intervention increases food and non-food expen- ditures of migrants’ family members remaining at the origin by 30–35%, and improves their caloric intake by 550–700 calories per person per day. Most strikingly, households in the treatment areas continue to migrate at a higher rate in subsequent seasons, even after the incentive is removed. The migration rate is 10 percentage points higher in treatment areas a year later, and this
+ﬁgure drops only slightly to 8 percentage points 3 years later.
+(Brune, Gine, Goldberg, and Yang (2011)), where people refer to a “hungry season,” Madagas- car, where Dostie, Haggblade, and Randriamamonjy (2002) estimated that 1 million people fall into poverty before the rice harvest, Kenya, where Swift (1989) distinguished between years that people died and years of less severe shortage, Francophone Africa (the soudure phenomenon),
+Indonesia (Basu and Wong (2012)) (‘musim paceklik’ or ‘famine season’ and ‘lapar biasa’ or ‘or- dinary hunger period’), Thailand (Paxson (1993)), India (Chaudhuri and Paxson (2002)), and inland China (Jalan and Ravallion (2001)).
+3Prior attempts used controls for observables (Adams (1998)), selection correction methods
+(Barham and Boucher (1998)), matching (Gibson and McKenzie (2010)), instrumental variables
+(Brown and Leeves (2007), McKenzie and Rapoport (2007), Yang (2008), Macours and Vakis
+(2010)), panel data techniques (Beegle, De Weerdt, and Dercon (2011)), and natural policy ex- periments (Clemens (2010), Gibson, McKenzie, and Stillman (2013)) to estimate the causal im- pact of migration.
+4A related literature studies the effects of exogenous changes in destination conditions on remittances, savings, and welfare at the origin (Martinez and Yang (2005), Aycinena, Martinez, and Yang (2010), Chin, Karkoviata, and Wicox (2010), Ashraf, Aycinena, Martinez, and Yang
+(2014)).
+
+UNDERINVESTMENT IN A PROFITABLE TECHNOLOGY
+1673
+These large effects on migration rates, consumption, and re-migration sug- gest that a policy of encouraging migration may have substantial beneﬁts. How- ever, to understand the settings to which these results might apply, and opti- mal policy responses, it is necessary to confront an important puzzle: why did our subjects not already engage in such highly proﬁtable behavior? An answer to this question would allow a characterization of settings in which encourage- ment to adopt new t

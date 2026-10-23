@@ -1,0 +1,48 @@
+Stephane Wolton 
+Political conflicts, the role of opposition  parties, and the limits on taxation 
+Article (Accepted version) 
+(Refereed) 
+Original citation: 
+Wolton, Stephane (2015) Political conflicts, the role of opposition parties, and the limits on  taxation. Journal of Theoretical Politics, 27 (4). pp. 570-587. ISSN 0951-6298 
+ 
+DOI: 10.1177/095162981455972 
+ 
+© 2014 The Author 
+ 
+This version available at: http://eprints.lse.ac.uk/64475/ 
+ 
+Available in LSE Research Online: November 2015 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+ 
+This document is the author’s final accepted version of the journal article. There may be  differences between this version and the published version. You are advised to consult the  publisher’s version if you wish to cite from it. 
+ 
+ 
+
+Political Conﬂicts, the Role of Opposition Parties, and the
+Limits on Taxation
+Stephane Wolton
+London School of Economics and Political Science
+Abstract
+In democratic systems, the rich have diverse channels through which they can inﬂuence policies. In a model of taxation, I study the capacity of the rich to constrain the ﬁscal choice of a government by starting a costly political conﬂict (for example, a press campaign), which imposes a cost on the government and inﬂuences the fate of the government’s ﬁscal plan.
+I show that the government’s tax proposal depends critically on the marginal disutility of taxation for the rich. This approach provides a new rationale for the empirically documented
+U-shaped relationship between inequality and taxation.
+It also highlights a new role for opposition parties. By agreeing to bear part of the cost of a political conﬂict in exchange for compromise, the opposition makes Pareto-improving arrangements possible.
+Keywords
+Political conﬂict; opposition party; coalition; taxation
+1
+
+In May 1924 in France, a coalition of left-wing parties the Cartel des Gauches won the general election with a promise to tackle a mounting public debt problem through capital taxation. In July
+1926, as demonstrations were staged in front of the French Parliament and monetary panic spread, the Cartel was replaced by a center-right coalition. During the Cartel’s tenure, the rich and the business community strongly opposed any attempt by the government to impose a capital levy.
+This opposition took the form of capital evasion and a massive press campaign against a capital tax, eventually swaying public opinion against the governing coalition.1
+It is well understood that the poor have the capacity to constrain the rich in autocracies (Ace- moglu and Robinson, 2005). In unconsolidated democracies, the rich might exert undue inﬂuence by threatening coups or unrest (Ellman and Wantchekon, 2000; Dal B´o and di Tella, 2003). In consolidated democracies, the rich can use contributions (e.g., Rodriguez, 2004) or independent expenditures (as the Koch brothers’ support for Governor Walker illustrates). As the example of the Cartel illustrates, the rich also have the capacity to constrain the ﬁscal policy of a government opposed to their interests by taking actions that hurt the party or coalition of parties in power.
+In this paper, I study this last channel of inﬂuence in a stylized model of taxation. A government
+(referred to by the pronoun “he” throughout) chooses a tax level under the threat of political conﬂict by the rich who dislike redistribution. A political conﬂict is costly to organize for the rich, and this cost is their private information (for example, it can depend on their ability to coordinate their actions). It has two eﬀects on the government. First, it imposes a direct utility loss (for example, due to the cost of mounting a public relation campaign to defend the government’s plan or the increased risk of losing the next election). Second, with some probability, a political conﬂict forces the government to abandon his ﬁscal project (for example, it might sway public opinion against the government’s tax proposal as in the case of the Cartel des Gauches).
+
+The government chooses his tax rate to equate the marginal gain from a higher tax rate with the marginal cost of increased risk of a political conﬂict. Consequently, a key variable to explain the government’s tax proposal is the marginal disutility of taxation for the rich. When the marginal disutility is low, the government proposes his ideal tax rate; when it is high, the government prefers to maintain the status quo tax rate; in the intermediate range, the government compromises with the rich.
+The introduction of political conﬂict has two important consequences for our understanding of democracy. First, it highlights an understudied role of opposition parties. Like the rich, the opposition (referred to by the pronoun “she” throughout) favors a tax rate lower than the status quo. Like the government, she does not know the cost of a political conﬂict to the rich. The government can form a coalition with the opposition.
+In this case, the opposition bears part of the cost of a political conﬂict in exchange for a more moderate ﬁscal proposal (endogenously determined). The government always chooses to form a coalition with the opposition when the marginal disutility of taxation for the rich is suﬃciently high. The risk of a political conﬂict is high, and a reduction in its cost is advantageous for the government even if it means passing a more moderate proposal.
+I show that the possibility to form a coali

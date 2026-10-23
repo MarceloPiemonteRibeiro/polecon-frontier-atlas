@@ -1,0 +1,51 @@
+Manfred Elfstrom and Sarosh Kuruvilla 
+The changing nature of labor unrest in 
+China 
+Article (Accepted version) 
+(Refereed) 
+Original citation: 
+Elfstrom, Manfred and Kuruvilla, Sarosh (2014) The changing nature of labor unrest in China. 
+Industrial and Labor Relations Review, 67 (2). pp. 453-480. ISSN 0019-7939 
+ 
+DOI: 10.1177/001979391406700207 
+ 
+© 2014 Cornell University 
+ 
+This version available at: http://eprints.lse.ac.uk/65141/ 
+ 
+Available in LSE Research Online: February 2016 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+ 
+This document is the author’s final accepted version of the journal article. There may be  differences between this version and the published version. You are advised to consult the  publisher’s version if you wish to cite from it. 
+ 
+ 
+ 
+
+ILRReview, 67(2), April 2014. © by Cornell University.
+Print 0019- 7939/Online 2162- 271X/00/6702 $05.00
+THE CHANGING NATURE OF LABOR UNREST 
+IN CHINA
+MANFRED ELFSTROM AND SAROSH KURUVILLA*
+A qualitative shift is underway in the nature of labor protest in 
+China. Contrary to prior literature that characterized strikes as  being largely defensive in nature, the authors suggest that since 
+2008, Chinese workers have been striking offensively for more  money, better working conditions, and more respect from employ- ers. They explain these developments using a “political process”  model that suggests economic and political opportunities are send- ing “cognitive cues” to workers that they have increased leverage,  leading them to be more assertive in their demands. Such cues in- clude a growing labor shortage, new labor laws, and new media  openness. Their argument is supported by a unique data set of  strikes that the authors collected, two case studies of strikes in aero- space factories, and interviews with a variety of employment rela- tions stakeholders.
+F ollowing the mishandling of an employee during June 2010, some 1,700  workers at a Honda parts plant in Zhongshan, Guangdong Province,  went on strike, calling for higher wages, better working conditions, and a  more representative union. More recently, in January 2012, more than 2,000  workers at the state- owned Pangang Group Chengdu Steel and Vanadium 
+Company struck, demanding a raise, more stable contracts, and the dis- missal of “lazy, redundant personnel” (managers) (China Labor Watch 2012). 
+The Honda and Pangang cases were different in several aspects: the employ- ees involved were, respectively, migrants from the countryside and local  residents; the factories’ ownership, respectively, was foreign private and  state owned; and their locations, respectively, were the southeastern coast  that has benefited the most from market reforms and the late- developing  interior. Nonetheless, the workers' stances in both cases were surprisingly  similar and epitomize what we argue is an important qualitative shift under- way in Chinese industrial unrest: labor going on the offensive.
+*Manfred Elfstrom is a PhD student in the Department of Government at Cornell University. Sarosh 
+Kuruvilla is a Professor in the ILR School at Cornell University. The authors are grateful for the com- ments they received on previous drafts of this article from Marc Blecher, Sun- wook Chung, Ileen Devault, 
+Eli Friedman, Mary Gallagher, Kun- Chin Lin, Mingwei Liu, Sidney Tarrow, Kan Wang, and others, as well  as three anonymous reviewers. Support from the Mario Einaudi Center for International Studies and the 
+ILR School at Cornell, as well as a Hu Shih Memorial Travel Grant from Cornell’s East Asia Program,  made the research possible. The raw data regarding strikes and transcripts of our interviews are available  from Sarosh Kuruvilla at sck4@cornell.edu.
+ at London School of Economics & Political Sciences on February 3, 2016 ilr.sagepub.com
+Downloaded from 
+
+454
+ILRREVIEW
+Using a “political process” model adapted from McAdam (1999), we sug- gest that structural and political opportunities (changes in the economy,  notably a growing labor shortage, and changes in the country's “political op- portunity structure,” including new labor laws and new government policies  on “mass incidents” and press freedom) have provided workers with cogni- tive cues that they possess increased leverage and space to be more assertive. 
+In the absence of government strike statistics, we utilize a specially con- structed crowd- mapped data set to show that the number of labor “inci- dents” in China is large and increasing, and that the incidents are distributed  across all regions. In addition, we draw on two mini case studies of strikes in  the aerospace industry and 30 interviews with a variety of employment rela- tions stakeholders to suggest that Chinese workers are increasingly using  strikes and protests proactively to demand higher wages, better working  conditions, and increased respect from employers.
+We contribute to existing literature in three ways. First, we introduce a  fresh model for understanding changes in worker demands and actions in 
+China. Second, we provide new data on the number and nature of strikes  related to employment conditions in the country since 2008. Finally, our  finding that workers are striking “offensively” differs sharply from the pre- vailing scholarly depiction of Chinese labor activism as defensive, while of- fering new evidence for the claims of a small but growing number of  researchers who posit that the world’s largest

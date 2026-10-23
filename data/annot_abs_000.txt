@@ -1,0 +1,41 @@
+# batch_000 — read from OpenAlex abstracts. cid|country|design|finding|mechanisms|vox
+00001|Peru|RD|Districts subject to the colonial mining mita have ~25% lower consumption and more child stunting today, via weaker land tenure and fewer public goods (roads, schooling).|M_commit+,M_statecap+|
+00007|Cross-country|IV|Using settler mortality as an instrument, institutions explain large income differences; geography loses significance once institutions are controlled for.|M_commit+|
+00145|Africa|IV|Countries that lost more people to the slave trades are poorer today.|M_culture+|
+00034|Cross-country|XC|Colonies that were rich in 1500 are poor today: Europeans imposed extractive institutions where prosperity was high, an institutional reversal.|M_commit+|
+00023|India|Panel|Districts where the British gave land revenue rights to landlords have lower agricultural investment and less health and education spending after independence.|M_commit+,M_capture+|
+00327|Africa|IV|Individuals from ethnic groups heavily raided in the slave trade trust others less today, mainly through internalized norms.|M_culture+|
+00409|Brazil|Hist|Colonial sugar booms raised land inequality and gold booms worsened governance and justice; colonial episodes predict fewer public goods today.|M_commit+|
+00087|Africa|RD|Pre-colonial ethnic political centralization predicts higher night-light development today, also within adjacent homelands.|M_statecap+|
+00400|Africa|RD|Ethnic groups split by colonial borders suffer more political violence, discrimination and lower welfare.|M_diversity+,M_war+|
+00551|Central Africa|Hist|Exposure to coercive colonial medical campaigns lowers vaccination and trust in medicine today, and World Bank health projects do worse there.|M_culture+|
+00942|Americas|Hist|Factor endowments shaped inequality and institutions across New World colonies with lasting effects on development.|M_commit+|
+00465|Africa|RD|Within partitioned ethnic groups, national institutions do not explain regional development; pre-colonial ethnic institutions do.|M_statecap~|
+00436|United States|IV|Native American reservations that forced separate bands into shared governance are ~30% poorer today, via weaker local governance.|M_diversity+,M_statecap+|
+01554|Americas|Book|Essays on the Atlantic plantation complex and its global impact.||
+01421|Cross-country|XC|Re-examining settler mortality data shows the AJR first stage is fragile once data problems are corrected.|M_commit~|
+01558|United States|Review|Reconsiders evidence on American enslavement and Black economic history, calling for broader evidentiary bases.||
+01656|United States|DiD|The near-extinction of the bison caused a persistent reversal of fortunes for bison-reliant Native nations, sustained by credit constraints.||
+00969|Theory|Theory|With external economies, history or expectations can select among multiple equilibria depending on adjustment costs.|M_coord+|
+00083|Cross-country|XC|Common-law countries protect investors more strongly than French civil-law countries; weak protection goes with concentrated ownership.|M_commit~|
+00545|Indonesia|Book|Balinese water-temple networks coordinate irrigation; ritual is part of the organization of production.|M_culture+|
+00794|Cross-country|XC|Rugged terrain lowers income generally but raised it in Africa by protecting against slave raids.||
+00123|United Kingdom|Panel|Criminal enforcement of labour contracts in industrial Britain responded to demand shocks; abolition raised wages where prosecutions had been common.|M_commit+|
+01018|Germany|DiD|New medieval universities that trained jurists raised market foundation nearby, via legal and administrative institutions.|M_statecap+|
+00802|Africa|XC|Tsetse-suitable areas developed fewer animals, ploughs and centralized polities; the fly's effect on development runs through pre-colonial centralization.|M_statecap+|
+01019|France|Hist|Upper-tail knowledge (Encyclopédie subscriptions), not average literacy, predicts city growth during French industrialization.||
+00131|Theory|Theory|Increasing returns let small historical events lock in inferior technologies.|M_coord+|
+00133|Cross-country|Book|Skill-formation institutions originated in nineteenth-century settlements among employers, artisans and unions and evolve incrementally.|M_commit+|
+01461|Cross-country|Review|Reviews the long-run effects of the Columbian Exchange of crops, diseases and knowledge.||
+00613|Russia|Hist|Cities and regions hit hardest by the Holocaust grew less and have worse economic and political outcomes, through changed social structure.||
+00992|Cross-country|XC|A tradition of village democracy predicts national democracy, pro-democracy attitudes and better institutions today.|M_culture+|
+00619|Africa|XC|Pre-colonial conflict predicts post-colonial conflict, lower trust and stronger ethnic identity.|M_culture+,M_war+|
+00405|Iraq|NatExp|River shifts that required public canals led to state formation and tribute in ancient Mesopotamia, supporting a cooperative theory of government.|M_statecap+|
+00316|Italy|Hist|Trade wealth first pushed Venice toward executive constraints, then a merchant elite closed parliament and monopolized trade, raising inequality.|M_commit+|
+00410|Vietnam|RD|Areas under the historical centralized Dai Viet state are richer today because the strong state crowded in village collective action.|M_statecap+,M_culture+|
+00085|Theory|Book|War making and state making work like organized protection rackets that built European states.|M_statecap+|
+00949|United Kingdom; France|Hist|Multiple veto points improve credibility of sovereign debt only under particular partisan coalitions and delegation.|M_commit~|
+00271|Europe|Hist|Autonomous merchant-run cities grew faster initially but later stagnated; their institutions made them obsolete.|M_commit~|
+00943|Europe|Review|Representative assemblies and consent arose in medieval Europe because fragmented, weak polities kept assemblies cheap and rulers dependent.|M_statecap+|
+00803|Cross-country|Hist|Hierarchy and states arose with appropriable cereal grains rather than with higher land productivity.|M_statecap+|
+01671|Indonesia|Desc|Describes Indonesia's New Order indoctrination courses in the Pancasila state ideology.||

@@ -1,0 +1,41 @@
+# batch_018 — abstracts
+01737|United States|RD|Democratic and Republican sheriffs comply with federal immigration detention requests at nearly the same rate; candidate selection narrows partisan gaps.|M_citizencand-|
+00831|Cross-country|Survey|Left voting moved from low- to high-educated voters while high-income voters stayed right: a "Brahmin left versus merchant right" cleavage on a sociocultural axis.|M_culture+|
+00830|Cross-country|Desc|Affective polarization rose most in the US over four decades and fell in six of twelve OECD countries.|M_media~|
+01734|United States|RD|Electing a Democratic mayor raises multifamily housing production, mainly where councils hold less land-use power.|M_citizencand+|
+01733|United States|RD|Mayoral partisanship has no detectable effect on police spending, employment, crime or arrests.|M_citizencand-|
+00234|Theory|Theory|Parliamentary systems give more redistribution to a majority, less public-good underprovision, more waste and larger government than presidential systems.|M_legbargain+,M_moralhazard+|
+00048|Theory|Review|Reviews Persson and Tabellini and the limits of cross-country strategies for estimating constitutional effects.||
+00109|Cross-country|XC|Presidential regimes have smaller governments; proportional elections bring larger, less targeted spending and deficits; ballot structure affects corruption.|M_probvote+,M_moralhazard+|
+00932|Theory|Theory|Democratic markets work as well as economic markets; principal–agent and information problems in elections are exaggerated.|M_median+,M_moralhazard-|
+00784|Theory|Theory|Regions secede when income distributions differ and unification gains are small; factor mobility removes secession incentives.|M_median+|
+00294|Cross-country|Review|Electoral rules and forms of government shape accountability, rents, corruption, representativeness and fiscal policy.|M_moralhazard+,M_probvote+|
+00478|Theory|Theory|Incentivizing self-interested politicians creates tax-like production distortions that vanish only if politicians are as patient as citizens.|M_moralhazard+|
+01053|Theory|Book|Transaction-cost politics: opportunism and asymmetric information explain seemingly inefficient policy institutions such as US fiscal rules and GATT.|M_commit+|
+00120|Theory|Theory|Only self-stable constitutions survive; using the same rule for amendments and ordinary business is often unstable.|M_commit+|
+00782|Cross-country|Panel|Majoritarian elections cut spending by reducing party fragmentation and coalition government in up to 50 parliamentary democracies.|M_legbargain+|
+00119|Theory|Theory|An arrangement is stable when the alternatives powerful groups prefer are themselves unstable; efficiency-enhancing changes are resisted for the further changes they bring.|M_commit+|
+00594|Cross-country|Panel|After financial crises voters become more extreme and coalitions weaker, lowering the odds of reform when it is most valuable.|M_legbargain~|
+00352|Theory|Theory|Parties with different inflation–unemployment goals generate a rational partisan cycle; reputation or common rules can dampen it.|M_citizencand+,M_commit+|
+00970|Cross-country|XC|Fully centralized or fully decentralized wage bargaining yields better employment than intermediate centralization.|M_collective+|
+01052|Cross-country|Book|Political business cycles reflect partisan rather than opportunistic manipulation and are similar across two-party democracies.|M_citizencand+|
+01628|United States|Text|Contagious optimistic or pessimistic narratives drive firm expansion and explain a fifth to a third of recent recessions' output losses.||
+01629|United States|Survey|Household narratives about inflation are coarse, supply-focused and politically charged, and shape expectations and how news is interpreted.||
+00592|Cross-country|Panel|Democratization in developing countries in 1970–99 is associated with trade liberalization.|M_median+|
+00295|Cross-country|NatExp|Stock prices of exposed multinationals jumped on top-secret US coup authorizations, more than on the coups themselves.|M_lobby+|
+00552|South Korea|DiD|Korea's 1973–79 heavy and chemical industry drive durably expanded targeted industries and their downstream users.|M_statecap+|
+00958|Cross-country|Hist|Direct colonial control accompanied easily seized primary-sector investments; manufacturing investment needed less control.|M_commit+|
+00961|Cross-country|Panel|Bond markets constrain developed democracies only on inflation and deficits, leaving autonomy over spending composition.||
+00945|United States|Panel|Class coalitions dominate trade votes when inter-industry factor mobility is high and industry coalitions when it is low.|M_lobby+|
+00950|United States|Panel|Members with more high-skilled constituents and more bank contributions backed IMF rescues.|M_lobby+,M_median+|
+00946|Cross-country|Struct|Estimated welfare weights in trade policy show governments differ in welfare-mindedness with institutions and politics.|M_lobby+|
+00960|Cross-country|Panel|Heterogeneous G5 preferences shape IMF loan size and conditionality and sometimes give staff agency slack.|M_bureau+|
+00601|Cross-country|DiD|After CIA interventions, countries' imports from the US surged, concentrated in goods where the US lacked comparative advantage.|M_lobby+|
+00957|Russia; Azerbaijan|Survey|Supply-chain links protect foreign investors because partner firms defend one another against expropriation.|M_commit+|
+00840|Theory|Theory|Values and technologies co-evolve; politicians who cannot commit across elections can block or slow welfare-improving green transitions.|M_commit+,M_culture+|
+00632|Cross-country|Panel|Economic liberalization diffuses through international competition and learning from sociocultural peers.||
+00485|Cross-country|Panel|Limited democracies are more aggressive than other regimes; pairs of limited democracies are the most dispute-prone.|M_war+|
+01604|Cross-country|Desc|Climate-mitigation inventions concentrate in Japan, Germany and the US; environmental policy accelerated innovation after 1990.||
+01045|Theory|Theory|Incumbents negotiate weak, overambitious treaties relying on technology rather than sanctions, to differentiate themselves from challengers.|M_commit+,M_probvote~|
+01565|Costa Rica|Panel|Fair Trade certification raised mill prices and farm-owner income when the price floor binds, but not unskilled workers' income.||
+01566|Costa Rica|DiD|Responsible-sourcing rollouts cut sales and low-wage employment at suppliers; most low-wage workers lose in general equilibrium.||

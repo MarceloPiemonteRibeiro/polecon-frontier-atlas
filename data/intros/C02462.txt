@@ -1,0 +1,36 @@
+A controversy about the future of U.S. economic growth was ignited by my paper  released in late summer 2012.1 The debate began with my prediction that over some indefinite  period of time into the future, perhaps 25 to 40 years, the growth of real per-capita disposable  income of the bottom 99 percent of the U.S. income distribution would average 0.2 percent per  year, compared to 2.0 percent per year in the century before 2007.2 This prediction set off a  firestorm of controversy with commentary, blogs, and op-eds around the world. 
+ 
+ 
+That paper was explicitly about the U.S. and recognized that there is plenty of room for 
+“catch-up growth” in the emerging markets of the world. The growth concept is “potential”  real GDP per capita from 2007, not actual real GDP from 2013. It attributed the slowness of  future growth mainly to such “headwinds” as demography, education, inequality, and  government debt. The subtitle “Faltering Innovation and the Six Headwinds” seemed to place  primary emphasis on a future world with no innovation, and the primary role of the headwinds  in predicting slow future growth escaped notice in the initial round of controversy about  innovation. 
+ 
+ 
+This sequel paper recasts the debate to focus on the headwinds, which are formidable  for the U.S. economy and may be less important in some other nations. In this sequel, there is  no need to forecast that innovation in the future will “falter,” because the slowdown in the rate  of productivity growth over the past 120 years already occurred more than four decades ago. 
+This sequel paper explains why the pace of innovation declined after 1972. The future forecast  assumes that innovations in the next 40 years will be developed at the same pace as the last four  decades, but reasons for skepticism are provided for that prediction.. 
+ 
+ 
+The epochal set of inventions that occurred between 1870 and 1900, with continuing  benefits to 1972, represent the fruits of the “Second Industrial Revolution” (IR #2). The growth  rate of American productivity in the eight decades before 1972 was 2.36 percent per year,  compared to 1.59 percent per year since 1972. That permanent decline of 0.8 percent per year  represents a new way to measure the extent to which the single-dimension digital “Third 
+Industrial Revolution” (IR #3) has fallen short of the multi-dimensional IR #2.3 
+ 
+ 
+This sequel paper compares the actual condition of the current 2013 U.S. economy with  both optimistic and pessimistic future growth paths. By any measure, the U. S. economy  continues to operate below even the most pessimistic projected post-2007 growth path, and we  shall see that real per-capita income (for everyone, not just the bottom 99%) in 2013 was only  one percent higher than six years earlier. 
+1 “Is U. S. Economic Growth Over? Faltering Innovation and the Six Headwinds” (Gordon, 2012). 
+2 The 2012 paper, and even more this paper, are careful to distinguish forecast economy-wide productivity growth  of 1.3 percent per year, output per capita for the total population of 0.9 percent per year, income per capita of the  bottom 99% of the income distribution of 0.4% per year, and the disposable income (adjusting for faster tax growth  and slower transfer growth) of 0.2 percent for the bottom 99%. 
+3 Industrial Revolution #1, or IR #1, consisted of the invention of the steam engine, the cotton gin, and modern  manufacturing in cotton mills in the period 1870-1820, culminating in the invention of the railroad and steamship. 
+These IR #1 inventions were gradually eclipsed in most dimensions by IR #2, except for the railroad and steamships. 
+1 
+ 
+ 
+
+ 
+ 
+In addition to providing a new interpretation of the predicted future post-2007 path of  potential real GDP per capita, this sequel paper assesses several different criticisms directed at  the earlier paper. All of these issues involve future innovation, and none of the critics have  denied that the headwinds facing the U.S. economy are formidable. Rather, the headwinds  have largely been ignored by the critics who concur that any skepticism about future innovation  reflects a lack of imagination. 
+ 
+ 
+An initial round of criticism pointed to the impossibility of forecasting future  innovations. This paper counters with five historical examples from 1863, 1875, 1900, 1939, and 
+1949 in which many of the most important innovations of the following 50 to 100 years were  accurately forecast and sketched out in substantial detail. In the same way, every techno- optimist has a list of revolutionary inventions that will occur over the next decade or two,  including medical advances, small robots, big data, driverless cars, and oil-gas fracking. It is  legitimate to compare today’s forecasts of future inventions with those late 19th century  inventions that were accurately forecast in 1863 or 1875. Which are more important? 
+ 
+The set of criticisms based on a faith in the future of technology can be simplified if we  use the term “techno-optimists” to describe those who foresee an acceleration in the pace of  innovation to a rate faster than has occurred in the past 40 years. A recent theme of the  optimists has been that official measures of real GDP understate the consumer surplus provided  by free entertainment and information available on the internet. This paper reminds readers  that real GDP measures have always missed vast amounts of consumer surplus since the dawn  of the first industrial revolution almost three centuries ago, and few examples are more  compelling than the replacement of horses and horse manure in urban streets by the motor  vehicle between 1900 and 1930. 
+ 
+This paper points to a contradiction between the actual macro data on productivity  growth and the techno-optimists’ predictions of accelerating growth. They fail to relate the 
+“exponential growth of Moore’s Law” to the reality that the economy’s productivity  performance for almost 10 years since 2004 shows no evidence of any

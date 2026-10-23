@@ -1,0 +1,45 @@
+Timothy Besley and Torsten Persson 
+Why do developing countries tax so little? 
+Article (Published version) 
+(Refereed) 
+Original citation: 
+Besley, Timothy and Persson, Torsten (2014) Why do developing countries tax so little? Journal  of Economic Perspectives, 28 (4). pp. 99-120. ISSN 0895-3309 
+ 
+DOI: 10.1257/jep.28.4.99 
+ 
+© 2014 American Economic Association 
+ 
+This version available at: http://eprints.lse.ac.uk/66002/ 
+ 
+Available in LSE Research Online: April 2016 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+
+Journal of Economic Perspectives—Volume 28, Number 4—Fall 2014—Pages 99–120
+T he power to tax is taken for granted in a great deal of mainstream public  finance. In considering limits to taxation, traditional research in the field  focuses on limits imposed by incentive constraints, which are tied to asym- metric information or to politics and political institutions. The limits to taxation  are rarely tied to the administrative capacity of the state. But incentive constraints  alone cannot explain the vast differences in the levels of taxation that we see  across the world and across time. Low-income countries typically collect taxes of  between 10 to 20 percent of GDP, while the average for high-income countries is  more like 40 percent.
+In essence, our view on these patterns is similar to that taken by Joseph 
+Schumpeter (1918) almost a century ago, when he noted: “The fiscal history of a  people is above all an essential part of its general history. An enormous influence  on the fate of nations emanates from the economic bleeding which the needs of the  state necessitates, and from the use to which the results are put.” In order to under- stand taxation, economic development, and the relationships between them, we  need to think about the forces that drive the development process. Poor countries 
+Why Do Developing Countries Tax So 
+Little?
+†
+■ Timothy Besley is School Professor of Economics and Political Science, London School of 
+Economics, London, United Kingdom, Torsten Persson is Torsten and Ragnar Söderberg 
+Chair in Economic Sciences, Institute for International Economic Studies, Stockholm 
+University, Sweden. Besley is Gluskin-Granovsky Fellow and Persson is Senior Fellow at the 
+Canadian Institute for Advanced Research (CIFAR), Toronto, Canada. Their email addresses  are t.besley@lse.ac.uk and Torsten.Persson@iies.su.se.
+† To access the Data Appendix and disclosure statements, visit http://dx.doi.org/10.1257/jep.28.4.99  doi=10.1257/jep.28.4.99
+Timothy Besley and Torsten Persson
+
+100 Journal of Economic Perspectives are poor for certain reasons and these reasons can also help to explain their weak- ness in raising tax revenue.
+We begin by laying out some basic relationships regarding how tax revenue  as a share of GDP varies with per capita income and with the breadth of a coun- try’s tax base. We sketch a baseline model of what determines a country’s tax  revenue as a share of GDP. Like many baseline models in economics, it is useful  not because it applies very directly to the real world, but because it helps orga- nize our thinking about what departures from the model are likely to be useful. 
+We then turn to our primary focus: why do developing countries tax so little? We  begin with factors related to the economic structure of these economies. But  we argue that there is also an important role for political factors, such as weak  institutions, fragmented polities, and a lack of transparency due to weak news  media. Moreover, sociological and cultural factors—such as a weak sense of  national identity and a poor norm for compliance—may stifle the collection  of tax revenue. In each case, we suggest the need for a dynamic approach that  encompasses the two-way interactions between these political, social, and cultural  factors and the economy.
+Of course the study of taxation in low-income countries teaches us about the  general forces driving higher and lower levels of taxation, but it does much more. 
+The evolution of taxing power is central not only to the state’s capacity to raise  revenue, but also to its capacity to provide goods and services and to support a market  economy. Moreover, political development goes hand in hand with economic devel- opment, as citizens in participatory political systems demand sound management of  increasing public resources. Thus, the power to tax is about much more than raising  tax revenues—it is at the core of state development.1
+Empirical Patterns
+It is useful to begin the discussion with some broad facts in hand. Throughout  the paper we will be considering taxation at the national level, not including state  and local taxes. Figure  1 illustrates how the level and structure of taxation— the share of tax revenue in aggregate income and the share of income taxes  in revenue—has changed over the twentieth  century in a sample of 18  coun- tries (Argentina, Australia, Brazil, Canada, Chile, Colombia, Denmark, Finland, 
+Ireland, Japan, Mexico, the Netherlands, New Zealand, Norway, Sweden, Switzer- land, United Kingdom, and the United States) drawing on data from Mitchell 
+(2007). For 15 of these countries, the figure also illustrates the introduction of  direct tax withholding of income taxes from pay, an important technical inno- vation for raising income taxes by making use of firms in the collection of tax 
+1 Discussions of taxation and development by noneconomists frequen

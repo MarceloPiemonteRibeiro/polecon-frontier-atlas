@@ -1,0 +1,1632 @@
+fail C00001 https://doi.org/10.3982/ecta8121 HTTPError
+fail C00000 http://hdl.handle.net/10.1162/qjec.2008.123.2.703 HTTPError
+fail C00000 https://doi.org/10.1162/qjec.2008.123.2.703 HTTPError
+fail C00003 https://doi.org/10.1257/aer.101.4.1274 HTTPError
+notpdf C00003 http://www.aeaweb.org/articles.php?doi=10.1257/aer.101.4.1274
+notpdf C00013 http://hdl.handle.net/1721.1/39126
+fail C00013 http://hdl.handle.net/1902.1/USBFNOMLAT HTTPError
+fail C00013 http://hdl.handle.net/10.1111/j.1468-0262.2004.00539.x HTTPError
+fail C00013 https://doi.org/10.1111/j.1468-0262.2004.00539.x HTTPError
+ok C00013 http://s3.amazonaws.com/fieldexperiments-papers2/papers/00224.pdf
+ok C00005 https://www.econometricsociety.org/publications/econometrica/2015/03/01/voting-technology-political-responsiveness-and-infant-health/supp/ECTA11520SUPP.pdf
+fail C00015 https://onlinelibrary.wiley.com/doi/pdfdirect/10.3982/ECTA9035 HTTPError
+fail C00015 https://doi.org/10.3982/ecta9035 HTTPError
+ok C00046 http://knowledge.uchicago.edu/record/13708
+fail C00010 http://hdl.handle.net/10.1162/003355305775097524 HTTPError
+fail C00010 https://doi.org/10.1162/003355305775097524 HTTPError
+fail C00010 http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.3658 URLError
+fail C00004 https://doi.org/10.1086/599707 HTTPError
+fail C00011 https://doi.org/10.1086/652903 HTTPError
+ok C00068 http://www.nber.org/papers/w4149.pdf
+ok C00069 http://www.nber.org/papers/w5942.pdf
+fail C00007 https://doi.org/10.1257/aer.91.5.1369 HTTPError
+fail C00007 http://www.aeaweb.org/articles.php?doi=10.1257/aer.91.5.1369 HTTPError
+fail C00153 http://hdl.handle.net/10.1162/0033553041502153 HTTPError
+fail C00153 https://doi.org/10.1162/0033553041502153 HTTPError
+fail C00079 https://doi.org/10.1086/499414 HTTPError
+fail C00050 http://hdl.handle.net/10.1162/qjec.122.3.1187 HTTPError
+fail C00050 https://doi.org/10.1162/qjec.122.3.1187 HTTPError
+fail C00145 https://doi.org/10.1162/qjec.2008.123.1.139 HTTPError
+fail C00071 http://hdl.handle.net/10.3982/ECTA7195 HTTPError
+fail C00071 https://doi.org/10.3982/ecta7195 HTTPError
+fail C00020 https://doi.org/10.1257/app.3.2.196 HTTPError
+notpdf C00020 http://www.aeaweb.org/articles.php?doi=10.1257/app.3.2.196
+fail C00021 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1667844_code342703.pdf?abstractid=1367046&mirid=1&t HTTPError
+notpdf C00021 https://econpapers.repec.org/RePEc:abo:neswpt:w0149
+fail C00021 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=7257 HTTPError
+fail C00021 http://www.cefir.ru/papers/WP113.pdf HTTPError
+fail C00021 https://doi.org/10.1257/aer.101.7.3253 HTTPError
+fail C00021 https://www.nes.ru/files/Preprints-resh/WP113.pdf HTTPError
+ok C00044 https://escholarship.org/content/qt04x346h7/qt04x346h7.pdf?t=mf85pc
+ok C00018 http://www.aeaweb.org/aer/app/10412/20121147_app.pdf
+fail C00107 https://doi.org/10.1086/698107 HTTPError
+notpdf C00169 https://sciencespo.hal.science/hal-03874305
+fail C00169 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=14433 HTTPError
+notpdf C00169 https://sciencespo.hal.science/hal-03874305/document
+fail C00169 https://doi.org/10.2139/ssrn.3542052 HTTPError
+fail C00169 https://doi.org/10.1257/jel.20201595 HTTPError
+fail C00169 https://lbsresearch.london.edu/view/lbs_authors/1ab60cf6b548644f3d76a607b6cc2f85.html> HTTPError
+notpdf C00075 https://doi.org/10.1184/r1/6703268
+fail C00075 https://doi.org/10.1086/261013 HTTPError
+notpdf C00075 http://repository.cmu.edu/cgi/viewcontent.cgi?article=1749&context=tepper
+notpdf C00075 https://doi.org/10.1184/r1/6703268.v1
+fail C00021 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1667844_code342703.pdf?abstractid=1367046&mirid=1&t HTTPError
+notpdf C00021 https://econpapers.repec.org/RePEc:abo:neswpt:w0149
+fail C00021 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=7257 HTTPError
+fail C00021 http://www.cefir.ru/papers/WP113.pdf HTTPError
+fail C00021 https://www.nes.ru/files/Preprints-resh/WP113.pdf HTTPError
+fail C00021 https://www.nes.ru/files/Preprints-resh/WP149.pdf HTTPError
+notpdf C00169 https://sciencespo.hal.science/hal-03874305
+fail C00169 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=14433 HTTPError
+notpdf C00169 https://sciencespo.hal.science/hal-03874305/document
+fail C00169 https://lbsresearch.london.edu/view/lbs_authors/1ab60cf6b548644f3d76a607b6cc2f85.html> HTTPError
+notpdf C00169 https://hal-sciencespo.archives-ouvertes.fr/hal-03874305/document
+notpdf C00075 http://repository.cmu.edu/cgi/viewcontent.cgi?article=1749&context=tepper
+fail C00104 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=10840 HTTPError
+fail C00104 http://www.ssc.upenn.edu/econ/CARESS/CARESSpdf/95-02.pdf HTTPError
+fail C00104 http://qje.oxfordjournals.org/cgi/content/short/112/1/85 HTTPError
+ok C00008 https://researchonline.lse.ac.uk/id/eprint/2308/1/The_Political_Economy_of_Government_Responsiveness_Theory_and_Evidence_from_India.pdf
+ok C00200 http://papers.nber.org/papers/w9409.pdf
+ok C00009 http://www.nber.org/papers/w11753.pdf
+fail C00164 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=6799 HTTPError
+ok C00164 https://ceistorvergata.it/RePEc/rpaper/RP115.pdf
+notpdf C00155 https://EconPapers.repec.org/RePEc:cep:cepdps:dp0993
+ok C00155 https://cep.lse.ac.uk/pubs/download/dp0993.pdf
+fail C00014 https://repository.urosario.edu.co/handle/10336/22947 URLError
+fail C00014 https://repository.royalholloway.ac.uk/items/9a353bf7-2280-dcfa-a902-b74a899138fc/1/ URLError
+notpdf C00022 https://www.zora.uzh.ch/id/eprint/137646/1/Propaganda_and_conflict_Drott.pdf
+fail C00022 http://dash.harvard.edu/bitstream/handle/1/13457754/RwandaDYD.pdf HTTPError
+fail C00022 http://nrs.harvard.edu/urn-3:HUL.InstRepos:13457754 HTTPError
+notpdf C00022 https://www.zora.uzh.ch/handle/20.500.14742/130798
+ok C00070 http://www.nber.org/papers/w22443.pdf
+notpdf C00234 http://eprints.lse.ac.uk/18823/
+notpdf C00234 https://EconPapers.repec.org/RePEc:cpr:ceprdp:1737
+fail C00234 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=1737 HTTPError
+ok C00234 http://su.diva-portal.org/smash/get/diva2:327691/FULLTEXT01
+notpdf C00191 https://ideas.repec.org/p/ess/wpaper/id8796.html
+fail C00191 http://www.esocialsciences.org/Download/repecDownload.aspx?fname=http://scholar.harvard.edu/files/rp HTTPError
+fail C00106 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=4361 HTTPError
+fail C00106 http://gsbapps.stanford.edu/researchpapers/library/RP1851(R).pdf URLError
+fail C00106 http://www-siepr.stanford.edu/repec/sip/03-030.pdf URLError
+ok C00106 https://www.ifo.de/DocDL/cesifo1_wp1173.pdf
+fail C00162 http://nrs.harvard.edu/urn-3:HUL.InstRepos:33078973 HTTPError
+fail C00016 http://www.loc.gov/catdir/toc/ecip0511/2005011262.html HTTPError
+notpdf C00016 https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=017735243&sequence=000002&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA
+fail C00016 https://bilder.buecher.de/zusatz/20/20853/20853950_vorw_1.pdf URLError
+notpdf C00035 https://ageconsearch.umn.edu/record/28479/files/050929.pdf
+notpdf C00035 https://EconPapers.repec.org/RePEc:egc:wpaper:929
+ok C00035 http://www.econ.yale.edu/growth_pdf/cdp929.pdf
+notpdf C00150 https://www.ncbi.nlm.nih.gov/pmc/articles/3046394
+notpdf C00150 https://pubmed.ncbi.nlm.nih.gov/21373369
+notpdf C00198 https://scholarworks.uni.edu/facpub/2464
+ok C00245 https://researchonline.lse.ac.uk/id/eprint/3764/1/Making_Autocracy_Work.pdf
+ok C00042 http://www.nber.org/papers/w13028.pdf
+ok C00099 http://eprints.lse.ac.uk/28519/1/dp0912.pdf
+ok C00247 http://www.nber.org/papers/w15298.pdf
+fail C00156 http://restud.oxfordjournals.org/cgi/content/short/78/4/1237 HTTPError
+fail C00246 http://nrs.harvard.edu/urn-3:HUL.InstRepos:9639960 HTTPError
+fail C00026 https://orcid.org/0009-0002-1187-3248>, HTTPError
+ok C00154 https://www.nber.org/system/files/working_papers/w19746/w19746.pdf
+notpdf C00051 https://econpapers.repec.org/RePEc:cpr:ceprdp:11254
+fail C00051 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=11254 HTTPError
+notpdf C00080 https://hal.science/halshs-01245557v1
+ok C00147 https://researchonline.lse.ac.uk/id/eprint/61947/1/Value_democracy_combined.pdf
+fail C00231 http://restud.oxfordjournals.org/cgi/content/short/84/1/143 HTTPError
+fail C00283 http://qje.oxfordjournals.org/cgi/content/short/110/3/681 HTTPError
+ok C00304 https://ir.lib.uwo.ca/economicsperg_ppe/79
+fail C00222 http://qje.oxfordjournals.org/cgi/content/short/111/1/65 HTTPError
+fail C00040 http://qje.oxfordjournals.org/cgi/content/short/115/4/1167 HTTPError
+fail C00434 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1313713 HTTPError
+ok C00237 http://www.nber.org/papers/w8517.pdf
+ok C00165 http://www.nber.org/papers/w8551.pdf
+notpdf C00306 https://research.cbs.dk/en/publications/f63b1760-f8ad-11db-9160-000ea68e967b
+ok C00219 http://eprints.lse.ac.uk/899/1/Handcuffs_for_the_grabbing_hand_%28lsero%29.pdf
+notpdf C00240 https://pubmed.ncbi.nlm.nih.gov/17162836
+ok C00418 http://www.nber.org/papers/w11915.pdf
+notpdf C00206 https://www.ncbi.nlm.nih.gov/pmc/articles/2826809
+notpdf C00206 https://pubmed.ncbi.nlm.nih.gov/20182650
+fail C00277 http://www.mitpressjournals.org/doi/pdfplus/10.1162/qjec.2009.124.2.735 HTTPError
+ok C00148 https://www.nber.org/system/files/working_papers/w14906/w14906.pdf
+fail C00055 http://nrs.harvard.edu/urn-3:HUL.InstRepos:5689166 HTTPError
+fail C00055 http://nrs.harvard.edu/urn-3:HUL.InstRepos:5689166 HTTPError
+notpdf C00055 https://pubmed.ncbi.nlm.nih.gov/22199993
+notpdf C00055 https://www.ncbi.nlm.nih.gov/pmc/articles/3243951
+fail C00055 http://nrs.harvard.edu/urn-3:HUL.InstRepos:4449108 HTTPError
+ok C00259 https://escholarship.org/content/qt1gr744vf/qt1gr744vf.pdf
+fail C00327 https://dash.harvard.edu/bitstreams/7312037d-191b-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00327 https://dash.harvard.edu/bitstreams/7312037d-191b-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00327 http://nrs.harvard.edu/urn-3:HUL.InstRepos:11986331 HTTPError
+ok C00030 https://red-files-public.s3.amazonaws.com/meetpapers/2010/paper_1246.pdf
+ok C00072 http://www.nber.org/papers/w17012.pdf
+ok C00429 https://authors.library.caltech.edu/65728/
+fail C00082 https://dash.harvard.edu/bitstreams/7312037d-4ef4-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00082 http://nrs.harvard.edu/urn-3:HUL.InstRepos:13457753 HTTPError
+notpdf C00082 https://www.zora.uzh.ch/handle/20.500.14742/130800
+notpdf C00082 http://www.aei.org/publication/do-political-protests-matter-evidence-from-the-tea-party-movement
+notpdf C00082 http://www.aei.org/paper/do-political-protests-matter-evidence-from-the-tea-party-movement
+notpdf C00415 https://run.unl.pt/bitstream/10362/161140/1/banho.pdf
+fail C00415 https://www.scopus.com/pages/publications/84894379975 HTTPError
+ok C00101 https://researchonline.lse.ac.uk/id/eprint/66265/1/Khan_Tax%20farming%20redux_2016.pdf
+ok C00300 https://www.repository.cam.ac.uk/bitstreams/c15becf2-e9b6-4e4c-9662-c9b42aa8d144/download
+notpdf C00303 https://figshare.com/articles/journal_contribution/Policy_Influence_and_Private_Returns_from_Lobbying_in_the_Energy_Sector/6707381
+notpdf C00303 http://repository.cmu.edu/cgi/viewcontent.cgi?article=2440&context=tepper
+notpdf C00100 https://sciencespo.hal.science/hal-03948087
+ok C00260 https://researchonline.lse.ac.uk/id/eprint/69193/1/Besley_Gender%20quotas_2017.pdf
+ok C00193 http://www.nber.org/papers/w24783.pdf
+notpdf C00258 http://eprints.lse.ac.uk/100316/1/qjz002.pdf
+ok C00258 https://researchonline.lse.ac.uk/id/eprint/124819/1/qjz002.pdf
+ok C00313 http://wrap.warwick.ac.uk/106313/7/WRAP-did-austerity-cause-Brexit-Fetzer-2018.pdf
+fail C00431 http://nrs.harvard.edu/urn-3:HUL.InstRepos:37326940 HTTPError
+fail C00431 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=14317 HTTPError
+ok C00431 http://www.hbs.edu/faculty/pages/download.aspx?name=19-005.pdf
+notpdf C00311 https://www.zora.uzh.ch/handle/20.500.14742/172648
+notpdf C00311 https://lup.lub.lu.se/record/634cd5fe-caf8-46bf-8718-cb1bb3ccf7e0
+notpdf C00223 https://research.wur.nl/en/publications/an-experiment-in-candidate-selection
+fail C00310 https://nottingham-repository.worktribe.com/file/10072044/1/rdac037.pdf HTTPError
+notpdf C00310 http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-501763
+fail C00310 https://nottingham-repository.worktribe.com/output/10072044 HTTPError
+fail C00405 https://nottingham-repository.worktribe.com/file/25361254/1/Economic%20origins HTTPError
+fail C00405 https://nottingham-repository.worktribe.com/output/25361254 HTTPError
+notpdf C00343 https://econpapers.repec.org/paper/nwucmsems/782.htm
+fail C00343 http://www.kellogg.northwestern.edu/research/math/papers/782.pdf HTTPError
+ok C00038 http://www.nber.org/papers/w3668.pdf
+notpdf C00372 http://links.jstor.org/sici?sici=0013-0133%28199501%29105%3A428%3C145%3ACLEHST%3E2.0.CO%3B2-1&origin=bc
+fail C00166 http://qje.oxfordjournals.org/cgi/content/short/112/4/1289 HTTPError
+fail C00054 http://nrs.harvard.edu/urn-3:HUL.InstRepos:4551797 HTTPError
+fail C00054 http://dash.harvard.edu/bitstream/handle/1/4551797/alesina_publicgoods.pdf HTTPError
+fail C00054 http://qje.oxfordjournals.org/cgi/content/short/114/4/1243 HTTPError
+ok C00160 http://www.nber.org/papers/w7859.pdf
+fail C00109 http://203.131.219.242/cdm/ref/collection/ebook/id/6549 URLError
+fail C00109 http://beyond.library.tu.ac.th/cdm/ref/collection/ebook/id/6549 HTTPError
+ok C00230 https://repositorio.utdt.edu/bitstreams/52251f19-b20a-4d04-82ce-80a68656e9de/download
+notpdf C00430 https://econpapers.repec.org/RePEc:nwu:cmsems:1387
+fail C00430 http://www.kellogg.northwestern.edu/research/math/papers/1387.pdf HTTPError
+ok C00430 https://economics.sas.upenn.edu/sites/default/files/filevault/working-papers/04-037.pdf
+fail C00017 http://www.blackwell-synergy.com/doi/abs/10.1111/j.1467-9442.2006.00460.x HTTPError
+notpdf C00152 http://www.escholarship.org/uc/item/4979h9g2
+notpdf C00152 https://escholarship.org/uc/item/4979h9g2
+ok C00152 https://resolver.caltech.edu/CaltechAUTHORS:20170802-103618263
+fail C00464 http://www.blackwell-synergy.com/doi/abs/10.1111/j.1468-0297.2007.02097.x HTTPError
+ok C00078 https://www.carloalberto.org/wp-content/uploads/2018/11/no.47.pdf
+ok C00345 https://resolver.caltech.edu/CaltechAUTHORS:BATaer08
+fail C00149 https://dspace.mit.edu/bitstream/1721.1/61324/1/Olken_Hit%20or.pdf HTTPError
+ok C00149 http://www.nber.org/papers/w13102.pdf
+ok C00239 http://s3.amazonaws.com/fieldexperiments-papers2/papers/00252.pdf
+fail C00374 https://dash.harvard.edu/bitstreams/7312037c-5b86-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00374 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3043416 HTTPError
+notpdf C00204 https://econpapers.repec.org/paper/hicwpaper/22.htm
+ok C00204 https://hicn.org/wp-content/uploads/2012/06/wp22.pdf
+ok C00270 http://www.nber.org/papers/w15230.pdf
+ok C00295 https://escholarship.org/content/qt4pd4m3jj/qt4pd4m3jj.pdf
+ok C00402 https://www.nber.org/system/files/working_papers/w17679/w17679.pdf
+notpdf C00520 https://pubmed.ncbi.nlm.nih.gov/22148132
+notpdf C00063 https://www.ncbi.nlm.nih.gov/pmc/articles/4156293
+notpdf C00063 https://pubmed.ncbi.nlm.nih.gov/25197099
+ok C00063 http://www.nber.org/papers/w15980.pdf
+notpdf C00333 https://kar.kent.ac.uk/75375/
+ok C00409 https://docs.iza.org/dp4276.pdf
+notpdf C00087 https://www.ncbi.nlm.nih.gov/pmc/articles/4118452
+notpdf C00087 https://pubmed.ncbi.nlm.nih.gov/25089052
+ok C00224 http://www.nber.org/papers/w17776.pdf
+ok C00301 http://didattica.unibocconi.it/mypage/upload/48805_20121022_032808_48805_20120618_105248_BRAZIL-CORRUPTION-AER-2NDREVISION-PAPER-JUN18-2012.PDF
+ok C00363 http://www.nber.org/papers/w19766.pdf
+notpdf C00420 https://researchonline.lse.ac.uk/id/eprint/34019/
+fail C00235 https://dash.harvard.edu/bitstreams/7312037d-f5f7-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00235 https://dash.harvard.edu/bitstreams/7312037d-f5f7-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00235 http://nrs.harvard.edu/urn-3:HUL.InstRepos:30410811 HTTPError
+fail C00235 http://dash.harvard.edu/bitstream/handle/1/30410811/faidconf_20130806_final_0.pdf HTTPError
+notpdf C00330 https://kar.kent.ac.uk/75370/
+ok C00448 http://www.nber.org/papers/w20112.pdf
+ok C00579 https://researchonline.lse.ac.uk/id/eprint/63336/1/Wotlon_Voters%20curses_2016.pdf
+ok C00284 http://www.nber.org/papers/w19999.pdf
+ok C00426 http://www.nber.org/papers/w20261.pdf
+fail C00337 https://scholarworks.wm.edu/aspubs/124 HTTPError
+fail C00337 http://wrap.warwick.ac.uk/139578/ URLError
+notpdf C00351 https://econpapers.repec.org/RePEc:eie:wpaper:1703
+fail C00351 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=11871 HTTPError
+fail C00351 http://www.eief.it/files/2017/02/wp-173.pdf HTTPError
+ok C00351 https://repec.unibocconi.it/igier/igi/wp/2017/610.pdf
+fail C00421 https://orcid.org/0000-0001-5376-9663> HTTPError
+fail C00421 https://strathprints.strath.ac.uk/view/author/602596.html> HTTPError
+fail C00421 http://dem-web.unipv.it/web/docs/dipeco/quad/ps/RePEc/pav/demwpp/DEMWP0057.pdf URLError
+ok C00421 http://www.strath.ac.uk/media/1newwebsite/departmentsubject/economics/research/researchdiscussionpapers/2013/13-25FINAL.pdf
+notpdf C00422 https://econpapers.repec.org/RePEc:hhs:gunwpe:0532
+ok C00422 https://pureadmin.qub.ac.uk/ws/files/128795793/mafia_complete.pdf
+fail C00215 https://iris.unibocconi.it/bitstream/11565/4014345/1/rdy036.pdf HTTPError
+ok C00444 https://researchonline.lse.ac.uk/id/eprint/100339/1/aer.20180277.pdf
+notpdf C00288 https://www.zora.uzh.ch/id/eprint/195317/1/aer.20180975.pdf
+notpdf C00288 https://www.zora.uzh.ch/id/eprint/195317/1/aer.20180975.pdf
+notpdf C00288 https://www.zora.uzh.ch/handle/20.500.14742/176632
+ok C00406 http://www.nber.org/papers/w27832.pdf
+notpdf C00407 https://EconPapers.repec.org/RePEc:hic:wpaper:299
+ok C00407 https://hicn.org/wp-content/uploads/2019/03/HiCN-WP-299.pdf
+notpdf C00581 https://www.econstor.eu/bitstream/10419/262676/1/wp274.pdf
+notpdf C00581 https://www.econstor.eu/bitstream/10419/262676/1/wp274.pdf
+ok C00581 http://www.nber.org/papers/w24451.pdf
+fail C00544 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3324221 HTTPError
+notpdf C00544 https://ideas.repec.org/p/cpr/ceprdp/13486.html
+fail C00544 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=13486 HTTPError
+fail C00551 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=12772 HTTPError
+notpdf C00933 https://www.econstor.eu/bitstream/10419/262695/1/wp293.pdf
+notpdf C00933 https://ideas.repec.org/p/rie/riecdt/18.html
+notpdf C00933 https://ideas.repec.org/p/osf/socarx/v3s8w.html
+ok C00933 https://osf.io/download/5fe9f187e3acd1025a4a53be/
+fail C01020 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795231 HTTPError
+notpdf C01020 https://EconPapers.repec.org/RePEc:cge:wacage:544
+fail C01020 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=15847 HTTPError
+ok C01020 https://wrap.warwick.ac.uk/149221/1/WRAP-in-vaccines-we-trust-effects-CIA%27s-vaccine-ruse-immunization-Pakistan-Stegmann-2021.pdf
+ok C00263 https://escholarship.org/content/qt4n28d9c1/qt4n28d9c1.pdf?t=ry1gm7
+notpdf C00582 https://sciencespo.hal.science/hal-04211174/document
+notpdf C00582 https://sciencespo.hal.science/hal-04211174/document
+notpdf C00582 https://sciencespo.hal.science/hal-04211174
+notpdf C00535 http://links.jstor.org/sici?sici=0012-9682%28197307%2941%3A4%3C587%3AMOVSAG%3E2.0.CO%3B2-M&origin=repec
+notpdf C00085 https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315201511-35&type=chapterpdf
+notpdf C00085 https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315205021-8&type=chapterpdf
+notpdf C00085 http://deepblue.lib.umich.edu/bitstream/2027.42/51028/1/256.pdf
+notpdf C00469 https://resolver.caltech.edu/CaltechAUTHORS:20160303-112114151
+notpdf C00936 https://ideas.repec.org/p/clt/sswopa/487.html
+ok C00936 https://authors.library.caltech.edu/81716/
+fail C00352 http://nrs.harvard.edu/urn-3:HUL.InstRepos:4552531 HTTPError
+fail C00352 http://dash.harvard.edu/bitstream/handle/1/4552531/alesina_macroeconomic.pdf HTTPError
+notpdf C00352 https://econpapers.repec.org/RePEc:hrv:faseco:4552531
+fail C00969 https://dspace.mit.edu/bitstreams/0754baf3-922b-44f1-ac48-b03aeff62ca4/download HTTPError
+fail C00969 https://dspace.mit.edu/bitstreams/0754baf3-922b-44f1-ac48-b03aeff62ca4/download HTTPError
+notpdf C00792 http://links.jstor.org/sici?sici=0012-9682%28199203%2960%3A2%3C287%3AHCLMAL%3E2.0.CO%3B2-F&origin=repec
+notpdf C00711 https://econpapers.repec.org/RePEc:pra:mprapa:51644
+ok C00711 https://economics.brown.edu/sites/g/files/dprerj726/files/papers/2013-12_paper.pdf
+notpdf C00208 http://ageconsearch.umn.edu/record/294852
+notpdf C00208 http://ageconsearch.umn.edu/record/294852
+fail C00958 https://dash.harvard.edu/bitstreams/7312037c-4c3c-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00958 https://dash.harvard.edu/bitstreams/7312037c-4c3c-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00958 http://nrs.harvard.edu/urn-3:HUL.InstRepos:2623303 HTTPError
+notpdf C01041 http://links.jstor.org/sici?sici=0012-9682%28199407%2962%3A4%3C955%3ASTOCI%3E2.0.CO%3B2-E&origin=repec
+notpdf C00096 https://econpapers.repec.org/RePEc:mit:worpap:94-15
+fail C00096 http://qje.oxfordjournals.org/cgi/content/short/110/3/551 HTTPError
+ok C00480 http://www.nber.org/papers/w4575.pdf
+notpdf C00785 https://EconPapers.repec.org/RePEc:cpr:ceprdp:1056
+fail C00785 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=1056 HTTPError
+notpdf C00338 https://econpapers.repec.org/RePEc:ces:ceswps:_136
+ok C00338 https://repec.unibocconi.it/igier/igi/wp/1996/100.pdf
+fail C00784 http://qje.oxfordjournals.org/cgi/content/short/112/4/1057 HTTPError
+notpdf C00978 https://econpapers.repec.org/RePEc:nwu:cmsems:1117
+ok C00978 http://www.dklevine.com/archive/refs41560.pdf
+fail C00299 https://eprints.soton.ac.uk/33459/ HTTPError
+notpdf C00477 https://authors.library.caltech.edu/67299/
+fail C00205 http://nrs.harvard.edu/urn-3:HUL.InstRepos:4551796 HTTPError
+ok C00205 http://www.nber.org/papers/w7155.pdf
+fail C00401 http://dash.harvard.edu/bitstream/handle/1/30747190/w7892.pdf HTTPError
+ok C00401 http://www.nber.org/papers/w7892.pdf
+notpdf C00541 https://www.econstor.eu/bitstream/10419/221626/1/cmsems-dp1270.pdf
+notpdf C00541 https://www.econstor.eu/bitstream/10419/221626/1/cmsems-dp1270.pdf
+notpdf C00541 https://EconPapers.repec.org/RePEc:nwu:cmsems:1270
+fail C00541 http://www.kellogg.northwestern.edu/research/math/papers/1270.pdf HTTPError
+ok C00743 http://eprints.lse.ac.uk/2018/1/Land_Reform%2C_Poverty_Reduction_and_Growth_Evidence_from_India.pdf
+ok C00092 http://www.nber.org/papers/w6795.pdf
+ok C01519 https://authors.library.caltech.edu/11498/
+ok C00949 https://researchonline.lse.ac.uk/id/eprint/227/1/credible_commitment.pdf
+fail C00486 http://saramitchell.org/fearonlaitin.pdf URLError
+ok C00533 http://papers.nber.org/papers/w7793.pdf
+fail C00577 http://eprints.lse.ac.uk/2484/ HTTPError
+fail C00577 https://orcid.org/0009-0009-5169-0180> HTTPError
+fail C00577 http://www.blackwellpublishing.com/ecta/asp/abstract.asp?iid=4&amp;aid=440&amp;vid=71 HTTPError
+ok C00269 http://www.nber.org/papers/w10136.pdf
+fail C00294 https://www.openaccessrepository.it/record/203674 HTTPError
+ok C00564 http://www.nber.org/papers/w8693.pdf
+fail C00725 http://dash.harvard.edu/bitstream/handle/1/3716457/Kremer_IncentivesLearn.pdf HTTPError
+fail C00725 https://dash.harvard.edu/bitstreams/7312037c-7be5-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00725 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3716457 HTTPError
+notpdf C00725 https://www.escholarship.org/uc/item/9kc4p47q.pdf;origin=repeccitec
+ok C00725 http://www.nber.org/papers/w10971.pdf
+notpdf C00335 http://documents.worldbank.org/curated/en/2005/03/17591977/democracy-public-expenditures-poor-understanding-political-incentives-providing-public-services
+ok C00772 http://www.nber.org/papers/w9822.pdf
+ok C00774 http://www.nber.org/papers/w11205.pdf
+ok C00950 https://escholarship.org/content/qt9s48g24g/qt9s48g24g.pdf
+fail C00289 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=911245 HTTPError
+fail C00289 http://www.econ.ucla.edu/people/papers/Jayachandran/Jayachandran370.pdf HTTPError
+ok C00353 http://www.nber.org/papers/w12125.pdf
+ok C00511 http://s3.amazonaws.com/fieldexperiments-papers2/papers/00206.pdf
+notpdf C00726 https://www.ncbi.nlm.nih.gov/pmc/articles/2630193
+notpdf C00726 https://pubmed.ncbi.nlm.nih.gov/19169425
+ok C00863 http://www.nber.org/papers/w11924.pdf
+notpdf C00321 https://research.manchester.ac.uk/en/publications/f7d24f1c-1891-4c91-9f38-dab6042c76b4
+notpdf C00521 https://econpapers.repec.org/RePEc:pri:rpdevs:field_entitled_to_work_qje.pdf
+fail C00521 http://www.princeton.edu/rpds/papers/field_entitled_to_work.pdf URLError
+fail C00521 https://rpds.princeton.edu/sites/rpds/files/media/field_entitled_to_work_qje.pdf URLError
+fail C00521 https://scholar.harvard.edu/field/publications/entitled-work-urban-property-rights-and-labor-supply- HTTPError
+ok C01023 https://escholarship.org/content/qt2km4r4dn/qt2km4r4dn.pdf?t=lnq4dm
+notpdf C00086 http://ideas.repec.org/p/cpr/ceprdp/6534.html
+fail C00086 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=6534 HTTPError
+ok C00086 https://www.ifo.de/DocDL/cesifo1_wp2236.pdf
+notpdf C00516 https://www.ncbi.nlm.nih.gov/pmc/articles/3115776
+notpdf C00516 https://pubmed.ncbi.nlm.nih.gov/21687831
+notpdf C00341 https://elibrary.worldbank.org/doi/epdf/10.1596/1813-9450-4268
+notpdf C00341 https://elibrary.worldbank.org/doi/epdf/10.1596/1813-9450-4268
+notpdf C00341 http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2007/06/21/000016406_20070621153640/Rendered/PDF/wps4268.pdf
+notpdf C00341 https://econpapers.repec.org/paper/cprceprdp/6344.htm
+fail C00341 http://elibrary.worldbank.org/content/workingpaper/10.1596/1813-9450-4268 URLError
+notpdf C00341 http://documents.worldbank.org/curated/en/2007/06/7746889/power-people-evidence-randomized-field-experiment-community-based-monitoring-project-uganda
+notpdf C00491 https://sciencespo.hal.science/hal-03417695
+notpdf C00491 https://spire.sciencespo.fr/hdl:/2441/7dru9b4rbo9nfrp4dpjk1apu34
+notpdf C00766 http://ageconsearch.umn.edu/record/9279
+notpdf C00766 http://ageconsearch.umn.edu/record/9279
+notpdf C00766 https://ageconsearch.umn.edu/record/9279/files/dp070956.pdf
+notpdf C00766 https://EconPapers.repec.org/RePEc:feb:natura:00281
+fail C00766 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=6180 HTTPError
+fail C00766 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=6407 HTTPError
+fail C00776 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3179208 HTTPError
+notpdf C00776 http://eprints.lse.ac.uk/33861/
+fail C00794 http://dash.harvard.edu/bitstream/handle/1/29412035/ruggedness.pdf HTTPError
+ok C00794 http://www.nber.org/papers/w14918.pdf
+ok C00904 https://authors.library.caltech.edu/31702/
+ok C00946 http://www.nber.org/papers/w14953.pdf
+notpdf C00974 https://authors.library.caltech.edu/18340/
+notpdf C00974 https://authors.library.caltech.edu/88780/
+fail C00974 http://restud.oxfordjournals.org/cgi/content/short/77/1/61 HTTPError
+fail C00354 http://www.mitpressjournals.org/doi/pdfplus/10.1162/qjec.2010.125.4.1821 HTTPError
+fail C00556 http://restud.oxfordjournals.org/cgi/content/short/77/4/1329 HTTPError
+fail C00720 http://www.mitpressjournals.org/doi/pdfplus/10.1162/qjec.2010.125.2.515 HTTPError
+ok C00731 https://escholarship.org/content/qt4b7043jq/qt4b7043jq.pdf?t=krnrsk
+notpdf C00734 https://pubmed.ncbi.nlm.nih.gov/20478960
+fail C00734 https://dspace.mit.edu/bitstream/1721.1/57503/2/Banerjee-2010-Improving%20immunisati.pdf HTTPError
+notpdf C00734 https://www.ncbi.nlm.nih.gov/pmc/articles/2871989
+ok C00734 https://www.bmj.com/content/bmj/340/bmj.c2220.full.pdf
+fail C00773 http://www.mitpressjournals.org/doi/pdfplus/10.1162/qjec.2010.125.4.1577 HTTPError
+notpdf C00775 https://www.ncbi.nlm.nih.gov/pmc/articles/4112759
+notpdf C00775 https://pubmed.ncbi.nlm.nih.gov/25076785
+notpdf C00811 https://pubmed.ncbi.nlm.nih.gov/23421360
+ok C00811 http://www.nber.org/papers/w16415.pdf
+notpdf C00899 https://www.ncbi.nlm.nih.gov/pmc/articles/2919954
+notpdf C00899 https://pubmed.ncbi.nlm.nih.gov/20615955
+ok C00939 http://www.nber.org/papers/w13637.pdf
+ok C00275 https://www.nber.org/system/files/working_papers/w14606/w14606.pdf
+ok C00465 http://www.nber.org/papers/w17184.pdf
+fail C00476 http://nrs.harvard.edu/urn-3:HUL.InstRepos:12175241 HTTPError
+ok C00476 http://www.nber.org/papers/w17577.pdf
+ok C00575 https://docs.iza.org/dp4282.pdf
+fail C00767 http://restud.oxfordjournals.org/cgi/content/short/78/3/795 HTTPError
+fail C00793 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1912544_code794896.pdf?abstractid=1912544&mirid=1 HTTPError
+ok C00796 http://www.nber.org/papers/w14707.pdf
+notpdf C00256 https://sciencespo.hal.science/hal-03600693
+ok C00462 http://www.nber.org/papers/w17398.pdf
+ok C00123 http://eprints.lse.ac.uk/91505/1/Yuchtman_Coercive-contract-enforcement.pdf
+notpdf C00356 https://escholarship.org/uc/item/28c3c631
+notpdf C00356 https://pubmed.ncbi.nlm.nih.gov/24031020
+fail C00356 https://research.rug.nl/en/publications/41521e03-a602-4172-87aa-3d955a5915f4 HTTPError
+notpdf C00360 http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/06/26/000158349_20130626145329/Rendered/PDF/WPS6510.pdf
+notpdf C00360 https://econpapers.repec.org/RePEc:wbk:wbrwps:6510
+notpdf C00371 https://escholarship.org/uc/item/493244t4
+notpdf C00371 http://www.escholarship.org/uc/item/493244t4
+fail C00601 http://nrs.harvard.edu/urn-3:HUL.InstRepos:11986334 HTTPError
+notpdf C00601 http://repository.essex.ac.uk/6039/
+fail C00634 http://nrs.harvard.edu/urn-3:HUL.InstRepos:33077826 HTTPError
+notpdf C00917 https://www.zora.uzh.ch/handle/20.500.14742/144797
+fail C00938 http://repository.hkust.edu.hk/ir/Record/1783.1-62630 HTTPError
+fail C00938 http://www.scopus.com/record/display.url?eid=2-s2.0-84878602716&origin=inward URLError
+notpdf C00110 https://portal.findresearcher.sdu.dk/da/publications/3a24c7e7-934d-4c37-a812-9226f8e0f54d
+notpdf C00274 https://shs.hal.science/halshs-01053370
+fail C00274 https://www.openicpsr.org/openicpsr/project/113893/version/V1/download/terms?path=/openicpsr/113893/ HTTPError
+notpdf C00278 http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/09/13/000158349_20110913123202/Rendered/PDF/WPS5795.pdf
+fail C00278 https://research.vu.nl/en/publications/b207666b-1d90-43e0-a549-4e73b5381b7f HTTPError
+notpdf C00278 https://repository.upenn.edu/bitstreams/a6bc5fe9-cc94-4107-bbb4-b4ca8b264857/download
+notpdf C00278 https://repository.upenn.edu/real-estate_papers/77
+fail C00278 https://dare.uva.nl/personal/pure/en/publications/improving-educational-quality-through-enhancing-co URLError
+fail C00278 https://handle.uba.uva.nl/personal/pure/en/publications/improving-educational-quality-through-enhanc URLError
+fail C00366 http://nrs.harvard.edu/urn-3:HUL.InstRepos:8830780 HTTPError
+notpdf C00366 https://sciencespo.hal.science/hal-03393022
+notpdf C00366 https://spire.sciencespo.fr/hdl:/2441/4tc33icveb94nokk2rd2ettg0k
+notpdf C00366 http://spire.sciencespo.fr/hdl:/2441/nhjqqngq98lnqqrct2aj93qja
+notpdf C00566 https://research-information.bris.ac.uk/en/publications/8d717241-9957-45d0-9fbf-7e2490488c63
+notpdf C00813 https://pubmed.ncbi.nlm.nih.gov/24812395
+ok C01018 https://researchonline.lse.ac.uk/id/eprint/91508/1/Yuchtman_Medieval-universities.pdf
+notpdf C00095 https://www.zora.uzh.ch/handle/20.500.14742/110865
+ok C00285 http://www.nber.org/papers/w21266.pdf
+ok C00447 https://researchonline.lse.ac.uk/id/eprint/102931/1/In.pdf
+notpdf C00455 https://pubmed.ncbi.nlm.nih.gov/28935994
+notpdf C00455 https://www.ncbi.nlm.nih.gov/pmc/articles/5603250
+notpdf C00455 http://econpapers.repec.org/paper/eclstabus/3299.htm
+fail C00455 http://gsbapps.stanford.edu/researchpapers/library/RP2099.pdf URLError
+fail C00455 http://www.gsb.stanford.edu/gsb-cmis/gsb-cmis-download-auth/403331 HTTPError
+fail C00765 https://dspace.mit.edu/bitstream/1721.1/95941/1/Banerjee_The%20miracle.pdf HTTPError
+fail C00765 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=9437 HTTPError
+notpdf C00765 https://orcid.org/0000-0001-6105-617X
+notpdf C00900 https://www.ncbi.nlm.nih.gov/pmc/articles/4653178
+notpdf C00900 https://pubmed.ncbi.nlm.nih.gov/26504202
+fail C00962 https://autopapers.ssrn.com/sol3/papers.cfm?abstract_id=2688897 URLError
+fail C00962 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10884 HTTPError
+ok C00962 https://www.ifo.de/DocDL/cesifo1_wp5553.pdf
+ok C01019 https://lirias.kuleuven.be/retrieve/897aef28-c21c-4deb-b22d-c44fe8e1d392
+fail C00091 http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00599 HTTPError
+fail C00286 https://shs.hal.science/halshs-01513327 HTTPError
+ok C00342 http://documents.worldbank.org/curated/en/455111467989984735/pdf/WPS6129.pdf
+notpdf C00453 https://escholarship.org/uc/item/1dk434gf
+notpdf C00453 http://www.escholarship.org/uc/item/1dk434gf
+ok C00501 http://www.nber.org/papers/w21963.pdf
+notpdf C00573 https://EconPapers.repec.org/RePEc:fda:fdaddt:2011-01
+ok C00573 http://wrap.warwick.ac.uk/132167/1/WRAP-politicians-luck-draw-evidence-spanish-christmas-lottery-Bagues-2016.pdf
+notpdf C00824 https://EconPapers.repec.org/RePEc:pra:mprapa:52244
+ok C00824 http://wrap.warwick.ac.uk/59316/1/WRAP_161-2013_brollo.pdf
+ok C00903 https://osf.io/download/5c6afc941650690019135b59/
+ok C00499 https://researchonline.lse.ac.uk/id/eprint/85928/1/app.20130472_final.pdf
+notpdf C00507 http://cdm15738.contentdm.oclc.org/cdm/ref/collection/p15738coll5/id/6037
+fail C00507 http://ebrary.ifpri.org/cdm/ref/collection/p15738coll5/id/6037 HTTPError
+ok C00553 https://arxiv.org/pdf/1607.00699
+fail C00612 https://www.openicpsr.org/openicpsr/project/113981/version/V1/download/terms?path=/openicpsr/113981/ HTTPError
+notpdf C00635 https://pubmed.ncbi.nlm.nih.gov/29553237
+ok C00635 http://www.nber.org/papers/w21204.pdf
+notpdf C00739 https://pubmed.ncbi.nlm.nih.gov/29558073
+notpdf C00795 https://econpapers.repec.org/RePEc:cmf:wpaper:wp2014_1404
+ok C00795 https://www.cemfi.es/ftp/wp/1404.pdf
+notpdf C00878 https://pubmed.ncbi.nlm.nih.gov/29114868
+ok C00937 https://authors.library.caltech.edu/85939/
+notpdf C00954 https://www.zora.uzh.ch/handle/20.500.14742/130796
+fail C01037 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3042867 HTTPError
+notpdf C01037 https://escholarship.org/uc/item/103775sx
+fail C01037 https://www.gsb.stanford.edu/gsb-cmis/gsb-cmis-download-auth/442076 HTTPError
+notpdf C00487 https://shs.hal.science/halshs-01631696
+notpdf C00506 https://EconPapers.repec.org/RePEc:upf:upfgen:1270
+ok C00506 https://econ-papers.upf.edu/papers/1270.pdf
+ok C00568 https://researchonline.lse.ac.uk/id/eprint/87365/1/Gavazza_Nardotto_Valletti%20Internet%20Politics_Author_2018.pdf
+notpdf C00880 https://pubmed.ncbi.nlm.nih.gov/29686081
+fail C00880 http://europepmc.org/pmc/articles/PMC5948965 HTTPError
+notpdf C00880 https://www.ncbi.nlm.nih.gov/pmc/articles/5948965
+ok C00906 http://eprints.lse.ac.uk/100762/1/does_exposure_to_the_refugee_crisis_make_natives_more_hostile.pdf
+notpdf C00987 https://econpapers.repec.org/paper/nbrnberwo/23027.htm
+fail C00987 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2896008 HTTPError
+fail C00987 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=11738 HTTPError
+ok C00987 http://humcap.uchicago.edu/RePEc/hka/wpaper/Alesina_Stantcheva_Teso_2016_intergen-mobility.pdf
+fail C01022 https://pure.au.dk/portal/en/publications/a9ba574c-7c0f-4f38-be36-882baedf7422 HTTPError
+notpdf C00496 https://sciencespo.hal.science/hal-03948081
+notpdf C00496 http://qmro.qmul.ac.uk/xmlui/handle/123456789/46943
+ok C00817 http://www.nber.org/papers/w22417.pdf
+ok C00846 http://www.nber.org/papers/w25522.pdf
+fail C00909 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=13113 HTTPError
+ok C00909 https://economics.sas.upenn.edu/sites/default/files/filevault/SSRN%2017_021.pdf
+ok C00918 https://researchonline.lse.ac.uk/id/eprint/102007/1/Safari_9_Oct_2019_at_16_37.pdf
+notpdf C00280 https://econpapers.repec.org/paper/hicwpaper/243.htm
+ok C00280 http://www.hicn.org/wp-content/uploads/2012/06/HiCN-WP-243.pdf
+notpdf C00458 https://escholarship.org/uc/item/3f54527z
+ok C00458 https://pure.au.dk/ws/files/257200480/Does_Political_Affirmative_Action_Work_and_for_Whom_Accepted_manuscript_2020.pdf
+notpdf C00810 https://pubmed.ncbi.nlm.nih.gov/32439765
+notpdf C00810 https://www.ncbi.nlm.nih.gov/pmc/articles/7398600
+fail C00913 https://philpapers.org/archive/KNOARM.pdf HTTPError
+fail C00913 https://philarchive.org/rec/KNOARM HTTPError
+notpdf C00913 https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/5567
+fail C00913 https://philpapers.org/rec/KNOARM HTTPError
+ok C01039 http://www.nber.org/papers/w28296.pdf
+ok C00325 https://researchonline.lse.ac.uk/id/eprint/111840/1/BBKP_IncentivesAuthority.pdf
+notpdf C00489 https://EconPapers.repec.org/RePEc:hic:wpaper:210
+ok C00489 http://www.hicn.org/wp-content/uploads/2012/06/HiCN-WP-210-updated.pdf
+fail C00557 https://direct.mit.edu/rest/article-pdf/105/3/713/2091141/rest_a_01077.pdf HTTPError
+fail C00569 https://iris.unibocconi.it/bitstream/11565/4040603/6/qjab034.pdf HTTPError
+ok C00797 http://www.nber.org/papers/w29566.pdf
+ok C00803 https://wrap.warwick.ac.uk/153953/1/WRAP-Origin-state-land-productivity-appropriability-2021.pdf
+fail C00329 http://scholar.harvard.edu/lauratrucco/node/468671 HTTPError
+notpdf C00814 https://www.nature.com/articles/s41586-022-04996-4.pdf
+notpdf C00814 https://www.nature.com/articles/s41586-022-04996-4.pdf
+notpdf C00814 https://pubmed.ncbi.nlm.nih.gov/35915342
+ok C00814 http://www.nber.org/papers/w30313.pdf
+ok C00879 https://researchonline.lse.ac.uk/id/eprint/112544/1/Full_Manuscript_Parts12.pdf
+ok C00914 https://researchonline.lse.ac.uk/id/eprint/114949/1/Emeriau_learning_to_be_unbiased_published.pdf
+ok C00973 https://researchonline.lse.ac.uk/id/eprint/124859/1/Yuchtman_REStud.pdf
+notpdf C00809 https://osf.io/9t3wf
+fail C00809 http://osf.io/9t3wf/ URLError
+notpdf C00809 https://psyarxiv.com/9t3wf/download
+ok C00840 http://eprints.lse.ac.uk/117946/3/Besley_political_economics_of_green_transitions_published.pdf
+ok C00292 https://docs.iza.org/dp11945.pdf
+fail C00549 https://dspace.mit.edu/bitstream/1721.1/165274/2/moscona-seck-2024-age-set-versus-kin-culture-and-fi HTTPError
+ok C00910 https://researchonline.lse.ac.uk/id/eprint/130231/1/DiscriminationPaper_JEEA_Final.pdf
+ok C00839 http://www.nber.org/papers/w25835.pdf
+notpdf C01657 https://pubmed.ncbi.nlm.nih.gov/17847526
+fail C01292 https://dash.harvard.edu/bitstream/1/3451399/4/Barro_AreGovernment.pdf HTTPError
+fail C01292 https://dash.harvard.edu/bitstream/1/3451399/4/Barro_AreGovernment.pdf HTTPError
+fail C01292 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3451399 HTTPError
+fail C01292 http://dash.harvard.edu/bitstream/handle/1/3451399/Barro_AreGovernment.pdf HTTPError
+notpdf C01292 https://EconPapers.repec.org/RePEc:hrv:faseco:3451399
+notpdf C01892 http://links.jstor.org/sici?sici=0361-915X%28197623%297%3A2%3C426%3ARAAC%3E2.0.CO%3B2-D&origin=repec
+notpdf C01893 http://links.jstor.org/sici?sici=0361-915X%28197621%297%3A1%3C73%3AFBFNMG%3E2.0.CO%3B2-U&origin=repec
+fail C02705 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1156855 HTTPError
+notpdf C01837 https://econpapers.repec.org/RePEc:cla:levarc:1205
+notpdf C01837 https://ideas.repec.org/p/cor/louvrp/379.html
+ok C01837 http://www.dklevine.com/archive/refs41205.pdf
+fail C00171 http://economics.ouls.ox.ac.uk/10493/ URLError
+notpdf C00171 http://links.jstor.org/sici?sici=0013-0133%28198212%2992%3A368%3C937%3ATEADCO%3E2.0.CO%3B2-3&origin=bc
+notpdf C00639 https://econpapers.repec.org/RePEc:cla:levarc:544
+ok C00639 http://www.dklevine.com/archive/refs4544.pdf
+notpdf C01834 https://econpapers.repec.org/paper/nwucmsems/471.htm
+fail C01834 http://www.kellogg.northwestern.edu/research/math/papers/471.pdf HTTPError
+notpdf C01834 http://links.jstor.org/sici?sici=0361-915X%28198223%2913%3A2%3C324%3AMHIT%3E2.0.CO%3B2-G&origin=repec
+notpdf C01864 http://links.jstor.org/sici?sici=0361-915X%28198221%2913%3A1%3C206%3ASSCAVI%3E2.0.CO%3B2-4&origin=repec
+ok C01995 https://journals.cambridge.org/abstract_S0020818300018993
+notpdf C01882 http://links.jstor.org/sici?sici=0741-6261%28198423%2915%3A3%3C385%3AIOTSFA%3E2.0.CO%3B2-J&origin=repec
+notpdf C00607 http://links.jstor.org/sici?sici=0012-9682%28198501%2953%3A1%3C85%3ARRI%3E2.0.CO%3B2-%23&origin=repec
+fail C00923 https://dspace.mit.edu/bitstream/1721.1/63378/1/costsbenefitsofo00gros.pdf HTTPError
+fail C00923 https://dspace.mit.edu/bitstream/1721.1/63378/1/costsbenefitsofo00gros.pdf HTTPError
+fail C00923 http://dash.harvard.edu/bitstream/handle/1/3450060/Hart_CostsBenefits.pdf HTTPError
+fail C00923 https://dash.harvard.edu/bitstream/1/3450060/4/Hart_CostsBenefits.pdf HTTPError
+notpdf C00923 https://EconPapers.repec.org/RePEc:cpr:ceprdp:70
+notpdf C02053 https://EconPapers.repec.org/RePEc:cup:cbooks:9780521315937
+notpdf C01457 http://links.jstor.org/sici?sici=0013-0133%28198703%2997%3A385%3C177%3AIAADOM%3E2.0.CO%3B2-S&origin=bc
+notpdf C00751 http://links.jstor.org/sici?sici=0013-0133%28198809%2998%3A392%3C701%3AFSAPA%3E2.0.CO%3B2-8&origin=bc
+notpdf C00131 http://links.jstor.org/sici?sici=0013-0133%28198903%2999%3A394%3C116%3ACTIRAL%3E2.0.CO%3B2-R&origin=bc
+fail C01968 https://journals.sagepub.com/doi/10.1177/0002716289505001011 HTTPError
+notpdf C00175 http://links.jstor.org/sici?sici=0013-0133%28199012%29100%3A403%3C1109%3AWWWWPI%3E2.0.CO%3B2-U&origin=bc
+fail C02523 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1069950_code59984.pdf?abstractid=1069950&mirid=1 HTTPError
+notpdf C02523 https://chicagounbound.uchicago.edu/jle/vol33/iss1/2
+fail C02710 https://dash.harvard.edu/bitstreams/7312037c-6957-6bd4-e053-0100007fdf3b/download HTTPError
+fail C02710 https://dash.harvard.edu/bitstreams/7312037c-6957-6bd4-e053-0100007fdf3b/download HTTPError
+fail C02710 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3612769 HTTPError
+fail C02710 http://dash.harvard.edu/bitstream/handle/1/3612769/alesina_positivetheory.pdf HTTPError
+notpdf C02710 https://econpapers.repec.org/RePEc:hrv:faseco:3612769
+notpdf C02630 https://ageconsearch.umn.edu/record/275509/files/TEL-AVIV-FSWP-179.pdf
+ok C02630 http://www.nber.org/papers/w3053.pdf
+ok C01896 https://www.ideals.illinois.edu/items/29439/bitstreams/98013/data.pdf
+notpdf C01476 https://econpapers.repec.org/RePEc:nwu:cmsems:911
+fail C01476 http://www.kellogg.northwestern.edu/research/math/papers/911.pdf HTTPError
+notpdf C01773 https://www.econstor.eu/bitstream/10419/221357/1/cmsems-dp1000.pdf
+notpdf C01773 https://www.econstor.eu/bitstream/10419/221357/1/cmsems-dp1000.pdf
+notpdf C01773 https://ideas.repec.org/p/nwu/cmsems/1000.html
+fail C01773 http://www.kellogg.northwestern.edu/research/math/papers/1000.pdf HTTPError
+notpdf C01868 http://links.jstor.org/sici?sici=0741-6261%28199321%2924%3A1%3C78%3ATCATDO%3E2.0.CO%3B2-E&origin=repec
+notpdf C01933 https://econpapers.repec.org/RePEc:cmu:gsiawp:1992-12
+notpdf C01933 http://links.jstor.org/sici?sici=0034-6527%28199307%2960%3A3%3C497%3ACCPATE%3E2.0.CO%3B2-B&amp;origin=bc
+fail C01957 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3451302 HTTPError
+fail C01957 http://dash.harvard.edu/bitstream/handle/1/3451302/Shleifer_PrincesMerchants.pdf HTTPError
+ok C01957 http://www.nber.org/papers/w4274.pdf
+ok C02631 http://www.nber.org/papers/w3527.pdf
+notpdf C00982 https://www.escholarship.org/uc/item/00x7n68q.pdf;origin=repeccitec
+ok C00982 http://www.nber.org/papers/w3599.pdf
+notpdf C01924 http://links.jstor.org/sici?sici=0741-6261%28199422%2925%3A2%3C242%3AEDMOPD%3E2.0.CO%3B2-Z&origin=repec
+ok C02416 https://discovery.ucl.ac.uk/16866/1/16866.pdf
+ok C01353 https://resolver.caltech.edu/CaltechAUTHORS:20170907-140631840
+fail C01876 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6299 HTTPError
+notpdf C01876 http://links.jstor.org/sici?sici=0741-6261%28199524%2926%3A4%3C761%3ADMHATN%3E2.0.CO%3B2-0&origin=repec
+notpdf C01925 http://links.jstor.org/sici?sici=0012-9682%28199507%2963%3A4%3C841%3AAPIME%3E2.0.CO%3B2-U&origin=repec
+ok C02070 http://www.nber.org/papers/w4041.pdf
+notpdf C02230 https://pubmed.ncbi.nlm.nih.gov/12291223
+fail C02230 https://journals.sagepub.com/doi/10.1177/019791839502900401 HTTPError
+notpdf C02515 https://ageconsearch.umn.edu/record/294844/files/ipr082.pdf
+notpdf C02515 https://ageconsearch.umn.edu/record/294844/files/ipr082.pdf
+notpdf C02515 http://ageconsearch.umn.edu/record/294844
+notpdf C00190 https://ideas.repec.org/p/fth/stocin/547.html
+notpdf C00190 http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-41866
+notpdf C00190 http://links.jstor.org/sici?sici=0034-6527%28199604%2963%3A2%3C301%3AVIIAPT%3E2.0.CO%3B2-9&amp;origin=bc
+notpdf C01261 https://econpapers.repec.org/RePEc:fth:priwds:175
+ok C01752 https://resolver.caltech.edu/CaltechAUTHORS:20160524-143248707
+fail C02520 http://economics.ouls.ox.ac.uk/10951/ URLError
+fail C00680 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3450061 HTTPError
+fail C00680 http://dash.harvard.edu/bitstream/handle/1/3450061/Helpman_CommonAgency.pdf HTTPError
+fail C01342 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=8604 HTTPError
+ok C01883 http://www.nber.org/papers/w5333.pdf
+fail C01895 https://autopapers.ssrn.com/sol3/papers.cfm?abstract_id=8679 URLError
+ok C01964 https://cyberleninka.ru/article/n/economic-development-of-brazil
+fail C01991 https://journals.sagepub.com/doi/10.1177/0022002797041001004 HTTPError
+ok C02408 http://www.nber.org/papers/w6252.pdf
+ok C00585 http://www.nber.org/papers/w6695.pdf
+fail C00688 http://www.e-jel.org/archive/mar1996/Mcguire.pdf HTTPError
+fail C00823 http://qje.oxfordjournals.org/cgi/content/short/113/2/497 HTTPError
+fail C02374 http://economics.ouls.ox.ac.uk/10129/ URLError
+fail C02374 http://economics.ouls.ox.ac.uk/11220/ URLError
+notpdf C02508 https://econpapers.repec.org/paper/nufesohwp/_5f021.htm
+ok C02508 http://www.nuff.ox.ac.uk/economics/history/paper21/21voth.pdf
+fail C02570 https://autopapers.ssrn.com/sol3/papers.cfm?abstract_id=57627 URLError
+notpdf C02570 https://scholarship.law.columbia.edu/faculty_scholarship/1153
+notpdf C02570 https://repository.law.umich.edu/articles/609
+notpdf C02570 https://repository.law.umich.edu/facarticles/609
+notpdf C02570 https://scholarship.law.columbia.edu/faculty_scholarship/477
+notpdf C00185 https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=008463890&sequence=000001&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA
+fail C00781 https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4823 HTTPError
+notpdf C00781 http://ideas.repec.org/p/kud/kuiedp/9703.html
+ok C00781 https://repec.dss.ucdavis.edu/files/NxeU8GaMjGYJySDQqs3Dqaur/97-11.pdf
+ok C01305 http://papers.nber.org/papers/w5888.pdf
+fail C01440 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=142466 HTTPError
+notpdf C01445 http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;local_base=BVB01&amp;doc_number=008789093&amp;sequence=000003&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA
+fail C01572 http://nrs.harvard.edu/urn-3:HUL.InstRepos:41426667 HTTPError
+ok C01955 http://www.nber.org/papers/w6637.pdf
+notpdf C02056 https://econpapers.repec.org/paper/upfupfgen/367.htm
+ok C02056 https://econ-papers.upf.edu/papers/367.pdf
+fail C02415 http://discovery.ucl.ac.uk/1360365/ HTTPError
+fail C02603 https://dash.harvard.edu/bitstreams/7312037c-5b04-6bd4-e053-0100007fdf3b/download HTTPError
+fail C02603 https://dash.harvard.edu/bitstreams/7312037c-5b04-6bd4-e053-0100007fdf3b/download HTTPError
+fail C02603 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3451297 HTTPError
+notpdf C02603 https://ageconsearch.umn.edu/record/294386/files/harvard031.pdf
+fail C02603 http://dash.harvard.edu/bitstream/handle/1/3451297/Barro_DeterminantsDemocracy.pdf HTTPError
+notpdf C02603 https://pure.eur.nl/en/publications/64a25b33-e59d-49c6-9631-43b3c74030ad
+notpdf C00139 https://EconPapers.repec.org/RePEc:del:abcdef:1999-10
+fail C00139 https://eprints.soton.ac.uk/33482/ HTTPError
+fail C00139 http://qje.oxfordjournals.org/cgi/content/short/115/3/955 HTTPError
+fail C00674 http://www.mitpressjournals.org/doi/pdf/10.1162/003465300558579 HTTPError
+notpdf C00684 https://resolver.caltech.edu/CaltechAUTHORS:20160525-070919757
+notpdf C01422 https://econpapers.repec.org/paper/upfupfgen/457.htm
+ok C01422 https://econ-papers.upf.edu/papers/457.pdf
+fail C01432 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=209188 HTTPError
+fail C01866 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=202349 HTTPError
+notpdf C01866 https://econpapers.repec.org/RePEc:udb:wpaper:95-02
+fail C02017 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3153320 HTTPError
+notpdf C02017 https://scholarship.law.upenn.edu/faculty_articles/227
+fail C02021 https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=235517 HTTPError
+notpdf C02219 https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/2627
+fail C02413 https://research.tilburguniversity.edu/en/publications/641eb9a4-f245-483b-8c01-6994a6cf6ca6 HTTPError
+fail C02413 http://qje.oxfordjournals.org/cgi/content/short/115/3/791 HTTPError
+notpdf C02459 https://econpapers.repec.org/paper/wopprinet/00s9.htm
+fail C01257 https://papers.ssrn.com/sol3/Delivery.cfm/1696.pdf?abstractid=632656&mirid=1 HTTPError
+notpdf C01257 http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2001/05/11/000094946_01042806383524/Rendered/PDF/multi0page.pdf
+notpdf C01257 https://EconPapers.repec.org/RePEc:wbk:wbrwps:2587
+fail C01257 http://elibrary.worldbank.org/content/workingpaper/10.1596/1813-9450-2587 URLError
+notpdf C01257 http://documents.worldbank.org/curated/en/2001/04/1089579/growth-good-poor
+ok C01257 https://down.aefweb.net/WorkingPapers/w744.pdf
+notpdf C01605 https://www.zora.uzh.ch/handle/20.500.14742/32456
+notpdf C01986 http://ideas.repec.org/p/pri/wwseco/dp206.pdf.html
+fail C01986 http://www.princeton.edu/wwseconpapers/papers/dp206.pdf HTTPError
+ok C01986 http://faculty.haas.berkeley.edu/rjmorgan/Experts%20Final%20QJE%20Version.pdf
+fail C02038 http://www.mitpressjournals.org/doi/pdf/10.1162/003465301750160108 HTTPError
+fail C02196 http://dash.harvard.edu/bitstream/handle/1/12502088/1209137.pdf HTTPError
+fail C02196 http://nrs.harvard.edu/urn-3:HUL.InstRepos:12502088 HTTPError
+notpdf C02196 https://EconPapers.repec.org/RePEc:hrv:faseco:12502088
+ok C02196 https://www.brookings.edu/wp-content/uploads/2001/06/2001b_bpea_alesina.pdf
+fail C02519 http://economics.ouls.ox.ac.uk/11994/ URLError
+fail C02519 http://economics.ouls.ox.ac.uk/10310/ URLError
+notpdf C00847 https://econpapers.repec.org/paper/fthuppaal/1999_3a24.htm
+notpdf C00847 http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-2469
+fail C00847 http://www.nek.uu.se/pdf/1999wp24.pdf HTTPError
+notpdf C00847 http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-88791
+ok C01341 https://docs.iza.org/dp368.pdf
+notpdf C01494 https://pubmed.ncbi.nlm.nih.gov/15179979
+notpdf C01614 https://pubmed.ncbi.nlm.nih.gov/11894851
+ok C01927 http://www.nber.org/papers/w8227.pdf
+notpdf C00463 https://ideas.repec.org/p/feb/natura/00339.html
+notpdf C00463 https://EconPapers.repec.org/RePEc:feb:natura:00339
+ok C00463 http://s3.amazonaws.com/fieldexperiments-papers2/papers/00339.pdf
+notpdf C01360 https://research.vu.nl/en/publications/ce98ed5a-857b-495f-89e4-35fb0bb80524
+notpdf C01615 https://pubmed.ncbi.nlm.nih.gov/14551436
+fail C01715 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=468163 HTTPError
+fail C01772 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=3498 HTTPError
+fail C01772 http://eprints.lse.ac.uk/897/ HTTPError
+fail C01772 http://www.ifs.org.uk/wps/wp0213.pdf HTTPError
+fail C01870 https://journals.sagepub.com/doi/pdf/10.1177/1476127003001001218 HTTPError
+ok C01871 https://utoronto.scholaris.ca/bitstreams/1edd1b37-301c-4690-b418-0270d189b549/download
+fail C01889 https://autopapers.ssrn.com/sol3/papers.cfm?abstract_id=441943 URLError
+ok C02071 http://papers.nber.org/papers/w7579.pdf
+notpdf C02347 https://pubmed.ncbi.nlm.nih.gov/12637744
+notpdf C02347 http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:229791
+notpdf C02347 https://gfzpublic.gfz-potsdam.de/pubman/item/item_229791
+notpdf C02347 https://gfzpublic.gfz.de/pubman/item/item_229791
+notpdf C00120 https://EconPapers.repec.org/RePEc:aub:autbar:596.03
+notpdf C00120 https://ddd.uab.cat/record/288335
+ok C00120 http://pareto.uab.es/wp/2003/59603.pdf
+fail C00632 https://dash.harvard.edu/bitstreams/7312037c-7061-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00632 https://dash.harvard.edu/bitstreams/7312037c-7061-6bd4-e053-0100007fdf3b/download HTTPError
+fail C00632 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3157884 HTTPError
+notpdf C00632 https://scholarship.law.upenn.edu/faculty_articles/47
+ok C00736 https://www.nber.org/system/files/working_papers/w10498/w10498.pdf
+ok C00867 http://www.nber.org/papers/w10530.pdf
+notpdf C01464 https://www.ncbi.nlm.nih.gov/pmc/articles/2658609
+notpdf C01464 https://pubmed.ncbi.nlm.nih.gov/19305517
+notpdf C01464 https://ideas.repec.org/p/pri/rpdevs/banerjee_deaton_duflo_wealth_health_and_health_services_in_rural-_rajasthan_aer.pdf.html
+fail C01464 http://wws-roxen.princeton.edu/chwpapers/papers/banerjee_deaton_wealthhealth.pdf URLError
+fail C01464 https://rpds.princeton.edu/sites/rpds/files/media/banerjee_deaton_duflo_wealth_health_and_health_ser URLError
+fail C01464 http://www.princeton.edu/rpds/papers/banerjee_deaton_wealthhealth.pdf URLError
+ok C01828 http://eprints.lse.ac.uk/539/1/dempeace.pdf
+ok C01850 https://uhra.herts.ac.uk/id/eprint/112/1/102898.pdf
+fail C01926 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3436404 HTTPError
+ok C01926 http://www.nber.org/papers/w6481.pdf
+ok C02000 http://papers.nber.org/papers/w8461.pdf
+notpdf C02072 https://ideas.repec.org/p/ads/wpaper/0020.html
+fail C02072 http://www.sss.ias.edu/publications/papers/econpaper20.pdf HTTPError
+fail C02072 http://www.econ.ucla.edu/iobara/seminarW03/politician-judge.pdf HTTPError
+notpdf C02072 http://publications.ut-capitole.fr/1053/
+fail C02152 http://dash.harvard.edu/bitstream/handle/1/27867242/w10568.pdf HTTPError
+ok C02152 http://www.nber.org/papers/w10568.pdf
+ok C00665 https://researchonline.lse.ac.uk/id/eprint/224/1/education-AJPSfinal.pdf
+ok C00927 http://www.nber.org/papers/w11094.pdf
+ok C01482 https://researchonline.lse.ac.uk/id/eprint/2244/1/Do_Rural_Banks_Matter_Evidence_from_the_Indian_Social_Banking_Experiment.pdf
+fail C01517 http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=150156 HTTPError
+notpdf C01545 https://research.tilburguniversity.edu/en/publications/fe2befb8-9a95-42e5-91c7-485c843987b5
+fail C01545 https://repository.tilburguniversity.edu/bitstreams/4877b54c-e5ba-41fa-b148-52d93ac70243/download HTTPError
+fail C01545 https://research.tilburguniversity.edu/en/publications/0e95c1f5-f5fa-4a46-a50e-a675fb98fee0 HTTPError
+fail C01545 http://arno.uvt.nl/show.cgi?fid=10472 HTTPError
+ok C01764 http://eprints.lse.ac.uk/24712/1/dp498.pdf
+notpdf C01961 https://econpapers.repec.org/paper/wpawuwpeh/0404002.htm
+ok C01961 https://econwpa.ub.uni-muenchen.de/econ-wp/eh/papers/0404/0404002.pdf
+fail C02057 http://www.blackwell-synergy.com/doi/abs/10.1111/j.1467-9248.2005.00514.x HTTPError
+notpdf C02057 https://research-information.bris.ac.uk/en/publications/1f824bad-2a74-4d1b-b3cf-40d101571bc8
+fail C02123 http://nrs.harvard.edu/urn-3:HUL.InstRepos:4553005 HTTPError
+notpdf C02174 https://ideas.repec.org/p/lis/liswps/400.html
+ok C02174 https://archive-ouverte.unige.ch/unige:41001
+fail C02250 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1324266 HTTPError
+fail C02250 https://journals.sagepub.com/doi/10.1177/0002716205278406 HTTPError
+ok C02258 https://researchonline.lse.ac.uk/id/eprint/940/1/Politics_of_public_TODAY.pdf
+ok C02737 http://eprints.lse.ac.uk/928/1/Competition_and_incentives_with_motivated_agents_%28lsero%29.pdf
+notpdf C02758 https://econpapers.repec.org/RePEc:upf:upfgen:770
+ok C02758 https://econ-papers.upf.edu/papers/770.pdf
+notpdf C00390 https://ideas.repec.org/h/elg/eechap/3584_6.html
+fail C00747 http://www.blackwell-synergy.com/doi/abs/10.1111/j.1468-0297.2006.01117.x HTTPError
+notpdf C00782 https://www.escholarship.org/uc/item/56p4n4zf.pdf;origin=repeccitec
+ok C00782 http://www.nber.org/papers/w10176.pdf
+fail C01339 http://www.blackwell-synergy.com/doi/abs/10.1111/j.1468-0297.2006.01092.x HTTPError
+notpdf C01423 https://escholarship.org/uc/item/8b3706t2
+notpdf C01486 https://ageconsearch.umn.edu/record/28413/files/dp060940.pdf
+notpdf C01486 http://ageconsearch.umn.edu/record/28413
+notpdf C01486 http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2006/09/18/000112742_20060918174212/Rendered/PDF/WPS40081IE70B3111130ADDITIONAL0COTITL.pdf
+fail C01486 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=6193 HTTPError
+fail C01486 http://elibrary.worldbank.org/content/workingpaper/10.1596/1813-9450-4008 URLError
+notpdf C01486 http://documents.worldbank.org/curated/en/2006/09/7063025/group-versus-individual-liability-field-experiment-philippines
+ok C01496 http://eprints.lse.ac.uk/3539/1/Social_networks_and_technology_adoption_in_northern_mozambique%28DEDPS%29.pdf
+fail C02023 https://dash.harvard.edu/bitstreams/7312037c-5b50-6bd4-e053-0100007fdf3b/download HTTPError
+fail C02023 https://dash.harvard.edu/bitstreams/7312037c-5b50-6bd4-e053-0100007fdf3b/download HTTPError
+fail C02023 http://nrs.harvard.edu/urn-3:HUL.InstRepos:3017499 HTTPError
+notpdf C02104 https://www.zora.uzh.ch/id/eprint/2978/36/Kriesi_EJPR_2006V.pdf
+notpdf C02104 https://www.zora.uzh.ch/id/eprint/2978/36/Kriesi_EJPR_2006V.pdf
+notpdf C02104 https://www.econstor.eu/bitstream/10419/28264/1/497813890.PDF
+notpdf C02104 https://EconPapers.repec.org/RePEc:zbw:sfb597:14
+notpdf C02104 https://sciencespo.hal.science/hal-05787240
+notpdf C02104 https://www.zora.uzh.ch/handle/20.500.14742/32996
+fail C02193 https://www.ntanet.org/NTJ/59/3/ntj-v59n03p403-23-tale-two-tax-cuts.html HTTPError
+fail C02231 https://journals.sagepub.com/doi/10.1111/j.1747-7379.2006.00017.x HTTPError
+notpdf C02599 https://pubmed.ncbi.nlm.nih.gov/29135209
+notpdf C00210 http://ageconsearch.umn.edu/record/28522
+notpdf C00210 http://ageconsearch.umn.edu/record/28522
+notpdf C00210 https://ageconsearch.umn.edu/record/28522/files/dp050913.pdf
+notpdf C00210 https://EconPapers.repec.org/RePEc:cpr:ceprdp:6194
+fail C00210 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=6194 HTTPError
+ok C00210 http://www.econ.yale.edu/growth_pdf/cdp913.pdf
+fail C00672 http://www.mitpressjournals.org/doi/pdf/10.1162/rest.89.4.660 HTTPError
+ok C01311 http://www.nber.org/papers/w11904.pdf
+notpdf C01324 https://pubmed.ncbi.nlm.nih.gov/17389637
+notpdf C01329 https://pubmed.ncbi.nlm.nih.gov/17389631
+fail C01873 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=4924 HTTPError
+notpdf C01873 https://chicagounbound.uchicago.edu/jle/vol50/iss1/1
+fail C01922 http://www.mitpressjournals.org/doi/pdf/10.1162/rest.89.3.573 HTTPError
+fail C01973 http://nrs.harvard.edu/urn-3:HUL.InstRepos:11352696 HTTPError
+notpdf C01992 https://econpapers.repec.org/RePEc:tin:wpaper:20050028
+ok C01992 http://papers.tinbergen.nl/05028.pdf
+ok C02039 http://www.nber.org/papers/w11028.pdf
+ok C02043 https://docs.iza.org/dp190.pdf
+fail C02065 http://www.blackwell-synergy.com/doi/abs/10.1111/j.1467-9248.2007.00658.x HTTPError
+fail C02065 https://orcid.org/0000-0002-7780-3093> HTTPError
+ok C02172 http://www.nber.org/papers/w13242.pdf
+notpdf C02251 https://ideas.repec.org/p/cla/levrem/321307000000000188.html
+notpdf C02251 https://econpapers.repec.org/RePEc:ecl:prirpe:09-19-2005a
+fail C02251 http://www.hss.caltech.edu/~trp/turnout11.pdf HTTPError
+notpdf C02251 https://resolver.caltech.edu/CaltechAUTHORS:20160303-145732549
+ok C02259 http://www.nber.org/papers/w11570.pdf
+notpdf C02452 https://escholarship.org/uc/item/27r1m1zh
+notpdf C02452 http://www.escholarship.org/uc/item/27r1m1zh
+notpdf C02547 https://figshare.com/articles/journal_contribution/Unions_voter_turnout_and_class_bias_in_the_U_S_electorate_1964-2004/23890935
+ok C02639 https://escholarship.org/content/qt0x3780rb/qt0x3780rb.pdf?t=lnr8o1
+notpdf C00140 https://www.zora.uzh.ch/handle/20.500.14742/33718
+notpdf C00456 https://pubmed.ncbi.nlm.nih.gov/19768841
+fail C00770 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1115167 HTTPError
+fail C00866 http://www.blackwell-synergy.com/doi/abs/10.1111/j.1468-0297.2008.02191.x HTTPError
+notpdf C01264 https://www.ncbi.nlm.nih.gov/pmc/articles/2964162
+notpdf C01264 https://pubmed.ncbi.nlm.nih.gov/21031158
+fail C01273 http://nrs.harvard.edu/urn-3:HUL.InstRepos:2907518 HTTPError
+fail C01273 http://dash.harvard.edu/bitstream/handle/1/2907518/mullainathan%20limited%20attention.pdf HTTPError
+fail C01403 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=6071 HTTPError
+notpdf C01454 https://pubmed.ncbi.nlm.nih.gov/19212452
+notpdf C01454 https://www.ncbi.nlm.nih.gov/pmc/articles/2638076
+ok C01479 http://www.nber.org/papers/w12325.pdf
+notpdf C01641 https://pubmed.ncbi.nlm.nih.gov/18832637
+notpdf C01935 https://madoc.bib.uni-mannheim.de/32908/
+notpdf C01943 https://madoc.bib.uni-mannheim.de/58494/
+notpdf C01943 https://madoc.bib.uni-mannheim.de/58496/
+ok C01952 http://www.nber.org/papers/w12161.pdf
+notpdf C02114 https://www.ncbi.nlm.nih.gov/pmc/articles/2915460
+notpdf C02114 https://pubmed.ncbi.nlm.nih.gov/20689680
+fail C02199 https://journals.sagepub.com/doi/10.1177/1465116508089086 HTTPError
+notpdf C02223 https://www.zora.uzh.ch/id/eprint/154957/1/ZORA_NL_154957.pdf
+fail C02223 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2497404_code657828.pdf?abstractid=2497404&mirid=4 HTTPError
+notpdf C02223 https://www.zora.uzh.ch/handle/20.500.14742/144858
+fail C02223 http://doc.rero.ch/record/295536/files/S0020818308080144.pdf HTTPError
+fail C02224 https://orcid.org/0000-0001-8965-0621> HTTPError
+fail C02337 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=822824 HTTPError
+notpdf C02337 https://sciencespo.hal.science/hal-03415798
+fail C02337 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=5218 HTTPError
+fail C02337 https://sciencespo.hal.science/hal-03415798v1/document HTTPError
+ok C02337 https://serval.unil.ch/notice/serval:BIB_436A8B9FDEBA
+ok C02449 http://www.nber.org/papers/w14511.pdf
+ok C02457 https://researchonline.lse.ac.uk/id/eprint/58665/1/Alonso_Matouschek_Optimal-delegation_2008.pdf
+fail C02480 http://restud.oxfordjournals.org/cgi/content/short/76/1/115 HTTPError
+notpdf C02505 https://econpapers.repec.org/paper/sipdpaper/06-038.htm
+fail C02505 http://www-siepr.stanford.edu/repec/sip/06-038.pdf URLError
+fail C02605 http://nrs.harvard.edu/urn-3:HUL.InstRepos:4551793 HTTPError
+fail C02605 http://dash.harvard.edu/bitstream/handle/1/4551793/alesina_electoral.pdf HTTPError
+notpdf C02605 https://EconPapers.repec.org/RePEc:hrv:faseco:4551793
+notpdf C02605 http://discovery.ucl.ac.uk/17714/
+fail C02636 https://dash.harvard.edu/bitstream/1/32072356/1/On_the_Robustness_of_Majority_Rule.pdf HTTPError
+fail C02636 https://dash.harvard.edu/bitstream/1/32072356/1/On_the_Robustness_of_Majority_Rule.pdf HTTPError
+fail C02636 http://nrs.harvard.edu/urn-3:HUL.InstRepos:32072356 HTTPError
+notpdf C02636 https://research.manchester.ac.uk/en/publications/e7dc9e25-2a88-41ee-bf95-cd571d6e77a3
+fail C02638 http://EconPapers.repec.org/RePEc:pit:wpaper:273 HTTPError
+fail C02638 http://www.econ.pitt.edu/papers/John_duffy_tavits_0507.pdf HTTPError
+fail C02669 http://www.blackwell-synergy.com/doi/abs/10.1111/j.1468-0297.2008.02189.x HTTPError
+fail C00136 http://www.mitpressjournals.org/doi/pdfplus/10.1162/qjec.2009.124.3.1095 HTTPError
+ok C01001 http://www.nber.org/papers/w12093.pdf
+notpdf C01301 https://www.ncbi.nlm.nih.gov/pmc/articles/4170069
+notpdf C01301 https://pubmed.ncbi.nlm.nih.gov/25254082
+fail C01349 https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37366431 HTTPError
+ok C01349 http://www.nber.org/papers/w11704.pdf
+notpdf C01460 http://cdm15738.contentdm.oclc.org/cdm/ref/collection/p15738coll5/id/620
+fail C01460 http://ebrary.ifpri.org/cdm/ref/collection/p15738coll5/id/620 HTTPError
+notpdf C01471 https://www.ncbi.nlm.nih.gov/pmc/articles/3740762
+notpdf C01471 https://pubmed.ncbi.nlm.nih.gov/23946865
+notpdf C01484 https://EconPapers.repec.org/RePEc:hbs:wpaper:09-001
+ok C01484 http://www.hbs.edu/research/pdf/09-001.pdf
+notpdf C01996 https://escholarship.org/uc/item/7hs1d71n
+notpdf C01996 http://www.escholarship.org/uc/item/7hs1d71n
+fail C02180 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2125464 HTTPError
+fail C02294 http://www.mitpressjournals.org/doi/pdf/10.1162/rest.91.2.245 HTTPError
+notpdf C02494 https://sciencespo.hal.science/hal-01052798
+fail C02494 https://econpapers.repec.org/RePEc:hal:journl:hal-00813038 HTTPError
+notpdf C02494 https://pjse.hal.science/hal-00813038
+notpdf C02494 https://sciencespo.hal.science/hal-01052798/document
+notpdf C02494 http://spire.sciencespo.fr/hdl:/2441/10262/resources/huillery-aejapp-2007-0034-manuscript.pdf
+notpdf C02494 https://spire.sciencespo.fr/hdl:/2441/10262/resources/app.1.2.176.pdf
+notpdf C02541 https://pubmed.ncbi.nlm.nih.gov/19900925
+notpdf C02541 https://www.ncbi.nlm.nih.gov/pmc/articles/2792081
+notpdf C02541 https://escholarship.org/uc/item/5sb1257q
+notpdf C02541 http://www.escholarship.org/uc/item/5sb1257q
+fail C02541 http://dro.dur.ac.uk/7904/ HTTPError
+fail C02541 https://researchonline.lshtm.ac.uk/view/creators/ecpsrsea.html>; HTTPError
+notpdf C02640 https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=027468501&sequence=000002&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA
+ok C02717 http://www.nber.org/papers/w13164.pdf
+notpdf C01263 https://www.ncbi.nlm.nih.gov/pmc/articles/3324856
+notpdf C01263 https://pubmed.ncbi.nlm.nih.gov/22505779
+fail C01263 http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00118 HTTPError
+notpdf C01277 https://www.ncbi.nlm.nih.gov/pmc/articles/3290659
+notpdf C01277 https://pubmed.ncbi.nlm.nih.gov/20438143
+fail C01389 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=7754 HTTPError
+notpdf C01421 https://www.escholarship.org/uc/item/8kt576x8.pdf;origin=repeccitec
+ok C01421 http://www.nber.org/papers/w14130.pdf
+notpdf C01455 https://www.ncbi.nlm.nih.gov/pmc/articles/3800109
+notpdf C01455 https://pubmed.ncbi.nlm.nih.gov/24147187
+notpdf C01456 https://www.ncbi.nlm.nih.gov/pmc/articles/3810960
+notpdf C01456 https://pubmed.ncbi.nlm.nih.gov/24179596
+fail C01461 http://dash.harvard.edu/bitstream/handle/1/11986330/nunn-columbian-exchange.pdf HTTPError
+fail C01461 https://dash.harvard.edu/bitstreams/7312037d-1804-6bd4-e053-0100007fdf3b/download HTTPError
+fail C01461 http://nrs.harvard.edu/urn-3:HUL.InstRepos:11986330 HTTPError
+notpdf C01461 https://EconPapers.repec.org/RePEc:hrv:faseco:11986330
+notpdf C01478 https://bia.unibz.it/esploro/outputs/journalArticle/How-important-is-selection-Experimental-vs/991005773031601241
+notpdf C01589 https://pubmed.ncbi.nlm.nih.gov/20550733
+ok C01611 https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1000316&type=printable
+fail C01966 https://dash.harvard.edu/bitstream/1/33785664/1/rest_a_00023.pdf HTTPError
+fail C01966 https://dash.harvard.edu/bitstream/1/33785664/1/rest_a_00023.pdf HTTPError
+fail C01966 http://nrs.harvard.edu/urn-3:HUL.InstRepos:33785664 HTTPError
+fail C01966 http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00023 HTTPError
+notpdf C02105 http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;local_base=BVB01&amp;doc_number=020782798&amp;sequence=000002&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA
+ok C02113 https://utoronto.scholaris.ca/bitstreams/e44c74bb-d2da-4000-a942-25662c566332/download
+fail C02138 http://www.mitpressjournals.org/doi/pdfplus/10.1162/qjec.2010.125.4.1459 HTTPError
+fail C02220 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1157403_code1041156.pdf?abstractid=1157403&mirid=1 HTTPError
+notpdf C02491 https://econpapers.repec.org/RePEc:sza:wpaper:wpapers109
+fail C02491 https://www.cbe.anu.edu.au/researchpapers/econ/wp517.pdf HTTPError
+ok C02491 https://www.ekon.sun.ac.za/wpapers/2010/wp102010/wp-10-2010.pdf
+notpdf C02668 https://www.elibrary.imf.org/downloadpdf/journals/001/2010/173/001.2010.issue-173-en.xml
+fail C02668 http://www.imf.org/external/pubs/cat/longres.aspx?sk=24076 HTTPError
+notpdf C02668 http://elibrary.imf.org/view/IMF001/11164-9781455201846/11164-9781455201846/11164-9781455201846.xml
+ok C00142 https://www.nber.org/system/files/working_papers/w17579/w17579.pdf
+ok C00187 http://www.nber.org/papers/w12748.pdf
+fail C00485 http://restud.oxfordjournals.org/cgi/content/short/78/2/458 HTTPError
+ok C00613 http://www.nber.org/papers/w16083.pdf
+ok C00873 https://researchonline.lse.ac.uk/id/eprint/40799/1/Do%20democracies%20select%20more%20educated%20leaders%28lsero%29.pdf
+fail C00891 http://restud.oxfordjournals.org/cgi/content/short/79/3/1021 HTTPError
+ok C00985 https://www.nber.org/system/files/working_papers/w14335/w14335.pdf
+ok C00999 http://www.nber.org/papers/w15083.pdf
+fail C01030 http://dash.harvard.edu/bitstream/handle/1/11986333/nunn-fertility.pdf HTTPError
+ok C01030 https://docs.iza.org/dp5502.pdf
+fail C01096 http://jcr.sagepub.com/content/55/4/496.abstract HTTPError
+notpdf C01284 https://pubmed.ncbi.nlm.nih.gov/21788012
+fail C01284 http://europepmc.org/articles/PMC3242164 HTTPError
+notpdf C01284 https://www.ncbi.nlm.nih.gov/pmc/articles/3242164
+fail C01284 https://researchonline.lshtm.ac.uk/view/creators/enphvpat.html>; HTTPError
+notpdf C01332 https://pubmed.ncbi.nlm.nih.gov/21853618
+fail C01332 http://qje.oxfordjournals.org/cgi/content/short/CXXVI/1/145 HTTPError
+ok C01604 http://eprints.lse.ac.uk/37667/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Dechezlepretre%2C%20A_Invention%20and%20transfer_Dechezlepretre_Invention%20and%20transfer_2014.pdf
+ok C01704 http://eprints.lse.ac.uk/36366/1/Does_management_matter.pdf
+notpdf C01769 http://eprints.lse.ac.uk/36776/
+notpdf C01923 https://econpapers.repec.org/RePEc:pen:papers:06-021
+fail C01923 http://papers.ssrn.com/abstract=925647 HTTPError
+ok C01923 https://economics.sas.upenn.edu/sites/default/files/filevault/working-papers/06-021.pdf
+notpdf C02016 https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/1870
+ok C02055 http://eprints.lse.ac.uk/25125/1/PSPE_WP1_09_%28LSERO%29.pdf
+fail C02136 http://jpr.sagepub.com/content/48/3/399.abstract HTTPError
+notpdf C02188 https://pjse.hal.science/halshs-00754557v1/document
+ok C02189 https://archive-ouverte.unige.ch/unige:40999
+fail C02270 http://nrs.harvard.edu/urn-3:HUL.InstRepos:30752835 HTTPError
+notpdf C02270 https://pjse.hal.science/halshs-00754527
+fail C02327 http://dash.harvard.edu/bitstream/handle/1/11878804/Algan_Teaching.pdf HTTPError
+fail C02327 https://dash.harvard.edu/bitstream/1/11878804/4/Algan_Teaching.pdf HTTPError
+fail C02327 http://nrs.harvard.edu/urn-3:HUL.InstRepos:11878804 HTTPError
+ok C02327 https://docs.iza.org/dp6052.pdf
+fail C02507 http://nrs.harvard.edu/urn-3:HUL.InstRepos:33077825 HTTPError
+notpdf C02507 https://pubmed.ncbi.nlm.nih.gov/22073408
+ok C02676 http://www.nber.org/papers/w17436.pdf
+notpdf C02741 https://research.birmingham.ac.uk/en/publications/ae05d062-5cee-4c4b-af67-420efa062c0a
+ok C00119 http://www.nber.org/papers/w14239.pdf
+ok C00440 http://www.nber.org/papers/w19127.pdf
+notpdf C00518 https://www.escholarship.org/uc/item/2px0t7pt.pdf;origin=repeccitec
+notpdf C00518 https://escholarship.org/uc/item/2px0t7pt
+notpdf C00518 http://www.escholarship.org/uc/item/2px0t7pt
+ok C00518 https://mpra.ub.uni-muenchen.de/32667/1/MPRA_paper_32667.pdf
+ok C00701 http://www.nber.org/papers/w17981.pdf
+notpdf C01008 https://research.wur.nl/en/publications/violent-conflict-and-behavior-a-field-experiment-in-burundi
+notpdf C01008 https://research.vu.nl/en/publications/f7f99999-771a-4cb3-920d-96305accb724
+notpdf C01008 https://research.tilburguniversity.edu/en/publications/316a8994-d6f2-437b-8c10-e189ab279174
+fail C01008 https://research.rug.nl/files/66563385/aer.102.2.941.pdf HTTPError
+fail C01008 https://research.rug.nl/en/publications/fc5fed1d-0c4a-4203-8aad-d1335cbaeb58 HTTPError
+ok C01033 http://didattica.unibocconi.it/mypage/upload/49273_20120316_124441_SOAPMAR2012.PDF
+notpdf C01323 https://www.ncbi.nlm.nih.gov/pmc/articles/3730274
+notpdf C01323 https://pubmed.ncbi.nlm.nih.gov/23213162
+fail C01323 http://europepmc.org/articles/PMC3730274 HTTPError
+fail C01350 https://papers.ssrn.com/sol3/Delivery.cfm/DP8734.pdf?abstractid=1988666&mirid=4 HTTPError
+notpdf C01390 https://pubmed.ncbi.nlm.nih.gov/22363007
+ok C01426 https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B8D3F3B61-FC74-6597-E9DC-6C8599926718%7D.pdf
+notpdf C01590 https://ci.nii.ac.jp/ncid/BB10647494
+notpdf C01791 https://ideas.repec.org/p/cpr/ceprdp/7768.html
+fail C01791 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=7768 HTTPError
+ok C01829 https://bw.bse.eu/wp-content/uploads/2015/09/482-file.pdf
+ok C01959 https://econ-papers.upf.edu/papers/1115.pdf
+fail C01993 http://nrs.harvard.edu/urn-3:HUL.InstRepos:33490997 HTTPError
+ok C02034 http://eprints.lse.ac.uk/36150/1/International%20negotiations%20and%20domestic%20politics%28lsero%29.pdf
+ok C02263 http://www.nber.org/papers/w17833.pdf
+notpdf C02286 http://eprints.lse.ac.uk/33872/
+notpdf C02286 http://eprints.lse.ac.uk/42023/
+notpdf C02286 http://eprints.lse.ac.uk/46840/
+ok C02286 https://red-files-public.s3.amazonaws.com/meetpapers/2010/paper_306.pdf
+notpdf C02388 https://chicagounbound.uchicago.edu/jle/vol55/iss3/2
+ok C02407 http://www.nber.org/papers/w17794.pdf
+ok C02600 https://www.nber.org/system/files/working_papers/w18441/w18441.pdf
+notpdf C00659 https://run.unl.pt/bitstream/10362/161149/1/violence.pdf
+notpdf C00706 https://econpapers.repec.org/RePEc:bdi:wptemi:td_709_09
+fail C00706 http://www.bancaditalia.it/pubblicazioni/temi-discussione/2009/2009-0709/en_tema_709.pdf URLError
+ok C00976 https://www.nber.org/system/files/working_papers/w18691/w18691.pdf
+fail C00992 http://nrs.harvard.edu/urn-3:HUL.InstRepos:11986384 HTTPError
+notpdf C01274 https://pubmed.ncbi.nlm.nih.gov/23990553
+ok C01310 http://www.nber.org/papers/w19440.pdf
+notpdf C01318 https://pubmed.ncbi.nlm.nih.gov/29533047
+ok C01595 https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0078737&type=printable
+notpdf C01622 https://pubmed.ncbi.nlm.nih.gov/23740550
+fail C01622 https://pure.au.dk/portal/en/publications/52767b73-c348-473a-84c1-e8f02ae494bc HTTPError
+fail C01672 http://www.haujournal.org/index.php/hau/article/view/hau3.3.033 HTTPError
+notpdf C01675 https://www.ncbi.nlm.nih.gov/pmc/articles/4354689
+notpdf C01675 https://pubmed.ncbi.nlm.nih.gov/25802926
+ok C02157 https://lup.lub.lu.se/record/3631254
+notpdf C02175 https://ideas.repec.org/p/lis/liswps/584.html
+ok C02175 http://www.lisdatacenter.org/wps/liswps/584.pdf
+notpdf C02532 http://eprints.lse.ac.uk/54689/
+ok C02532 http://www.nber.org/papers/w19075.pdf
+notpdf C02597 https://www.ncbi.nlm.nih.gov/pmc/articles/3955392
+notpdf C02597 https://pubmed.ncbi.nlm.nih.gov/24639594
+ok C02699 http://www.nber.org/papers/w19698.pdf
+notpdf C02716 https://pure.qub.ac.uk/en/publications/c0480106-1942-4c30-8f10-dc241e57c533
+fail C02760 http://www.loc.gov/catdir/enhancements/fy1304/2012036928-b.html HTTPError
+ok C00619 http://eprints.lse.ac.uk/57125/1/Besley_Legacy%20of%20historical%20conflict_2016.pdf
+notpdf C00730 https://pubmed.ncbi.nlm.nih.gov/25308977
+notpdf C00730 https://www.ncbi.nlm.nih.gov/pmc/articles/4193678
+fail C00738 http://nrs.harvard.edu/urn-3:HUL.InstRepos:13348078 HTTPError
+fail C00764 https://dspace.mit.edu/bitstream/1721.1/95977/1/Duflo_Dofirmswanttoborrowmore.pdf HTTPError
+fail C00764 https://dspace.mit.edu/bitstream/1721.1/95977/1/Duflo_Dofirmswanttoborrowmore.pdf HTTPError
+notpdf C00764 https://econpapers.repec.org/RePEc:cpr:ceprdp:4681
+fail C00764 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=4681 HTTPError
+fail C01003 https://repository.urosario.edu.co/handle/10336/23884 URLError
+ok C01103 http://eprints.lse.ac.uk/66002/1/Besley_Developing%20countries%20tax_2016.pdf
+notpdf C01282 https://pubmed.ncbi.nlm.nih.gov/24855262
+notpdf C01282 https://www.zora.uzh.ch/99546
+notpdf C01282 https://www.zora.uzh.ch/handle/20.500.14742/107830
+notpdf C01331 https://www.ncbi.nlm.nih.gov/pmc/articles/4254820
+notpdf C01331 https://pubmed.ncbi.nlm.nih.gov/25485039
+ok C01331 http://www.nber.org/papers/w17892.pdf
+notpdf C01392 https://ageconsearch.umn.edu/record/139887/files/cdp1019.pdf
+ok C01392 http://www.nber.org/papers/w18463.pdf
+ok C01474 http://www.econ.yale.edu/growth_pdf/cdp1035.pdf
+notpdf C01578 http://eprints.lse.ac.uk/53229/
+notpdf C01578 https://researchonline.lse.ac.uk/id/eprint/53229/
+notpdf C01645 https://pubmed.ncbi.nlm.nih.gov/26785995
+fail C01784 https://orcid.org/0000-0002-8923-6372> HTTPError
+fail C01785 https://econpapers.repec.org/RePEc:hou:wpaper:201303249 HTTPError
+ok C01785 http://www.uh.edu/econpapers/RePEc/hou/wpaper/201303249.pdf
+fail C01980 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2353621_code1320685.pdf?abstractid=2105395&mirid=1 HTTPError
+notpdf C02042 https://escholarship.org/uc/item/8tb1b0pn
+ok C02125 https://researchonline.lse.ac.uk/id/eprint/64475/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Wolton%2C%20S_Political%20conflicts_Wolton_Political%20conflicts_2015.pdf
+ok C02139 http://eprints.lse.ac.uk/89172/1/Getmansky_Terrorism_and_voting_Accepted.pdf
+ok C02232 https://escholarship.org/content/qt7kq7h97t/qt7kq7h97t.pdf?t=oe5per
+fail C02275 https://nottingham-repository.worktribe.com/output/734999 HTTPError
+fail C02275 https://nottingham-repository.worktribe.com/preview/735007/Albornoz_Hauk_JDE.pdf HTTPError
+fail C02275 http://eprints.nottingham.ac.uk/35637/ HTTPError
+fail C02275 https://research.birmingham.ac.uk/en/publications/d8b8f3ff-3b65-4385-bcd4-ece39b36be62 HTTPError
+ok C02376 http://www.nber.org/papers/w20697.pdf
+ok C02462 http://www.nber.org/papers/w19895.pdf
+fail C02495 http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00458 HTTPError
+notpdf C02501 https://pubmed.ncbi.nlm.nih.gov/24979792
+notpdf C02501 https://www.ncbi.nlm.nih.gov/pmc/articles/4084475
+notpdf C02501 https://figshare.com/articles/journal_contribution/The_civilizing_process_in_London_s_Old_Bailey/23540343
+fail C02501 https://www.pnas.org/content/pnas/111/26/9419.full.pdf HTTPError
+notpdf C02501 http://sro.sussex.ac.uk/id/eprint/49191/1/PNAS-2014-Klingenstein-1405984111%285%29.pdf
+ok C02525 https://researchonline.lse.ac.uk/id/eprint/66106/1/Zucman_Capital%20is%20back.pdf
+fail C02533 http://dash.harvard.edu/bitstream/handle/1/30750027/mobility_geo.pdf HTTPError
+fail C02533 http://nrs.harvard.edu/urn-3:HUL.InstRepos:30750027 HTTPError
+notpdf C02559 https://www.ncbi.nlm.nih.gov/pmc/articles/4655828
+notpdf C02559 https://pubmed.ncbi.nlm.nih.gov/26609186
+ok C02561 https://researchonline.lse.ac.uk/id/eprint/60152/1/Bryan_Underinvestment%20in%20a%20profitable%20technology.pdf
+ok C02584 http://eprints.lse.ac.uk/65141/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Kuruvilla%2CS_Changing%20nature_Kuruvilla_Changing%20nature_2016.pdf
+ok C02625 http://www.nber.org/papers/w17736.pdf
+fail C00251 http://nrs.harvard.edu/urn-3:HUL.InstRepos:33077827 HTTPError
+notpdf C00377 https://pubmed.ncbi.nlm.nih.gov/26523067
+notpdf C00377 https://www.ncbi.nlm.nih.gov/pmc/articles/4624413
+fail C00510 https://dspace.mit.edu/bitstreams/ebaa8833-5fdb-4614-84b8-2096537cb8b2/download HTTPError
+fail C00510 https://dspace.mit.edu/bitstreams/ebaa8833-5fdb-4614-84b8-2096537cb8b2/download HTTPError
+notpdf C00510 https://pubmed.ncbi.nlm.nih.gov/25977558
+fail C00622 http://jcr.sagepub.com/content/59/8/1486.abstract HTTPError
+ok C00693 http://www.nber.org/papers/w21720.pdf
+ok C00722 http://www.nber.org/papers/w19227.pdf
+ok C00732 http://www.nber.org/papers/w17943.pdf
+ok C00887 http://eprints.lse.ac.uk/62019/1/Hortala-Vallve_%20Mueller_Primaries%20the%20unifying%20force.pdf
+notpdf C00890 https://orcid.org/0000-0003-4407-4661
+notpdf C01270 https://www.ncbi.nlm.nih.gov/pmc/articles/4957524
+notpdf C01270 https://pubmed.ncbi.nlm.nih.gov/27453582
+fail C01270 http://dash.harvard.edu/bitstream/handle/1/22583328/50641591.pdf HTTPError
+fail C01270 http://nrs.harvard.edu/urn-3:HUL.InstRepos:22583328 HTTPError
+notpdf C01270 https://EconPapers.repec.org/RePEc:hrv:faseco:22583328
+fail C01344 https://www.openicpsr.org/openicpsr/project/116329/version/V1/download/terms?path=/openicpsr/116329/ HTTPError
+ok C01351 http://www.nber.org/papers/w20380.pdf
+notpdf C01355 https://escholarship.org/uc/item/0fc9v7gw
+notpdf C01355 https://escholarship.org/uc/item/38d0d2wh
+ok C01382 http://wrap.warwick.ac.uk/97987/1/WRAP-labor-market-effects-social-programs-Imbert-2015.pdf
+ok C01396 https://researchonline.lse.ac.uk/id/eprint/59009/1/Bryan_etal_Referrals-peer-screening-and-enforcement_2014.pdf
+fail C01398 http://discovery.ucl.ac.uk/1466015/ HTTPError
+ok C01401 http://www.nber.org/papers/w18538.pdf
+ok C01447 https://documents.worldbank.org/curated/en/914431468162277879/pdf/IBArchive-931ca26d-a5a6-4b28-9536-295714a82da0.pdf
+notpdf C01570 http://eprints.lse.ac.uk/65772/
+notpdf C01638 https://www.zora.uzh.ch/id/eprint/137645/2/Does_religio_Drott_appendix.pdf
+notpdf C01638 https://www.zora.uzh.ch/id/eprint/137645/2/Does_religio_Drott_appendix.pdf
+fail C01638 https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37366300 HTTPError
+ok C01638 http://www.nber.org/papers/w19768.pdf
+notpdf C01663 https://lirias.kuleuven.be/handle/123456789/527852
+notpdf C01663 https://researchportal.unamur.be/en/publications/43fe6a9d-b700-4296-9d19-05bbe89145c5
+ok C01766 https://researchonline.lse.ac.uk/id/eprint/60517/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Razin%2C%20R_Correlation%20neglect_Razin_Correlation%20neglect_2014.pdf
+ok C01795 https://osf.io/download/5cd70bde840cae001b711a5a/
+notpdf C01811 https://www.zora.uzh.ch/handle/20.500.14742/64045
+notpdf C01811 http://repository.graduateinstitute.ch/record/302693
+notpdf C01811 https://iris.unil.ch/handle/iris/79996
+notpdf C01811 https://serval.unil.ch/notice/serval:BIB_529EC3B42ECA
+ok C01816 http://wrap.warwick.ac.uk/68350/1/WRAP_aej%20micro.pdf
+notpdf C01904 https://pubmed.ncbi.nlm.nih.gov/25745172
+ok C01972 http://www.nber.org/papers/w19601.pdf
+notpdf C01976 https://pubmed.ncbi.nlm.nih.gov/32327859
+notpdf C01976 https://www.escholarship.org/uc/item/0gs8j953.pdf;origin=repeccitec
+ok C01976 http://www.nber.org/papers/w21117.pdf
+fail C02035 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2677554 HTTPError
+notpdf C02035 https://www.zora.uzh.ch/124867
+notpdf C02035 https://www.zora.uzh.ch/handle/20.500.14742/120239
+fail C02045 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2680293_code657828.pdf?abstractid=2680293&mirid=1 HTTPError
+notpdf C02045 https://www.zora.uzh.ch/id/eprint/130330/1/130330.pdf
+fail C02060 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2273154_code1341928.pdf?abstractid=2225152&mirid=2 HTTPError
+ok C02060 https://eprints.lancs.ac.uk/id/eprint/76675/1/Manuscript.pdf
+ok C02089 http://eprints.lse.ac.uk/68646/1/Hangartner_Compulsory%20voting_2016.pdf
+ok C02233 http://eprints.lse.ac.uk/63711/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Meseguer%2C%20C_Remittances%20democratization_Meseguer_Remittances%20democratization_2015.pdf
+ok C02330 http://www.nber.org/papers/w20213.pdf
+notpdf C02414 https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-9/issue-1/Preconditioning-the-Lasso-for-sign-consistency/10.1214/15-EJS1029.pdf
+notpdf C02414 http://projecteuclid.org/euclid.ejs/1433195857
+ok C02422 http://www.nber.org/papers/w19023.pdf
+notpdf C02431 https://www.zora.uzh.ch/handle/20.500.14742/129923
+ok C02471 http://www.nber.org/papers/w20894.pdf
+ok C02496 https://escholarship.org/content/qt42h9v96f/qt42h9v96f.pdf?t=ojxdt5
+ok C02499 http://eprints.lse.ac.uk/63626/1/Seven%20Centuries%20of%20European%20Economic.pdf
+ok C02509 http://www.nber.org/papers/w16361.pdf
+notpdf C02530 https://econpapers.repec.org/RePEc:mos:moswps:2015-27
+notpdf C02530 http://www.buseco.monash.edu.au/eco/research/papers/2015/2715productionmangin.pdf
+ok C02598 http://www.nber.org/papers/w20548.pdf
+fail C02656 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2454303 HTTPError
+fail C02730 http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00526 HTTPError
+ok C02751 http://www.nber.org/papers/w21136.pdf
+notpdf C00508 https://www.ncbi.nlm.nih.gov/pmc/articles/7575201
+notpdf C00508 https://pubmed.ncbi.nlm.nih.gov/33087990
+fail C00508 http://qje.oxfordjournals.org/cgi/content/short/131/4/1973 HTTPError
+notpdf C00735 https://pubmed.ncbi.nlm.nih.gov/29553219
+ok C00752 http://eprints.lse.ac.uk/66114/1/Kleven_Modern%20governments_2016.pdf
+notpdf C00754 https://www.ncbi.nlm.nih.gov/pmc/articles/5036399
+notpdf C00754 https://pubmed.ncbi.nlm.nih.gov/27688430
+notpdf C00788 https://curis.ku.dk/portal/da/publications/irrigation-and-autocracy(57bf75bf-8524-451e-9497-19b70c8fbc52).html
+notpdf C00998 https://www.econstor.eu/bitstream/10419/284090/1/wp2024-05.pdf
+notpdf C01428 https://pubmed.ncbi.nlm.nih.gov/27818531
+notpdf C01428 https://www.ncbi.nlm.nih.gov/pmc/articles/5094294
+fail C01428 http://qje.oxfordjournals.org/cgi/content/short/131/4/1637 HTTPError
+fail C01557 http://www.loc.gov/catdir/toc/prin031/2001055191.html HTTPError
+notpdf C01557 http://ci.nii.ac.jp/ncid/BA57181281
+fail C01594 https://pubmed.ncbi.nlm.nih.gov/26929364 HTTPError
+notpdf C01594 https://www.ncbi.nlm.nih.gov/pmc/articles/4801235
+fail C01594 https://www.pnas.org/content/pnas/113/11/2982.full.pdf HTTPError
+ok C01625 http://www.nber.org/papers/w21006.pdf
+fail C02066 https://kclpure.kcl.ac.uk/portal/en/publications/8031a8ad-9448-45e0-897e-89421ed8a4a1 HTTPError
+ok C02098 http://eprints.lse.ac.uk/58203/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_STICERD_EOPP_eopp48.pdf
+notpdf C02111 https://EconPapers.repec.org/RePEc:hal:wpaper:halshs-00843173
+notpdf C02111 https://sciencespo.hal.science/hal-01171148
+notpdf C02111 https://sciencespo.hal.science/hal-03609915
+notpdf C02111 https://shs.hal.science/halshs-00843173
+notpdf C02111 https://sciencespo.hal.science/hal-03609915v1/document
+notpdf C02111 https://sciencespo.hal.science/hal-03609915/document
+ok C02170 http://eprints.lse.ac.uk/68210/1/Fleckenstein_Politics%20of%20labor%20market_2016.pdf
+fail C02267 http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00611 HTTPError
+fail C02267 https://www.scopus.com/pages/publications/85018792111 HTTPError
+ok C02307 http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00628
+notpdf C02350 https://figshare.com/articles/journal_contribution/Decentralization_and_pollution_spillovers_Evidence_from_the_re-drawing_of_county_borders_in_Brazil/20732872
+fail C02350 http://restud.oxfordjournals.org/cgi/content/short/84/1/464 HTTPError
+fail C02421 https://pubmed.ncbi.nlm.nih.gov/27846471 HTTPError
+fail C02425 https://dspace.mit.edu/bitstream/1721.1/107457/1/Banerjee_Self-targeting.pdf HTTPError
+fail C02425 https://dspace.mit.edu/bitstream/1721.1/107457/1/Banerjee_Self-targeting.pdf HTTPError
+notpdf C02425 https://orcid.org/0000-0001-9923-6088
+fail C02497 http://qje.oxfordjournals.org/cgi/content/short/131/4/1727 HTTPError
+notpdf C02526 https://www.ncbi.nlm.nih.gov/pmc/articles/5436311
+fail C02526 https://pubmed.ncbi.nlm.nih.gov/28529385 HTTPError
+fail C02526 http://qje.oxfordjournals.org/cgi/content/short/131/3/1455 HTTPError
+fail C02531 http://nrs.harvard.edu/urn-3:HUL.InstRepos:34651703 HTTPError
+notpdf C02531 https://college-de-france.hal.science/hal-05313937
+notpdf C02534 https://www.ncbi.nlm.nih.gov/pmc/articles/4907503
+fail C02534 https://pubmed.ncbi.nlm.nih.gov/27330223 HTTPError
+fail C02534 http://nrs.harvard.edu/urn-3:HUL.InstRepos:27759620 HTTPError
+notpdf C02713 https://research.cbs.dk/en/publications/666890fe-adf5-4424-a447-67a68d4098c1
+notpdf C02745 https://open.bu.edu/bitstreams/ac8a07d6-c317-464d-b092-d7b79b681367/download
+fail C00393 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2981506_code459177.pdf?abstractid=2981506&mirid=1 HTTPError
+ok C00393 https://www.ifo.de/DocDL/cesifo1_wp6462.pdf
+ok C00509 http://eprints.lse.ac.uk/67180/1/Bandiera_Labor%20markets%20and%20poverty_2017.pdf
+fail C00661 https://dare.uva.nl/personal/pure/en/publications/double-for-nothing-experimental-evidence-on-an-unc URLError
+fail C00661 https://research.vu.nl/en/publications/1a1a0d99-7c86-4f39-bc70-1f8fd913560d HTTPError
+fail C00727 https://pubmed.ncbi.nlm.nih.gov/28684518 HTTPError
+notpdf C00727 https://orcid.org/0000-0001-5751-9100
+notpdf C01021 https://www.zora.uzh.ch/handle/20.500.14742/130660
+fail C01021 http://doc.rero.ch/record/331032/files/JEEA_15_2_463.pdf HTTPError
+ok C01031 http://www.nber.org/papers/w23043.pdf
+fail C01044 https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2627073 HTTPError
+notpdf C01044 https://amu.hal.science/hal-01633984
+fail C01044 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10089 HTTPError
+ok C01044 https://serval.unil.ch/notice/serval:BIB_6056A8E7609C
+fail C01285 https://pubmed.ncbi.nlm.nih.gov/28482687 HTTPError
+notpdf C01285 https://www.ncbi.nlm.nih.gov/pmc/articles/5506549
+notpdf C01285 https://escholarship.org/uc/item/4v1857bd
+ok C01302 http://www.nber.org/papers/w22931.pdf
+notpdf C01375 https://www.zora.uzh.ch/handle/20.500.14742/129924
+notpdf C01448 https://shs.hal.science/halshs-01802612
+notpdf C01467 https://www.ncbi.nlm.nih.gov/pmc/articles/6258045
+fail C01467 https://pubmed.ncbi.nlm.nih.gov/30505005 HTTPError
+notpdf C01532 https://www.ncbi.nlm.nih.gov/pmc/articles/8046173
+fail C01532 https://pubmed.ncbi.nlm.nih.gov/33859441 HTTPError
+notpdf C01731 https://resolver.caltech.edu/CaltechAUTHORS:20171116-100331063
+ok C01759 https://researchonline.lse.ac.uk/id/eprint/69813/1/Wolton_Electoral%20ambiguity_2017_author.pdf
+fail C01781 https://pubmed.ncbi.nlm.nih.gov/28546172 HTTPError
+ok C01783 https://docs.iza.org/dp9561.pdf
+notpdf C01824 https://econpapers.repec.org/paper/wilwileco/2016-08.htm
+ok C01824 https://web.williams.edu/Economics/wp/DowerFinkelGehlbachNafzigerCollectiveActionRussia.pdf
+notpdf C01918 https://econ-papers.upf.edu/ca/paper.php?id=1425
+ok C01918 https://bw.bse.eu/wp-content/uploads/2015/09/762-file.pdf
+notpdf C01920 https://econpapers.repec.org/RePEc:cpr:ceprdp:10466
+fail C01920 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10466 HTTPError
+ok C01920 https://authors.library.caltech.edu/85937/
+notpdf C02044 https://www.zora.uzh.ch/handle/20.500.14742/134896
+notpdf C02102 https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=029306904&sequence=000001&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA
+notpdf C02109 https://hal.science/hal-03393491v1
+notpdf C02109 https://hal.archives-ouvertes.fr/hal-02381560
+notpdf C02109 https://spire.sciencespo.fr/hdl:/2441/2i9jel1usb85nr2j7tejsaldfu
+notpdf C02169 https://labourmarketresearch.springeropen.com/counter/pdf/10.1186/s12651-017-0231-7
+notpdf C02169 https://labourmarketresearch.springeropen.com/counter/pdf/10.1186/s12651-017-0231-7
+fail C02169 https://portal.findresearcher.sdu.dk/da/publications/430d177b-f568-4aa3-9d6d-b2781bcdb852 HTTPError
+fail C02169 https://doaj.org/article/ac180fd72e814ba5b86a017ff13f3dc4 HTTPError
+ok C02271 http://www.nber.org/papers/w23110.pdf
+ok C02273 http://www.nber.org/papers/w23322.pdf
+fail C02380 https://pubmed.ncbi.nlm.nih.gov/29123065 HTTPError
+notpdf C02380 https://orcid.org/0000-0002-9409-6765
+ok C02417 http://www.nber.org/papers/w23122.pdf
+notpdf C02481 https://osf.io/dfqw7
+fail C02482 https://nottingham-repository.worktribe.com/output/3788431 HTTPError
+notpdf C02486 https://biblio.vub.ac.be/vubir/political-dynasties-electoral-institutions-and-politicians-human-capital(87d18362-6548-429a-be50-4686ba589258).html
+notpdf C02582 https://escholarship.org/uc/item/2894m48p
+notpdf C02582 http://www.escholarship.org/uc/item/2894m48p
+notpdf C02607 https://www.zora.uzh.ch/handle/20.500.14742/127945
+ok C02607 https://serval.unil.ch/notice/serval:BIB_1490C37D88B0
+fail C02622 https://nottingham-repository.worktribe.com/file/2357662/1/Partisan%20Interactions HTTPError
+fail C02622 https://nottingham-repository.worktribe.com/preview/2401551/Partisan%20Interactions%20JPE%20%28002%2 HTTPError
+fail C02622 https://nottingham-repository.worktribe.com/output/2357662 HTTPError
+fail C02645 http://nrs.harvard.edu/urn-3:HUL.InstRepos:42669248 HTTPError
+notpdf C02645 https://hal.science/hal-03125632
+ok C02707 http://www.nber.org/papers/w23593.pdf
+notpdf C02719 https://www.zora.uzh.ch/id/eprint/137961/34/ZORA_NL_137961.pdf
+notpdf C02719 https://www.zora.uzh.ch/id/eprint/137961/34/ZORA_NL_137961.pdf
+notpdf C02719 https://www.zora.uzh.ch/id/eprint/137961/9/ms_137961.pdf
+notpdf C02719 https://www.zora.uzh.ch/handle/20.500.14742/131064
+fail C02719 http://doc.rero.ch/record/331302/files/JEEA_15_6_1341.pdf HTTPError
+fail C00660 https://orbilu.uni.lu/bitstream/10993/63191/1/The%20Political%20Class%20DOI_10.1093_jeea_jvy040_Serg URLError
+fail C00660 https://orbilu.uni.lu/handle/10993/63191 URLError
+fail C00683 https://scholarsphere.psu.edu/resources/81a9050c-7865-46cf-a5f0-3cd72256b5b5/downloads/32259 URLError
+fail C00740 https://iris.unibocconi.it/bitstream/11565/4011782/10/qjy023.pdf HTTPError
+fail C00819 http://www.mitpressjournals.org/doi/pdf/10.1162/rest_a_00799 HTTPError
+ok C01317 https://researchonline.lse.ac.uk/id/eprint/102899/1/Callen_why_do_defaults_affect_behavior_accepted.pdf
+ok C01320 http://www.nber.org/papers/w22534.pdf
+fail C01424 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2210247 HTTPError
+notpdf C01424 https://econpapers.repec.org/RePEc:cpr:ceprdp:9277
+fail C01424 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=9277 HTTPError
+ok C01424 https://repec.unibocconi.it/igier/igi/wp/2012/461.pdf
+ok C01647 https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0198745&type=printable
+fail C01778 https://journals.sagepub.com/doi/10.1177/0951629819892342 HTTPError
+fail C01969 https://iris.uniroma1.it/bitstream/11573/1087998/2/Battaglini_Connected-legislators_2018.pdf HTTPError
+ok C02037 http://eprints.lse.ac.uk/60930/1/dp-31_0.pdf
+ok C02082 https://www.ifo.de/DocDL/cesifo1_wp7408.pdf
+notpdf C02087 http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;local_base=BVB01&amp;doc_number=030111036&amp;sequence=000001&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA
+notpdf C02087 http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;local_base=BVB01&amp;doc_number=031845584&amp;sequence=000001&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA
+fail C02377 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=11263 HTTPError
+ok C02558 https://researchonline.lse.ac.uk/id/eprint/84953/1/CSL-1.pdf
+ok C02562 https://osf.io/y4wgm/download
+notpdf C02565 https://www.ncbi.nlm.nih.gov/pmc/articles/6040835
+notpdf C02565 https://pubmed.ncbi.nlm.nih.gov/30008480
+ok C02590 https://researchonline.lse.ac.uk/id/eprint/91514/1/Yuchtman_Labor-market-institutions.pdf
+fail C02662 http://nrs.harvard.edu/urn-3:HUL.InstRepos:42675344 HTTPError
+fail C02663 https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37369072 HTTPError
+ok C02701 https://lbsresearch.london.edu/id/eprint/2855/1/rdad041.pdf
+notpdf C02753 https://ideas.repec.org/p/cge/wacage/443.html
+ok C02753 https://wrap.warwick.ac.uk/id/eprint/98217/13/WRAP-erasing-ethnicity-nation-building-salience-identity-Rwanda-revised-Mukand-2018.pdf
+notpdf C02757 https://sciencespo.hal.science/hal-03878640/document
+notpdf C02757 https://sciencespo.hal.science/hal-03878640
+notpdf C02757 https://hal-sciencespo.archives-ouvertes.fr/hal-03878640/document
+ok C00379 http://eprints.lse.ac.uk/88190/1/app.20170299.pdf
+notpdf C00397 https://edoc.unibas.ch/73437/1/20191215181942_5df66b2e3ba3b.pdf
+notpdf C00519 https://pubmed.ncbi.nlm.nih.gov/37201159
+ok C00519 https://escholarship.org/content/qt79w947zq/qt79w947zq.pdf
+notpdf C00718 https://pubmed.ncbi.nlm.nih.gov/30990591
+notpdf C00719 https://www.zora.uzh.ch/id/eprint/165758/1/Demand_and_Supply_Casaburi.pdf
+notpdf C00719 https://www.zora.uzh.ch/id/eprint/165758/1/Demand_and_Supply_Casaburi.pdf
+ok C00719 http://eprints.lse.ac.uk/100180/1/Demand_and_Supply_of_Infrequent_Payments_as_a_commitment_device.pdf
+ok C00762 https://sites.ualberta.ca/~econwps/2019/wp2019-14.pdf
+ok C00875 http://www.nber.org/papers/w26156.pdf
+notpdf C00907 https://dipot.ulb.ac.be/dspace/bitstream/2013/298738/3/222D3AC82A8E3BD95880F262EB3F1F87
+notpdf C00907 https://dipot.ulb.ac.be/dspace/bitstream/2013/317409/4/doi_282382.pdf
+fail C00907 https://kclpure.kcl.ac.uk/portal/en/publications/a65d4a5d-d7ab-480f-af6e-b55dea143561 HTTPError
+ok C01004 https://revistas.unal.edu.co/index.php/ceconomia/article/download/71224/72899
+ok C01299 http://www.nber.org/papers/w24610.pdf
+notpdf C01352 http://documents.worldbank.org/curated/en/518151568049461993/The-Entertaining-Way-to-Behavioral-Change-Fighting-HIV-with-MTV
+ok C01371 https://researchonline.lse.ac.uk/id/eprint/101538/1/Consumers_as_tax_auditors.pdf
+notpdf C01537 https://sciencespo.hal.science/hal-03391857
+notpdf C01537 https://spire.sciencespo.fr/hdl:/2441/68bdjcjoob8kh8nu5vcmetkbf3
+notpdf C01551 https://EconPapers.repec.org/RePEc:ces:ceswps:_7770
+ok C01551 https://www.ifo.de/DocDL/cesifo1_wp7770.pdf
+notpdf C01635 https://www.ssoar.info/ssoar/handle/document/70455
+notpdf C01646 https://osf.io/w4dfp
+notpdf C01646 http://psyarxiv.com/w4dfp/
+fail C01737 http://api.osf.io/v2/nodes/7nxr5/ URLError
+notpdf C01758 https://journals.cambridge.org/abstract_S0003055419000261
+fail C01775 https://autopapers.ssrn.com/sol3/papers.cfm?abstract_id=3222595 URLError
+notpdf C01775 https://econpapers.repec.org/paper/cprceprdp/13081.htm
+fail C01775 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=13081 HTTPError
+ok C01790 http://eprints.lse.ac.uk/100104/3/biased_media_bad_final_1_.pdf
+notpdf C01794 https://edoc.unibas.ch/73436/
+ok C01808 https://researchonline.lse.ac.uk/id/eprint/101131/1/APSR_Optimal_Purges_FINAL.pdf
+notpdf C01984 https://journals.cambridge.org/abstract_S0003055419000364
+ok C02099 http://eprints.lse.ac.uk/100442/1/waking_up_the_golden_dawn_does_exposure_to_the_refugee_crisis_increase_support_for_extremeright_parties.pdf
+ok C02236 https://escholarship.org/content/qt5xk4d4mc/qt5xk4d4mc.pdf
+notpdf C02301 https://EconPapers.repec.org/RePEc:col:000089:013880
+notpdf C02301 https://repositorio.uniandes.edu.co/bitstream/handle/1992/8609/dcede2015-35.pdf
+ok C02341 https://researchonline.lse.ac.uk/id/eprint/100819/1/Immigrants_Making_America.pdf
+ok C02379 https://www.nber.org/system/files/working_papers/w25589/w25589.pdf
+notpdf C02529 https://shs.hal.science/halshs-02301313
+ok C02550 https://researchonline.lse.ac.uk/id/eprint/101465/1/Bursztyn_etal.pdf
+ok C02608 http://www.nber.org/papers/w21202.pdf
+ok C02718 http://www.nber.org/papers/w26333.pdf
+ok C02736 http://www.nber.org/papers/w26222.pdf
+ok C02738 https://researchonline.lse.ac.uk/id/eprint/100808/1/MS24775manuscript.pdf
+notpdf C00664 https://pubmed.ncbi.nlm.nih.gov/32883861
+notpdf C00716 https://pmc.ncbi.nlm.nih.gov/articles/PMC10489299/pdf/nihms-1868892.pdf
+notpdf C00716 https://pmc.ncbi.nlm.nih.gov/articles/PMC10489299/pdf/nihms-1868892.pdf
+notpdf C00716 https://www.ncbi.nlm.nih.gov/pmc/articles/10489299
+notpdf C00716 https://pubmed.ncbi.nlm.nih.gov/37691693
+notpdf C00759 http://eprints.lse.ac.uk/105154/1/Training.pdf
+ok C00759 https://researchonline.lse.ac.uk/id/eprint/105154/4/Bandiera_tackling_youth_unemployment_published.pdf
+ok C00820 http://eprints.lse.ac.uk/104561/6/Weigel_participation_dividend_of_taxation_published.pdf
+notpdf C00828 https://shs.hal.science/halshs-02491741
+fail C00832 https://iris.unibocconi.it/bitstream/11565/4042916/3/jvaa042.pdf HTTPError
+ok C00990 https://repository.essex.ac.uk/33412/1/Fergusson_et_al_2020_The_real_winners.pdf
+fail C01002 https://dspace.mit.edu/bitstreams/8db27c25-17b8-49e7-912f-fe06dc8fb5e2/download HTTPError
+fail C01002 https://iris.unito.it/bitstream/2318/1947598/1/01_POL20180168_123-%20revised%202.pdf HTTPError
+fail C01011 https://dspace.mit.edu/bitstream/1721.1/140590.2/1/10.3982-ECTA16327.pdf HTTPError
+fail C01013 https://run.unl.pt/bitstreams/c274e5a5-c1e9-4842-a53c-ec46d141d59c/download URLError
+ok C01102 https://researchonline.lse.ac.uk/id/eprint/102939/1/State_Capacity_and_the_Social_Contract_Complete.pdf
+fail C01271 https://www.research.ed.ac.uk/files/149923802/BaiEtalRES2020SelfControlAndDemand.pdf HTTPError
+notpdf C01283 https://pubmed.ncbi.nlm.nih.gov/33303583
+fail C01283 https://handle.uba.uva.nl/personal/pure/en/publications/complexity-of-mental-health-in-lowincome-cou URLError
+fail C01283 https://eprints.soton.ac.uk/id/eprint/448226/1/E_letter_1_.rtf HTTPError
+notpdf C01286 https://www.zora.uzh.ch/id/eprint/190391/1/aer.20180511.pdf
+notpdf C01286 https://www.zora.uzh.ch/handle/20.500.14742/172638
+fail C01372 http://www.mitpressjournals.org/doi/pdf/10.1162/rest_a_00907 HTTPError
+notpdf C01386 https://edoc.unibas.ch/91078/
+fail C01526 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=12939 HTTPError
+ok C01526 http://humcap.uchicago.edu/RePEc/hka/wpaper/Ashraf_Bau_Low_etal_2018_negotiating-better-future.pdf
+notpdf C01603 https://www.ncbi.nlm.nih.gov/pmc/articles/7519325
+notpdf C01603 https://pubmed.ncbi.nlm.nih.gov/32900947
+notpdf C01603 https://escholarship.org/uc/item/9m91r14v
+notpdf C01603 https://osf.io/mw34x
+fail C01603 http://www.pnas.org/content/117/38/23490.full HTTPError
+notpdf C01648 https://pubmed.ncbi.nlm.nih.gov/31990629
+fail C01648 https://cdr.lib.unc.edu/downloads/7h14b625r URLError
+notpdf C01649 https://pubmed.ncbi.nlm.nih.gov/32605518
+notpdf C01649 https://www.ncbi.nlm.nih.gov/pmc/articles/7423486
+notpdf C01649 https://osf.io/9s57z
+notpdf C01649 https://osf.io/93keq
+ok C01782 http://www.nber.org/papers/w26725.pdf
+fail C01831 https://iris.unibocconi.it/bitstream/11565/4033352/1/ueaa122.pdf HTTPError
+ok C01831 https://wrap.warwick.ac.uk/id/eprint/142997/13/WRAP-tariffs-politics-evidence-Trump%E2%80%99s-Trade-Wars-Fetzer-2020.pdf
+fail C01906 https://openaccess.city.ac.uk/view/creators_id/francisco=2Eurzua.html> HTTPError
+fail C01906 https://repository.urosario.edu.co/handle/10336/22334 URLError
+ok C01971 http://www.nber.org/papers/w24704.pdf
+notpdf C01988 https://econpapers.repec.org/RePEc:cla:levrem:786969000000001500
+ok C01988 http://www.dklevine.com/papers/vote-doc-rev73.pdf
+notpdf C02081 https://pubmed.ncbi.nlm.nih.gov/32518108
+notpdf C02081 https://www.ncbi.nlm.nih.gov/pmc/articles/7322007
+ok C02088 https://discovery.ucl.ac.uk/10103128/1/Wolkenstein_Wratil_RPS.pdf
+ok C02118 https://wrap.warwick.ac.uk/142938/1/WRAP-Can-gender-quotas-candidate-lists-empower-women-Bagues-2020.pdf
+notpdf C02120 http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-429684
+notpdf C02132 https://madoc.bib.uni-mannheim.de/53666/1/have-europeans-grown-tired-of-democracy-new-evidence-from-eighteen-consolidated-democracies-19812018.pdf
+notpdf C02132 https://www.ssoar.info/ssoar/handle/document/67475
+fail C02142 http://dro.dur.ac.uk/31703/ HTTPError
+fail C02142 https://durham-repository.worktribe.com/output/1263023 HTTPError
+notpdf C02155 https://escholarship.org/uc/item/9jh1d4rs
+ok C02211 http://eprints.lse.ac.uk/104716/1/annurev_polisci_050718_033649.pdf
+ok C02375 http://www.nber.org/papers/w25514.pdf
+notpdf C02394 https://pubmed.ncbi.nlm.nih.gov/40406047
+ok C02394 https://researchonline.lse.ac.uk/id/eprint/101422/1/LosingProsocialityApril2019.pdf
+ok C02555 http://wrap.warwick.ac.uk/114920/1/WRAP-political-economy-liberal-democracy-Mukand-2019.pdf
+ok C02652 https://utoronto.scholaris.ca/bitstreams/938918a6-11fd-4895-ad7a-032be32a0703/download
+notpdf C02673 https://pubmed.ncbi.nlm.nih.gov/32917601
+notpdf C02673 https://www.ncbi.nlm.nih.gov/pmc/articles/7467695
+notpdf C02673 https://escholarship.org/uc/item/5rs420rb
+fail C02673 https://www.science.org/doi/pdf/10.1126/sciadv.abc4046?download=true HTTPError
+ok C02682 http://www.nber.org/papers/w26109.pdf
+ok C02742 http://www.nber.org/papers/w27188.pdf
+ok C00624 http://www.nber.org/papers/w28832.pdf
+ok C00713 http://www.nber.org/papers/w29340.pdf
+notpdf C00827 https://ideas.repec.org/p/cpr/ceprdp/11875.html
+fail C00827 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2924736 HTTPError
+fail C00827 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=11875 HTTPError
+notpdf C00831 https://EconPapers.repec.org/RePEc:hal:wilwps:halshs-03226118
+notpdf C00831 https://shs.hal.science/halshs-03226118
+notpdf C00831 https://shs.hal.science/halshs-03672669
+notpdf C00831 https://shs.hal.science/halshs-03226118v1/document
+notpdf C00831 https://shs.hal.science/halshs-03226118/document
+ok C01015 http://eprints.lse.ac.uk/107087/2/hk_persistence_final_manuscript.pdf
+ok C01272 https://osf.io/8xn9m/download
+notpdf C01279 https://www.ncbi.nlm.nih.gov/pmc/articles/8242594
+notpdf C01279 https://pubmed.ncbi.nlm.nih.gov/34220361
+ok C01279 http://www.nber.org/papers/w26746.pdf
+fail C01369 https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37366406 HTTPError
+ok C01369 http://www.nber.org/papers/w25502.pdf
+ok C01591 https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0244569&type=printable
+fail C01597 https://orcid.org/0000-0001-9228-2137> HTTPError
+ok C01598 http://www.nber.org/papers/w33500.pdf
+notpdf C01642 https://pubmed.ncbi.nlm.nih.gov/34138599
+notpdf C01642 https://osf.io/n74fx
+notpdf C01642 https://osf.io/hrdje
+ok C01693 http://www.nber.org/papers/w25957.pdf
+fail C01743 https://journals.sagepub.com/doi/pdf/10.1177/00104140211024301 HTTPError
+notpdf C01743 http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-466516
+ok C01774 https://www.nber.org/papers/w25205.pdf
+ok C01789 http://www.nber.org/papers/w25022.pdf
+fail C02110 https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3536734 HTTPError
+fail C02110 https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3536734 HTTPError
+notpdf C02110 https://osf.io/u2d9x
+fail C02110 http://api.osf.io/v2/nodes/u2d9x/ URLError
+ok C02110 https://www.ifo.de/DocDL/cesifo1_wp8089.pdf
+ok C02192 https://kops.uni-konstanz.de/server/api/core/bitstreams/d4e35242-8e60-46b6-92de-a97c7a6ba796/content
+notpdf C02238 https://escholarship.org/uc/item/1xj7g5tf
+fail C02311 https://researchprofiles.ku.dk/da/publications/2afd4119-b256-4812-ba4d-e87b53856f9f HTTPError
+notpdf C02313 https://escholarship.org/uc/item/66c0p8dm
+fail C02333 https://nottingham-repository.worktribe.com/file/5247416/1/JELAidt%20Albornoz%20Hauk%20Manuscript%20 HTTPError
+ok C02333 https://www.nottingham.ac.uk/gep/documents/papers/2019/2019-03.pdf
+notpdf C02345 https://shs.hal.science/halshs-03672695
+notpdf C02351 https://www.escholarship.org/uc/item/8958q1xb.pdf;origin=repeccitec
+notpdf C02351 https://escholarship.org/uc/item/8958q1xb
+fail C02378 https://hub.hku.hk/handle/10722/358865 HTTPError
+ok C02395 https://ueaeprints.uea.ac.uk/id/eprint/76974/1/Accepted_Manuscript.pdf
+notpdf C02396 https://figshare.com/articles/preprint/Inducing_Positive_Sorting_through_Performance_Pay_Experimental_Evidence_from_Pakistani_Schools/23686506
+ok C02580 http://jhr.uwpress.org/content/57/S/S324.full.pdf
+notpdf C02581 https://chicagounbound.uchicago.edu/jle/vol64/iss1/3
+notpdf C02581 https://repository.law.umich.edu/articles/2263
+ok C02650 https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/5f3da4bf10cdbe00192da9dd/original/is-deliberation-an-antidote-to-extreme-partisan-polarization-reflections-on-america-in-one-room.pdf
+notpdf C02703 https://escholarship.org/uc/item/51h256tr
+ok C02724 http://www.nber.org/papers/w25292.pdf
+fail C02728 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620828 HTTPError
+fail C02728 https://direct.mit.edu/rest/article-pdf/105/3/493/2090004/rest_a_01056.pdf HTTPError
+ok C00830 http://www.nber.org/papers/w26669.pdf
+ok C01087 http://www.nber.org/papers/w29163.pdf
+notpdf C01276 https://edoc.unibas.ch/90463/
+ok C01316 http://www.nber.org/papers/w22019.pdf
+ok C01556 http://eprints.lse.ac.uk/118034/3/dp1884.pdf
+ok C01565 http://www.nber.org/papers/w24260.pdf
+ok C01566 http://www.nber.org/papers/w30683.pdf
+ok C01621 http://www.nber.org/papers/w29788.pdf
+ok C01630 http://www.nber.org/papers/w29695.pdf
+fail C01636 https://pure.au.dk/portal/en/publications/2d99f08b-e0dc-4610-b3d6-0d700d7ac825 HTTPError
+notpdf C01637 https://www.ncbi.nlm.nih.gov/pmc/articles/10977106
+notpdf C01637 https://pubmed.ncbi.nlm.nih.gov/38549862
+ok C01698 http://www.nber.org/papers/w26651.pdf
+notpdf C01738 https://pubmed.ncbi.nlm.nih.gov/36201993
+ok C01760 https://researchonline.lse.ac.uk/id/eprint/115180/1/NVoters_Apr_2022.pdf
+notpdf C01799 https://hal.science/hal-04210355
+ok C01799 https://dipot.ulb.ac.be/dspace/bitstream/2013/304198/3/wp20007.pdf
+notpdf C02159 https://escholarship.org/uc/item/9m16t041
+ok C02264 http://www.nber.org/papers/w24733.pdf
+fail C02323 https://www.nber.org/system/files/working_papers/w35456/w35456.pdf HTTPError
+notpdf C02326 https://www.nature.com/articles/s41586-022-04997-3.pdf
+notpdf C02326 https://www.nature.com/articles/s41586-022-04997-3.pdf
+fail C02326 https://pubmed.ncbi.nlm.nih.gov/35915343 HTTPError
+ok C02326 http://www.nber.org/papers/w30314.pdf
+fail C02343 https://researchprofiles.ku.dk/da/publications/bf35cb72-cf52-45c7-90de-4312d7ffc0c6 HTTPError
+ok C02606 http://www.nber.org/papers/w29738.pdf
+fail C02647 https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37377134 HTTPError
+fail C02681 https://papers.ssrn.com/sol3/Delivery.cfm/7946.pdf?abstractid=3490410&mirid=1 HTTPError
+ok C02681 https://rationality-and-competition.de/wp-content/uploads/2021/12/306.pdf
+ok C02702 https://www.nottingham.ac.uk/research/groups/nicep/documents/working-papers/2024/2024-12.pdf
+ok C02704 https://resolver.caltech.edu/CaltechAUTHORS:20190506-152124696
+ok C02740 http://www.nber.org/papers/w30644.pdf
+notpdf C02746 https://escholarship.org/uc/item/58f5d3q1
+notpdf C02746 https://chicagounbound.uchicago.edu/jle/vol65/iss3/3
+fail C02747 https://www.econstor.eu/bitstream/10419/263557/1/dp15341.pdf HTTPError
+notpdf C02747 https://www.econstor.eu/bitstream/10419/263557/1/dp15341.pdf
+ok C02747 https://docs.iza.org/dp15341.pdf
+notpdf C00527 https://www.econstor.eu/bitstream/10419/252004/1/cesifo1_wp9487.pdf
+notpdf C00527 https://shs.hal.science/halshs-04192731
+ok C00527 https://www.ifo.de/DocDL/cesifo1_wp9487.pdf
+fail C01362 https://dspace.mit.edu/bitstream/1721.1/153910/1/2023_Electronic_Food_Vouchers_aer.20210461.pdf HTTPError
+fail C01362 https://dspace.mit.edu/bitstream/1721.1/153910/1/2023_Electronic_Food_Vouchers_aer.20210461.pdf HTTPError
+ok C01608 http://www.nber.org/papers/w31663.pdf
+fail C01610 https://pubmed.ncbi.nlm.nih.gov/37337095 HTTPError
+notpdf C01610 https://www.nature.com/articles/s41562-023-01617-6
+ok C01610 https://www.researchsquare.com/article/rs-1875757/latest.pdf
+ok C01628 https://www.nber.org/system/files/working_papers/w32602/w32602.pdf
+ok C01676 http://knowledge.uchicago.edu/record/5776
+fail C01725 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=15789 HTTPError
+notpdf C02226 https://escholarship.org/uc/item/86v1m64n
+notpdf C02296 https://www.econstor.eu/bitstream/10419/224571/1/vfs-2020-pid-39673.pdf
+notpdf C02296 https://figshare.com/articles/journal_contribution/Cultural_Distance_and_Conflict-Related_Sexual_Violence/29794754
+notpdf C02296 https://research-information.bris.ac.uk/en/publications/fd1360e1-fc13-4953-9690-12d28f67794c
+notpdf C02385 https://repositorio.ie.edu/bitstreams/469aeacb-948e-4ca2-80e4-2d3267e973e9/download
+fail C02385 https://journals.sagepub.com/doi/10.1177/00223433231201447 HTTPError
+ok C02659 http://soda-wps.s3-website-ap-southeast-2.amazonaws.com/RePEc/ajr/sodwps/2020-05.pdf
+ok C02677 http://wrap.warwick.ac.uk/138921/1/WRAP-designing-information-provision-experiments-Roth-2020.pdf
+fail C02723 https://pure.eur.nl/en/publications/f363de5e-2b03-4dda-9a26-9e718d66342c HTTPError
+fail C02723 https://openaccess.city.ac.uk/view/creators_id/mancy=2Eluo.html> HTTPError
+ok C00442 https://www.crctr224.de/research/discussion-papers/archive/dp601
+notpdf C00512 https://shs.hal.science/halshs-05031180
+fail C00628 https://dspace.mit.edu/bitstream/1721.1/165272/2/angelucci-prat-2024-is-journalistic-truth-dead-meas HTTPError
+notpdf C00628 https://sciencespo.hal.science/hal-03533356/document
+notpdf C00628 https://sciencespo.hal.science/hal-03533356
+notpdf C00628 https://ideas.repec.org/p/cpr/ceprdp/15222.html
+fail C00628 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=15222 HTTPError
+ok C00656 https://eprints.bbk.ac.uk/id/eprint/54327/1/Published%20manuscript.pdf
+notpdf C00662 https://www.nature.com/articles/s41586-024-08046-z.pdf
+notpdf C00662 https://www.nature.com/articles/s41586-024-08046-z.pdf
+fail C00662 https://pubmed.ncbi.nlm.nih.gov/39443790 HTTPError
+notpdf C00662 https://pmc.ncbi.nlm.nih.gov/articles/PMC11525172/pdf/41586_2024_Article_8046.pdf
+notpdf C00662 https://www.ncbi.nlm.nih.gov/pmc/articles/11525172
+notpdf C00662 https://www.nature.com/articles/s41586-024-08046-z
+notpdf C00826 https://sciencespo.hal.science/hal-05446535
+fail C01027 https://iris.unibocconi.it/bitstream/11565/4061738/1/criminal_procurement_JPEMicroFinal%281%29.pdf HTTPError
+ok C01300 http://www.nber.org/papers/w32742.pdf
+ok C01536 https://www.nber.org/system/files/working_papers/w30694/w30694.pdf
+fail C01592 https://pubmed.ncbi.nlm.nih.gov/38315863 HTTPError
+notpdf C01592 https://hal.science/hal-05183102v1/document
+notpdf C01592 https://hal.science/hal-05183102
+notpdf C01592 https://pmc.ncbi.nlm.nih.gov/articles/PMC10873637/pdf/pnas.202311703.pdf
+notpdf C01592 https://www.ncbi.nlm.nih.gov/pmc/articles/10873637
+ok C01592 https://rdu.unc.edu.ar/bitstreams/216a5dc3-0ad2-4d78-bd83-3e2e082b5c38/download
+fail C01618 https://pubmed.ncbi.nlm.nih.gov/39411084 HTTPError
+notpdf C01618 https://pmc.ncbi.nlm.nih.gov/articles/PMC11475465/pdf/pgae309.pdf
+notpdf C01618 https://www.ncbi.nlm.nih.gov/pmc/articles/11475465
+ok C01664 https://wrap.warwick.ac.uk/id/eprint/171014/13/WRAP-twerp-1433-Sudarshan-24.pdf
+ok C01696 http://www.nber.org/papers/w32445.pdf
+ok C01701 http://www.nber.org/papers/w33191.pdf
+fail C01830 https://journals.sagepub.com/doi/pdf/10.1177/07388942241230729?download=true HTTPError
+fail C01830 https://journals.sagepub.com/doi/10.1177/07388942241230729 HTTPError
+notpdf C02128 https://pmc.ncbi.nlm.nih.gov/articles/PMC12341851/pdf/nihms-2043535.pdf
+notpdf C02128 https://pmc.ncbi.nlm.nih.gov/articles/PMC12341851/pdf/nihms-2043535.pdf
+notpdf C02128 https://www.ncbi.nlm.nih.gov/pmc/articles/12341851
+fail C02128 https://pubmed.ncbi.nlm.nih.gov/40800104 HTTPError
+notpdf C02227 https://lup.lub.lu.se/record/055cc089-9add-47c2-a96f-01c2c04581ef
+ok C02297 https://www.nber.org/system/files/working_papers/w28714/w28714.pdf
+notpdf C02303 https://hal.science/hal-04435373
+fail C02317 https://www.nber.org/system/files/working_papers/w33964/w33964.pdf HTTPError
+ok C02671 https://osf.io/8un6a/download
+ok C00758 http://www.nber.org/papers/w26788.pdf
+notpdf C01109 https://osf.io/hgc2z_v2/download
+notpdf C01109 https://osf.io/hgc2z_v2/download
+notpdf C01109 https://osf.io/hgc2z
+fail C01321 https://dspace.mit.edu/bitstream/1721.1/162899/2/Econometrica%20-%202025%20-%20Chernozhukov%20-%20Fi HTTPError
+fail C01511 https://www.nber.org/system/files/working_papers/w33947/w33947.pdf HTTPError
+fail C01601 https://www.nber.org/system/files/working_papers/w34213/w34213.pdf HTTPError
+fail C01643 https://pubmed.ncbi.nlm.nih.gov/39928437 HTTPError
+notpdf C01643 https://hal.science/hal-04981251
+notpdf C01643 https://osf.io/qdhka
+fail C01643 http://osf.io/qdhka/ URLError
+notpdf C01643 https://psyarxiv.com/qdhka/download
+fail C01643 https://www.idref.fr/282466703>ORCIDORCID: HTTPError
+fail C01666 https://www.nber.org/system/files/working_papers/w34087/w34087.pdf HTTPError
+notpdf C01688 https://hal.science/hal-05272203/document
+notpdf C01688 https://hal.science/hal-05272203/document
+notpdf C01688 https://hal.science/hal-05272203
+notpdf C01733 https://pubmed.ncbi.nlm.nih.gov/39813345
+notpdf C01733 https://pmc.ncbi.nlm.nih.gov/articles/PMC11734729/pdf/sciadv.adq8052.pdf
+notpdf C01733 https://www.ncbi.nlm.nih.gov/pmc/articles/11734729
+fail C01977 https://research-information.bris.ac.uk/en/publications/0f66bb56-89b7-4888-9321-c2526e36faeb HTTPError
+ok C01977 https://www.ifo.de/DocDL/cesifo1_wp10609.pdf
+ok C01989 https://researchonline.lse.ac.uk/id/eprint/126039/1/3rdRevision_27_06.pdf
+ok C02392 https://bw.bse.eu/wp-content/uploads/2021/02/1239-file.pdf
+ok C00638 https://www.nber.org/system/files/working_papers/w34198/w34198.pdf
+notpdf C01034 https://www.econstor.eu/bitstream/10419/248991/1/cesifo1_wp9446.pdf
+ok C01034 https://www.ifo.de/DocDL/cesifo1_wp9446.pdf
+ok C01315 http://www.nber.org/papers/w27198.pdf
+ok C01529 https://escholarship.org/content/qt9jt1j1t7/qt9jt1j1t7.pdf
+ok C01530 http://www.nber.org/papers/w33482.pdf
+ok C01596 https://www.ecgi.global/sites/default/files/2026-02/appropriate-entrepreneurship.pdf
+ok C01607 https://researchonline.lse.ac.uk/id/eprint/128930/1/manuscript_003_.pdf
+ok C01903 https://economia.lse.ac.uk/articles/493/files/6a0c576ac234a.pdf
+fail C01181 http://wbro.oxfordjournals.org/cgi/content/short/15/2/199 HTTPError
+notpdf C01058 https://research.manchester.ac.uk/en/publications/a2f251eb-6a44-4109-be76-d50ea9be13ca
+fail C01126 http://www.blackwell-synergy.com/doi/abs/10.1111/j.1468-0297.2006.01049.x HTTPError
+fail C01189 https://papers.ssrn.com/abstract=1718346 HTTPError
+notpdf C01189 https://EconPapers.repec.org/RePEc:ioe:doctra:342
+fail C01189 http://cliolab.economia.uc.cl/docs/wp/wp_07.pdf URLError
+ok C01189 https://www.economia.uc.cl/docs/doctra/dt-342.pdf
+fail C01153 https://www.openicpsr.org/openicpsr/project/114759/version/V1/download/terms?path=/openicpsr/114759/ HTTPError
+fail C01171 http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00182 HTTPError
+ok C01143 https://docs.iza.org/dp5698.pdf
+notpdf C01180 https://www.escholarship.org/uc/item/82h2t5sf.pdf;origin=repeccitec
+ok C01180 https://docs.iza.org/dp6634.pdf
+notpdf C01184 https://econpapers.repec.org/RePEc:biu:wpaper:2012-06
+ok C01184 https://econ.biu.ac.il/sites/econ/files/working-papers/2012-06.pdf
+ok C01197 https://researchonline.lse.ac.uk/id/eprint/53268/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Jablonski%2C%20R_When%20governments%20resort_Jablonski_When%20governments%20resort_2016.pdf
+notpdf C01187 https://shs.hal.science/halshs-01510263
+fail C01193 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2300582 HTTPError
+fail C01204 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1899828 HTTPError
+fail C01201 http://osf.io/ewaf9/ URLError
+ok C01212 https://researchonline.lse.ac.uk/id/eprint/65687/1/Wehner_better_life_for_all_author.pdf
+notpdf C01062 http://repository.essex.ac.uk/19924/
+fail C01172 https://dspace.mit.edu/handle/1721.1/118646 HTTPError
+notpdf C01172 https://orcid.org/0000-0001-9242-5687
+ok C01138 https://researchonline.lse.ac.uk/id/eprint/101663/1/SSRN_id2887752_1_.pdf
+notpdf C01161 https://escholarship.org/uc/item/5sb7m8sr
+fail C01144 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2957503 HTTPError
+notpdf C01144 https://ideas.repec.org/p/cpr/ceprdp/11964.html
+fail C01144 http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=11964 HTTPError
+ok C01144 http://wrap.warwick.ac.uk/111475/1/WRAP-political-economy-program-enforcement-evidence-Brazil-Brollo-2018.pdf
+ok C01151 https://researchonline.lse.ac.uk/id/eprint/102987/1/Political_Alignment_20180201.pdf
+ok C01154 https://journals.cambridge.org/abstract_S0003055419000285
+notpdf C01191 https://sciencespo.hal.science/hal-03570875
+fail C01191 https://ideas.repec.org/p/spo/wpmain/infohdl2441-45g1k15t9v9k8qtuslf5aouda4.html HTTPError
+notpdf C01191 https://sciencespo.hal.science/hal-03570875/document
+notpdf C01191 https://spire.sciencespo.fr/hdl:/2441/45g1k15t9v9k8qtuslf5aouda4/resources/2019-gottlieb-grossman-larreguy-marx-a-signaling-theory-of-distributive-policy-choice-evidence-from-senegal.pdf
+notpdf C01191 https://hal-sciencespo.archives-ouvertes.fr/hal-03570875/document
+notpdf C01191 https://spire.sciencespo.fr/hdl:/2441/45g1k15t9v9k8qtuslf5aouda4
+ok C01072 https://researchonline.lse.ac.uk/id/eprint/101430/1/Brierley_Combining_Manuscript.pdf
+notpdf C01149 http://eprints.lse.ac.uk/104591/1/The_consequences_of_treating_electricity_as_a_right_.pdf
+ok C01149 https://researchonline.lse.ac.uk/id/eprint/102466/1/electricity_is_not_a_right_20190401.pdf
+ok C01182 http://www.nber.org/papers/w21859.pdf
+fail C01200 http://lbdiscover.ust.hk/uresolver?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rfr_ URLError
+fail C01200 http://repository.ust.hk/ir/Record/1783.1-109057 HTTPError
+fail C01217 https://openknowledge.worldbank.org/bitstream/handle/10986/34150/Achieving-World-Class-Education-in- HTTPError
+fail C01217 https://openknowledge.worldbank.org/bitstream/handle/10986/34150/Achieving-World-Class-Education-in- HTTPError
+fail C01217 https://openknowledge.worldbank.org/bitstreams/9d7e0df8-8705-5bc0-9fff-3bfc6391372b/download HTTPError
+notpdf C01217 http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil
+notpdf C01241 https://www.econstor.eu/bitstream/10419/215482/1/GLO-DP-0506.pdf
+notpdf C01241 https://ideas.repec.org/p/zbw/glodps/506.html
+notpdf C01136 https://hal.science/hal-03354024
+notpdf C01136 https://publications.ut-capitole.fr/id/eprint/43507/
+fail C01158 https://resolver.sub.uni-goettingen.de/purl?gro-2/87225 HTTPError
+ok C01194 https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/7/228/files/2021/06/Gov_responsiveness__ARPS_2022.pdf
+notpdf C01192 http://eprints.lse.ac.uk/124670/
+fail C01192 http://repository.hkust.edu.hk/ir/Record/1783.1-157330 HTTPError
+ok C01120 https://centaur.reading.ac.uk/114809/1/AAB_electrification_elections.pdf
+ok C01152 http://eprints.lse.ac.uk/117390/3/1_s2.0_S004727272200189X_main.pdf
+ok C01067 http://www.nber.org/papers/w32342.pdf
+ok C01117 https://kclpure.kcl.ac.uk/ws/files/256344179/ReSTUD_Democracy_Forthcoming.pdf
+notpdf C01128 https://www.econstor.eu/bitstream/10419/320310/1/quan200328.pdf
+ok C01148 https://escholarship.org/content/qt07z5f6n6/qt07z5f6n6.pdf?t=smza6k
+ok C01169 http://www.nber.org/papers/w33251.pdf
+ok C01133 https://docs.iza.org/dp17920.pdf
+fail C01207 http://d-scholarship.pitt.edu/42938/1/Paper_mission_khan.pdf HTTPError
+ok C00630 https://researchonline.lse.ac.uk/id/eprint/140380/1/AER_Accepted_Version.pdf
+fail C01071 https://osf.io/aq7hn/download TimeoutError
+ok C01071 https://researchonline.lse.ac.uk/id/eprint/137674/1/S0003055426101609.pdf
+ok C01135 https://researchonline.lse.ac.uk/id/eprint/129614/5/qjaf056.pdf
+ok C01167 https://researchonline.lse.ac.uk/id/eprint/128401/3/Redistricting_Dahis_Szerman.pdf

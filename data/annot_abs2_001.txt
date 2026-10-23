@@ -1,0 +1,41 @@
+# round 2, batch_001 — abstracts
+02162|Cross-country|Panel|Tax-financed wars built lasting fiscal capacity and power sharing; loan-financed wars did not when debts were defaulted or swapped for nontax revenue.|M_statecap+|
+02156|Cross-country|Review|Primary education systems arose mainly from nation- and state-building aims rather than democratization or industrialization, which still limits their focus on learning.|M_statecap+|
+02159|Chile; Europe|Panel|Primary schooling expanded after civil wars to teach obedience; Chile expanded schools in rebel provinces after 1859 as indoctrination, not concession.|M_statecap+,M_median~|
+01974|Theory|Theory|Feudal elites form non-binding coalitions; the model derives when a realm unites under one ruler or stays fragmented.|M_commit+|
+02514|Theory|Theory|Under uncertainty, price instruments beat quantity instruments when marginal benefits are flatter than marginal costs, and vice versa.||
+02511|Theory|Theory|Simultaneous industrialization can be profitable for all sectors through demand spillovers: a big push from a bad to a good equilibrium.|M_coord+|
+02319|Cross-country|Panel|Across 60 countries and 150 years, richer and democratic countries have stronger patent protection; legal origin shapes restrictions on patentees.||
+02147|Cross-country|Book|Growth depends on accumulation and knowledge creation and above all on institutions such as property rights and political systems.|M_commit+|
+02151|Theory|Review|Questions whether institutions are the primary cause of development, since they are endogenous to the conditions they should explain.|M_commit~|
+02152|Cross-country|XC|Institution measures in growth regressions capture outcomes, not constraints; human capital drives growth and institutions improve afterwards.|M_commit-|
+02600|Theory|Theory|In an interdependent world some countries choose cutthroat capitalism to lead innovation while others free-ride with cuddly welfare states.||
+02553|Theory|Theory|Ideas about goals, how the world works and available tools mediate interests; policy innovation can overcome apparently entrenched inefficiency.|M_commit~|
+01984|Theory|Theory|A principal cannot induce an agent to solve a problem whose resolution weakens the agent's future leverage, so such problems persist.|M_moralhazard+,M_commit+|
+02570|Russia|Theory|Too many rights to exclude create an anticommons of underuse, as in Moscow's empty storefronts.|M_collective+|
+02566|United States|NatExp|Ohio's rectangular survey grid raised land values relative to metes and bounds, and the gap persists today.|M_coord+|
+02546|Chile|DiD|The 1958 secret ballot cut land prices about 26% where patron–client inquilinaje was strongest: control of votes was part of land's value.|M_clientelism+|
+00745|Colombia|RD|Children of 1968 agrarian-reform beneficiaries are more mobile, urban and formally employed, via relieved credit constraints.||
+00110|Europe|Panel|Revolutionary events in neighbouring countries predict suffrage extensions in Europe in 1820–1938, supporting the threat-of-revolution theory.|M_commit+|
+02167|Cross-country|Book|Democracy emerges when inequality is low and assets are mobile, because elites then fear redistribution less.|M_commit+,M_median+|
+02166|Cross-country|Book|Democratization is driven by rising disenfranchised groups seeking protection from elites: likelier with income inequality, less with land inequality.|M_commit~|
+02246|Theory|Theory|Social mobility can destabilize democracy because a median voter expecting to move up prefers less voice for the poor.|M_median~|
+01901|Cross-country|Hist|Over two-thirds of democratizations since 1800 came from incumbents' mistakes rather than deliberate concessions.|M_commit-|
+02165|Cross-country|Review|Income predicts democratization and survival over 10–20 years; the effect is triggered by crises, defeats and leader change.|M_coord+|
+02603|Cross-country|Panel|Higher income and schooling predict later democracy, consistent with the Lipset modernization hypothesis.||
+01805|Cross-country|Panel|Democracies do not differ from nondemocracies in redistributive or efficiency policies, only in fewer limits on competition for office.|M_median-|
+02318|Cross-country|Panel|Political rights raise growth in sectors near the technological frontier by lowering entry barriers that protect vested interests.|M_lobby+|
+02669|Cross-country|Panel|Third-wave democratizations raise annual growth by about one point after a slow transition.||
+02668|Cross-country|Panel|Democracy raises the adoption of financial, trade and product-market reforms; reforms do not foster democracy.|M_median+|
+01826|Theory|Theory|In new democracies, pessimistic voters stop discriminating among politicians, who then all act as crooks: an expectations trap that can break democracy.|M_selection+,M_moralhazard+|
+02130|Cross-country|Struct|Elites learn about democracy's growth effects from their own and neighbours' experience, explaining clustered transitions.||
+01908|Cross-country|Panel|After correcting sample bias, democracy has little effect on infant and child mortality; its extra social spending reaches middle and upper groups.|M_median-|
+02154|Cross-country|Book|Educational expansion depends on regime type, inequality and dictators' ideology; left-wing dictatorships expand education broadly.|M_citizencand+,M_median~|
+02158|Africa|Review|Multiparty competition tends to raise access to education in Africa, but evidence on quality is thin.|M_median+|
+02515|China|Theory|Chinese-style federalism gives credible commitment to markets through local competition, incentives and protection from central intrusion.|M_commit+|
+01817|Theory|Theory|Leaders can recruit supporters only by creating a court that could depose them; personal trust underlies constitutional states.|M_commit+|
+01806|Theory|Theory|Power sharing between dictator and ruling coalition, backed by coup threats, produces contested and established dictatorships.|M_commit+|
+01807|Theory|Theory|Juntas need not collapse into personal rule: coalitions are stable because members fear later eliminations.|M_commit+|
+01818|Cross-country|Panel|Institutionalized ruling parties whose members can act collectively against the ruler attract more private investment in autocracies.|M_commit+,M_collective+|
+02286|Theory|Theory|A government delegating disturbance control relies on repeated costly interventions as the only credible incentive under limited commitment.|M_moralhazard+,M_commit+|
+02760|Theory|Book|Textbook of formal models: electoral competition, special interests, veto players, delegation, coalitions, agency and regime change.||

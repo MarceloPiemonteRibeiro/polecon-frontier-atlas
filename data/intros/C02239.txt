@@ -1,0 +1,43 @@
+UCLA
+UCLA Previously Published Works
+Title
+Inequality and Immigration Policy
+Permalink https://escholarship.org/uc/item/9t6759k1
+Journal
+Studies in Comparative International Development, 58(2)
+ISSN
+0039-3606
+Authors
+Peters, Margaret E
+Shin, Adrian J
+Publication Date
+2023
+DOI
+10.1007/s12116-022-09372-x
+Copyright Information
+This work is made available under the terms of a Creative Commons Attribution License,  availalbe at https://creativecommons.org/licenses/by/4.0/
+ 
+Peer reviewed eScholarship.org
+Powered by the California Digital Library
+University of California
+
+Inequality and Immigration Policy∗
+Margaret E. Peters†
+Adrian J. Shin‡
+Abstract
+How does inequality between capital and labor aﬀect immigration policy? By inciting native anxiety, rising inequality can cause policymakers to restrict low-skill immigra- tion. At the same time, it can lead to more open immigration policy since ﬁrms demand more labor when their proﬁt shares increase. We argue that the level of economic de- velopment conditions how inequality aﬀects immigration policy by assessing the eﬀect of economic development on the substitutability between immigrants and natives in the labor market. In less developed economies where the substitutability is high, rising inequality leads to more restrictive immigration policy. In advanced economies where the substitutability is low, rising inequality leads to less restrictive immigration policy.
+Using data on the capital share of value added in the industrial sector as a measure of inequality between capital and labor and low-skill immigration policy in 24 democracies from 1947 to 2006, we ﬁnd empirical support for our argument.
+∗We would like to thank Charlotte Cavaill´e and Adam Harris for providing comments and suggestions on previous versions of the manuscript. In addition, we would like to thank panelists and audiences at the 2015
+International Political Economy Society Conference (IPES), the 2016 European Political Science Association
+Conference, and the 2017 American Political Science Association Annual Meeting for their questions and comments. Finally, we thank Samantha Moya and Brendan Connell for their research assistance. All errors remain our own.
+†Department of Political Science, University of California, Los Angeles
+‡Department of Political Science, University of Colorado Boulder
+
+How does inequality aﬀect immigration policy? Thus far, scholars have suggested oﬃce- seeking policymakers respond to rising inequality by restricting immigration to stay in of-
+ﬁce.1 This is a fair assertion given advances in public opinion research, which reveal wide- spread popular opposition to immigration—particularly toward low-skill migrants.2 Increas- ing inequality—especially the income gap between employers and workers—may be unpopu- lar among voters concerned about potential labor-market competition from immigrants. Yet, for labor-intensive ﬁrms, their increasing share of proﬁt provides more business opportunities to expand their production, which in turn leads to increased business support for additional labor via open immigration. As in other issue areas of international political economy (IPE), such as trade and ﬁnance, the interests of powerful ﬁrms are likely to sway policy outcomes in directions not always consistent with the preferences of the majority of voters. Then, the eﬀects of inequality on immigration policy depend on the political dynamics between labor and capital.
+To understand the countervailing eﬀects of inequality on immigration policy, we focus on inequality between capital and labor in the labor-intensive industrial sector, including manufacturing and construction. Previous studies have focused on how an increase in this particular type of inequality can cause an immigration backlash.3 In this article, we highlight another important implication of rising inequality between capital and labor; we argue that it aﬀects the incentives of labor-intensive ﬁrms to lobby on immigration since rising inequality means that capital takes a higher proﬁt share vis-`a-vis labor, increasing their demand for additional labor necessary to expand their production. When capital captures a greater share of the proﬁts in labor-intensive industries, additional capital will move into those industries, as the returns have increased. This leads to expanded production in relatively labor-intensive
+1E.g. Timmer and Williamson (1998).
+2See Hainmueller and Hopkins (2014).
+3E.g. Luttmer (2009).
+1
+ sectors, which inc

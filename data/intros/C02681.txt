@@ -1,0 +1,38 @@
+Self-Persuasion: Evidence from Field
+Experiments at International Debating
+Competitions
+Peter Schwardmann (Carnegie Mellon University)
+Egon Tripodi (University of Essex and JILAEE)
+Joël J. van der Weele (University of Amsterdam and Tinbergen Institute)
+Discussion Paper No. 306
+December 1, 2021
+Collaborative Research Center Transregio 190 | www.rationality-and-competition.de
+Ludwig-Maximilians-Universität München | Humboldt-Universität zu Berlin
+Spokesperson: Prof. Georg Weizsäcker, Ph.D., Humboldt University Berlin, 10117 Berlin, Germany info@rationality-and-competition.de
+
+Self-Persuasion: Evidence from Field Experiments at International Debating Competitions⇤
+Peter Schwardmann
+Egon Tripodi
+Joël J. van der Weele
+November 4, 2021
+Abstract
+Laboratory evidence shows that when people have to argue for a given position, they persuade themselves about the position’s factual and moral superiority. Such self-persuasion limits the po- tential of communication to resolve conﬂict and reduce polarization. We test for this phenomenon in a ﬁeld setting, at international debating competitions that randomly assign experienced and mo- tivated debaters to argue one side of a topical motion. We ﬁnd self-persuasion in factual beliefs and conﬁdence in one’s position. Effect sizes are smaller than in the laboratory, but robust to a one-hour exchange of arguments and a ten-fold increase in incentives for accuracy.
+JEL Classiﬁcation: C93, D72, D83, D91.
+⇤Schwardmann: Carnegie Mellon University; schwardmann@cmu.edu. Tripodi: University of Essex and JILAEE; egon.tripodi@essex.ac.uk. van der Weele: University of Amsterdam and Tinbergen Institute; j.j.vanderweele@uva.nl. We are grateful to co-editor Stefano DellaVigna, a second co-editor and three anonymous referees for comments that greatly improved the paper. We also received valuable comments from numerous seminar participants and thank Saskia Bergmann, Andrea D’Souza, Yimin Ge and Lena Martinovic as well as many other members of the debating community for their collaboration. We especially beneﬁted from advice and support from Huyen Nguyen. Giacomo Manferdini, Hannah Rehwinkel and Irene van
+Rooij provided excellent research assistance and we are grateful to numerous local ﬁeld assistants for their support with the data collection. Research funding from the CRC TRR 190 Rationality and Competition, the Research Priority Area Behavioral Economics at the University of Amsterdam, the
+Dutch Science Foundation (NWO), the European University Institute and the Russell Sage Foundation is gratefully acknowledged. This study was approved by the Economics & Business Ethics Committee at the University of Amsterdam (ref. 20181017051000) and by the Ethics Sub Committee 1 at the University of Essex (ETH2021-1082), and was pre-registered on the AEA RCT Registry (AEARCTR-0003922). Survey templates and replication
+ﬁles are available at https://osf.io/u7ekr/. We are convinced that this paper contains no errors.
+
+It might be plausibly maintained that in almost every one of the leading controversies, past or present, in social philosophy, both sides were in the right in what they afﬁrmed, though wrong in what they denied; and that if either could have been made to take the other’s views in addition to its own, little more would have been needed to make its doctrine correct.
+John Stuart Mill, An Essay on Samuel Taylor Coleridge
+When asked to defend a particular point of view, people shift their private opinions in order to align them with the new arguments. Decades of research in the experimental laboratory have demon- strated this effect by having subjects argue in a randomly selected role (Janis and King, 1954; O’Neill and Levings, 1979), make counter-attitudinal statements (Festinger and Carlsmith, 1959a; Elliot and
+Devine, 1994), advise others to buy inferior products (Chen and Gesche, 2017; Gneezy et al., 2020), or convince others of their own ability (Smith et al., 2017; Schwardmann and van der Weele, 2019;
+Solda et al., 2019). In experimental courtroom or bargaining settings where subjects argue a ran- domly selected side of a case, they adopt self-serving views of the underlying evidence that limit their willingness to compromise (Thompson and Loewenstein, 1992; Babcock et al., 1995; Engel and
+Glöckner, 2013).
+This effect of persuasion goals on beliefs and attitudes, which we call self-persuasion, can have important implications. It limits the potential of communication in resolving costly disagreements in pre-trial legal bargaining and labor disputes (Babcock and Loewenstein, 1997) and helps explain why political polarization and partisanship are at record levels (Iyengar et al., 2019; Gentzkow, 2016), even though the internet has made it cheaper than ever to communicate with people that differ in background and ideology. It has also inspired theories about motivated cognition (Taber and Lodge,
+2006; Bénabou and Tirole, 2016) and the social origins of reasoning (Von Hippel and Trivers, 2011b;
+Mercier, 2011).
+Given the robust self-persuasion effect in the laboratory and its potential implications, an important question is whether the phenomenon carries over to more natural settings where it may be reduced by expertise and higher stakes or drowned out by contextual factors (List, 2003, 2006; Levitt and List,
+2007). The key difﬁculty in the ﬁeld is to disentangle the causality between private views and persua- sion goals. We confront this identiﬁcation challenge by conducting preregistered ﬁeld experiments at international debating competitions. The competitions feature parliamentary-style debates on topical motions like the freedom of movement in the European Union, investment in geoengineering, and the regulation of big technology companies. Because debaters are randomly assigned to persuasion goals just before the debate, comparing the beliefs and attitudes of the two sides yields clean esti-
+1
+ mates of self-persuasion. We survey debaters pre- and post-debate to measure thr

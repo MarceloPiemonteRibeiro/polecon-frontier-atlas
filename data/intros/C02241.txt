@@ -1,0 +1,22 @@
+Fiscal policy is deeply intertwined with politics since it is mostly about redistribution across individuals, regions and generations: the core of political conﬂict. The redistributive role of governments has been increasing over time starting with the welfare programs introduced during the Great Depression and then with the additional jumps in the sixties and seventies of last century. But even recently the size of social spending (as deﬁned by the
+OECD1) in 18 OECD countries jumped from 18 per cent of GDP in 1980 to 26 per cent in
+∗Prepared for the Handbook of Macroeconomics edited by John Taylor and Harald Uhlig. We thank
+Marina Azzimonti, Marco Battaglini, Stephen Coate, Casey Mulligan, Per Pettersson-Lindbom, Guido
+Tabellini, Pierre Yared, Fabrizio Zilibotti and the editors for very useful conversations and comments on earlier drafts.
+†aalesina@harvard.edu
+‡andreapassalacqua@fas.harvard.edu
+1OECD deﬁnes Social Expenditure as the provision by public (and private) institutions of beneﬁts to, and ﬁnancial contributions targeted at, households and individuals in order to provide support during
+1
+
+2014.2 In addition,the provision of public goods, which is therefore not classiﬁed as directly redistributive, has a redistributive component to the extent that public goods are used more or less intensively by individuals in diﬀerent income brackets. The structure of taxation, such as the progressivity of the income tax brackets, also implies redistributions.3 Politics matter for other macro policy areas, such as monetary policy and ﬁnancial regulation. The recent ﬁnancial crisis, for example, has reopened issues regarding the desirable conduct of monetary policy and the connection between monetary and ﬁscal policy. The ECB is at the center stage of the political discussion about institutional building in the Euro area.
+In the present paper we focus exclusively on ﬁscal policy.4
+The politics of ﬁscal policy could cover issues as diverse as the level of centralization versus decentralization, the structure of taxation, pension systems, the design of insurance programs like health care and unemployment subsidies, the optimal taxation of capital, international coordination of tax systems, just to name a few topics. In this paper we focus on debt. Many countries have been struggling with large debt over GDP ratios even before the ﬁnancial crisis: countries which faced the Great Recession starting with large debt risked (or experienced) debt crises, like Greece, Italy, and Portugal putting at risk even the survival of the Monetary Union. Japan has a public debt held by the private sector of at least 140 per cent of GDP.5 The political debate on how and at what speed to reduce the public debt after the Great Recession is at the center stage of the political debate.6 When adding expected future liabilities of entitlements and pensions the public budget of most OECD countries, including the Unites States, look bleak. Debt problems in developing countries, especially in Latin America have been common. Any attempt to circumstances which adversely aﬀect their welfare, provided that the provision of the beneﬁts and ﬁnancial contributions constitutes neither a direct payment for a particular good or service nor an individual contract or transfer. Such beneﬁts can be cash transfers, or can be the direct (“in-kind”) provision of goods and services.
+2Source: OECD (2014). The list of countries is: Australia, Austria, Belgium,Canada, Denmark, Finland,
+France, Germany, Ireland, Italy, Japan, Netherlands, Norway, Portugal, Spain, Sweden, UK, USA.
+3Alesina and Giuliano (2012) review the vast literature which has investigated the political and social determinants for the demand of redistribution.
+4Alesina and Stella (2010) address old and new issue regarding the politics of monetary policy.
+5The gross ﬁgure is well above 200 per cent but it includes debt held by various public institutions.
+6Reinhart and Rogoﬀ(2010) and Rogoﬀ(1990) have emphasized the cost of debt burden for long run growth.
+2
+ explain all of these phenomena leaving politics out is completely pointless.
+In particular we ask two broad questions. First, is there a tendency in democracies to pursue sub optimal ﬁscal policies which lead to the accumulation of excessive debt, where “excessive” is in reference of what a benevolent social planner would do? In other words, how far are the observed pattern of debt accumulation and ﬂuctuations in line with normative prescription of the l

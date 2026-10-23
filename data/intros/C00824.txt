@@ -1,0 +1,31 @@
+In recent years, a great deal of attention has been focused on the role of women as policymak- ers.1 Several empirical studies ﬁnd evidence consistent with the hypothesis that the gender of the policymaker aﬀects policy decisions and outcomes (among others, Chattopadhyay and Duﬂo (2004), Rehavi (2007), Ferreira and Gyourko (2011), Bhalotra and Clots-Figueras
+(2012), Gagliarducci and Paserman (2012)).2 In this paper, we provide new evidence on the link between the gender of the policymaker and several policy outcomes at the municipal level and highlight how local election incentives might aﬀect gender diﬀerences, by analyzing close elections between male and female candidates for mayor in Brazilian municipalities.
+The empirical literature has analyzed the eﬀect of the gender of the policymaker using two alternative institutional settings. One set of papers focuses on female politicians elected as a result of policies that establish minimum quotas of political positions reserved for women.
+The other one focuses on open contested elections between candidates of diﬀerent genders.
+The seminal contribution of Chattopadhyay and Duﬂo (2004) ﬁnds that the reservation of political positions for women in India aﬀects the types of public goods provided. Beaman et al. (2009) argue that prior exposure to a female chief councilor elected because of a quota aﬀects female attitudes and the gender composition of the future political leaders.3 Several papers that analyze settings without quotas also ﬁnd that the gender of the politician matters
+(among others, Rehavi (2007); Ferreira and Gyourko (2011); Bhalotra and Clots-Figueras
+(2012)). A key diﬀerence between elections with quotas and without is that in the latter there is competition across genders. This distinction may be relevant, as the experimental literature suggests that women may perform diﬀerently when competing against men than when competing against other women (Gneezy, Niederle and Rustichini (2003), Gneezy and
+Rustichini (2004)).
+1A broader related literature analyzes women’s empowerment and economic development, see Doepke,
+Tertilt and Voena (2011) and Duﬂo (2011) for recent reviews.
+2A family of theoretical models that would be consistent with gender diﬀerences in policies would be one in which male and female politicians have diﬀerent policy preferences (Alesina, 1988). For instance, the experimental literature ﬁnds evidence that, under some circumstances, the choices women make are more socially oriented than men’s (see, for instance, Nowell and Tinkler (1994), Andreoni and Vesterlund (2001),
+Eckel and Grossman (2008)).
+3See also Fr´echette, Maniquet and Morelli (2008), De Paola, Scoppa and Lombardo (2010), Pande and
+Ford (2011) and Besley et al. (2012) for analyses of the eﬀects of introducing gender quotas in diﬀerent settings.
+1
+
+In this paper, we contribute to this literature by highlighting how local election incentives may aﬀect gender diﬀerences in policy decisions and outcomes in a competitive environment.
+Local elections can increase accountability, helping to align politicians’ actions to voters’ preferences, but may also generate incentives for politicians to behave strategically.4 The eﬀect of local elections on the behavior of politicians may diﬀer across genders if men and women respond diﬀerently to electoral incentives. A number of studies ﬁnd evidence consis- tent with this possibility. For instance, several papers have shown that men are more willing to self-select into competitive environments than women and that their performance is more sensitive to the level of incentives provided (Gneezy, Niederle and Rustichini (2003), Niederle and Vesterlund (2007), Nierdele and Yestrumskas (2008), Dohmen and Falk (2011), Attali,
+Neeman and Schlosser (2010)). However, most of this evidence is from experimental settings and it is not clear whether gender diﬀerences found in the lab persist in the political arena.
+We use a rich micro dataset of municipalities in Brazil to analyze whether the gender of the policymaker aﬀects policy outcomes and whether local election incentives play a role in explaining gender diﬀerences. In order to control for municipality-speciﬁc confounding factors we adopt a Regression Discontinuity (RD) design in close electoral races.5 In this set-up, identiﬁcation comes from comparing municipalities where a female candidate barely won an election against a male candidate with municipalities where the opposite occurred.
+We focus on outcomes that depend on the eﬀort of the local government and for which administrative data at the municipal level are available.
+First, we look at discretionary infrastructure transfers from the federal government because the eﬀort of the mayor is an important determinant of the amount of transfers that municipalities receive in Brazil.6
+Second, we analyze health outcomes, focusing in particular on health care services related
+4Consistent with this idea, a growing empirical literature shows that electoral incentives may aﬀect the performance of local politicians. Besley and Case (1995) and List and Sturm (2006) provide evidence that electoral incentives inﬂuence ﬁscal and environmental policies of U.S. governors.
+Foster and Rosenzweig
+(2004) show that electoral competition aﬀects the provision of public goods in Indian villages. In the case of Brazil, the empirical evidence shows that term limits in mayoral elections aﬀect corruption (Ferraz and
+Finan (2011)) and the local implementation of federal cash transfer programs (de Janvry, Finan and Sadoulet
+(2012)).
+5See also Lee, Moretti, and Butler (2004), Lee (2008), Pettersson-Lidbom (2008), Vogl (2012) or Brollo and Nannicini (2012) for other examples of RDD in close elections. This strategy has been adapted to study gender diﬀerences in politics by Rehavi (2007), Ferreira and Gyourko (2011), Gagliarducci and Paserman
+(2012) and Bhalotra and Clots-Figueras (2012).
+6Anzia and Berry (2011) analyze gender diﬀerences across members of

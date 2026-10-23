@@ -1,0 +1,37 @@
+Political practitioners poorly predict which messages persuade the public*
+David E. Broockman†
+Joshua L. Kalla‡
+Christian Caballero§
+Matthew Easton¶
+January 2, 2024
+Abstract
+Recent research finds that political persuasion efforts often have limited effects. We explore a potential explanation for this finding: that political practitioners have poor intuitions about how to persuade. This would be surprising in light of longstanding theories that political elites can easily manipulate public opinion (Lasswell 1938) and the large sums spent to secure their expertise (Sheingate 2016)—but resonate with findings regarding the surprising limits of expert forecasts (Milkman et al. 2022; Tetlock 2005). In this paper, we evaluate how well political practitioners can predict which messages are most persuasive. We measured the effects of N =
+172 messages about 21 political issues using a large-sample survey experiment (N = 67, 215 respondent-message observations). We then asked both political practitioners who work to persuade the public (N = 1, 524 practitioners, N = 22, 763 predictions) and laypeople (N =
+21, 247 respondents, N = 63, 442 predictions) to predict the efficacy of these messages. We find that: (1) political practitioners and laypeople both perform barely better than chance at predicting persuasive effects; (2) once accounting for laypeople’s inflated expectations about the average size of effects, practitioners do not predict meaningfully better than laypeople; (3) these results hold even for self-identified issue experts and highly experienced practitioners; and (4) practitioners’ experience, expertise, information environment, and demographics do not meaningfully explain variation in their accuracy. Our findings have theoretical implications for understanding the conditions likely to produce meaningful elite influence on public opinion as well as practical implications for practitioners.
+*We thank P. Aronow, Edward Chang, Kevin Collins, Alex Coppock, Jamie Druckman, Angela Duckworth,
+Luke Hewitt, Katherine Milkman, Daniel O’Keefe, Ethan Porter, and Adam Shinegate for helpful feedback and
+Brynn Baker, Laila Davson, Riley Elliott, Xavier Guaracha, Josie Helm, Jack Maedgen, Maia Roothaan, Christian
+Thomas, and Kalvin Verner for their work as research assistants. This research was reviewed and approved by the
+Yale University and University of California, Berkeley Human Subjects Committees.
+†Associate Professor, Department of Political Science, University of California, Berkeley. dbroockman@berkeley.edu, https://polisci.berkeley.edu/people/person/david-broockman.
+‡Associate Professor, Department of Political Science and Department of Statistics and Data Science, Yale
+University. josh.kalla@yale.edu, https://joshuakalla.com.
+§PhD Student, Department of Political Science, University of California, Berkeley. christian.caballero@berkeley.edu.
+¶PhD Student, Department of Political Science, University of California, Berkeley. matt easton@berkeley.edu.
+1
+
+Longstanding theories argue that political elites can easily manipulate public opinion (e.g.,
+Lasswell 1938; Zaller 1992).
+Political organizations and elites appear to care deeply about accomplishing this goal: for instance, during the 108th Congress, Falk, Grizard and McDonald
+(2006) estimate that interest groups spent $625 million on print and television issue advertising
+(2023 dollars).
+Reflecting this, political organizations likewise spend large sums hiring communications consultants to help them persuade voters (Sheingate 2016).
+Scholarship’s robust finding that political elites have the potential to persuade the public sits at odds with findings that their real-world persuasion efforts often have limited effects (e.g., Kalla and Broockman 2018; 2022; Wlezien and Soroka 2023). In light of the apparent ease with which elites can sometimes manipulate mass opinion, why do they often fail to do so in practice?
+Prior research suggests multiple answers to this puzzle, such as the role of elite competition
+(Druckman and Lupia 2016).
+In this paper we suggest another, complementary explanation: political elites’ intuitions about how to persuade the public may be poor.
+A common assumption in analyses of political elites is that they are rational actors who act optimally, and so we might expect political elites to be very persuasive and able to easily manipulate public opinion. However, despite a widespread recognition that elites can powerfully influence public opinion, little research in political science has studied why and how elites choose their strategies for influencing the public.
+We argue that political elites are likely to have quite poor intuitions about what persuades the public—not because they lack relevant expertise or experiences, but simply because human beings are generally quite poor at predicting complex phenomena such as persuasion. In particular, a growing interdisciplinary literature on forecasting has shown that people—including experts and academics—are poor at predicting the effects of interventions to change behavior, such as which text messages will most effectively encourage vaccinations, or which advertisements will most increase sales (DellaVigna and Linos 2022; Hartnett et al. 2016; O’Keefe 2018; 2020; Milkman et al. 2021; 2022). This includes research on policy experts, who appear to only rarely accurately
+1
+ forecast world events (Tetlock 2005) or the effects of NGO interventions intended to increase political accountability (Ahrenshop et al. 2023).1
+Recent research on the effects of persuasive interventions also offers some hints consistent with this possibility, as it finds that typical persuasive efforts have very small effects, but that these effects are larger when experiments are used to find persuasive messages and subpopulations that were not identifiable in advance (Kalla and Broockman 2018; Hewitt et al. 2023). These findings suggest that the very small effects of real-world persuasive interventions may on

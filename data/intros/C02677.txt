@@ -1,0 +1,77 @@
+warwick.ac.uk/lib-publications 
+ 
+ 
+ 
+ 
+ 
+Manuscript version: Working paper (or pre-print) 
+The version presented here is a Working Paper (or ‘pre-print’) that may be later published  elsewhere. 
+ 
+Persistent WRAP URL:  http://wrap.warwick.ac.uk/138921 
+ 
+How to cite: 
+Please refer to the repository item page, detailed above, for the most recent bibliographic  citation information. If a published version is known of, the repository item page linked to  above, will contain details on accessing it. 
+ 
+Copyright and reuse: 
+The Warwick Research Archive Portal (WRAP) makes this work by researchers of the 
+University of Warwick available open access under the following conditions. 
+ 
+Copyright © and all moral rights to the version of the paper presented here belong to the  individual author(s) and/or other copyright owners. To the extent reasonable and  practicable the material made available in WRAP has been checked for eligibility before  being made available. 
+ 
+Copies of full items can be used for personal research or study, educational, or not-for-profit  purposes without prior permission or charge. Provided that the authors, title and full  bibliographic details are credited, a hyperlink and/or URL is given for the original metadata  page and the content is not changed in any way. 
+ 
+Publisher’s statement: 
+Please refer to the repository item page, publisher’s statement section, for further  information. 
+ 
+For more information, please contact the WRAP Team at: wrap@warwick.ac.uk. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warwick Economics Research Papers 
+ISSN 2059-4283 (online) 
+ISSN 0083-7350 (print) 
+ 
+Designing Information Provision Experiments 
+ 
+Ingar Haaland, Christopher Roth & Johannes Wohlfart 
+(This paper also appears as CAGE Discussion Paper No: 484) 
+ 
+ June 2020 
+ 
+ 
+ 
+ 
+ No: 1275 
+
+Designing Information Provision Experiments∗
+Ingar Haaland
+Christopher Roth
+Johannes Wohlfart
+June 26, 2020
+Abstract
+We review methodological questions relevant for the design of information provision experiments. We ﬁrst provide a literature review of major areas in which information provision experiments are applied. We then outline key measurement challenges and design recommendations that may be of help for practitioners planning to conduct an information experiment. We discuss the measurement of subjective beliefs, including the role of incentives and ways to reduce measurement error. We also discuss the design of the information intervention, as well as the measurement of belief updating. Moreover, we describe ways to mitigate potential experimenter demand effects and numerical anchoring arising from the information treatment. Finally, we discuss typical effect sizes in information experiments.
+Keywords: Experimental Design, Beliefs, Information, Obfuscation
+JEL Classiﬁcation: C90, D83, D91, L82
+∗Ingar Haaland, University of Bergen and CESifo, email: Ingar.Haaland@uib.no; Christopher Roth, University of Warwick, briq,
+CESifo, CEPR, CAGE Warwick, email: Christopher.Roth@warwick.ac.uk; Johannes Wohlfart, Department of Economics and CEBI, Uni- versity of Copenhagen, CESifo, Danish Finance Institute, e-mail: johannes.wohlfart@econ.ku.dk; The activities of the Center for Economic
+Behavior and Inequality (CEBI) are funded by the Danish National Research Foundation. We thank Philipp Doerrenberg, Lukas Hensel,
+Philipp Lergetporer, Michel Marechal, Ricardo Perez-Truglia, and Diego Ubfal for very useful suggestions. Hrishikesh Iyengar and Florian
+Schoner provided excellent research assistance.
+
+1
+Motivation
+Standard economic theories usually understand choices as a combination of four factors: preferences, constraints, information, and beliefs. The goal of economic experiments is typically to change some features of the choice environment to study how choices are made. Information experiments achieve this by varying the information set available to economic agents. By only providing information to a random subset of the population of interest, information experiments have become a popular method to study how economic agents form beliefs and make choices. For instance, information experiments have been extensively used to study policy questions (Alesina et al., 2018c; Armantier et al., 2016;
+Coibion et al., 2020a, 2019b; Hjort et al., 2019) and test economic theories (Bursztyn et al.,
+2012, 2019a). They can be conducted in controlled lab settings, online, or in more natural settings where the population of interest is typically not aware of its participation in an experiment.
+Information experiments enable clean identiﬁcation of the questions of interest by only varying one feature of the information set. One very powerful application of information experiments is to generate exogenous variation in perceptions of real world environments, which themselves cannot be directly changed. For instance, it is impossible to change the characteristics of immigrants, but researchers can vary perceptions of the immigrant popu- lation by correcting people’s misperceptions (Grigorieff et al., 2020). Similarly, researchers cannot manipulate intergenerational mobility or inﬂuence the state of the macroeconomy, but it is possible to change perceptions of intergenerational mobility (Alesina et al., 2018c) or the perceived likelihood of a recession (Roth and Wohlfart, 2019). Finally, researchers
+1
+ cannot manipulate social norms, but information provision experiments can be used to study the causal effect of perceived social norms on behavior (Bursztyn et al., 2018).
+In this article, we review the growing literature on information experiments in eco- nomics. In Section 2, we summarize areas in which information experiments have been widely applied. In Section 3, we outline best-practice recommendations for the measure- ment of beliefs. In Section 4, we discuss the design of the information intervention. In
+Section 5, we outline important aspects of the measurement of belief updating. In Section 6, we discuss best practice recommend

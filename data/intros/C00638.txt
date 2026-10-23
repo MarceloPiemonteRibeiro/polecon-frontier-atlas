@@ -1,0 +1,33 @@
+Over the past fifty years, much of the developing world has transitioned to democracy. Today, roughly half of the world’s nations are classified as liberal or electoral democracies, characterized by reasonably free and fair elections, robust citizen participation, and competitive party systems
+(Lührmann, Tannenberg, and Lindberg 2018; V-Dem Institute 2024).
+Yet despite these demo- cratic advances, many developing countries continue to struggle to provide equitable access to resources and opportunities and to deliver essential public goods and services. Systemic corruption, widespread clientelism, and the capture of political systems by wealthy elites remain pervasive.1
+These challenges weaken the foundations of democracy by eroding public trust in institutions, diminishing support for democratic governance, and potentially contributing to the observed demo- cratic backsliding in recent years.2
+This chapter examines how democracies malfunction in developing contexts and how these failures relate to shortcomings in accountability. Most formal models of accountability in economics and political science focus on electoral (vertical) accountability, whereby citizens pass judgment on representatives through periodic elections and party competition.
+This approach builds on the principal–agent framework, which treats elections as mechanisms for selection and sanction (see e.g.
+Fearon 1999; Besley 2006). However, periodic elections are not the only source of accountability for politicians. To understand why democracies malfunction in the developing world, it is important to incorporate other institutions: courts, audit bodies, the media, and civil society.
+Following
+O’Donnell (1994), we distinguish between vertical and horizontal accountability:
+"In institutionalized democracies, accountability runs not only vertically, making elected officials answerable to the ballot box, but also horizontally, across a network of relatively autonomous powers (i.e., other institutions) that can call into question, and eventually punish, improper ways of discharging the responsibilities of a given official."
+We also emphasize that citizens and civil society can exercise oversight through citizen monitoring, investigative media, and participatory oversight arrangements that connect societal actors to state
+1Keefer and Khemani (2005), Kitschelt and Wilkinson (2007), World Bank (2016), Pande (2020).
+2Svolik (2013), Acemoglu et al. (2024), Mainwaring and Pérez-Linán (2023).
+2
+ institutions, a process that Goetz and Jenkins (2001) refer to as hybrid or diagonal accountability.
+We argue that democratic malfunctions primarily stem from weak accountability mechanisms that fail to empower voters, political parties, the judiciary, the media, and civil society to constrain the government’s abuse of political power. Our argument centers on three types of accountability mechanisms: the degree to which governments are accountable to citizens (vertical accountability), to other state institutions (horizontal accountability), and to the media and civil society (diagonal accountability).3 For each type, we present empirical evidence highlighting its importance, followed by a discussion of some common institutional failures in the developing world that contribute to essential governance challenges, such as corruption or poor public service delivery.4
+Our analysis benefits from the growing empirical literature on the political economy of development that has emerged over the past two decades. Twenty years ago, cross-country analysis dominated discussions of governance and political failures in developing countries (Treisman 2000; Persson,
+Tabellini, and Trebbi 2003; Acemoglu, Johnson, and Robinson 2005; Lederman, Loayza, and Soares
+2005; Baland, Moene, and Robinson 2010). Since then, economists and political scientists have in- creasingly relied on micro-level data to document the extent of corruption (Di Tella and Schargrod- sky 2003; Reinikka and Svensson 2004; Olken 2007; Ferraz and Finan 2011), clientelism (Anderson,
+Francois, and Kotwal 2015; Bobonis et al. 2022), vote-buying (Finan and Schechter 2012; Cruz,
+Labonne, and Querubin 2017), and political favoritism for firms (Fisman 2001; Khwaja and Mian
+2005).5 Despite these advances, our understanding remains limited as to why these irregularities continue to be so pervasive and why they persist despite decades of democratic rule and rising incomes.6
+We start with a discussion of vertical accountability, the most widely studied dimension in economics and political science, which concerns the capacity of citizens—typically through parties and periodic
+3See Lührmann, Marquardt, and Mechkova (2020).
+4This chapter focuses on formal institutions of accountability. A large body of literature explores informal insti- tutions, culture, and social norms to explain issues such as corruption and clientelism. See, for example, Bidner and
+Francois (2013), Acemoglu and Robinson (2025) and Bisin and Verdier (2024).
+5See Olken and Pande (2012), World Bank (2016) and Canen and Wantchekon (2022) for reviews.
+6Early discussion on some of these topics can be found in Bardhan (2004). There is extensive theoretical literature explaining the persistence of inefficient political institutions, including Acemoglu (2006), Acemoglu and Robinson
+(2008), and Besley and Persson (2011). However, our focus here is on the micro empirical evidence.
+3
+ elections to influence and discipline politicians’ behavior (Barro 1973; Ferejohn 1986; Fearon 1999;
+Przeworski, Stokes, and Manin 1999).7 This framework has been instrumental in explaining how accountability affects key outcomes, such as public spending (Besley and Case 1995), corruption levels (Ferraz and Finan 2011), government responsiveness (Besley and Burgess 2004), and voter welfare (Finan and Mazzocco 2021).8
+Elections are not the only accountability mechanism that ensures the effective functioning of demo- cratic systems. Because elections occur only perio

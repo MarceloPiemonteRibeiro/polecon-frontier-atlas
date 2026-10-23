@@ -1,0 +1,53 @@
+UC Berkeley
+UC Berkeley Previously Published Works
+Title
+Vulnerability and Clientelism
+Permalink https://escholarship.org/uc/item/4n28d9c1
+Journal
+American Economic Review, 112(11)
+ISSN
+0002-8282
+Authors
+Bobonis, Gustavo J
+Gertler, Paul J
+Gonzalez-Navarro, Marco et al.
+Publication Date
+2022-11-01
+DOI
+10.1257/aer.20190565
+Copyright Information
+This work is made available under the terms of a Creative Commons 
+Attribution License, availalbe at  https://creativecommons.org/licenses/by/4.0/
+ 
+Peer reviewed eScholarship.org
+Powered by the California Digital Library
+University of California
+
+American Economic Review 2022, 112(11): 3627–3659  https://doi.org/10.1257/aer.20190565
+3627
+Vulnerability and Clientelism†
+By Gustavo J. Bobonis, Paul J. Gertler, 
+Marco ­Gonzalez-Navarro, and Simeon Nichter*
+This study argues that economic vulnerability causes citizens to  participate in clientelism, a phenomenon with various pernicious  consequences. To examine how reduced vulnerability affects citi- zens’ participation in clientelism, we employ two exogenous shocks  to vulnerability. First, we designed a randomized control trial to  reduce household vulnerability: our development intervention  constructed residential water cisterns in ­drought-prone areas of 
+Brazil. Second, we exploit rainfall shocks. We find that reducing  vulnerability significantly decreases requests for private goods  from politicians, especially among citizens likely to be in clientelist  relationships. Moreover, reducing vulnerability decreases votes for  incumbent mayors, who typically have more resources for clien- telism. (JEL D72, H41, I38, O12, O17, Q54)
+Many developing countries have adopted democratic forms of government with a  primary objective of heightening political representation (Acemoglu and Robinson 
+2006; Hagopian and Mainwaring 2005). However, democratic political institutions  have often failed to provide broad representation of poor and vulnerable citizens,  who are frequently the majority of constituents. Substantial research suggests that  clientelism—the exchange of contingent benefits for political support (Hicken 2011; 
+Kitschelt and Wilkinson 2007)—is an important reason why many elected politi- cians are neither accountable nor responsive to their constituencies (e.g., Keefer 
+2007; Stokes et al. 2013). Among the numerous pernicious consequences, a large  literature argues that clientelism exacerbates governmental allocative inefficiencies 
+* Bobonis: University of Toronto (email: gustavo.bobonis@utoronto.ca); Gertler: University of California, 
+Berkeley (email: gertler@berkeley.edu); ­Gonzalez-Navarro: University of California, Berkeley (email: marcog@ berkeley.edu); Nichter: University of California, San Diego (email: nichter@ucsd.edu). Esther Duflo was the coed- itor for this article. We thank Juliana Lins, Bárbara Magalhães, and Vânya Tsutsui for assistance during fieldwork; 
+Márcio Thomé and the BemFam team for survey work; Tadeu Assad and the IABS team for project management;  and the ASA team for cistern construction (especially Jean Carlos Andrade Medeiros). We are grateful for excellent  research assistance by Julian Dyer, Alex Hegarty, Tasnia Hussain, Ada Kwan, Celso Rosa, Matthew Tudball, Aly 
+Somani, Farhan Yahya, and especially Lisa Stockley, Ridwan Karim, Fikremariam Gedefaw, and Austin Zheng. 
+We thank the anonymous referees and numerous seminar participants for insightful comments. IRB approval was  awarded by Brazil’s Comissão Nacional de Ética em Pesquisa (Protocol 465/2011), the University of Toronto 
+(Protocol 27432), and Innovations for Poverty Action (Protocol 525.­11May-006). The intervention was registered  in the American Economic Association’s RCT registry (Protocol ­AEARCTR-0000561). This project would not  have been possible without financial support from AECID and the leadership of Pedro Flores Urbano. We also  gratefully acknowledge funding from the Canadian Institute for Advanced Research, the Canada Research Chairs 
+Program, the Social Sciences and Humanities Research Council of Canada (SSHRC) under Insight Grants 488989  and 493141, and the Ontario ­Work Study program.
+† Go to https://doi.org/10.1257/aer.20190565 to visit the article page for additional materials and author  disclosure statements.
+
+3628
+THE AMERICAN ECONOMIC REVIEW
+NOVEMBER 2022 and undermines the functioning of democratic institutions, potentially leading to  both reduced political competition as well as the underprovision of public goods  and social insurance.1
+Given such potential consequences, why would citizens participate in clientelism? 
+Of the many factors posited, perhaps none has garnered more attention than poverty. 
+An extensive theoretical literature points to the decreasing marginal utility of con- sumption as an underlying reason why impoverished citizens may place relatively  greater value on private consumption than on political preferences or public goods  provision (e.g., Dixit and Londregan 1996; Lizzeri and Persico 2001; Bardhan and 
+Mookherjee 2012). But while this focus on poverty emphasizes the level of consump- tion, it does not pay close attention to the variability of consumption. Recognizing  the importance of both dimensions of consumption, the present study broadens the  focus to vulnerability. As shown by Ligon and Schechter (2003)’s theoretical work,  economic vulnerability, defined as encompassing both the level and variability of  consumption, has important effects on citizens’ ­well-being.
+The pervasiveness of both vulnerability and clientelism across developing coun- tries raises two important, unexplored questions. First, is there a causal link between  economic vulnerability and citizens’ participation in ongoing clientelist relation- ships? And second, if vulnerability is indeed a cause of clientelism, what are the  electoral consequences of reducing vulnerability? If citizens become less reliant on  elected officials as their vulnerability declines, we might expec

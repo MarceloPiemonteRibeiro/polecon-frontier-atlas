@@ -1,0 +1,41 @@
+# round 2, batch_012 — abstracts
+02476|Theory|Review|Introduces the Economics for Inclusive Prosperity network as an alternative to market fundamentalism.||
+02195|Cross-country|Panel|As inequality rises, left-leaning policymakers make taxes more redistributive and right-leaning ones suppress redistribution.|M_citizencand+|
+02323|United States|DiD|Sons of parents with more Social Security coverage moved farther, earned more and lived in better neighbourhoods, gains exceeding the benefits.||
+02257|Theory|Theory|Committee systems, jurisdictions and amendment control rules produce structure-induced equilibrium where pure majority rule has none.|M_legbargain+|
+02076|United States|Panel|Congressional committees are generally not preference outliers relative to the chamber, contrary to distributive theories.|M_legbargain~|
+02075|United States|Panel|Robust tests find no strong support for any committee-composition hypothesis; the outlier hypothesis gets mixed support.|M_legbargain~|
+02074|Theory|Theory|Presidential veto and bicameralism lead chambers to create internal veto players or supermajority rules; unicameralism encourages delegation to a leader.|M_legbargain+,M_lobby+|
+02459|Theory|Theory|Reputations for obstinate bargaining postures generate a war of attrition with delay that is independent of protocol details.|M_legbargain+|
+01769|United Kingdom|Theory|Westminster-style procedures make opposition vote against government regardless of proposal, reinforcing government cohesion and moderating policy.|M_legbargain+|
+02741|United States|Survey|Survey-based ideal points place agencies, presidents and Congress on one scale, enabling tests of political-control models.|M_bureau+|
+01768|Theory|Theory|Risk-averse majorities consent to restrictive procedures such as chairs and committees to reduce procedural uncertainty, accepting policy bias.|M_legbargain+|
+01920|Theory|Theory|In committees acquiring information sequentially, majority rule is vulnerable to impatient members; balanced committees prefer a moderate chair.|M_legbargain+|
+02618|United States|Struct|Senators early in alphabetical roll calls defect from their party more, consistent with backward-induction free riding.|M_legbargain+|
+02654|United States|NatExp|The daughter effect on legislators' votes on women's issues appears only in the period Washington studied, not before or after.|M_citizencand-|
+00470|Theory|Theory|With data on a single election, the hypothesis that voters vote ideologically is irrefutable.||
+02551|United States|Text|A bias-corrected measure of partisan speech shows congressional partisanship was flat for a century and rose sharply from the early 1990s.||
+01915|United States|Struct|Roll-call voting is low-dimensional and stable; since WWII change has come through replacing members rather than adaptation.|M_citizencand+,M_median~|
+01917|Theory|Theory|NOMINATE-type models are not identified from roll calls alone; modelling the agenda achieves identification.||
+02616|United States|Theory|Vote-based partisanship measures cannot distinguish party discipline from intraparty preference homogeneity.|M_legbargain~|
+02619|United States|Panel|Ideological voting structure appears even in the Confederate House, which had no parties.|M_median+|
+02620|United States|Panel|Party influence on roll calls appears in nearly all congresses since 1871, especially on procedural, budget and tax votes.|M_legbargain+|
+01916|Theory|Struct|A Bayesian ideal-point estimator handles any roll-call setting and lets models of legislative behaviour be tested directly.||
+02729|United States; France|Panel|The 2002–03 collapse in US attitudes toward France cut bilateral trade by about 9%.|M_culture+|
+02610|Theory|Theory|Factions competing for local public goods explain persistent inefficient policies and spending favouring party strongholds.|M_probvote+,M_legbargain+|
+01755|United States|Panel|Successive challengers to the same incumbent gain no votes from more moderate platforms.|M_median-|
+02060|Cross-country|Panel|Platform polarization decreases with electoral-rule disproportionality.|M_median+|
+02656|United States|RD|Nominating an extremist in a close primary cuts the party's general-election vote by 9–13 points and its win probability by 35–54 points.|M_median+|
+02730|United States|Panel|French-sounding US supermarket brands lost market share during the 2003 Iraq dispute, more where citizens were concentrated.|M_culture+|
+01756|United States|Panel|Legislators diverge as much on issues their constituents care strongly about, contrary to convergence predictions.|M_median-|
+02734|United States|Survey|Employers mobilize workers politically as effectively as unions or parties, especially with job-loss warnings and monitoring.|M_clientelism+,M_lobby+|
+01759|Theory|Theory|Ambiguous platforms balance delegate and trustee representation, but competition makes winners' platforms overly ambiguous.|M_median~|
+02622|United States|RCT|Making contributions visible to neighbours raises giving by local-majority partisans and lowers it for minority partisans.|M_culture+|
+02731|United States|RCT|Workers accept lower wages from co-partisan employers and consumers prefer co-partisans: partisanship shapes economic behaviour.|M_culture+|
+02735|United States|Panel|Private-equity professionals whose ideology is more conservative than their firm's are likelier to leave.|M_culture+|
+01758|Theory|Theory|Voters' induced preferences over representatives who choose among others' proposals favour more extreme representatives, causing polarization.|M_median-|
+02614|United States|Book|US polarization has deep roots over four decades; gerrymandering, primaries and campaign finance contribute.||
+02733|United States|RCT|CEO activism can shift public opinion on policy and consumers' attitudes toward the company.|M_media+|
+02736|United States|RCT|Advertising work as socially oriented attracts 25% more applicants and more productive workers, complementing wages.||
+02732|United States|RCT|An employer taking a social-political stance demotivates workers who disagree and does not motivate those who agree.||
+02650|United States|RCT|Deliberating in "America in One Room" depolarized policy attitudes and reduced affective polarization.|M_culture~|

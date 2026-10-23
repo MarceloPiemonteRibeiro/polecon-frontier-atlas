@@ -1,0 +1,42 @@
+One of the most striking features of twentieth century economic history was the increase in the capacity of states to raise signi…cant revenues as a share of national income. At the turn of the century, very few advanced countries raised in excess of 10% of GDP in the form of tax revenues. Yet, by the last quarter of the century a tax take of around 40% was not uncommon.
+This expansion in revenues has enabled governments around the world to expand the scope of their activities from a predominant concern with national defence and infrastructure to high levels of public funding for health care, education, pensions and income transfers.
+But this change in the nature of government is of much greater signi…cance than is suggested by data on public revenues and spending alone.
+Raising substantial tax revenues requires transformative economic, political and so- cial changes which was emphasized in Schumpeter (1918), a foundational essay in the history of …scal sociology, when he notes that:
+“the …scal history of a people is above all an essential part of its general history. An enormous in‡uence on the fate of nations emanates from the economic bleeding which the needs of the state necessitates, and from the use to which the results are put.”
+In short, the power to tax is at the heart of creating an e¤ective state.
+This paper develops a model to illustrate the role of civic culture in building an e¤ective …scal state. Tax compliance is a¤ected by the civic- mindedness of citizens and by the composition of government spending, i.e. public goods versus transfers. The latter is a¤ected by the value of public goods and the cohesiveness of political institutions.
+Civic culture evolves over time re‡ecting the relative payo¤s of civic-minded and materialistic cit- izens.
+The paper gives conditions under which this leads to an increase in
+…scal capacity. Despite the speci…c modelling assumptions, the ideas devel- oped in the paper are of wide applicability in understanding the historical emergence of e¤ective states.
+The approach taken here di¤ers from the typical starting point for eco- nomic studies of government policy which assume that governments are en- dowed with su¢ cient power to tax, regulate and enforce laws.
+The main focus is then on how policy measures are deployed in theory and practice.1
+1See, for example, the classic texts such as Atkinson and Stiglitz (1980) on taxation and public spending, or La¤ont and Tirole (1993) on regulation.
+2
+
+Only recently has there been a systematic investigation of how state capaci- ties are acquired in the …rst place, feeding o¤ an increased recognition that di¤erences in state e¤ectiveness across the world and over time are strikingly large.2 At one end of the spectrum, are the highly functional states of Scan- dinavian countries many of which combine functioning market economies with social provision of a range of goods and services.
+At the other end of the spectrum are so-called “fragile”states, many of which are located in
+Africa and the Middle-East, and struggle to maintain law and order and to deliver even the most basic services to their citizens.
+The framework developed here is able to isolate a range of factors which determine …scal capacity.
+It highlights, in particular, the complementarity between the strength of institutions and a quasi-voluntary tax compliance as emphasized in Levi (1988). This emphasizes that institutional and cultural explanations of the emergence of a strong …scal state are complements. The model also generates a range of novel insights into the factors which shape how civic culture develops in the long run.
+The remainder of the paper is organized as follows.
+The next section discusses areas of related research along with some suggestive evidence from the World Values Survey.
+Section three develops the core model.
+Section four studies optimal policy and cultural dynamics and section …ve develops implications of di¤erent ways of creating stronger common interests between citizens and elites. Section six explores some additional issues while section seven concludes. Proofs and some technical details are in the Appendix.
+2
+Background
+State E¤ectiveness, Reciprocity and Social Order
+The state is the central institution for maintaining social order in large and complex societies.
+This paper is related to long-standing debates about how to build an e¤ective state that can tax, spend and regulate markets.
+This links a wide range of literature in political philosophy and the social sciences.
+There are two broad views of the origins of e¤ective states.
+The …rst is often associated with Hobbes (1651) and regards the sine qua non of state e¤ectiveness to be the projection of coercive power. This sees the problem of state e¤ectiveness as building organizational structures which allow the state to extend its reach and coerce citizens into complying with its diktats. This
+2See Besley and Persson (2011) for an outline of some of the main ideas.
+3
+ means creating a system of formal enforcement of legal rules and payment of taxes.
+Doing so requires purposeful investment by state actors of the kind modeled in Besley and Persson (2009, 2011) who consider the power to tax
+(…scal capacity) and the power to enforce property rights and regulate a mar- ket economy (legal capacity). They propose a model in which policy-makers weigh up the costs and bene…ts of investing in state capacities.
+Incentives to do so depend on how far state power is used to pursue common interests which is facilitated by having more cohesive institutions.
+Their approach rhymes well with that taken in, for example, Acemoglu and Robinson (2012) and North and Weingast (1989) who both see constraints on state power as essential to establishing e¤ective government.3
+The second view emphasizes the state as a social contract and has its origins in a range of in‡uential thinkers.
+For example, Locke (1690) and
+Rousseau (1762) argue that civil and political rights constitute a form

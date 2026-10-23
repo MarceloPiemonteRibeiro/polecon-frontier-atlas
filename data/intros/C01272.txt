@@ -1,0 +1,36 @@
+Pay Me Later:
+Savings Constraints and the
+Demand for Deferred Payments∗
+Lasse Brune, Eric Chyn, and Jason Kerwin
+March 19, 2021
+Abstract
+We study a simple savings scheme that allows workers to defer receipt of part of their wages for three months at zero interest. The scheme signiﬁcantly increases savings during the deferral period, leading to higher post-disbursement spending on lumpy goods. Two years later, after two additional rounds of the savings scheme, we
+ﬁnd that treated workers have made permanent improvements to their homes. The popularity of the scheme implies a lack of good alternative savings options. The results of a follow-up experiment suggest that demand for the scheme is partly due to its ability to address self-control issues.
+∗Brune: Global Poverty Research Lab, Kellogg School of Management, Northwestern University,
+Evanston, IL 60208, USA; lasse.brune@northwestern.edu; Chyn: Department of Economics, Dartmouth Col- lege, 6106 Rockefeller Center, Hanover, NH 03755, USA, and NBER; eric.t.chyn@dartmouth.edu; Kerwin:
+Department of Applied Economics, University of Minnesota, 1994 Buford Avenue, St. Paul, MN 55108,
+USA; jkerwin@umn.edu. We are grateful for insightful comments from Achyuta Adhvaryu, Emily Breza,
+Lorenzo Casaburi, Michael Callen, Marcel Fafchamps, Xavi Gin´e, Reshma Hussam, Kelsey Jack, Namrata
+Kala, Dean Karlan, Craig McIntosh, Doug Staiger, Chris Woodruﬀ, Dean Yang, Jonathan Zinman, and from seminar participants at the IPA Researcher Gathering on Financial Inclusion, Yale University, the Consumer
+Financial Protection Bureau, the University of Hong Kong, HKUST, Peking University, China Agricultural
+University, the Federal Reserve Bank of Philadelphia, the University of Utah, the University of Washington,
+MIEDC, CSAE, NEUDC, and ASSA. We gratefully acknowledge support from the Financial Services for the Poor Research Fund at Innovations for Poverty Action, sponsored by a grant from the Bill and Melinda
+Gates Foundation. We thank Rachel Sander for providing excellent research assistance, and Ndema Longwe for his outstanding diligent work in managing data collection. In addition, we also thank the editor Esther
+Duﬂo and two anonymous referees for detailed comments and feedback. This project would not have been possible without the help of the management at the Lujeri Tea Estate and the employees who participated in the study, who generously shared their time with us. This work was supported by the USDA National
+Institute of Food and Agriculture, Hatch project MIN14-164. This study was reviewed and approved by
+IRBs in Malawi (NCRSH, protocol number P.08/16/131) and at IPA (protocol number 13888). This study is registered with the AEA RCT Registry under registration number AEARCTR-0001554 (Brune, Chyn and
+Kerwin 2021b).
+
+A key prediction of standard economic models is that individuals should prefer to be paid early. However, an emerging literature documents notable demand for deferred payments for goods and services in developing countries (Casaburi and Macchiavello, 2019; Brune and
+Kerwin, 2019; Kramer and Kunst, 2020). Similarly, millions in developed countries choose to defer income by opting to overwithhold on tax payments that are later returned as refunds
+(Thaler, 1994).
+There are three main beneﬁts to deferred payments. First, deferring pay naturally gen- erates lump sums that can be used to purchase durable goods, make business investments, or buy in bulk. This may be particularly important given qualitative evidence that suggests poor households exert substantial eﬀort to generate lump sums (Collins et al., 2009). Second, deferred payments may be a relatively safer savings option because access to high-quality formal banking is limited and informal saving options can be risky (Karlan, Ratan and Zin- man, 2014; Dupas et al., 2016). Third, delaying pay can help address behavioral constraints such as time-inconsistency (Laibson, 1997; Ashraf, Karlan and Yin, 2006; Bryan, Karlan and
+Nelson, 2010; DellaVigna, 2018).
+This paper provides evidence on the demand for deferred payments and the ﬁrst ex- perimental estimates of the impact of this savings method on downstream outcomes. Our analysis is based on a sample of full-time workers at a large agricultural employer in rural
+Malawi. We study a savings scheme that allowed workers to defer a fraction of their pay for three months at zero interest. Access to this scheme was randomized for a sample of 870 workers who were interested in participating. All payments were provided in cash through the ﬁrm’s regular payroll infrastructure. The scheme created a simple, no-frills option for workers to save for lumpy purchases by piggybacking on existing ﬁrm payroll infrastructure to shift the timing of payments.
+Our analysis shows that the savings scheme was popular and changed worker behavior.
+Nearly half of all workers who were contacted as part of outreach activities signed up for the scheme.1 Those who enrolled had high rates of account usage (92 percent made more
+1We conducted outreach by having ﬁeld staﬀvisit divisions of the ﬁrm. The staﬀheld information sessions with all permanent, full-time workers who were present on the day of the visit. We did not provide subsidies
+1
+ than one deposit) and saved 14 percent of their wages on average. We ﬁnd that the scheme appears to have increased overall savings during the accumulation period, rather than just substituting for other forms of savings. Much of the reported money saved was spent on lumpy purchases: two-thirds of treatment workers’ additional spending in the two weeks after payout goes toward lumpy purchases, including for durable purchases related to housing investment.
+Participation in the deferred wages scheme had signiﬁcant eﬀects on downstream out- comes. Four months after the end of the scheme, a broad measure of the value of durable assets increased by 10 percent. This increase was concentrated in stored materials for house improvements such as sheets of met

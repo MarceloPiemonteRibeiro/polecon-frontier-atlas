@@ -1,0 +1,79 @@
+LIS 
+Working Paper Series 
+ 
+ 
+Luxembourg Income Study (LIS), asbl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No. 584 
+ 
+ 
+Median Voter and Power Resources Revisited: 
+A Composite Model of Inequality 
+ 
+Mathew Y. H. Wong 
+ 
+February 2013 
+ 
+ 
+
+ 
+ 
+ 
+Median Voter and Power Resources Revisited: 
+A Composite Model of Inequality 
+ 
+Feb 2013 
+ 
+ 
+Mathew Y. H. Wong 
+University of Essex 
+Department of Government 
+Wivenhoe Park 
+Colchester CO4 3SQ 
+United Kingdom 
+  yhmwon@essex.ac.uk 
+ 
+ 
+Abstract 
+ 
+This paper explains redistribution and income inequality by revisiting traditional  approaches. First, despite the popularity of two dominant theories, the median voter  hypothesis (the Meltzer-Richard model) and power resources theory, they are thought  to have contrasting predictions and have seldom been incorporated under a single  framework. We develop a composite model of inequality by accommodating their  core arguments. This study also analyzes stages of inequality formation, such as  market wage inequality and redistribution, and adds in a dynamic component to the  model, completing the cycle of inequality. The model is supported empirically with  data from 18 OECD countries from 1970 to 2006. We demonstrate the joint relevance  and significance of the two theories, showing that they are not necessarily mutually  exclusive. 
+. 
+ 
+* I would like to thank Hugh Ward for comments and suggestions on previous drafts  of this paper. 
+
+2 
+This paper endeavors to explain income inequality by looking at wage  distribution and the extent of redistribution, measured as reduction in inequality,  which are the two factors accounting for disposable (net) income inequality.1 To do  that, we incorporate power resources theory and median voter hypothesis under a  single framework. The intuition behind choosing these two theories, besides their  obvious significance in the literature, is based on their inherently political nature and  pertinence to the democratic status of a regime. The decisive voter in the median voter  hypothesis is only meaningful (for the purpose here) in a democratic setting. 
+Democracy also lowers the cost of participation for labor, and the freedom of  association further enables workers to cumulate power resources (Schumpeter 1942; 
+Rodrik 1998). It is apparent that both theories hinge on the ever-changing political  climate, unlike other relatively static socioeconomic or structural explanations of  redistribution and inequality. 
+There is another important reason to combine the two approaches. When a  particular theory is focused over the other, one makes the implicit assumption that the  two theories operate somewhat independently. However, as we shall see below, not  only do the two theories overlap, but they are also causally related. Tests on the  median voter hypothesis always focus on its direct effect on redistribution. It is  seldom noted or tested that the position of the median voter can affect leftist electoral  performance, which in turn affects redistribution. Thus, the direct and indirect effect  of the median voter cannot be accurately estimated without simultaneously taking  power resources into consideration; and vice versa. 
+ 
+1 This two-stage strategy to analyze the distributive process is essentially the same as that of 
+Bradley et al. (2003), among others. Using different indicators, they likewise look at  pre-government inequality and government redistribution, while ultimately interested in  disposable income inequality. 
+
+3 
+There is nothing new about studying the various stages of inequality formation 
+(wage inequality, redistribution) with either the median voter hypothesis or power  resources theory. It is also not uncommon to see debates about the superiority of one  theory over the other (e.g., Huber and Stephens 2012: 35-37). What we want to  demonstrate here is that the two theories are not mutually exclusive: they can be  accommodated under a single causal framework with their respective arguments intact. 
+The resulting composite model will be able to compare theoretical predictions with  empirical patterns and establish that both theories are equally applicable in explaining  inequality formation. 
+The remainder of the paper is organized as follows. First, we will review the  extant literature on the two major theories, including previous attempts in the  literature to connect them. We will then introduce the suggested framework and  introduce the hypotheses for testing it. It is followed by a discussion on the variables  and methodology used. After presenting empirical results to support the model, we  will conclude the research by discussing the findings and their implications. 
+ 
+Power Resources Theory 
+ 
+Power resources theory is one of the most dominant theories in the study of  welfare states (Stephens 1979; Korpi 1983; Hicks 1999; Huber and Stephens 2001; 
+Brady 2009).2 Unlike pluralist accounts of democracy, it begins with the assumption  that political power is unevenly distributed in favor of capital and wealth. To fight  against the status quo of business domination, working class and the poor must be  mobilized to struggle for a more egalitarian distributive outcome. This could be done 
+ 
+2 Readers can refer to Bradley et al. (2003, fn. 14) for a list of earlier works on power  resources theory. See also Korpi and Palme (2003, fn. 3). 
+
+4  through the influence of labor unions on market regulations and labor protection, and  increasing the extent of redistribution through the control of government by leftist  parties (Bradley et al. 2003). Korpi (2006) notes that this process is not necessarily  zero-sum as perceived by some. 
+Based on the class analytical perspective, the size, organization and participation  of the working class are long recognized as crucial factors in this theory (Hicks 1999). 
+It stresses the role of unions and left parties as vehicles of working class mobilization 
+(Przeworski 1985; Stephens 1979). Earlier studies, including Cameron (

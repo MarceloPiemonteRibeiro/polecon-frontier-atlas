@@ -1,0 +1,54 @@
+warwick.ac.uk/lib-publications 
+ 
+ 
+ 
+ 
+ 
+Manuscript version: Author’s Accepted Manuscript 
+The version presented in WRAP is the author’s accepted manuscript and may differ from the  published version or Version of Record. 
+ 
+Persistent WRAP URL:  http://wrap.warwick.ac.uk/114920 
+ 
+How to cite: 
+Please refer to published version for the most recent bibliographic citation information. 
+If a published version is known of, the repository item page linked to above, will contain  details on accessing it. 
+ 
+Copyright and reuse: 
+The Warwick Research Archive Portal (WRAP) makes this work by researchers of the 
+University of Warwick available open access under the following conditions. 
+ 
+Copyright © and all moral rights to the version of the paper presented here belong to the  individual author(s) and/or other copyright owners. To the extent reasonable and  practicable the material made available in WRAP has been checked for eligibility before  being made available. 
+ 
+Copies of full items can be used for personal research or study, educational, or not-for-profit  purposes without prior permission or charge. Provided that the authors, title and full  bibliographic details are credited, a hyperlink and/or URL is given for the original metadata  page and the content is not changed in any way. 
+ 
+Publisher’s statement: 
+Please refer to the repository item page, publisher’s statement section, for further  information. 
+ 
+For more information, please contact the WRAP Team at: wrap@warwick.ac.uk. 
+ 
+
+The Political Economy of Liberal Democracy
+Sharun W. Mukand
+Dani Rodrik
+February 8, 2019∗
+This paper develops a taxonomy of political regimes that distinguishes between three sets of rights - property rights, political rights and civil rights. The truly distinctive nature of liberal democracy is the protection of civil rights (equal treat- ment by the state for all groups) in addition to the other two. The paper shows how democratic transitions that are the product of a settlement between the elite
+(who care mostly about property rights) and the majority (who care about political rights), generically fail to produce liberal democracy. Instead, the emergence of liberal democracy requires low levels of inequality and weak identity cleavages.
+Keywords: Civil liberties, Democratisation, Liberal Democracy, Identity, Inequal- ity; JEL Codes (P16, P48, P51)
+∗Corresponding author: Dani Rodrik: 79 J.F. Kennedy Street, Harvard Kennedy School, Cambridge,
+MA 02138, USA; email: dani_rodrik@harvard.edu. The ﬁrst draft of this paper was written at the
+Institute for Advanced Study (IAS), to which we are grateful for support. We also thank members of the
+IAS School of Social Science lunch table for useful discussions, as well as Tim Besley, Carles Boix, William
+Ferguson, Sumon Majumdar, Jan-Werner Muller, Ira Katznelson, and commentators at presentations at
+Northwestern, London School of Economics, the NBER, Brown, and WINIR-Rio for helpful suggestions and Tejas Ramdas for excellent research assistance. This version of the paper has beneﬁted enormously from the comments of the editor, Rachel Kranton and three referees.
+
+Democratic rule has never been so prevalent. Since the fall of the Berlin Wall in
+1989, the number of democracies has risen rapidly and cross-national tabulations suggest that, for the ﬁrst time in history, more countries now qualify as democracies than as non-democracies (Figure 1).
+While the spread of democracy is something to cheer about, it is clear that this democratization has not been accompanied by the spread of the full panoply of rights that we associate with the established democracies in the West. In a wide variety of democracies, citizens and minority groups are routinely victims of civil rights violations, subject to harassment and discriminated against in the courts as well as the supply of public goods such that they do not face equal treatment by the state.1 This infringement of civil rights, even though elections remain in principle free and competitive in democratic countries has puzzled many commentators.2
+We argue that this failure to protect minority rights and provide civil rights is a readily understood consequence of the political logic behind the emergence of democracy.
+Instead, we make the argument that what requires explanation is not the relative paucity of liberal democracy, but its existence - rare as it may be. The surprise is not that few democracies are liberal, but that liberal democracies exist at all. In order to see this we develop a framework that begins by disaggregating the full set of rights we associate with modern capitalist democracies. We focus on three key components: property rights, political rights, and civil rights that are deﬁned as follows:
+• Property rights protect asset holders and investors against expropriation by the state or other groups.
+1The 2014 Civil Rights and Political Liberties Report (Bertelsmann Stiftung, 2014) reports that in
+Hungary, ‘Roma and other minorities have become frequent targets of harassment and of hate speech,’ while in Croatia, the judicial system ‘displays an institutional bias in favor of ethnic Croat suspects.’
+Similarly, Israel exhibits a wide range of civil-rights violations ‘related to minority rights such as those accorded non-Jewish citizens, particularly Arab citizens,’ while in Turkey, the Kurdish minority is dis- criminated against and face ‘lengthy pre-trial detention and excessively long and catch-all indictments’.
+2As shortcomings of these democracies have become more evident, it has commonplace to talk about a ‘democratic recession’ (Diamond, 2015).
+Fareed Zakaria coined the term ‘illiberal democracy’ for political regimes such as these (Zakaria, 1997) and this has been elaborated by Levitsky and Way (2010) who use the term ‘competitive authoritarianism’ to describe such regimes. Zakaria and others note that mass franchise emerged in much of the Western world only after the entrenchment of liberal t

@@ -1,0 +1,41 @@
+# batch_005 — abstracts
+00600|Italy|RCT|Randomized campaign messages about an incumbent's valence or ideology moved votes and beliefs (including about the opponent); valence messages won more votes.|M_selection+|F2
+00577|Theory|Theory|Voters weigh influencing the outcome against signalling to responsive candidates; with polarized responsive candidates, equilibria are inefficient.||
+00899|United States|NatExp|Local college-football wins just before an election raise incumbents' vote shares: irrelevant events affect retrospective voting.|M_selection-|F2
+00901|Theory|Theory|More informed or rational voters can improve or worsen democratic performance once politicians' strategic responses are modelled.|M_selection~|
+00473|United States|Book|Voters choose by identity and partisanship, not issues; retrospective judgments are often blind, so elections do not produce responsive government.|M_selection-|F2
+00897|United States|Panel|Reassessment finds no systematic effect of shark attacks on presidential elections, weakening the "blind retrospection" claim.|M_selection~|
+00639|Theory|Theory|With misaligned preferences, an informed sender can only transmit coarse (partitioned) information; communication improves as preferences align.|M_cheaptalk+|
+00853|United States|Survey|Both pocketbook and national economic conditions affect presidential votes; incumbency's value depends on the economy.|M_selection+|
+00848|United States|Book|Americans vary greatly in political knowledge; the disadvantaged know least and are least able to defend their interests.||
+01426|Puerto Rico|NatExp|Pre-election disclosure of municipal audits lowered corruption in the short run, but the effect faded as politicians adapted (working-paper version).|M_moralhazard~,M_selection+|F2
+01731|Denmark|Survey|Matched income records show apparently sociotropic voters also vote on personal finances; partisanship biases evaluations; no evidence of myopia.||
+00832|Theory|Theory|Rationally inattentive voters empower extreme and small groups, focus attention on divisive issues and underfund public goods.|M_visibility+|F1
+00628|United States|Survey|About half of Americans can confidently tell true from fake political news; socioeconomic gaps matter far more than partisan congruence.|M_media~|
+01062|Cross-country|Review|Corruption goes unpunished when information acquisition, blame attribution or behavioural response break down.|M_selection~|F2
+01061|United States|Panel|The president's party is held accountable for the local economy at nearly all levels of government; incumbents too in House and governor races.|M_selection+|
+00226|Mexico|RCT|Early Progresa enrollment raised turnout and the incumbent's vote share without lowering opposition votes: mobilization rather than persuasion.|M_visibility+|F1
+00854|Romania|RD|Poor families just eligible for computer vouchers became more supportive of governing parties, mainly where local governments were aligned.|M_visibility+,M_probvote+|F1
+00822|Theory|Theory|Parties target swing groups when equally effective at delivering, but favour core groups when each has a delivery advantage (machine politics).|M_probvote+,M_clientelism+|
+00850|United States|IV|Instrumenting spending with outside-district state spending, an extra $100 per capita is worth up to 2% of the vote for House incumbents.|M_probvote+,M_visibility+|F1
+00823|Theory|Theory|With ideological concerns, parties set proportional taxes tuned to high-clout swing groups and ply them with pork, favouring the middle class.|M_probvote+|
+00847|Sweden|Panel|Sweden's discretionary grant program went to municipalities with many swing voters, as Lindbeck–Weibull predicts, not to core supporters.|M_probvote+|
+01484|India|Panel|Government-bank agricultural credit rises 5–10 points in election years, especially in close districts, without raising output.|M_probvote+,M_career+|F1
+00041|Theory|Theory|Without institutionalized succession, ethnic fear of a rival group's ruler lets autocrats extract rents and use patronage while keeping co-ethnic support.|M_fear+|
+00815|Mali|RCT|Cross-cutting "cousinage" ties weaken ethnic voting in Mali: voters favour candidates from allied groups.|M_fear~|
+00260|Sweden|DiD|A zipper gender quota raised the competence of male politicians where it raised female representation most, by displacing mediocre male leaders.|M_citizencand+|F3
+00412|United States|Theory|Political agency model with selection and moral hazard predicts how pay affects politicians, with evidence from US governors.|M_selection+,M_citizencand+|F3
+00301|Brazil|RD|Larger federal transfers raise municipal corruption and lower the education of mayoral candidates: a political resource curse.|M_selection+,M_corruption+|
+00413|Italy|RD|Higher mayoral pay above 5,000 inhabitants attracts more educated candidates who run more efficient governments, mainly via selection.|M_citizencand+|F3
+00244|Cross-country|Review|Political selection deserves as much attention as incentives because institutions shape who rises to power.|M_selection+|F3
+00575|Italy|Panel|Parties place higher-quality candidates in contestable districts; quality converges across coalitions in close races.|M_selection+|F3
+00883|Latin America|Panel|Presidential candidates chosen in primaries are stronger in general elections (a primary bonus).|M_selection+|F3
+00873|Cross-country|Panel|Democracies are about 20% more likely than autocracies to select highly educated leaders.|M_selection+|F3
+00886|United States|Panel|Primaries in safe, open seats are especially effective at selecting high-quality officials.|M_selection+|F3
+00885|Sweden; Brazil|RD|Narrow preference-vote winners on party lists are at least 50% more likely to become local party leaders.|M_selection+|
+00388|Cross-country|Review|Reviews how parties, electoral rules, quotas and pay shape who is selected into office.|M_citizencand+|F3
+00990|Colombia|RD|Narrow election of left-wing outsiders to mayor raised right-wing paramilitary violence by about one standard deviation: elites offset outsiders' access.|M_commit+|
+01736|Theory|Theory|Close-election RD designs on politician characteristics identify the characteristic plus compensating differentials, biasing estimates.||
+00221|India|NatExp|Exposure to randomly assigned female village leaders weakens gender stereotypes and raises women's later electoral success.|M_citizencand+,M_culture+|F3
+00915|United States|Panel|Congresswomen bring about 9% more federal spending and sponsor more bills: selection on talent under voter bias.|M_selection+|F3
+00578|Sweden|DiD|A 50–50 party quota raised the selection of women into top municipal posts and expanded the pool seen as qualified.|M_citizencand+|F3

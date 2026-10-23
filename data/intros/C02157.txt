@@ -1,0 +1,58 @@
+LUND UNIVERSITY
+PO Box 117
+221 00 Lund
++46 46-222 00 00
+The Political Origins of Primary Education Systems: Ideology, Institutions, and
+Interdenominational Conflict in an Age of Nation-Building
+Ansell, Ben; Lindvall, Johannes
+Published in:
+American Political Science Review
+DOI:
+10.1017/S0003055413000257
+2013
+Link to publication
+Citation for published version (APA):
+Ansell, B., & Lindvall, J. (2013). The Political Origins of Primary Education Systems: Ideology, Institutions, and
+Interdenominational Conflict in an Age of Nation-Building. American Political Science Review, 107(3), 505-522. https://doi.org/10.1017/S0003055413000257
+Total number of authors:
+2
+General rights
+Unless other specific re-use rights are stated the following general rights apply:
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.
+ • Users may download and print one copy of any publication from the public portal for the purpose of private study or research.
+ • You may not further distribute the material or use it for any profit-making activity or commercial gain
+ • You may freely distribute the URL identifying the publication in the public portal
+Read more about Creative commons licenses: https://creativecommons.org/licenses/
+Take down policy
+If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately and investigate your claim.
+
+Download date: 20. Oct. 2026
+
+American Political Science Review
+Page 1 of 18
+August 2013 doi:10.1017/S0003055413000257 c⃝American Political Science Association 2013
+The Political Origins of Primary Education Systems:
+Ideology, Institutions, and Interdenominational Conﬂict in an Era of Nation-Building
+BEN ANSELL
+University of Oxford
+JOHANNES LINDVALL
+Lund University
+T his paper is concerned with the development of national primary education regimes in Europe,
+North America, Latin America, Oceania, and Japan between 1870 and 1939. We examine why school systems varied between countries and over time, concentrating on three institutional dimensions: centralization, secularization, and subsidization. There were two paths to centralization: through liberal and social democratic governments in democracies, or through fascist and conservative parties in autocracies. We ﬁnd that the secularization of public school systems can be explained by path-dependent state-church relationships (countries with established national churches were less likely to have secularized education systems) but also by partisan politics. Finally, we ﬁnd that the provision of public funding to private providers of education, especially to private religious schools, can be seen as a solution to religious conﬂict, since such institutions were most common in countries where Catholicism was a signiﬁcant but not entirely dominant religion.
+T he creation of publicly funded primary education systems in most of the world’s independent states in the nineteenth and early twentieth centuries was a critical event in the development of the modern state. It typically preceded the introduction of social insurance systems by several decades, and created, for the ﬁrst time, a direct relationship between states and masses. But the institutions that states used to exercise political control over primary education varied greatly, both across countries and over time. Surprisingly, con- sidering the unique importance of primary education for socialization and nation-building, social scientists know little about the causes of this variation. There is a rich comparative literature on the introduction of compulsory schooling (Soysal and Strang 1989), the de- velopment of curricula (Benavot et al., 1991), and the expansion of enrollment and public education spend- ing (Benavot and Riddle 1988; Lindert 2004, chapter 5;
+Meyer, Ramirez, and Soysal 1992), but what we know
+Ben Ansell is Professor of Comparative Democratic Institutions at
+Nufﬁeld College, University of Oxford, Oxford, OX1 1NF, United
+Kingdom (ben.ansell@politics.ox.ac.uk).
+Johannes Lindvall is Associate Professor of Political Science, De- partment of Political Science, Lund University, Box 52, 22100, Lund,
+Sweden (Johannes.Lindvall@svet.lu.se).
+We would like to thank Pablo Beramendi, Rikhil Bhavnani,
+Marius Busemeyer, Holger D¨oring, Sabine Engel, Jane Gingrich,
+Martin Hall, Silja H¨ausermann, Danny Loss, Philip Manow, Moira
+Nelson, Nathaniel Olin, Rita Nikolai, Kees van Keesbergen, and
+Hillel Soifer for helpful comments and advice. We would also like to thank seminar participants in Copenhagen (Economics), Lund
+(Political Science), Stockholm (SOFI), and Wisconsin (Political Sci- ence), and workshop participants in Bremen and Konstanz. Our spe- cial thanks go to the participants in the 2012 Trans-Atlantic Summer
+Institute at the Center for German and European Studies at the Uni- versity of Minnesota and to the research assistants who helped us to compile the data: Anders Djurfeldt, Alvina Erman, Carl Gahnberg,
+Annika Stjernquist, and Henry Thomson. Ben Ansell would like to thank the Department of Political Science at the University of
+Minnesota for ﬁnancial and scholarly support. Johannes Lindvall re- ceived generous ﬁnancial support from the Crafoord Foundation and from the European Research Council (Starting Grant No. 284313). about patterns of authority and responsibility is largely based on historical case studies, few of which are ex- plicitly comparative.
+This article examines the comparative institutional development of primary education in 27 countries between 1870 and 1939, concentrating on 19 coun- tries in Western Europe, North America, Oceania, and East Asia. Identifying three particularly important sources of institutional variation—centralization, secu- larization, and subsidi

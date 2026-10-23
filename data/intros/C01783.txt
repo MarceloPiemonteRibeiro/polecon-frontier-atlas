@@ -1,0 +1,103 @@
+Forschungsinstitut  zur Zukunft der Arbeit
+Institute for the Study  of Labor 
+D I S C U S S I O N P A P E R S E R I E S
+Fighting Corruption in Education:
+What Works and Who Benefits?
+IZA DP No. 9561
+December 2015
+Oana Borcan
+Mikael Lindahl
+Andreea Mitrut
+
+ 
+Fighting Corruption in Education: 
+What Works and Who Benefits? 
+ 
+ 
+Oana Borcan 
+University of Gothenburg 
+ 
+Mikael Lindahl 
+University of Gothenburg, 
+CESifo, IFAU, IZA and UCLS 
+ 
+Andreea Mitrut 
+University of Gothenburg  and UCLS 
+ 
+ 
+ 
+Discussion Paper No. 9561 
+December 2015 
+ 
+ 
+ 
+IZA 
+ 
+P.O. Box 7240 
+53072 Bonn 
+Germany 
+ 
+Phone: +49-228-3894-0 
+Fax: +49-228-3894-180 
+E-mail: iza@iza.org 
+ 
+ 
+ 
+ 
+Any opinions expressed here are those of the author(s) and not those of IZA. Research published in  this series may include views on policy, but the institute itself takes no institutional policy positions. 
+The IZA research network is committed to the IZA Guiding Principles of Research Integrity. 
+ 
+The Institute for the Study of Labor (IZA) in Bonn is a local and virtual international research center  and a place of communication between science, politics and business. IZA is an independent nonprofit  organization supported by Deutsche Post Foundation. The center is associated with the University of 
+Bonn and offers a stimulating research environment through its international network, workshops and  conferences, data service, project support, research visits and doctoral program. IZA engages in (i)  original and internationally competitive research in all fields of labor economics, (ii) development of  policy concepts, and (iii) dissemination of research results and concepts to the interested public. 
+ 
+IZA Discussion Papers often represent preliminary work and are circulated to encourage discussion. 
+Citation of such a paper should account for its provisional character. A revised version may be  available directly from the author. 
+
+IZA Discussion Paper No. 9561 
+December 2015 
+ 
+ 
+ 
+ 
+ 
+ABSTRACT 
+ 
+Fighting Corruption in Education: 
+What Works and Who Benefits? * 
+ 
+We investigate the distributional consequences of a corruption-fighting initiative in Romania  targeting the endemic fraud in a high-stakes high school exit exam, which introduced CCTV  monitoring of the exam and credible punishment threats for teachers and students. We find  that the campaign was effective in reducing corruption and, in particular, that monitoring  increased the effectiveness of the punishment threats. Estimating the heterogeneous impact  for students of different poverty status we show that curbing corruption led to a worrisome  score gap increase between poor and non-poor students. Consequently, the poor students  have reduced chances to enter an elite university. 
+ 
+ 
+JEL Classification: 
+I21, I24, K42 
+ 
+Keywords:  corruption, high-stakes exam, bribes, monitoring and punishment 
+ 
+ 
+Corresponding author: 
+ 
+Andreea Mitrut 
+Department of Economics 
+University of Gothenburg 
+P.O. Box 640 
+SE 405 30, Gothenburg 
+Sweden 
+E-mail: Andreea.Mitrut@economics.gu.se 
+ 
+ 
+* All errors are our own. Andreea Mitrut gratefully acknowledges support from the Jan Wallanders and 
+Tom Hedelius Foundation. Mikael Lindahl is a Royal Swedish Academy of Sciences Research Fellow  supported by a grant from the Torsten and Ragnar Söderberg Foundation, and also acknowledges  financial support from the Scientific Council of Sweden and the European Research Council [ERC  starting grant 241161]. We thank Matthew Lindquist, Randi Hjalmarsson, Brian Knight, Marco 
+Manacorda, Erich Battistin, Pedro Dal Bo, and David Weil for useful comments and discussions. 
+Seminar participants at Brown University, the “Economics of Education and Education Policy”  workshop, IFAU, Uppsala, UCLS, Stockholm School of Economics (SITE), SSB, Oslo, and 
+Gothenburg University provided useful comments. 
+
+2 
+ 
+ 
+Equality of educational opportunity is a key ingredient in a society that wants to promote  growth and increase social mobility. A meritocratic education system increases the efficiency  of how talented individuals are allocated by rewarding ability and not family income. 
+However, in many countries, hurdles such as tuition fees and school and neighborhood  segregation may reinforce inequality of opportunities across generations and increase  inequality by limiting skill acquisition and access to higher education for poor individuals of  high ability. An additional barrier to higher education, mostly prevalent in developing  countries, is corruption in education, including bribes taken by teachers to facilitate admission  to education or to inflate grades and scores on high-stakes exams. Moreover, corruption in  education may act as an added tax, putting the poor students at a disadvantage and reducing,  once more, equal access to human capital (see Transparency International’s 2013 Global 
+Corruption Report). 
+This paper analyzes the implications of the fight against corruption in a setting of  endemic fraud, cheating, and grade selling in the public education system in Romania. 
+Particularly, we investigate the efficiency and distributional consequences of a national anti- corruption campaign targeting the Romanian high school exit exam – the Baccalaureate.1 The  campaign was initiated in 2011 in response to the 2010 Baccalaureate, which marked a peak  in corruption for exam grades and generated a media storm after the Romanian National 
+Anticorruption Directorate revealed how batches of identical answers had been distributed to  students by public teachers (see Borcan, Lindahl and Mitrut, 2014).2 The campaign consisted  of two distinct components: 1) increasing the threat of punishment for teachers and students  caught taking/giving bribes and 2) closed-circuit TV (CCTV) monitoring of the exam centers  in an effort to eradicate mass cheating and bribes during the examination.3 
+Our aim in this paper is to first evaluate the efficiency of the national anti-corruption  campaign and subsequently

@@ -1,0 +1,41 @@
+# batch_009 — abstracts
+00361|Indonesia|RCT|Leaders' relatives get more benefits in some programs, but eliminating elite capture would raise welfare gains by less than 1%.|M_capture-|
+01514|Cross-country|Review|Community-driven projects are elite-dominated and target worse in unequal communities; no causal evidence that participation itself improves outcomes.|M_capture+|
+00390|Theory|Theory|Functional, overlapping and competing jurisdictions (FOCJ) as an alternative federalism that keeps decentralization's benefits.|M_capture~|
+00391|Switzerland|Book|Direct-democratic rights to amend constitutions let citizens shape institutional change under the rule of law.||
+00677|Indonesia|Panel|Appointed village heads inherited from Suharto's regime influenced national election results (fraud, clientelistic spending) out of career concerns.|M_career+,M_clientelism+|
+00693|India|Struct|Ethnic politics selects abler local representatives who supply more public goods but also lets insiders capture targetable resources.|M_fear~,M_citizencand+|
+00695|Liberia|RCT|A community-driven development program raised cooperation capacity only where men and women faced the collective-action problem together.|M_collective~|
+00429|United States|Struct|In about 44% of Supreme Court cases justices' case-specific information overturns their ideological priors.||
+00450|Theory|Theory|Limits on the state are self-enforcing only if citizens can coordinate to punish transgressions; elite pacts and constitutions serve as focal points.|M_coord+|
+00819|Cross-country|DiD|Comprehensive donor-funded judicial reforms raised perceived judicial efficiency and productivity in contract-intensive sectors.||
+01621|United States|Panel|Federal judges who attended the Manne economics course used more economics language, ruled against regulators more and sentenced more harshly.||
+00068|Theory|Theory|Industries organized as lobbies buy protection with contributions; the government weighs contributions against voter welfare.|M_lobby+|
+00069|United States|Struct|US protection patterns fit Grossman–Helpman, but government weights welfare many times more than contributions.|M_lobby~|
+00018|United States|Panel|Lobbyists follow connected politicians across committees (access) but some experts are heard across parties; connections earn a more consistent premium.|M_lobby+,M_cheaptalk~|
+00155|United States|Panel|Ex-Senate staffers turned lobbyists lose 24% of revenue when their senator leaves office: lobbying sells access.|M_lobby+|
+00303|United States|Struct|Energy lobbying has a very small effect on enactment probabilities, yet average returns exceed 140%.|M_lobby~|
+00305|Cross-country|Review|Reviews empirical lobbying models; the welfare cost of lobbying remains the key unresolved question.|M_lobby+|
+00540|Theory|Book|Theory of special interest politics: voting, information and contributions as channels of influence.|M_lobby+|
+00363|Italy|Panel|Firms in regulated sectors shifted advertising to Berlusconi's Mediaset when he was in power, worth about €1 billion.|M_lobby+,M_corruption+|
+00581|United States|Panel|About 6.3% of corporate charitable giving is politically motivated — 2.5 times annual PAC giving.|M_lobby+|
+01041|Theory|Theory|Costly information acquisition by a sender changes strategic communication when receivers cannot tell if the sender is informed.|M_cheaptalk+|
+00481|Theory|Theory|Parties competing for votes and contributions maximize a weighted sum of informed voters' and interest groups' welfare.|M_lobby+,M_probvote+|
+00254|Theory|Theory|Lobbying works as a legislative subsidy to allied legislators rather than vote buying or persuasion.|M_lobby+|
+00476|United States|Panel|Fixed entry costs make firm lobbying persistent, as the H-1B visa expiration shows.|M_lobby+|
+00292|United States|Panel|Representatives vote against constituents for donor money more when news events distract media attention.|M_lobby+,M_media+|
+00680|Theory|Theory|Common agency with general preferences yields efficient outcomes in truthful equilibria; lobbies' competition lets government capture the surplus.|M_lobby+|
+00674|United States|Struct|Cross-industry US non-tariff barriers support Grossman–Helpman predictions on protection and lobbying.|M_lobby+|
+01056|Europe|Book|In the EU, lobbying coalitions trade information, citizen support and economic power for influence.|M_lobby+,M_collective+|
+01070|Theory|Theory|Legislative subsidies are chosen by lobbies and induced by resource-constrained policymakers, with five motives for informational lobbying.|M_lobby+,M_cheaptalk+|
+00200|United States|Review|Campaign contributions are small relative to stakes because they are mostly consumption, not political investment.|M_lobby-|
+00216|Brazil|RD|Stricter mayoral campaign-spending limits lowered re-election rates and drew more, less wealthy candidates, without short-run policy gains.|M_citizencand+|
+00304|Theory|Theory|Contributions as signals of preference explain why donors give to like-minded legislators for access.|M_lobby+|
+00587|United States|RD|Political TV advertising has almost no turnout effect but raises vote shares by changing the electorate's partisan composition.||
+00564|Theory|Theory|Contributions fund informative advertising; contribution limits redistribute welfare from citizens to interest-group members.|M_lobby~|
+00904|Theory|Theory|High-ability candidates raise money to signal ability even without quid pro quo; reform helps voters and is opposed by politicians.||
+01037|United States|RCT|Across 49 field experiments, the persuasive effect of campaign contact in US general elections is about zero.||
+00497|Mexico|NatExp|Campaign advertising on AM radio raised vote shares of non-dominant parties, especially where voters were uninformed.|M_media+|
+01038|United States|Survey|Campaign effects are small but consistent with Bayesian updating: voters are more persuadable about less-known candidates.||
+01718|Cross-country|Survey|17–29% of voters decide in the last two months, with shifting issue salience and beliefs; TV debates have no detectable effect.||
+00826|France|DiD|Banning firm donations made candidates talk less about local presence and economics and made fringe candidates more extreme.|M_lobby+|

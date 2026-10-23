@@ -1,0 +1,41 @@
+# batch_003 — abstracts
+01666|China|DiD|Exterminating sparrows in the 1958 Four Pests Campaign deepened crop losses in sparrow-suitable counties and, through rigid procurement, raised famine deaths.|M_statecap~|
+00169|Cross-country|Review|Synthesizes the rise of populism: trade, automation, the financial crisis and austerity, identity and trust, immigration and social media.||
+00030|Theory|Theory|Honest politicians signal independence from the rich elite by choosing policies left of the median voter; the populist bias grows with rents and suspected corruption.|M_career+,M_lobby+|
+00313|United Kingdom|DiD|Areas more exposed to post-2010 welfare cuts shifted to UKIP and Leave; without austerity, Remain would likely have won.|M_visibility+|
+00425|Cross-country|Review|Economic insecurity explains only a modest share of the populist vote; cultural change drives both discontent and populism.|M_culture+|
+00310|Sweden|Desc|Sweden Democrats' politicians and voters over-represent socially and economically marginalized groups; the party raised their representation at a cost in politician valence.|M_citizencand+|
+00351|Europe|Survey|Economic insecurity drives populist support directly and through lower trust and turnout; populists enter when crises discredit both left and right incumbents.|M_career~|
+00582|Cross-country|Panel|After 15 years of populist rule, GDP per capita is about 10% lower than a synthetic counterfactual, with institutional erosion.||
+00962|Cross-country|Panel|Far-right vote shares rise about 30% after systemic financial crises, with polarization and fragmented majorities; normal recessions do not have this effect.||
+00878|Cross-country|Survey|Lower subjective social status, especially of non-college men, is associated with support for right populism.|M_culture+|
+00954|Germany|Panel|Interwar towns with denser associational life saw faster Nazi Party entry, except in states with stable governments.|M_culture+,M_coord+|
+00880|United States|Panel|Support for Trump in 2016 reflected status threat among high-status groups more than economic hardship.|M_culture+|
+00881|Cross-country|Book|A backlash against the silent revolution in values fuels authoritarian-populist parties.|M_culture+|
+00908|Theory|Theory|Outsider candidates enter through party primaries or third parties depending on polarization; the majority party is most vulnerable.|M_citizencand+|
+00569|United States|Theory|Voters identify with the salient economic or cultural group and slant beliefs toward its stereotype; economic shocks can trigger cultural identity and lower demand for redistribution.|M_culture+|
+00570|Cross-country|Review|Globalization shocks feed right-wing populism through economic and cultural channels on both demand and supply sides.||
+00879|Theory|Theory|Groups with simpler models of the world choose extreme policies, generating recurring populist cycles.||
+00679|Latin America|Book|Latin American populist macroeconomic cycles end in crises (reviewed book).||
+01252|Bolivia; Ecuador; Venezuela|Theory|Voters dismantle checks and balances to insulate politicians from bribery by an organized elite, accepting rents in exchange for redistribution.|M_lobby+,M_commit+|
+00993|Turkey|RD|Municipalities where an Islamic party barely won in 1994 saw more secular high-school education and later political participation for women.|M_citizencand+|F3
+00907|Europe|NatExp|Trump's election raised self-reported racial bias in European survey respondents, consistent with weaker social desirability of racial equality.|M_culture+|
+01743|Sweden|Panel|Layoff notices among low-skilled natives raise support for the Sweden Democrats, more where low-skilled immigrants are numerous.||
+00198|United States|RCT|Mailings promising to publicize household turnout to neighbours raised turnout substantially: social pressure matters.|M_coord+|
+00231|United States|RCT|Voting "to tell others" — social-image concerns — is worth about $15 and adds two points to turnout.||
+00434|United States|RCT|Door-to-door canvassing raised turnout substantially; mail did slightly; phone calls did not.||
+00307|United States|DiD|Television's arrival lowered turnout by displacing newspapers and radio and reducing political knowledge.|M_media+|
+00418|United States|Panel|Each Black Democrat on the ballot raises Black and White turnout 2–3 points; White voters defect from their party's Black candidate.||
+00343|Theory|Theory|Voting equilibria depend on voters' perceptions of contention; plurality rule constrains winners little while approval voting favours the median.||
+00344|Theory|Theory|Under strategic voting, unanimous jury rules can raise the probability of convicting the innocent.||
+00416|Theory|Review|Rational turnout models are converging on group-based mobilization and ethical-voter accounts of the paradox of not voting.||
+00348|Theory|Theory|Ethical agents whose duty depends on others' behaviour generate high turnout with strategic comparative statics.||
+00345|United States|Lab|Large laboratory elections confirm strategic abstention and information aggregation predictions.||
+00562|Switzerland|NatExp|Optional postal voting cut voting costs but reduced turnout in small communities by removing social pressure to be seen voting.|M_coord+|
+00347|Brazil|RD|Single-ballot plurality makes voters desert third-placed candidates, confirming Duverger's law strategically.||
+00560|United States|IV|Better local labour markets lower turnout in non-presidential races, via less media use and political knowledge.|M_media+|
+00426|Brazil; India; Canada|RD|Narrow runners-up are more likely than narrow third-placed candidates to run and win later: voters coordinate on salient contenders.|M_coord+|
+00561|United States|IV|Rainfall shows habit formation in voting: one point lower past turnout lowers current turnout 0.6–1 point.||
+00535|Theory|Theory|Every non-dictatorial voting scheme with three or more outcomes is manipulable.||
+00469|Theory|Theory|With uncertainty about others' preferences and costs, large-electorate turnout collapses to those with near-zero costs.||
+00978|Theory|Theory|Elections aggregate private information fully even as the share of informative votes goes to zero; outcomes track the electoral rule's threshold.||

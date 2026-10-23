@@ -1,0 +1,31 @@
+In their pioneering paper, Easterly and Levine (1997) suggested that Sub-Saharan 
+Africa’s high level of ethnic diversity can explain the region’s poor economic performance. They  found that in a broad cross section of countries, ethnic diversity was correlated with bad  economic policies, slow economic growth and low levels of per capita income. Subsequent  research has confirmed these patterns, as ethnically diverse countries were found to have poor  quality of government and inadequate provision of public goods (La Porta et al. 1999, Alesina et  al. 2003). Yet, due to the well-known limitations of the cross-country studies, it remains unclear  whether the adverse effects of ethnic diversity are causal and, if so, what are the main  mechanisms through which they operate (Alesina and La Ferrara 2005). 
+ 
+A leading set of explanations for the poor economic performance of ethnically diverse  countries is political. It is often argued that ethnic diversity leads to costly rent-seeking by  different ethnic groups (e.g. Easterly and Levine 1997) and generates conflict over the provision  of public goods (e.g. Alesina, Baqir and Easterly 1999). These arguments imply that politically  dominant ethnic groups will use their power to provide economic benefits to their own members. 
+La Porta et al. (1999, p. 231) explicitly link the costs of ethnic diversity to ethnic favoritism: “In  ethnically heterogeneous societies, it has been common for the groups that come to power to  fashion government policies that expropriate…the ethnic losers…, and limit the production of  public goods to prevent those outside the ruling group from also benefiting and getting stronger”. 
+Easterly and Levine (1997) and Alesina et al. (2003) also use anecdotes of ethnic favoritism from  several African countries to illustrate the economic costs of ethnic diversity. 
+ 
+Ethnic favoritism has also been a prominent theme in formal theories of ethnic politics. In  the models of Fearon (1999) and Caselli and Coleman (2006), ethnicity is used as an exclusion  device, and the winning ethnic groups redistribute resources toward their own members. 
+Likewise, Padro i Miguel (2007) predicts that a change in the ethnic group in power should lead  to a change in taxation and allocation of public goods across the groups. He also argues that  ethnic favoritism is prevalent in Africa and can explain the low accountability of African  political leaders. 
+ 
+In contrast to the theoretical arguments that link poor economic outcomes of African  countries to ethnic favoritism, there is no systematic empirical evidence that members of African  ethnic groups actually benefit from having their leaders in power. African leaders appear to tax 
+
+ 
+3 more heavily the crops grown in their own ethnic regions (Kasara 2007); and, in Guinea, the  change in the president’s ethnicity was found to have no effect on the relative levels of infant  mortality among the country’s ethnic groups (Kudamatsu 2007). 
+ 
+In this paper, we reassess the role of ethnic favoritism in Sub-Saharan Africa. Using the 
+Demographic Health Surveys (DHS), we construct time-variant ethnic-level measures of  education and health, and study how they are affected by changes in the ethnicity of top political  leaders in 18 African countries over the last fifty years. We use the difference-in-difference  methodology and estimate the average effects of ethnic favoritism in our sample of countries as  well as its effects in each individual country. 
+ 
+In our analysis of education, we rely on the fact that most Africans who attend primary  school do so between ages 6 and 13 (World Bank 2008). This allows us to measure the ethnic  groups’ educational achievements in different time periods using the DHS data on primary  education and literacy of people from different age cohorts. In our analysis of health, we follow 
+Kudamatsu (2006, 2007) and measure the past levels of infant mortality using the DHS  retrospective reports of African women regarding the death or survival of their children. 
+ 
+Intuitively, our difference-in-difference estimates answer two questions. First, do people  who happened to be between 6 and 13 years old during the rule of their coethnic country leader  have a higher probability of attending/completing primary school or becoming literate? Second,  do children who happened to be born when their coethnic was in power have a lower probability  of dying during the first year of their lives?1 
+ 
+We find that ethnic favoritism is an important determinant of education and infant  mortality in Sub-Saharan Africa. We estimate that the leaders of the 18 countries in our sample  have on average increased the primary school attendance, completion and literacy of their ethnic  groups by about 2 percentage points and reduced their infant mortality by about 0.4 percentage  points. These effects of ethnic favoritism are large relative to the average time trends in  education and infant mortality, corresponding to approximately three years of secular  improvement in these outcomes in the countries we study. They are also similar to the effects of 
+ 
+1 We interpret the affirmative answers to these questions as evidence for causal effects of ethnic favoritism on  education and health. In Section 2.2, we discuss several mechanisms through which African leaders can improve the  education and health of their coethnics, and in Section 5 we provide empirical support for the causal interpretation of  our results. 
+
+ 
+4 direct policy interventions typically found in the broader literature on education and health in  developing countries (e.g. Glewwe and Kremer 2006, Jones et al. 2003). 
+ 
+Our analysis of individual African countries confirms the importance of the leader’s  ethnicity. Although the effects of ethnic favoritism vary from country to country, we find that in  most countries in our sample it has a strong impact on education, infant mortality or both. Thus,  in Sub-Saharan Africa ethn

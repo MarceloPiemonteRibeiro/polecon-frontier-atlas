@@ -1,0 +1,1554 @@
+<title>PolEcon Frontier Atlas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,500;0,600;0,700;1,500&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sticky section rail + wide reading column; views are tabs inside one long atlas. Survey-plate feel: cool paper, navy ink, data colours carry identity. */
+:root{
+  --bg:#f5f6f8; --surface:#ffffff; --sunk:#eef0f4;
+  --ink:#141a26; --ink-2:#465063; --muted:#7a8293; --rule:#e1e4ea; --rule-2:#c9cfd9;
+  --accent:#1e3866; --accent-ink:#ffffff; --accent-soft:#e6ebf4; --focus:#2a78d6;
+  --f0:#2a78d6; --f1:#eb6834; --f2:#1baf7a; --f3:#eda100; --f4:#e87ba4; --f5:#008300; --f6:#6250d6; --f7:#e34948; --f8:#a3a7ae;
+  --good:#0ca30c; --good-ink:#006300; --warn:#c98500; --crit:#d03b3b;
+  --seq1:#cde2fb; --seq2:#9ec5f4; --seq3:#6da7ec; --seq4:#3987e5; --seq5:#256abf; --seq6:#184f95; --seq7:#0d366b; --seq0:#eef0f4;
+  --edge:rgba(20,26,38,.10); --edge-hi:rgba(30,56,102,.55);
+  --shadow:0 1px 2px rgba(20,26,38,.06),0 8px 24px rgba(20,26,38,.08);
+  --font-display:"Spectral",Georgia,"Times New Roman",serif;
+  --font-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --font-mono:"IBM Plex Mono",ui-monospace,"Cascadia Mono",Consolas,monospace;
+  --r:6px;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0e1117; --surface:#151922; --sunk:#1b202a;
+  --ink:#eceff4; --ink-2:#c2c8d3; --muted:#8a92a2; --rule:#252b36; --rule-2:#343c49;
+  --accent:#a9c1ec; --accent-ink:#0e1117; --accent-soft:#1d2738; --focus:#6da7ec;
+  --f0:#3987e5; --f1:#d95926; --f2:#199e70; --f3:#c98500; --f4:#d55181; --f5:#008300; --f6:#9085e9; --f7:#e66767; --f8:#6b7079;
+  --good:#0ca30c; --good-ink:#0ca30c; --warn:#fab219; --crit:#e66767;
+  --seq1:#1d2a3d; --seq2:#163a66; --seq3:#184f95; --seq4:#256abf; --seq5:#3987e5; --seq6:#6da7ec; --seq7:#b7d3f6; --seq0:#1b202a;
+  --edge:rgba(236,239,244,.09); --edge-hi:rgba(169,193,236,.6);
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);
+  color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --bg:#0e1117; --surface:#151922; --sunk:#1b202a;
+  --ink:#eceff4; --ink-2:#c2c8d3; --muted:#8a92a2; --rule:#252b36; --rule-2:#343c49;
+  --accent:#a9c1ec; --accent-ink:#0e1117; --accent-soft:#1d2738; --focus:#6da7ec;
+  --f0:#3987e5; --f1:#d95926; --f2:#199e70; --f3:#c98500; --f4:#d55181; --f5:#008300; --f6:#9085e9; --f7:#e66767; --f8:#6b7079;
+  --good:#0ca30c; --good-ink:#0ca30c; --warn:#fab219; --crit:#e66767;
+  --seq1:#1d2a3d; --seq2:#163a66; --seq3:#184f95; --seq4:#256abf; --seq5:#3987e5; --seq6:#6da7ec; --seq7:#b7d3f6; --seq0:#1b202a;
+  --edge:rgba(236,239,244,.09); --edge-hi:rgba(169,193,236,.6);
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{background:var(--bg);color:var(--ink)}
+body{font-family:var(--font-body);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-underline-offset:2px}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px;border-radius:3px}
+.mono{font-family:var(--font-mono);font-size:.86em}
+.num{font-variant-numeric:tabular-nums}
+
+/* masthead */
+.mast{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 18px;border-bottom:1px solid var(--rule);background:var(--surface)}
+.mast-in{max-width:1320px;margin:0 auto;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px 24px;align-items:end}
+.eyebrow{font-family:var(--font-mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--font-display);font-weight:600;font-size:clamp(30px,4.2vw,46px);line-height:1.05;margin:6px 0 8px;letter-spacing:-.01em;text-wrap:balance}
+.lede{max-width:72ch;color:var(--ink-2);margin:0;font-size:16px}
+.meta-line{display:flex;flex-wrap:wrap;gap:6px 18px;font-family:var(--font-mono);font-size:12.5px;color:var(--ink-2);margin-top:12px}
+.meta-line b{color:var(--ink);font-weight:500}
+.theme-btn{border:1px solid var(--rule-2);background:var(--surface);border-radius:999px;padding:6px 12px;cursor:pointer;font-size:13px;color:var(--ink-2)}
+
+/* tabs */
+.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(6px);border-bottom:1px solid var(--rule);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.tabs-in{max-width:1320px;margin:0 auto;display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
+.tabs-in::-webkit-scrollbar{display:none}
+.tab{flex:0 0 auto;border:0;background:none;padding:12px 12px 10px;cursor:pointer;color:var(--ink-2);font-size:14px;font-weight:500;border-bottom:2px solid transparent;white-space:nowrap}
+.tab:hover{color:var(--ink)}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tab .k{font-family:var(--font-mono);font-size:11px;color:var(--muted);margin-right:6px}
+
+main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px 64px}
+.view{max-width:1320px;margin:0 auto}
+.view[hidden]{display:none!important}
+h2{font-family:var(--font-display);font-weight:600;font-size:28px;line-height:1.15;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--font-display);font-weight:600;font-size:20px;line-height:1.25;margin:0 0 6px;text-wrap:balance}
+h4{font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:0 0 8px;font-weight:600}
+.intro{max-width:76ch;color:var(--ink-2);margin:0 0 20px}
+.section{margin-top:40px}
+.section:first-child{margin-top:0}
+.panel{background:var(--surface);border:1px solid var(--rule);border-radius:var(--r);padding:18px}
+.grid2{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:20px}
+.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+@media (max-width:980px){.grid2,.grid3{grid-template-columns:minmax(0,1fr)}}
+.caption{font-size:13px;color:var(--muted);margin-top:8px;max-width:80ch}
+.scroll-x{overflow-x:auto;max-width:100%}
+
+/* chips */
+.chip{display:inline-flex;align-items:center;gap:6px;max-width:100%;border:1px solid var(--rule-2);border-radius:999px;padding:2px 9px;font-size:12px;color:var(--ink-2);background:var(--surface);white-space:nowrap;cursor:default}
+button.chip{cursor:pointer;white-space:normal;text-align:left}
+button.chip[aria-pressed="false"]{opacity:.45}
+.dot{width:9px;height:9px;border-radius:50%;flex:0 0 auto;display:inline-block}
+.verdict{display:inline-flex;align-items:center;gap:4px;font-size:12px;font-weight:600;border-radius:4px;padding:1px 6px;white-space:nowrap}
+.v-sup{color:var(--good-ink);background:color-mix(in srgb,var(--good) 14%,transparent)}
+.v-qual{color:var(--warn);background:color-mix(in srgb,var(--warn) 16%,transparent)}
+.v-con{color:var(--crit);background:color-mix(in srgb,var(--crit) 14%,transparent)}
+.tag{font-family:var(--font-mono);font-size:11px;color:var(--ink-2);background:var(--sunk);border-radius:3px;padding:1px 5px;white-space:nowrap}
+
+/* findings cards */
+.findings{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+@media (max-width:980px){.findings{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:620px){.findings{grid-template-columns:minmax(0,1fr)}}
+.finding{border-top:3px solid var(--accent);background:var(--surface);border-left:1px solid var(--rule);border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);border-radius:0 0 var(--r) var(--r);padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+.finding .n{font-family:var(--font-mono);font-size:12px;color:var(--muted)}
+.finding p{margin:0;font-size:14px;color:var(--ink-2)}
+.finding .claim{font-family:var(--font-display);font-size:17.5px;line-height:1.3;color:var(--ink);font-weight:600}
+.finding ul{margin:0;padding-left:18px;font-size:13px}
+.finding li{margin:2px 0}
+.linkbtn{border:0;background:none;padding:0;color:var(--accent);cursor:pointer;text-decoration:underline;text-underline-offset:2px;font-size:13px;text-align:left}
+
+/* stats */
+.stats{display:flex;flex-wrap:wrap;gap:10px 28px;margin:14px 0 0}
+.stat .v{font-family:var(--font-display);font-size:26px;font-weight:600;line-height:1}
+.stat .l{font-size:12px;color:var(--muted)}
+
+/* svg chart text */
+.chart text{fill:var(--ink-2);font-size:11.5px;font-family:var(--font-body)}
+.chart .axis path,.chart .axis line{stroke:var(--rule-2)}
+.chart .grid line{stroke:var(--rule)}
+.chart .lbl{fill:var(--ink);font-size:12px}
+.chart .muted{fill:var(--muted)}
+
+/* tooltip */
+#tip{position:fixed;z-index:60;pointer-events:none;background:var(--surface);color:var(--ink);border:1px solid var(--rule-2);border-radius:6px;padding:8px 10px;font-size:12.5px;max-width:320px;box-shadow:var(--shadow);line-height:1.4}
+#tip .tt{font-weight:600;margin-bottom:2px}
+#tip .ts{color:var(--muted)}
+
+/* tree */
+.tree-wrap{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:20px;align-items:start}
+@media (max-width:1100px){.tree-wrap{grid-template-columns:minmax(0,1fr)}}
+.tree svg{display:block}
+.tree .node{cursor:pointer}
+.tree .node text{fill:var(--ink);font-size:12.5px}
+.tree .node .cnt{fill:var(--muted);font-family:var(--font-mono);font-size:10.5px}
+.tree .link{fill:none;stroke:var(--rule-2);stroke-width:1.2px}
+.tree .node.sel text{font-weight:700}
+.list{display:flex;flex-direction:column}
+.prow{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:4px 10px;padding:9px 4px;border-bottom:1px solid var(--rule);cursor:pointer;align-items:start}
+.prow:hover{background:var(--sunk)}
+.prow .yr{font-family:var(--font-mono);font-size:12px;color:var(--muted);padding-top:2px}
+.prow .ti{font-size:14px;line-height:1.35}
+.prow .au{font-size:12.5px;color:var(--muted)}
+.prow .nc{font-family:var(--font-mono);font-size:11.5px;color:var(--ink-2);white-space:nowrap;padding-top:2px}
+.sticky-panel{position:sticky;top:calc(56px + env(safe-area-inset-top,0px));max-height:calc(100vh - 80px);overflow:auto}
+.branch-note{border-left:3px solid var(--rule-2);padding:2px 0 2px 12px;margin:10px 0;color:var(--ink-2);font-size:14px}
+.branch-note b{color:var(--ink)}
+
+/* mechanisms */
+.mech-wrap{display:grid;grid-template-columns:280px minmax(0,1fr);gap:20px;align-items:start}
+@media (max-width:900px){.mech-wrap{grid-template-columns:minmax(0,1fr)}}
+.mech-list{display:flex;flex-direction:column;gap:2px}
+.mech-item{border:0;background:none;text-align:left;padding:8px 10px;border-radius:5px;cursor:pointer;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px;align-items:center;font-size:14px;color:var(--ink-2)}
+.mech-item:hover{background:var(--sunk);color:var(--ink)}
+.mech-item[aria-current="true"]{background:var(--accent-soft);color:var(--ink);font-weight:600}
+.mech-item .c{font-family:var(--font-mono);font-size:11px;color:var(--muted)}
+.mech-arch{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:12px 10px 4px}
+.model-refs{font-family:var(--font-display);font-style:italic;color:var(--ink-2)}
+.pred{margin:6px 0 0;padding-left:18px}
+.ledger{width:100%;border-collapse:collapse;font-size:13.5px}
+.ledger th{text-align:left;font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:600;border-bottom:1px solid var(--rule-2);padding:6px 8px}
+.ledger td{border-bottom:1px solid var(--rule);padding:7px 8px;vertical-align:top}
+.ledger tr{cursor:pointer}
+.ledger tr:hover td{background:var(--sunk)}
+
+/* network */
+.net-controls{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-bottom:10px}
+.net-box{position:relative;border:1px solid var(--rule);border-radius:var(--r);background:var(--surface);overflow:hidden}
+#netCanvas{display:block;width:100%;height:640px;touch-action:none;cursor:grab}
+#autCanvas{display:block;width:100%;height:680px;touch-action:none;cursor:grab}
+@media (max-width:620px){#netCanvas,#autCanvas{height:440px}}
+.net-legend{display:flex;flex-wrap:wrap;gap:6px}
+.field{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--ink-2)}
+.field input[type=search],.field select,.field input[type=number]{border:1px solid var(--rule-2);background:var(--surface);border-radius:5px;padding:5px 8px;font-size:13.5px;min-width:0}
+.field input[type=range]{accent-color:var(--accent)}
+
+/* library */
+.lib-controls{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;margin-bottom:12px}
+.lib-controls input[type=search]{width:min(380px,62vw)}
+.field{max-width:100%;flex-wrap:wrap}
+.table{width:100%;border-collapse:collapse;font-size:13.5px}
+.table th{position:sticky;top:0;background:var(--bg);text-align:left;font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:600;border-bottom:1px solid var(--rule-2);padding:7px 8px;cursor:pointer;white-space:nowrap}
+.table td{border-bottom:1px solid var(--rule);padding:7px 8px;vertical-align:top}
+.table tbody tr{cursor:pointer}
+.table tbody tr:hover td{background:var(--sunk)}
+.table .t{min-width:260px}
+.more{margin-top:12px}
+.btn{border:1px solid var(--rule-2);background:var(--surface);border-radius:5px;padding:6px 12px;cursor:pointer;font-size:13.5px}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+
+/* drawer */
+#drawer{position:fixed;z-index:50;top:0;right:0;bottom:0;width:min(520px,100vw);background:var(--surface);border-left:1px solid var(--rule-2);box-shadow:var(--shadow);overflow:auto;padding:calc(18px + env(safe-area-inset-top,0px)) max(20px,env(safe-area-inset-right,0px)) calc(28px + env(safe-area-inset-bottom,0px)) 22px}
+#drawer h3{font-size:21px;margin-top:4px}
+.dclose{position:absolute;top:calc(12px + env(safe-area-inset-top,0px));right:max(12px,env(safe-area-inset-right,0px));border:1px solid var(--rule-2);background:var(--surface);border-radius:999px;width:32px;height:32px;cursor:pointer;font-size:16px;line-height:1}
+#modal{position:fixed;inset:0;z-index:45;background:color-mix(in srgb,var(--bg) 55%,transparent);backdrop-filter:blur(2px);display:flex;align-items:center;justify-content:center;padding:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) max(16px,env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+#modal[hidden],[hidden]{display:none!important}
+.modal-card{position:relative;background:var(--surface);border:1px solid var(--rule-2);border-radius:8px;box-shadow:var(--shadow);width:min(780px,100%);max-height:min(82vh,860px);overflow:auto;padding:18px 20px 14px}
+.modal-card h3{padding-right:40px}
+.kv{display:grid;grid-template-columns:110px minmax(0,1fr);gap:6px 12px;font-size:13.5px;margin:12px 0}
+.kv dt{color:var(--muted)}
+.kv dd{margin:0}
+.abstract{font-size:13.5px;color:var(--ink-2);line-height:1.6;border-top:1px solid var(--rule);padding-top:10px;margin-top:10px}
+.finding-box{background:var(--accent-soft);border-radius:5px;padding:10px 12px;font-size:14px;margin:10px 0}
+
+/* heatmap & misc */
+.hm text{font-size:11.5px}
+.legend-ramp{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;font-size:12px;color:var(--muted);margin-top:8px}
+.legend-ramp .bar{height:10px;width:160px;border-radius:2px}
+.chain{display:flex;flex-wrap:wrap;gap:8px;align-items:stretch;margin:10px 0 18px}
+.link-step{flex:1 1 150px;min-width:140px;border:1px solid var(--rule);background:var(--surface);border-radius:var(--r);padding:10px 12px;display:flex;flex-direction:column;gap:4px;cursor:pointer}
+.link-step:hover{border-color:var(--accent)}
+.link-step[aria-pressed="true"]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.link-step .s{font-family:var(--font-mono);font-size:11px;color:var(--muted)}
+.link-step .h{font-weight:600;font-size:14px}
+.link-step .c{font-size:12.5px;color:var(--ink-2)}
+.gap{color:var(--crit);font-weight:600}
+.callout{border:1px solid var(--rule);border-left:3px solid var(--accent);background:var(--surface);padding:12px 14px;border-radius:0 var(--r) var(--r) 0;color:var(--ink-2);font-size:14.5px;max-width:90ch}
+.foot{max-width:1320px;margin:48px auto 0;font-size:12.5px;color:var(--muted);border-top:1px solid var(--rule);padding-top:14px}
+/* review builder */
+.rv-step{padding:12px 0;border-bottom:1px solid var(--rule)}
+.rv-step:first-child{padding-top:0}
+.rv-step:last-child{border-bottom:0;padding-bottom:0}
+.rv-br summary{cursor:pointer;padding:4px 0;font-size:14px}
+.rv-br summary .muted{color:var(--muted);font-size:12px;margin-left:4px}
+#revQs{width:100%;border:1px solid var(--rule-2);background:var(--surface);border-radius:5px;padding:8px 10px;font-size:14px;resize:vertical}
+.rv-out p{max-width:82ch;color:var(--ink-2)}
+.rv-out .muted{color:var(--muted)}
+.rv-out ul{max-width:90ch;color:var(--ink-2);padding-left:20px}
+.rv-h2{margin-top:30px;padding-top:14px;border-top:1px solid var(--rule)}
+.rv-h3{margin:16px 0 4px}
+.rv-p{padding:8px 4px;border-bottom:1px solid var(--rule);cursor:pointer;font-size:14px}
+.rv-p:hover{background:var(--sunk)}
+.rv-p .fd{color:var(--ink-2);margin:2px 0}
+.rv-p .tags{display:flex;flex-wrap:wrap;gap:4px 6px;align-items:center;font-size:12px}
+.rv-q{margin:18px 0 8px;font-weight:600;color:var(--ink)}
+.rv-refs{font-size:13px;color:var(--ink-2);padding-left:24px}
+.rv-refs li{margin:3px 0;cursor:pointer}
+@media print{.mast,.tabs,.foot,#revForm,.rv-actions,#drawer,#modal,#tip,#v-review>h2,#v-review>.intro{display:none!important} html,body{background:#fff!important;color:#000!important} main{padding:0} .rv-out{border:0!important;padding:0!important} .rv-p{break-inside:avoid}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<header class="mast">
+  <div class="mast-in">
+    <div style="min-width:0">
+      <div class="eyebrow">Literature map · built from PhD syllabi and the VoxDevLit review</div>
+      <h1>PolEcon Frontier Atlas</h1>
+      <p class="lede" id="lede"></p>
+      <div class="meta-line" id="metaLine"></div>
+    </div>
+    <button class="theme-btn" id="themeBtn" type="button" aria-label="Switch colour theme">Theme: system</button>
+  </div>
+</header>
+<nav class="tabs" aria-label="Atlas sections">
+  <div class="tabs-in" role="tablist" id="tabs"></div>
+</nav>
+<main>
+  <section class="view" id="v-overview" data-title="Overview"></section>
+  <section class="view" id="v-review" data-title="Build a review" hidden></section>
+  <section class="view" id="v-tree" data-title="Literature tree" hidden></section>
+  <section class="view" id="v-mtree" data-title="Mechanism tree" hidden></section>
+  <section class="view" id="v-mechanisms" data-title="Models → evidence" hidden></section>
+  <section class="view" id="v-network" data-title="Citation network" hidden></section>
+  <section class="view" id="v-authors" data-title="Who writes it" hidden></section>
+  <section class="view" id="v-timeline" data-title="Through time" hidden></section>
+  <section class="view" id="v-courses" data-title="Courses" hidden></section>
+  <section class="view" id="v-agenda" data-title="Your agenda" hidden></section>
+  <section class="view" id="v-library" data-title="Library" hidden></section>
+  <div class="foot" id="foot"></div>
+</main>
+<aside id="drawer" hidden aria-label="Paper details"><button class="dclose" id="dclose" type="button" aria-label="Close details">✕</button><div id="dbody"></div></aside>
+<div id="modal" hidden role="dialog" aria-modal="true" aria-label="Papers"><div class="modal-card"><button class="dclose" id="mclose" type="button" aria-label="Close">✕</button><div id="mbody"></div></div></div>
+<div id="tip" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<script>window.DATA=/*__DATA__*/null;window.WORLD=/*__WORLD__*/null;</script>
+<script>
+"use strict";
+const D = window.DATA, P = D.papers;
+const fmt = d3.format(",");
+const BR = Object.fromEntries(D.branches.map(b => [b.id, b]));
+const LF = Object.fromEntries(D.leaves.map(l => [l.id, l]));
+const MECH = Object.fromEntries(D.mechs.map(m => [m.id, m]));
+const COURSE = Object.fromEntries(D.courses.map(c => [c.id, c]));
+const FAMS = D.fams;
+const PE = P.filter(p => p.f < 8 && !p.x);                         // syllabus political-economy papers
+const PX = P.filter(p => p.f < 8 && p.x);                          // added from reference lists (p.x = syllabus papers citing it)
+const PALL = P.filter(p => p.f < 8);
+const isTheory = p => ["Theory","Review","Book"].includes(p.de);       // political-economy papers (excludes methods & adjacent dev)
+const VERD = {"+":["v-sup","＋ supports"],"~":["v-qual","∼ qualifies"],"-":["v-con","− contradicts"]};
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const cssVar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const famVar = f => `var(--f${f})`;
+const famColor = f => cssVar(`--f${f}`);
+function store(k, v){ try{ if(v===undefined) return localStorage.getItem(k); localStorage.setItem(k, v);}catch(e){ return null; } }
+
+/* ---------- theme ---------- */
+const themeBtn = document.getElementById("themeBtn");
+const THEMES = ["system","light","dark"];
+function applyTheme(t){ if(t==="system") document.documentElement.removeAttribute("data-theme"); else document.documentElement.setAttribute("data-theme", t); themeBtn.textContent = "Theme: " + t; store("atlas-theme", t); onThemeChange(); }
+themeBtn.addEventListener("click", () => { const cur = store("atlas-theme") || "system"; applyTheme(THEMES[(THEMES.indexOf(cur)+1)%3]); });
+const themeListeners = [];
+function onThemeChange(){ themeListeners.forEach(fn => fn()); }
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", onThemeChange);
+
+/* ---------- tooltip ---------- */
+const tip = document.getElementById("tip");
+function showTip(ev, html){ tip.innerHTML = html; tip.hidden = false; const pad=14, w=tip.offsetWidth, h=tip.offsetHeight; let x=ev.clientX+pad, y=ev.clientY+pad; if(x+w>innerWidth-8) x=ev.clientX-w-pad; if(y+h>innerHeight-8) y=ev.clientY-h-pad; tip.style.left=x+"px"; tip.style.top=y+"px"; }
+function hideTip(){ tip.hidden = true; }
+const reachLabel = p => p.x ? `not on a syllabus · cited by ${p.x} syllabus papers` : `taught in ${p.nc} course${p.nc===1?"":"s"}`;
+const paperTip = p => `<div class="tt">${esc(p.t)}</div><div class="ts">${esc(p.au)} · ${p.y||"n.d."}${p.v?" · "+esc(p.v):""}</div><div class="ts">${esc(LF[p.lf]?.name||"")} · ${reachLabel(p)}</div>`;
+
+/* ---------- drawer ---------- */
+const drawer = document.getElementById("drawer"), dbody = document.getElementById("dbody");
+document.getElementById("dclose").addEventListener("click", () => { drawer.hidden = true; });
+const modal = document.getElementById("modal"), mbody = document.getElementById("mbody");
+document.getElementById("mclose").addEventListener("click", () => { modal.hidden = true; });
+modal.addEventListener("click", e => { if(e.target===modal) modal.hidden = true; });
+document.addEventListener("keydown", e => { if(e.key!=="Escape") return; if(!drawer.hidden) drawer.hidden = true; else modal.hidden = true; });
+// pop-up listing papers; rows = [{p, extra}] (extra: html after the authors line)
+function papersModal(eyebrow, title, sub, rows){
+  mbody.innerHTML = `<div class="eyebrow">${esc(eyebrow)}</div><h3>${esc(title)}</h3><div class="caption" style="margin:0 0 8px">${sub}</div><div class="list">${rows.map(r=>paperRow(r.p, r.extra||"")).join("")}</div>`;
+  wireRows(mbody); modal.hidden = false; modal.querySelector(".modal-card").scrollTop = 0;
+}
+function chipLeaf(id){ const l = LF[id]; if(!l) return ""; return `<span class="chip"><span class="dot" style="background:${famVar(BR[l.br].fam)}"></span>${esc(l.name)}</span>`; }
+function verdictChip(v){ const [c,l]=VERD[v]||VERD["+"]; return `<span class="verdict ${c}">${l}</span>`; }
+function openPaper(id){
+  const p = P[id]; if(!p) return;
+  const cites = (D.out[id]||[]).map(j=>P[j]).filter(Boolean).sort((a,b)=>b.nc-a.nc);
+  const citedBy = (D.inn[id]||[]).map(j=>P[j]).filter(Boolean).sort((a,b)=>b.y-a.y);
+  const plist = arr => arr.slice(0,12).map(q=>`<li><button class="linkbtn" data-pid="${q.id}">${esc(q.au)} (${q.y||"n.d."})</button> <span style="color:var(--muted)">${esc(q.t.slice(0,90))}</span></li>`).join("");
+  const srcLabel = {review:"Read in the VoxDevLit review", abstract:"Abstract read", intro:"Introduction read", "abstract-uncoded":"Abstract shown, not yet coded", title: p.x||!D.download.length?"Title only":"Title only — on your download list"}[p.rs] || "";
+  const authLine = (p.A||[]).length ? p.A.map(i=>{ const a=D.authors[i], ins=a.i>=0?D.insts[a.i]:null; return `<button class="linkbtn" data-aid="${i}" title="${esc(ins?ins.n:"affiliation unknown")}">${esc(a.n)}</button>${ins?` <span style="color:var(--muted);font-size:12.5px">(${esc(ins.n)})</span>`:""}`; }).join(", ") : esc(p.af||p.au);
+  dbody.innerHTML = `
+    <div class="eyebrow">${esc(BR[p.br]?.name||"")}${p.x?" · added from reference lists":""}</div>
+    <h3>${esc(p.t)}</h3>
+    <div style="color:var(--ink-2);font-size:14px">${authLine} · ${p.y||"n.d."}${p.v?` · <i>${esc(p.v)}</i>`:""}</div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:10px">${chipLeaf(p.lf)}${(p.l2||[]).map(chipLeaf).join("")}${p.fr?'<span class="chip">Frontier (2015+)</span>':""}</div>
+    ${p.fd?`<div class="finding-box"><b>Finding.</b> ${esc(p.fd)}</div>`:""}
+    <dl class="kv">
+      ${p.ct&&p.ct.length?`<dt>Setting</dt><dd>${esc(p.ct.join(", "))}</dd>`:""}
+      ${p.de?`<dt>Design</dt><dd>${esc(D.designs[p.de]||p.de)}</dd>`:""}
+      ${p.me&&p.me.length?`<dt>Mechanisms</dt><dd style="display:flex;flex-direction:column;gap:4px">${p.me.map(([m,v])=>`<span><button class="linkbtn" data-mech="${m}">${esc(MECH[m]?.name||m)}</button> ${verdictChip(v)}</span>`).join("")}</dd>`:""}
+      ${p.vx&&p.vx.length?`<dt>VoxDev finding</dt><dd>${p.vx.map(f=>esc(D.voxFindings[f]?.short||f)).join("; ")}</dd>`:""}
+      <dt>Sources</dt><dd>${p.x?`Not on any syllabus — added because ${p.x} syllabus papers cite it`:p.cs.map(c=>esc(COURSE[c]?.label||c)).join("<br>")}</dd>
+      ${p.ci!=null?`<dt>Citations</dt><dd class="num">${fmt(p.ci)} (OpenAlex)</dd>`:""}
+      <dt>Source</dt><dd>${esc(srcLabel)}</dd>
+      ${p.doi?`<dt>DOI</dt><dd><a href="https://doi.org/${esc(p.doi)}" target="_blank" rel="noopener">${esc(p.doi)}</a></dd>`:""}
+      ${p.u?`<dt>Open copy</dt><dd><a href="${esc(p.u)}" target="_blank" rel="noopener">open-access link</a></dd>`:""}
+    </dl>
+    ${p.ab?`<div class="abstract"><h4>Abstract</h4>${esc(p.ab)}</div>`:""}
+    ${cites.length?`<div class="abstract"><h4>Builds on (in this atlas) · ${cites.length}</h4><ul style="padding-left:18px;margin:0">${plist(cites)}</ul></div>`:""}
+    ${citedBy.length?`<div class="abstract"><h4>Built on by (in this atlas) · ${citedBy.length}</h4><ul style="padding-left:18px;margin:0">${plist(citedBy)}</ul></div>`:""}`;
+  drawer.hidden = false; drawer.scrollTop = 0;
+  dbody.querySelectorAll("[data-pid]").forEach(b => b.addEventListener("click", () => openPaper(+b.dataset.pid)));
+  dbody.querySelectorAll("[data-mech]").forEach(b => b.addEventListener("click", () => { drawer.hidden = true; go("mechanisms"); selectMech(b.dataset.mech); }));
+  dbody.querySelectorAll("[data-aid]").forEach(b => b.addEventListener("click", () => { drawer.hidden = true; go("authors"); autSelect(+b.dataset.aid, true); }));
+}
+function paperRow(p, extra=""){ return `<div class="prow" data-pid="${p.id}" tabindex="0"><span class="yr">${p.y||"—"}</span><span><div class="ti">${esc(p.t)}</div><div class="au">${esc(p.au)}${p.v?" · "+esc(p.v):""}${extra}</div></span>${p.x?`<span class="nc" title="Not on a syllabus: cited by ${p.x} syllabus papers">ref·${p.x}</span>`:`<span class="nc" title="Distinct courses teaching it">${p.nc}×</span>`}</div>`; }
+function wireRows(root){ root.querySelectorAll("[data-pid]").forEach(r => { r.addEventListener("click", () => openPaper(+r.dataset.pid)); r.addEventListener("keydown", e => { if(e.key==="Enter") openPaper(+r.dataset.pid); }); }); }
+
+/* ---------- tabs / routing ---------- */
+const VIEWS = [["overview","Overview"],["review","Build a review"],["tree","Literature tree"],["mtree","Mechanism tree"],["mechanisms","Models → evidence"],["network","Citation network"],["authors","Who writes it"],["timeline","When & where"],["courses","Courses"],["agenda","Your agenda"],["library","Library"]].filter(v=>v[0]!=="agenda"||D.agenda);
+const tabs = document.getElementById("tabs");
+const rendered = {};
+VIEWS.forEach(([id,label],i) => { const b = document.createElement("button"); b.className="tab"; b.role="tab"; b.id="t-"+id; b.innerHTML=`<span class="k">${String(i+1).padStart(2,"0")}</span>${label}`; b.addEventListener("click", () => go(id)); tabs.appendChild(b); });
+function go(id){
+  VIEWS.forEach(([v]) => { document.getElementById("v-"+v).hidden = v!==id; document.getElementById("t-"+v).setAttribute("aria-selected", v===id); });
+  if(!rendered[id]){ rendered[id]=true; RENDER[id](); }
+  if(location.hash.slice(1)!==id) history.replaceState(null,"","#"+id);
+  window.scrollTo({top:0});
+}
+
+/* ---------- masthead ---------- */
+document.getElementById("lede").textContent = D.meta.lede;
+document.getElementById("metaLine").innerHTML = `<span><b>${fmt(PE.length)}</b> political-economy papers on syllabi</span><span><b>${fmt(PX.length)}</b> added from reference lists</span><span><b>${fmt(P.filter(p=>p.f>=8).length)}</b> methods & adjacent</span>${D.authors.length?`<span><b>${fmt(D.authors.length)}</b> authors</span>`:""}<span><b>${D.courses.length}</b> courses</span><span><b>${D.meta.nSyllabi}</b> syllabi & decks</span><span><b>${fmt(D.meta.nEdges)}</b> citation links</span><span>${D.meta.yearMin}–${D.meta.yearMax}</span>`;
+document.getElementById("foot").innerHTML = D.meta.foot;
+
+/* ================= VIEWS ================= */
+const RENDER = {};
+
+/* ---------- 1 Overview ---------- */
+RENDER.overview = function(){
+  const v = document.getElementById("v-overview");
+  const nRead = PE.filter(p=>p.rs!=="title").length;
+  v.innerHTML = `
+  <div class="section">
+    <h2>Where the frontier is</h2>
+    <div class="intro">${D.meta.thesis}</div>
+    <div class="stats">
+      <div class="stat"><div class="v">${fmt(PE.length)}</div><div class="l">political-economy papers</div></div>
+      <div class="stat"><div class="v">${fmt(PE.filter(p=>p.fr).length)}</div><div class="l">published 2015 or later</div></div>
+      <div class="stat"><div class="v">${fmt(PE.filter(p=>p.fd).length)}</div><div class="l">read and coded (finding, mechanism, design)</div></div>
+      <div class="stat"><div class="v">${fmt(PE.length-nRead)}</div><div class="l">title only — no abstract or open copy${D.download.length?` · <button class="linkbtn" id="toDl">your download list →</button>`:""}</div></div>
+    </div>
+  </div>
+  <div class="section">
+    <h3>Six findings that organise the frontier</h3>
+    <p class="intro">The VoxDevLit review (Ferraz, Frey, Fujiwara, Mahadevan, Moreira & Sandholtz, 2026) is the leading reference. Each card counts the papers in this atlas coded as evidence for that finding; open one to list them in the Library.</p>
+    <div class="findings" id="fcards"></div>
+  </div>
+  <div class="section grid2">
+    <div class="panel"><h3>Where it is published</h3><p class="caption" style="margin-top:0">Share of papers by type of outlet, for all years and by period of publication. Hover a segment for counts; the ranking lists the journals and presses used most.</p>
+      <div class="net-controls"><label class="field"><input type="checkbox" id="venX"> Include works added from reference lists</label></div>
+      <div class="scroll-x" id="venueBars"></div><div class="net-legend" id="venueLegend" style="margin-top:8px"></div><h4 style="margin-top:16px">Most used outlets</h4><div class="scroll-x" id="venueTop"></div></div>
+    <div class="panel"><h3>Attention is moving</h3><p class="caption" style="margin-top:0">Share of each branch among readings published up to 2009 (hollow) versus 2015 onward (filled). Branches are sorted by the change.</p><div class="scroll-x" id="shiftChart"></div></div>
+  </div>
+  <div class="section panel"><h3>Canon and frontier</h3><p class="caption" style="margin-top:0">Each dot is one syllabus paper, placed by publication year and grouped by how many of the ${D.courses.length} courses assign it. The top rows are the canon every programme teaches; the shaded band on the right is the frontier (2015 on) entering syllabi. Click a family to hide or show it; click a dot to read the paper.</p>
+    <div class="net-legend" id="canonLegend" style="margin-bottom:8px"></div><div class="scroll-x" id="canonChart"></div></div>
+  <div class="section">
+    <h3>Branch by branch</h3>
+    <p class="intro">One paragraph per branch on where the action is now. Each links to its part of the tree.</p>
+    <div class="grid3" id="branchNotes"></div>
+  </div>`;
+  if(D.download.length) document.getElementById("toDl").addEventListener("click", () => { go("library"); document.getElementById("dlist").scrollIntoView({behavior:"smooth"}); });
+  const fc = document.getElementById("fcards");
+  fc.innerHTML = Object.entries(D.voxFindings).map(([k,f]) => {
+    const ps = PE.filter(p => (p.vx||[]).includes(k)).sort((a,b)=>b.y-a.y);
+    return `<div class="finding"><div class="n">Finding ${k.slice(1)} · ${ps.length} papers</div><div class="claim">${esc(f.claim)}</div><p>${esc(f.detail)}</p><ul>${ps.slice(0,3).map(p=>`<li><button class="linkbtn" data-pid="${p.id}">${esc(p.au)} ${p.y}</button></li>`).join("")}</ul><button class="linkbtn" data-vx="${k}">List all ${ps.length} →</button></div>`;
+  }).join("");
+  fc.querySelectorAll("[data-pid]").forEach(b => b.addEventListener("click", () => openPaper(+b.dataset.pid)));
+  fc.querySelectorAll("[data-vx]").forEach(b => b.addEventListener("click", () => { LIB.vx = b.dataset.vx; go("library"); renderLibrary(); }));
+  const bn = document.getElementById("branchNotes");
+  bn.innerHTML = D.branches.filter(b=>b.fam<8).map(b => `<div class="panel"><div style="display:flex;gap:8px;align-items:center"><span class="dot" style="background:${famVar(b.fam)}"></span><span class="eyebrow">${esc(b.id)} · ${esc(FAMS[b.fam].name)}</span></div><h3 style="margin-top:6px">${esc(b.name)}</h3><p style="margin:0;font-size:14px;color:var(--ink-2)">${esc(b.narrative)}</p><button class="linkbtn" style="margin-top:8px" data-br="${b.id}">Open in tree →</button></div>`).join("");
+  bn.querySelectorAll("[data-br]").forEach(b => b.addEventListener("click", () => { go("tree"); treeOpenBranch(b.dataset.br); }));
+  document.getElementById("venX").addEventListener("change", drawVenues);
+  drawShift(); drawCanon(); drawVenues();
+  themeListeners.push(() => { if(!document.getElementById("v-overview").hidden){ drawShift(); drawCanon(); drawVenues(); } });
+};
+function drawShift(){
+  const host = document.getElementById("shiftChart"); host.innerHTML="";
+  const early = PE.filter(p=>p.y && p.y<=2009), late = PE.filter(p=>p.y>=2015);
+  const rows = D.branches.filter(b=>b.fam<8).map(b => ({b, e: early.filter(p=>p.br===b.id).length/early.length, l: late.filter(p=>p.br===b.id).length/late.length})).sort((a,b)=>(b.l-b.e)-(a.l-a.e));
+  const W = Math.max(480, host.clientWidth||560), rowH=26, M={t:20,r:58,b:30,l:190}, H=M.t+M.b+rows.length*rowH;
+  const x = d3.scaleLinear().domain([0, d3.max(rows, r=>Math.max(r.e,r.l))*1.1]).range([M.l, W-M.r]).nice();
+  const svg = d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H).attr("role","img").attr("aria-label","Dumbbell chart of branch shares, early versus recent readings");
+  svg.append("g").attr("class","grid").selectAll("line").data(x.ticks(5)).join("line").attr("x1",x).attr("x2",x).attr("y1",M.t-6).attr("y2",H-M.b);
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${H-M.b})`).call(d3.axisBottom(x).ticks(5).tickFormat(d3.format(".0%")).tickSizeOuter(0));
+  const g = svg.append("g").selectAll("g").data(rows).join("g").attr("transform",(d,i)=>`translate(0,${M.t+i*rowH+rowH/2})`);
+  g.append("text").attr("x",M.l-10).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").text(d=>d.b.short);
+  g.append("line").attr("x1",d=>x(d.e)).attr("x2",d=>x(d.l)).attr("stroke",d=>famVar(d.b.fam)).attr("stroke-width",2);
+  g.append("circle").attr("cx",d=>x(d.e)).attr("r",5).attr("fill","var(--surface)").attr("stroke",d=>famVar(d.b.fam)).attr("stroke-width",2);
+  g.append("circle").attr("cx",d=>x(d.l)).attr("r",5.5).attr("fill",d=>famVar(d.b.fam)).attr("stroke","var(--surface)").attr("stroke-width",2);
+  g.append("text").attr("x",d=>x(Math.max(d.e,d.l))+10).attr("dy","0.35em").attr("class","muted num").text(d=>{const c=(d.l-d.e)*100; return (c>=0?"+":"−")+Math.abs(c).toFixed(1)+" pp";});
+  g.append("rect").attr("x",0).attr("y",-rowH/2).attr("width",W).attr("height",rowH).attr("fill","transparent")
+    .on("mousemove",(ev,d)=>showTip(ev,`<div class="tt">${esc(d.b.name)}</div><div class="ts">≤2009: ${(d.e*100).toFixed(1)}% of ${fmt(early.length)} readings</div><div class="ts">2015+: ${(d.l*100).toFixed(1)}% of ${fmt(late.length)} readings</div>`)).on("mouseleave",hideTip);
+}
+const CANON = {famOn:new Set(d3.range(8))};
+function drawCanon(){
+  const host = document.getElementById("canonChart"); host.innerHTML="";
+  const lg = document.getElementById("canonLegend");
+  lg.innerHTML = FAMS.slice(0,8).map((f,i)=>`<button class="chip" aria-pressed="${CANON.famOn.has(i)}" data-f="${i}"><span class="dot" style="background:${famVar(i)}"></span>${esc(f.name)}</button>`).join("");
+  lg.querySelectorAll("[data-f]").forEach(b=>b.addEventListener("click",()=>{ const i=+b.dataset.f; CANON.famOn.has(i)?CANON.famOn.delete(i):CANON.famOn.add(i); if(!CANON.famOn.size) d3.range(8).forEach(k=>CANON.famOn.add(k)); drawCanon(); }));
+  const pts = PE.filter(p=>p.y && CANON.famOn.has(p.f));
+  const bands = [["7+ courses",7,99],["5–6 courses",5,6],["3–4 courses",3,4],["2 courses",2,2],["≤1 course",0,1]].map(([k,lo,hi])=>({k,lo,hi,n:pts.filter(p=>p.nc>=lo&&p.nc<=hi).length}));
+  const W = Math.max(600, host.clientWidth||900), M={t:18,r:18,b:30,l:104};
+  bands.forEach(b=>{ b.h = Math.max(44, Math.sqrt(b.n)*5.4); });
+  let yy = M.t; bands.forEach(b=>{ b.y0=yy; yy+=b.h; b.y1=yy; });
+  const H = yy + M.b;
+  const x = d3.scaleLinear().domain([1940,1990,2027]).range([M.l, M.l+0.2*(W-M.l-M.r), W-M.r]);   // 1940–1990 compressed: few papers
+  const svg = d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H).attr("role","img").attr("aria-label","Beeswarm of syllabus papers by year and number of courses assigning them");
+  svg.append("rect").attr("x",x(2015)).attr("y",M.t).attr("width",x(2027)-x(2015)).attr("height",yy-M.t).attr("fill","var(--accent-soft)");
+  svg.append("text").attr("x",x(2015)+6).attr("y",M.t-5).attr("class","muted").style("font-size","11px").text("frontier · 2015 on");
+  bands.forEach((b,i)=>{ if(i%2===0) svg.append("rect").attr("x",M.l).attr("y",b.y0).attr("width",x(2015)-M.l).attr("height",b.h).attr("fill","var(--sunk)").attr("opacity",.55);
+    svg.append("text").attr("x",M.l-10).attr("y",(b.y0+b.y1)/2).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").text(b.k);
+    svg.append("text").attr("x",M.l-10).attr("y",(b.y0+b.y1)/2+14).attr("text-anchor","end").attr("class","muted num").style("font-size","10.5px").text(fmt(b.n)+" papers"); });
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${yy})`).call(d3.axisBottom(x).tickValues([1940,1960,1980,1990,1995,2000,2005,2010,2015,2020,2025]).tickFormat(t=>t===1940?"≤1940":d3.format("d")(t)).tickSizeOuter(0));
+  const band = p => bands.find(b=>p.nc>=b.lo&&p.nc<=b.hi);
+  const nodes = pts.map(p=>{ const b=band(p); return {p, b, r: p.nc>=3?4.2:2.7, x: x(Math.max(1940,p.y)), y:(b.y0+b.y1)/2, tx: x(Math.max(1940,p.y)), ty:(b.y0+b.y1)/2}; });
+  const sim = d3.forceSimulation(nodes).force("x",d3.forceX(d=>d.tx).strength(0.9)).force("y",d3.forceY(d=>d.ty).strength(0.06)).force("c",d3.forceCollide(d=>d.r+0.5)).stop();
+  for(let i=0;i<160;i++){ sim.tick(); nodes.forEach(d=>{ d.y=Math.max(d.b.y0+d.r+1,Math.min(d.b.y1-d.r-1,d.y)); }); }
+  svg.append("g").selectAll("circle").data(nodes).join("circle").attr("cx",d=>d.x).attr("cy",d=>d.y).attr("r",d=>d.r)
+    .attr("fill",d=>famVar(d.p.f)).attr("fill-opacity",d=>d.p.nc>=2?.95:.6).attr("stroke","var(--surface)").attr("stroke-width",.6)
+    .style("cursor","pointer").on("mousemove",(ev,d)=>showTip(ev,paperTip(d.p))).on("mouseleave",hideTip).on("click",(ev,d)=>openPaper(d.p.id));
+  // labels: every paper taught in 7+ courses and the most-taught recent ones; try right, left, above, below, skip on overlap
+  const nice = t => t===t.toUpperCase() ? t.charAt(0)+t.slice(1).toLowerCase() : t;
+  const cand = nodes.filter(d=>d.p.nc>=7).sort((a,b)=>b.p.nc-a.p.nc).concat(nodes.filter(d=>d.p.y>=2015&&d.p.nc>=3&&d.p.nc<7).sort((a,b)=>b.p.nc-a.p.nc||(D.inn[b.p.id]||[]).length-(D.inn[a.p.id]||[]).length).slice(0,8));
+  const boxes = nodes.map(d=>({x:d.x-d.r,y:d.y-d.r,w:2*d.r,h:2*d.r,dot:d})), lab = svg.append("g");
+  const hits = (b,self) => b.x<M.l || b.x+b.w>W-2 || boxes.some(o=>o.dot!==self && b.x<o.x+o.w && b.x+b.w>o.x && b.y<o.y+o.h && b.y+b.h>o.y && (!o.dot || o.dot.p.nc>=3));
+  cand.forEach(d=>{ const t=`${nice(d.p.au.split(/[ ,&]/)[0])} ${d.p.y}`, w=t.length*6.1+2, h=13;
+    const opts=[[d.x+d.r+3,d.y-h/2,"start"],[d.x-d.r-3-w,d.y-h/2,"end"],[d.x-w/2,d.y-d.r-h-1,"middle"],[d.x-w/2,d.y+d.r+1,"middle"]];
+    const ok = opts.find(([bx,by])=>!hits({x:bx,y:by,w,h},d)); if(!ok) return;
+    const [bx,by,anchor]=ok; boxes.push({x:bx,y:by,w,h,dot:null});
+    lab.append("text").attr("x",anchor==="start"?bx:anchor==="end"?bx+w:bx+w/2).attr("y",by+h/2).attr("dy","0.35em").attr("text-anchor",anchor).attr("class","lbl").style("font-size","11px").style("paint-order","stroke").style("stroke","var(--surface)").style("stroke-width",3).style("pointer-events","none").text(t); });
+}
+function drawVenues(){
+  const host=document.getElementById("venueBars"); if(!host) return; host.innerHTML="";
+  const pool = document.getElementById("venX").checked ? PALL : PE;
+  const cats = D.venueCats.concat(["Unknown outlet"]);
+  const col = i => i<8?famVar(i):"var(--f8)";
+  const rowsDef = [["All years",()=>true],["Up to 1999",p=>p.y&&p.y<=1999],["2000–2014",p=>p.y>=2000&&p.y<=2014],["2015 on",p=>p.y>=2015]];
+  const rows = rowsDef.map(([k,f])=>{ const ps=pool.filter(f), n=ps.length; let acc=0; const segs=cats.map((c,i)=>{ const v=ps.filter(p=>(p.vc??8)===i).length; const sg={i,v,share:n?v/n:0,x0:acc}; acc+=sg.share; return sg; }); return {k,n,segs}; });
+  const W=Math.max(360,host.clientWidth||460), M={t:4,r:18,b:22,l:86}, rh=[34,24,24,24], gap=10, H=M.t+M.b+d3.sum(rh)+gap*3;
+  const x=d3.scaleLinear().domain([0,1]).range([M.l,W-M.r]);
+  const svg=d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H).attr("role","img").attr("aria-label","Stacked bars of publication outlets");
+  let y=M.t;
+  rows.forEach((r,ri)=>{ const h=rh[ri];
+    svg.append("text").attr("x",M.l-8).attr("y",y+h/2).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").style("font-weight",ri?400:600).text(r.k);
+    if(!ri) svg.append("text").attr("x",M.l-8).attr("y",y+h/2+13).attr("text-anchor","end").attr("class","muted num").style("font-size","10px").text(`${fmt(r.n)} papers`);
+    r.segs.filter(sg=>sg.v).forEach(sg=>{ const x0=x(sg.x0)+1, w=Math.max(0.5,x(sg.x0+sg.share)-x(sg.x0)-2);
+      svg.append("rect").attr("x",x0).attr("y",y).attr("width",w).attr("height",h).attr("rx",3).attr("fill",col(sg.i))
+        .on("mousemove",ev=>showTip(ev,`<div class="tt">${esc(cats[sg.i])}</div><div class="ts">${r.k}: ${fmt(sg.v)} of ${fmt(r.n)} papers · ${(sg.share*100).toFixed(1)}%</div>`)).on("mouseleave",hideTip);
+      if(w>34) svg.append("text").attr("x",x0+w/2).attr("y",y+h/2).attr("dy","0.35em").attr("text-anchor","middle").style("font-size",ri?"10.5px":"11.5px").style("fill","#fff").style("pointer-events","none").attr("class","num").text(`${Math.round(sg.share*100)}%`); });
+    y+=h+gap; });
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${H-M.b})`).call(d3.axisBottom(x).ticks(5).tickFormat(d3.format(".0%")).tickSizeOuter(0));
+  const tot=rows[0];
+  document.getElementById("venueLegend").innerHTML=tot.segs.filter(sg=>sg.v).map(sg=>`<span class="chip"><span class="dot" style="background:${col(sg.i)}"></span>${esc(cats[sg.i])} <span class="num" style="color:var(--muted)">${fmt(sg.v)} · ${Math.round(sg.share*100)}%</span></span>`).join("");
+  const tv=document.getElementById("venueTop"); tv.innerHTML="";
+  const byV=d3.rollups(pool.filter(p=>p.v),ps=>ps.length,p=>p.v).sort((a,b)=>b[1]-a[1]).slice(0,15);
+  const W2=Math.max(360,tv.clientWidth||460), M2={t:2,r:30,b:4,l:Math.min(250,Math.round(W2*0.52))}, rh2=19, H2=M2.t+M2.b+byV.length*rh2;
+  const x2=d3.scaleLinear().domain([0,byV[0]?.[1]||1]).range([M2.l,W2-M2.r]);
+  const svg2=d3.select(tv).append("svg").attr("class","chart").attr("width",W2).attr("height",H2);
+  const vcOf=v=>{ const p=pool.find(q=>q.v===v); return p?(p.vc??8):8; };
+  const g2=svg2.append("g").selectAll("g").data(byV).join("g").attr("transform",(d,i)=>`translate(0,${M2.t+i*rh2})`);
+  const maxC=Math.floor(M2.l/6.3);
+  g2.append("text").attr("x",M2.l-8).attr("y",rh2/2).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").style("font-size","11.5px").text(d=>d[0].length>maxC?d[0].slice(0,maxC-1)+"…":d[0]);
+  g2.append("rect").attr("x",M2.l).attr("y",3).attr("height",rh2-6).attr("width",d=>Math.max(1,x2(d[1])-M2.l)).attr("rx",3).attr("fill",d=>col(vcOf(d[0])));
+  g2.append("text").attr("x",d=>x2(d[1])+5).attr("y",rh2/2).attr("dy","0.35em").attr("class","muted num").style("font-size","11px").text(d=>d[1]);
+}
+
+/* ---------- 2 Tree ---------- */
+let treeState = {open:new Set(), sel:null, link:"shared"};
+RENDER.tree = function(){
+  const v = document.getElementById("v-tree");
+  v.innerHTML = `<h2>The literature tree</h2><p class="intro">Twelve branches and ${D.leaves.filter(l=>BR[l.br].fam<8).length} sub-literatures, anchored on the VoxDevLit sections and the BREAD-IGC 2026 lecture plan and extended to everything the syllabi assign. Node size is the number of papers; click a branch to open it and a sub-literature to read its papers.</p>
+  <div class="tree-wrap"><div class="panel tree"><div class="net-controls" id="treeLinkCtl" hidden><span class="field">Connect the selected sub-literature by</span><button class="chip" type="button" data-lk="shared">Shared papers</button><button class="chip" type="button" data-lk="cite">Citations</button><span class="caption" id="treeLinkNote" style="margin:0"></span></div><div class="scroll-x" id="treeSvg"></div></div><div class="panel sticky-panel" id="treePanel"></div></div>`;
+  v.querySelectorAll("[data-lk]").forEach(b=>b.addEventListener("click",()=>{ treeState.link=b.dataset.lk; treeState.autoLink=false; drawTree(); }));
+  D.branches.filter(b=>b.fam<8).slice(0,0).forEach(b=>treeState.open.add(b.id));
+  drawTree(); treePanel(null);
+  themeListeners.push(() => { if(rendered.tree) drawTree(); });
+};
+function treeOpenBranch(id){ treeState.open.add(id); drawTree(); treePanel({type:"branch",id}); }
+function drawTree(){
+  const host = document.getElementById("treeSvg"); if(!host) return; host.innerHTML="";
+  const root = {name:"Political economy", children: D.branches.filter(b=>b.fam<8).map(b => ({name:b.short, id:b.id, type:"branch", fam:b.fam, n:PE.filter(p=>p.br===b.id).length, children: treeState.open.has(b.id) ? D.leaves.filter(l=>l.br===b.id).map(l=>({name:l.name,id:l.id,type:"leaf",fam:b.fam,n:l.n})) : null}))};
+  const h = d3.hierarchy(root, d=>d.children);
+  const leavesN = h.leaves().length, rowH = 22, X1 = 34, X2 = 34 + 330;
+  const anyOpen = treeState.open.size > 0;
+  const W = Math.max(anyOpen ? X2 + 380 : X1 + 360, host.clientWidth||700), H = Math.max(420, leavesN*rowH+40);
+  d3.tree().size([H-40, 1]).separation((a,b)=>a.parent===b.parent?1:1.4)(h);
+  h.each(d => { d.y = d.depth===0 ? 0 : d.depth===1 ? X1 : X2; });
+  const svg = d3.select(host).append("svg").attr("width",W).attr("height",H).attr("role","img").attr("aria-label","Collapsible tree of the literature");
+  const g = svg.append("g").attr("transform","translate(20,20)");
+  g.selectAll("path").data(h.links()).join("path").attr("class","link").attr("d",d3.linkHorizontal().x(d=>d.y).y(d=>d.x));
+  const r = d3.scaleSqrt().domain([0, d3.max(D.branches,b=>PE.filter(p=>p.br===b.id).length)]).range([3,13]);
+  const node = g.selectAll("g.node").data(h.descendants()).join("g").attr("class",d=>"node"+(treeState.sel===d.data.id?" sel":"")).attr("transform",d=>`translate(${d.y},${d.x})`).attr("tabindex",0).attr("role","button")
+    .on("click",(ev,d)=>treeClick(d.data)).on("keydown",(ev,d)=>{ if(ev.key==="Enter") treeClick(d.data); });
+  node.append("circle").attr("r",d=>d.depth===0?6:r(d.data.n||0)).attr("fill",d=>d.depth===0?"var(--accent)":d.data.type==="leaf"?famVar(d.data.fam):(treeState.open.has(d.data.id)?"var(--surface)":famVar(d.data.fam))).attr("stroke",d=>d.depth===0?"var(--accent)":famVar(d.data.fam)).attr("stroke-width",2);
+  node.filter(d=>d.depth>0).append("text").attr("x",d=>r(d.data.n||0)+6).attr("dy","0.35em")
+    .text(d=>d.data.name).append("tspan").attr("class","cnt").attr("dx",6).text(d=>d.data.n);
+  drawTreeLinks(svg, g, node, W);
+}
+// links from the selected sub-literature to the topics it connects to (shared papers or citations); targets inside closed branches attach to the branch
+function leafLinks(lid, mode){
+  const out = new Map(), add = (k,v) => { if(!out.has(k)) out.set(k,[]); out.get(k).push(v); };
+  const ok = x => x!==lid && LF[x] && BR[LF[x].br].fam<8;
+  if(mode==="shared") PALL.forEach(p => { const tags=[p.lf,...(p.l2||[])]; if(tags.includes(lid)) tags.filter(ok).forEach(x=>add(x,{p})); });
+  else PALL.filter(p=>p.lf===lid).forEach(p => {
+    (D.out[p.id]||[]).forEach(j => { const q=P[j]; if(q && q.f<8 && ok(q.lf)) add(q.lf,{p, q}); });
+    (D.inn[p.id]||[]).forEach(j => { const q=P[j]; if(q && q.f<8 && ok(q.lf)) add(q.lf,{p:q, q:p}); });
+  });
+  return out;
+}
+function drawTreeLinks(svg, g, node, W){
+  const ctl = document.getElementById("treeLinkCtl"), note = document.getElementById("treeLinkNote");
+  const lid = LF[treeState.sel] && BR[LF[treeState.sel].br].fam<8 ? treeState.sel : null;
+  if(ctl) ctl.hidden = !lid;
+  if(!lid) return;
+  let mode = treeState.link, links = leafLinks(lid, mode);
+  if(mode==="shared" && !links.size){ mode="cite"; links=leafLinks(lid, mode); }
+  ctl.querySelectorAll("[data-lk]").forEach(b=>b.setAttribute("aria-pressed", b.dataset.lk===mode));
+  const pos = new Map(); node.each(function(d){ if(d.depth){ const bb=this.getBBox(); pos.set(d.data.id,{x:d.x, right:d.y+bb.x+bb.width, fam:d.data.fam}); } });
+  const agg = new Map();
+  links.forEach((items, x) => { const t = treeState.open.has(LF[x].br) ? x : LF[x].br; if(!pos.has(t)) return; const a = agg.get(t) || {items:[], leaves:new Set()}; a.items.push(...items); a.leaves.add(x); agg.set(t,a); });
+  const uniq = items => mode==="shared" ? [...new Map(items.map(it=>[it.p.id,it])).values()] : items;
+  const arr = [...agg.entries()].map(([t,a]) => ({t, items:uniq(a.items), leaves:[...a.leaves]})).map(a=>({...a, n:a.items.length})).sort((a,b)=>b.n-a.n).slice(0,10);
+  const unit = mode==="shared" ? "papers tagged in both" : "citation links";
+  note.textContent = arr.length ? `${arr.length} connected topic${arr.length===1?"":"s"} · line width = ${unit} · click a line to list them` : "No links for this sub-literature.";
+  if(!arr.length) return;
+  const src = pos.get(lid), maxN = d3.max(arr,a=>a.n);
+  const gl = g.insert("g", ":first-child");
+  let maxX = 0;
+  arr.forEach(a => {
+    const tp = pos.get(a.t), x1 = src.right+6, y1 = src.x, x2 = tp.right+6, y2 = tp.x;
+    const cx = Math.max(x1,x2) + 22 + Math.min(130, Math.abs(y2-y1)*0.2);
+    maxX = Math.max(maxX, cx);
+    const col = famVar(tp.fam), wdt = 1.3 + 4.2*Math.sqrt(a.n/maxN);
+    const name = LF[a.t] ? LF[a.t].name : BR[a.t].name;
+    const path = gl.append("path").attr("d",`M${x1},${y1} C${cx},${y1} ${cx},${y2} ${x2},${y2}`).attr("fill","none").attr("stroke",col).attr("stroke-width",wdt).attr("stroke-opacity",.7).attr("stroke-linecap","round");
+    gl.append("circle").attr("cx",x2).attr("cy",y2).attr("r",3).attr("fill",col);
+    const hit = gl.append("path").attr("d",path.attr("d")).attr("fill","none").attr("stroke","transparent").attr("stroke-width",Math.max(12,wdt+8)).style("cursor","pointer");
+    const mx = 0.125*(x1+x2)+0.75*cx, my = (y1+y2)/2;
+    gl.append("text").attr("x",mx+4).attr("y",my).attr("dy","0.35em").attr("class","num").style("font-size","11px").style("fill",col).style("paint-order","stroke").style("stroke","var(--surface)").style("stroke-width",3).text(a.n);
+    hit.on("mousemove",ev=>{ path.attr("stroke-opacity",1); showTip(ev,`<div class="tt">${esc(LF[lid].name)} ↔ ${esc(name)}</div><div class="ts">${a.n} ${unit}${LF[a.t]?"":" (branch closed: "+a.leaves.length+" sub-literatures)"}</div>`); })
+      .on("mouseleave",()=>{ path.attr("stroke-opacity",.7); hideTip(); })
+      .on("click",()=>{ hideTip();
+        if(mode==="shared") papersModal(`${LF[lid].name} ↔ ${name}`, "Papers that speak to both", `${a.n} papers tagged in both sub-literatures`, a.items.map(it=>({p:it.p, extra:` · ${[it.p.lf,...(it.p.l2||[])].map(x=>LF[x]?esc(LF[x].name):"").filter(Boolean).join(" · ")}`})).sort((u,v)=>(v.p.y||0)-(u.p.y||0)));
+        else { papersModal(`${LF[lid].name} ↔ ${name}`, "Citation links between the two", `${a.n} links: each row is a paper and the work it cites on the other side`, a.items.sort((u,v)=>(v.p.y||0)-(u.p.y||0)).map(it=>({p:it.p, extra:` · cites <button class="linkbtn" data-qid="${it.q.id}">${esc(it.q.au)} ${it.q.y||""}</button>`})));
+          mbody.querySelectorAll("[data-qid]").forEach(b=>b.addEventListener("click",e=>{ e.stopPropagation(); openPaper(+b.dataset.qid); })); }
+      });
+  });
+  svg.attr("width", Math.max(W, maxX + 60));
+}
+function treeClick(d){
+  if(d.type==="branch"){ treeState.open.has(d.id)?treeState.open.delete(d.id):treeState.open.add(d.id); treeState.sel=d.id; drawTree(); treePanel({type:"branch",id:d.id}); }
+  else if(d.type==="leaf"){ treeState.sel=d.id; drawTree(); treePanel({type:"leaf",id:d.id}); }
+}
+function treePanel(sel){
+  const el = document.getElementById("treePanel");
+  if(!sel){ el.innerHTML = `<h4>How to use</h4><p style="margin:0;color:var(--ink-2)">Pick a branch on the left. Each sub-literature lists its papers with the most-taught first; the “frontier only” switch keeps work published since 2015.</p><div style="margin-top:14px">${D.branches.filter(b=>b.fam<8).map(b=>`<button class="chip" style="margin:3px" data-br="${b.id}"><span class="dot" style="background:${famVar(b.fam)}"></span>${esc(b.name)}</button>`).join("")}</div>`; el.querySelectorAll("[data-br]").forEach(b=>b.addEventListener("click",()=>treeOpenBranch(b.dataset.br))); return; }
+  if(sel.type==="branch"){
+    const b = BR[sel.id], ls = D.leaves.filter(l=>l.br===b.id);
+    el.innerHTML = `<div class="eyebrow">${esc(b.id)} · branch</div><h3>${esc(b.name)}</h3><p style="margin:0;color:var(--ink-2)">${esc(b.desc)}</p><div class="branch-note">${esc(b.narrative)}</div><h4 style="margin-top:14px">Sub-literatures</h4>${ls.map(l=>`<div class="prow" data-leaf="${l.id}" tabindex="0"><span class="yr">${l.id}</span><span><div class="ti">${esc(l.name)}</div><div class="au">${l.n} papers · ${l.nf} since 2015</div></span><span class="nc">→</span></div>`).join("")}`;
+    el.querySelectorAll("[data-leaf]").forEach(r=>r.addEventListener("click",()=>{ treeState.sel=r.dataset.leaf; drawTree(); treePanel({type:"leaf",id:r.dataset.leaf}); }));
+    return;
+  }
+  const l = LF[sel.id], b = BR[l.br];
+  const frontier = store("atlas-frontier")==="1";
+  let ps = PE.filter(p=>p.lf===l.id || (p.l2||[]).includes(l.id));
+  let xs = PX.filter(p=>p.lf===l.id);
+  if(frontier){ ps = ps.filter(p=>p.fr); xs = xs.filter(p=>p.fr); }
+  ps.sort((a,b)=>(b.lf===l.id)-(a.lf===l.id) || b.nc-a.nc || (b.y||0)-(a.y||0));
+  xs.sort((a,b)=>b.x-a.x);
+  const mechs = D.mechs.filter(m=>m.branches.includes(l.id));
+  el.innerHTML = `<div class="eyebrow">${esc(b.name)}</div><h3>${esc(l.name)}</h3>
+    ${l.settled?`<div class="branch-note"><b>Settled.</b> ${esc(l.settled)}<br><b>Open frontier.</b> ${esc(l.open)}</div>`:""}
+    ${mechs.length?`<p style="margin:4px 0 8px;font-size:13.5px;color:var(--ink-2)">Canonical mechanisms: ${mechs.map(m=>`<button class="linkbtn" data-mech="${m.id}">${esc(m.name)}</button>`).join(" · ")}</p>`:""}
+    <label class="field" style="margin:6px 0 4px"><input type="checkbox" id="frontierOnly" ${frontier?"checked":""}> Frontier only (2015+)</label>
+    <div class="caption" style="margin:0 0 6px">${ps.length} papers · secondary-tagged papers listed after primary ones</div>
+    <div class="list">${ps.map(p=>paperRow(p)).join("")}</div>
+    ${xs.length?`<h4 style="margin-top:18px">Not on the syllabi, but built upon · ${xs.length}</h4><div class="caption" style="margin:0 0 6px">Works this sub-literature's syllabus papers cite heavily (ref·N = cited by N syllabus papers), added from OpenAlex reference lists.</div><div class="list">${xs.map(p=>paperRow(p)).join("")}</div>`:""}`;
+  wireRows(el);
+  el.querySelector("#frontierOnly").addEventListener("change", e => { store("atlas-frontier", e.target.checked?"1":"0"); treePanel(sel); });
+  el.querySelectorAll("[data-mech]").forEach(bt=>bt.addEventListener("click",()=>{ go("mechanisms"); selectMech(bt.dataset.mech); }));
+}
+
+/* ---------- 3 Mechanisms ---------- */
+let mechSel = null;
+RENDER.mechanisms = function(){
+  const v = document.getElementById("v-mechanisms");
+  const counts = Object.fromEntries(D.mechs.map(m=>[m.id, PALL.filter(p=>!isTheory(p) && (p.me||[]).some(x=>x[0]===m.id)).length]));
+  const archs = [...new Set(D.mechs.map(m=>m.group))];
+  v.innerHTML = `<h2>From canonical models to evidence</h2>
+  <p class="intro">${D.meta.mechIntro}</p>
+  <div class="mech-wrap"><nav class="panel mech-list" id="mechList" aria-label="Mechanisms">${archs.map(a=>`<div class="mech-arch">${esc(a)}</div>`+D.mechs.filter(m=>m.group===a).map(m=>`<button class="mech-item" data-m="${m.id}"><span>${esc(m.name)}</span><span class="c">${counts[m.id]}</span></button>`).join("")).join("")}</nav>
+  <div id="mechBody"></div></div>
+  <div class="section panel"><h3>Which branches test which mechanisms</h3><p class="caption" style="margin-top:0">Count of coded papers in each branch family that test each mechanism. Darker is more evidence; empty cells are open territory.</p><div class="scroll-x" id="mechMatrix"></div></div>`;
+  v.querySelectorAll("[data-m]").forEach(b=>b.addEventListener("click",()=>selectMech(b.dataset.m)));
+  selectMech(mechSel || "M_visibility");
+  drawMechMatrix();
+  themeListeners.push(() => { if(rendered.mechanisms){ drawMechMatrix(); if(mechSel) selectMech(mechSel); } });
+};
+function selectMech(id){
+  if(!rendered.mechanisms){ mechSel=id; return; }
+  mechSel = id; const m = MECH[id];
+  document.querySelectorAll(".mech-item").forEach(b=>b.setAttribute("aria-current", b.dataset.m===id));
+  const all = PALL.filter(p=>(p.me||[]).some(x=>x[0]===id)).map(p=>({p, v:p.me.find(x=>x[0]===id)[1]})).sort((a,b)=>(a.p.y||0)-(b.p.y||0));
+  const ev = all.filter(e=>!isTheory(e.p)), th = all.filter(e=>isTheory(e.p));
+  const models = [...new Set([...(m.modelIds||[]), ...th.map(e=>e.p.id)])].map(i=>P[i]).filter(Boolean).sort((a,b)=>(a.y||0)-(b.y||0));
+  const nS = ev.filter(e=>e.v==="+").length, nQ = ev.filter(e=>e.v==="~").length, nC = ev.filter(e=>e.v==="-").length;
+  const body = document.getElementById("mechBody");
+  body.innerHTML = `<div class="panel"><div class="eyebrow">${esc(m.group)}</div><h3>${esc(m.name)}</h3>
+    <div class="model-refs">${esc(m.models.join(" · "))}</div>
+    ${models.length?`<p style="margin:6px 0 0;font-size:13.5px">In the atlas: ${models.map(q=>`<button class="linkbtn" data-pid="${q.id}">${esc(q.au)} ${q.y||""}</button>`).join(" · ")}</p>`:""}
+    <p style="color:var(--ink-2)">${esc(m.logic)}</p>
+    <h4>Expected predictions</h4><ul class="pred">${m.predictions.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>
+    <h4 style="margin-top:16px">Evidence ledger · ${ev.length} empirical papers</h4>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:6px">${verdictChip("+")} <span class="num">${nS}</span> ${verdictChip("~")} <span class="num">${nQ}</span> ${verdictChip("-")} <span class="num">${nC}</span></div>
+    <div class="scroll-x" id="mechStrip"></div>
+    <div class="scroll-x" style="margin-top:10px"><table class="ledger"><thead><tr><th>Year</th><th>Paper</th><th>Setting</th><th>Design</th><th>Verdict</th><th>Finding</th></tr></thead><tbody>
+    ${ev.slice().reverse().map(e=>`<tr data-pid="${e.p.id}"><td class="num">${e.p.y||""}</td><td>${esc(e.p.au)}${e.p.x?' <span class="tag" title="Added from reference lists">ref</span>':""}</td><td>${esc((e.p.ct||[]).join(", "))}</td><td>${esc(e.p.de||"")}</td><td>${verdictChip(e.v)}</td><td>${esc(e.p.fd||"")}</td></tr>`).join("")}
+    </tbody></table></div></div>`;
+  body.querySelectorAll("tr[data-pid],button[data-pid]").forEach(r=>r.addEventListener("click",()=>openPaper(+r.dataset.pid)));
+  // strip: theory year marker + dots per verdict
+  const host = document.getElementById("mechStrip"); const W = Math.max(520, host.clientWidth||600), H=86, M={l:16,r:16,t:16,b:24};
+  const yrs = ev.map(e=>e.p.y).filter(Boolean).concat(m.modelYears);
+  const x = d3.scaleLinear().domain([Math.min(1950,d3.min(yrs)||1960), 2027]).range([M.l,W-M.r]);
+  const svg = d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${H-M.b})`).call(d3.axisBottom(x).ticks(8).tickFormat(d3.format("d")).tickSizeOuter(0));
+  svg.selectAll("line.mm").data(m.modelYears).join("line").attr("x1",x).attr("x2",x).attr("y1",M.t-6).attr("y2",H-M.b).attr("stroke","var(--accent)").attr("stroke-width",1.5);
+  svg.selectAll("text.mm").data(m.modelYears.slice(0,1)).join("text").attr("x",d=>x(d)+4).attr("y",M.t).attr("class","lbl").style("font-size","11px").text("model");
+  const rowY = {"+":H-M.b-14,"~":H-M.b-30,"-":H-M.b-46};
+  const col = {"+":"var(--good)","~":"var(--warn)","-":"var(--crit)"};
+  svg.append("g").selectAll("circle").data(ev.filter(e=>e.p.y)).join("circle").attr("cx",e=>x(e.p.y)).attr("cy",e=>rowY[e.v]).attr("r",4.5).attr("fill",e=>col[e.v]).attr("stroke","var(--surface)").attr("stroke-width",1.5)
+    .style("cursor","pointer").on("mousemove",(evt,e)=>showTip(evt,paperTip(e.p)+`<div class="ts">${VERD[e.v][1]}</div>`)).on("mouseleave",hideTip).on("click",(evt,e)=>openPaper(e.p.id));
+}
+function drawMechMatrix(){
+  const host = document.getElementById("mechMatrix"); if(!host) return; host.innerHTML="";
+  const fams = FAMS.slice(0,8), M={l:250,t:90,r:10,b:10}, cw=64, rh=22;
+  const W = M.l+fams.length*cw+M.r, H = M.t+D.mechs.length*rh+M.b;
+  const cnt = D.mechs.map(m=>fams.map((f,i)=>PALL.filter(p=>p.f===i && !isTheory(p) && (p.me||[]).some(x=>x[0]===m.id)).length));
+  const max = d3.max(cnt.flat());
+  const seq = ["--seq1","--seq2","--seq3","--seq4","--seq5","--seq6","--seq7"].map(cssVar);
+  const col = c => c===0?cssVar("--seq0"):seq[Math.min(6,Math.floor(Math.sqrt(c/max)*6.999))];
+  const svg = d3.select(host).append("svg").attr("class","chart hm").attr("width",W).attr("height",H);
+  fams.forEach((f,i)=>svg.append("text").attr("transform",`translate(${M.l+i*cw+cw/2},${M.t-8}) rotate(-35)`).attr("class","lbl").text(f.name));
+  D.mechs.forEach((m,j)=>{
+    svg.append("text").attr("x",M.l-8).attr("y",M.t+j*rh+rh/2).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").style("cursor","pointer").text(m.name.length>36?m.name.slice(0,35)+"…":m.name).on("click",()=>{selectMech(m.id); window.scrollTo({top:0,behavior:"smooth"});});
+    fams.forEach((f,i)=>{ const c=cnt[j][i];
+      svg.append("rect").attr("x",M.l+i*cw+1).attr("y",M.t+j*rh+1).attr("width",cw-2).attr("height",rh-2).attr("rx",2).attr("fill",col(c)).style("cursor",c?"pointer":"default")
+        .on("mousemove",ev=>showTip(ev,`<div class="tt">${esc(m.name)}</div><div class="ts">${esc(f.name)}: ${c} papers${c?" · click to list":""}</div>`)).on("mouseleave",hideTip)
+        .on("click",()=>{ if(!c) return; hideTip();
+          const ps = PALL.filter(p=>p.f===i && !isTheory(p) && (p.me||[]).some(x=>x[0]===m.id)).map(p=>({p, v:p.me.find(x=>x[0]===m.id)[1]})).sort((a,b)=>(b.p.y||0)-(a.p.y||0));
+          papersModal(f.name, m.name, `${ps.length} empirical papers in this family testing the mechanism · ${ps.filter(e=>e.v==="+").length} support, ${ps.filter(e=>e.v==="~").length} qualify, ${ps.filter(e=>e.v==="-").length} contradict`,
+            ps.map(e=>({p:e.p, extra:` · ${verdictChip(e.v)}${e.p.fd?`<div style="margin-top:3px;color:var(--ink-2)">${esc(e.p.fd)}</div>`:""}`})));
+        });
+      if(c) svg.append("text").attr("x",M.l+i*cw+cw/2).attr("y",M.t+j*rh+rh/2).attr("dy","0.35em").attr("text-anchor","middle").style("font-size","11px").style("fill", Math.sqrt(c/max)>0.55?"#fff":cssVar("--ink")).style("pointer-events","none").attr("class","num").text(c);
+    });
+  });
+}
+
+/* ---------- 4 Network ---------- */
+const NET = {famOn:new Set([0,1,2,3,4,5,6,7]), showX:true, minNc:1, minYear:1950, q:"", sel:null, nodes:null, sim:null, t:d3.zoomIdentity};
+RENDER.network = function(){
+  const v = document.getElementById("v-network");
+  v.innerHTML = `<h2>Who builds on whom</h2><p class="intro">${D.meta.netIntro}</p>
+  <div class="net-controls">
+    <div class="net-legend" id="netFams"></div>
+    <label class="field" for="netQ">Find <input type="search" id="netQ" placeholder="author or title" style="width:180px"></label>
+    <label class="field" for="netNc">Taught in ≥ <select id="netNc"><option value="1">1 course</option><option value="2">2 courses</option><option value="3">3 courses</option><option value="5">5 courses</option></select></label>
+    <label class="field" for="netYear">From <input type="range" id="netYear" min="1950" max="2020" step="5" value="1950"><span class="num" id="netYearL">1950</span></label>
+    <label class="field"><input type="checkbox" id="netX" checked> Works from reference lists <span class="dot" style="background:var(--surface);border:2px solid var(--ink-2);width:10px;height:10px"></span></label>
+  </div>
+  <div class="grid2"><div class="net-box"><canvas id="netCanvas" aria-label="Citation network of papers"></canvas></div>
+  <div class="panel"><h3>Most built-upon inside the atlas</h3><p class="caption" style="margin-top:0">Ranked by how many atlas papers cite them (OpenAlex reference lists).</p><div class="list" id="netTop"></div></div></div>
+  <p class="caption">Drag to pan, scroll or pinch to zoom, click a paper to open it and light up its neighbourhood. Edges point from a paper to the work it cites; both must be in the atlas.</p>`;
+  const nf = document.getElementById("netFams");
+  nf.innerHTML = FAMS.slice(0,8).map((f,i)=>`<button class="chip" aria-pressed="true" data-f="${i}"><span class="dot" style="background:${famVar(i)}"></span>${esc(f.name)}</button>`).join("");
+  nf.querySelectorAll("[data-f]").forEach(b=>b.addEventListener("click",()=>{ const f=+b.dataset.f; NET.famOn.has(f)?NET.famOn.delete(f):NET.famOn.add(f); b.setAttribute("aria-pressed",NET.famOn.has(f)); netDraw(); }));
+  document.getElementById("netQ").addEventListener("input",e=>{NET.q=e.target.value.toLowerCase(); netDraw();});
+  document.getElementById("netNc").addEventListener("change",e=>{NET.minNc=+e.target.value; netDraw();});
+  document.getElementById("netYear").addEventListener("input",e=>{NET.minYear=+e.target.value; document.getElementById("netYearL").textContent=NET.minYear; netDraw();});
+  document.getElementById("netX").addEventListener("change",e=>{NET.showX=e.target.checked; netDraw();});
+  const top = PALL.map(p=>({p,k:(D.inn[p.id]||[]).length})).sort((a,b)=>b.k-a.k).slice(0,25);
+  const nt = document.getElementById("netTop"); nt.innerHTML = top.map(o=>paperRow(o.p, ` · cited by ${o.k} atlas papers`)).join(""); wireRows(nt);
+  netBuild();
+  themeListeners.push(() => { if(rendered.network) netDraw(); });
+};
+function netBuild(){
+  const ids = new Set(); D.edges.forEach(([a,b])=>{ ids.add(a); ids.add(b); });
+  const nodes = PALL.filter(p=>ids.has(p.id)).map(p=>({id:p.id, p, r: 2.2+Math.sqrt(p.nc)*1.6+Math.sqrt((D.inn[p.id]||[]).length)*0.6}));
+  const idx = new Map(nodes.map((n,i)=>[n.id,i]));
+  const links = D.edges.filter(([a,b])=>idx.has(a)&&idx.has(b)).map(([a,b])=>({source:idx.get(a), target:idx.get(b)}));
+  NET.nodes = nodes; NET.links = links; NET.idx = idx;
+  // seed positions by family on a ring so clusters start apart
+  nodes.forEach(n=>{ const a = (n.p.f/8)*2*Math.PI + (Math.random()-.5)*.6; const rr = 260+Math.random()*90; n.x=Math.cos(a)*rr; n.y=Math.sin(a)*rr; });
+  NET.sim = d3.forceSimulation(nodes).force("link", d3.forceLink(links).distance(30).strength(0.1)).force("charge", d3.forceManyBody().strength(-30).distanceMax(320))
+    .force("collide", d3.forceCollide(d=>d.r+1)).force("x", d3.forceX(d=>Math.cos(d.p.f/8*2*Math.PI)*230).strength(0.06)).force("y", d3.forceY(d=>Math.sin(d.p.f/8*2*Math.PI)*230).strength(0.06)).stop();
+  NET.rank = nodes.slice().sort((a,b)=>(D.inn[b.id]||[]).length-(D.inn[a.id]||[]).length);   // label the most built-upon first
+  for(let i=0;i<260;i++) NET.sim.tick();
+  const cv = document.getElementById("netCanvas");
+  const z = d3.zoom().scaleExtent([0.2,8]).on("zoom", ev=>{ NET.t=ev.transform; netDraw(); });
+  d3.select(cv).call(z);
+  const fit = () => { const w=cv.clientWidth, h=cv.clientHeight; const xs=d3.extent(nodes,n=>n.x), ys=d3.extent(nodes,n=>n.y); const k=0.92*Math.min(w/(xs[1]-xs[0]+40), h/(ys[1]-ys[0]+40)); d3.select(cv).call(z.transform, d3.zoomIdentity.translate(w/2,h/2).scale(k).translate(-(xs[0]+xs[1])/2,-(ys[0]+ys[1])/2)); };
+  NET.fit = fit;
+  cv.addEventListener("mousemove", ev=>{ const n=netHit(ev); cv.style.cursor=n?"pointer":"grab"; if(n) showTip(ev, paperTip(n.p)+`<div class="ts">cited by ${(D.inn[n.id]||[]).length} · cites ${(D.out[n.id]||[]).length} in atlas</div>`); else hideTip(); });
+  cv.addEventListener("mouseleave", hideTip);
+  cv.addEventListener("click", ev=>{ const n=netHit(ev); NET.sel = n?n.id:null; netDraw(); if(n) openPaper(n.id); });
+  new ResizeObserver(()=>{ netResize(); }).observe(cv);
+  netResize(); fit();
+}
+function netVisible(n){ const p=n.p; return NET.famOn.has(p.f) && (p.x ? NET.showX : p.nc>=NET.minNc) && (p.y||0)>=NET.minYear; }
+function netHit(ev){ const cv=document.getElementById("netCanvas"); const r=cv.getBoundingClientRect(); const [x,y]=NET.t.invert([ev.clientX-r.left, ev.clientY-r.top]); let best=null, bd=Infinity; for(const n of NET.nodes){ if(!netVisible(n)) continue; const d=(n.x-x)**2+(n.y-y)**2; const rr=Math.max(n.r+3, 9/NET.t.k)**2; if(d<rr && d<bd){bd=d;best=n;} } return best; }
+function netResize(){ const cv=document.getElementById("netCanvas"); const dpr=window.devicePixelRatio||1; cv.width=cv.clientWidth*dpr; cv.height=cv.clientHeight*dpr; netDraw(); }
+function netDraw(){
+  const cv=document.getElementById("netCanvas"); if(!cv||!NET.nodes) return; const ctx=cv.getContext("2d"); const dpr=window.devicePixelRatio||1;
+  ctx.setTransform(dpr,0,0,dpr,0,0); ctx.clearRect(0,0,cv.width,cv.height);
+  ctx.translate(NET.t.x,NET.t.y); ctx.scale(NET.t.k,NET.t.k);
+  const cols = Array.from({length:9},(_,i)=>famColor(i)); const edge=cssVar("--edge"), edgeHi=cssVar("--edge-hi"), surf=cssVar("--surface"), ink=cssVar("--ink");
+  const sel=NET.sel, nb = new Set(); if(sel!=null){ (D.out[sel]||[]).forEach(j=>nb.add(j)); (D.inn[sel]||[]).forEach(j=>nb.add(j)); nb.add(sel); }
+  const q=NET.q;
+  ctx.lineWidth=0.6/NET.t.k;
+  ctx.strokeStyle=edge; ctx.beginPath();
+  for(const l of NET.links){ const a=l.source,b=l.target; if(!netVisible(a)||!netVisible(b)) continue; if(sel!=null && (a.id===sel||b.id===sel)) continue; ctx.moveTo(a.x,a.y); ctx.lineTo(b.x,b.y); }
+  ctx.stroke();
+  if(sel!=null){ ctx.strokeStyle=edgeHi; ctx.lineWidth=1.4/NET.t.k; ctx.beginPath(); for(const l of NET.links){ const a=l.source,b=l.target; if(a.id===sel||b.id===sel){ ctx.moveTo(a.x,a.y); ctx.lineTo(b.x,b.y);} } ctx.stroke(); }
+  for(const n of NET.nodes){ if(!netVisible(n)) continue; const dim = (sel!=null && !nb.has(n.id)) || (q && !(n.p.t.toLowerCase().includes(q)||n.p.au.toLowerCase().includes(q)));
+    ctx.globalAlpha = dim?0.16:1; ctx.beginPath(); ctx.arc(n.x,n.y,n.r,0,2*Math.PI);
+    if(n.p.x){ ctx.fillStyle=surf; ctx.fill(); ctx.lineWidth=1.6/NET.t.k; ctx.strokeStyle=cols[n.p.f]; ctx.stroke(); }
+    else { ctx.fillStyle=cols[n.p.f]; ctx.fill(); ctx.lineWidth=1/NET.t.k; ctx.strokeStyle=surf; ctx.stroke(); } }
+  ctx.globalAlpha=1;
+  // labels for the most cited visible nodes and matches
+  ctx.fillStyle=ink; ctx.font=`${11/NET.t.k}px ${cssVar("--font-body")||"sans-serif"}`;
+  const nTop = Math.max(10, Math.min(140, Math.round(30*NET.t.k*NET.t.k)));
+  const lab = q ? NET.rank.filter(n=>netVisible(n) && (n.p.t.toLowerCase().includes(q)||n.p.au.toLowerCase().includes(q))).slice(0,60)
+    : sel!=null ? NET.rank.filter(n=>netVisible(n) && nb.has(n.id)).slice(0,40) : NET.rank.filter(netVisible).slice(0,nTop);
+  for(const n of lab){ ctx.fillText(`${n.p.au.split(/[ ,&]/)[0]} ${n.p.y||""}`, n.x+n.r+2/NET.t.k, n.y+3/NET.t.k); }
+}
+
+/* ---------- 5 Map ---------- */
+const MAPT = {mode:"cum", y:null, timer:null};
+const mapRange = () => MAPT.mode==="cum" ? [0, MAPT.y] : [MAPT.y-4, MAPT.y];
+const mapRangeLabel = () => MAPT.mode==="cum" ? `published up to ${MAPT.y}` : `published ${MAPT.y-4}–${MAPT.y}`;
+const countryPapers = () => { const [a,b]=mapRange(), m=new Map(); PALL.forEach(p=>{ if(!p.y||p.y<a||p.y>b) return; (p.ct||[]).forEach(c=>{ if(!m.has(c)) m.set(c,[]); m.get(c).push(p); }); }); return m; };
+function mapControls(){
+  MAPT.y = MAPT.y || D.meta.yearMax;
+  const el=document.getElementById("mapCtl");
+  el.innerHTML=`<div class="net-legend" id="mapMode"><button class="chip" type="button" data-mm="cum">Cumulative</button><button class="chip" type="button" data-mm="win">5-year window</button></div>
+    <button class="chip" type="button" id="mapPlay" aria-label="Play through the years">▶ Play</button>
+    <label class="field" for="mapYear" style="flex:1;min-width:200px">Year <input type="range" id="mapYear" min="1975" max="${D.meta.yearMax}" step="1" value="${MAPT.y}" style="flex:1"></label>
+    <span class="num" id="mapYearLab" style="min-width:150px"></span>`;
+  const sync=()=>{ el.querySelectorAll("[data-mm]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.mm===MAPT.mode)); document.getElementById("mapYear").value=MAPT.y;
+    document.getElementById("mapYearLab").textContent=mapRangeLabel(); document.getElementById("mapPlay").textContent=MAPT.timer?"❚❚ Pause":"▶ Play"; mapColor(); mapPanel(MAPT.country); };
+  const stop=()=>{ clearInterval(MAPT.timer); MAPT.timer=null; };
+  el.querySelectorAll("[data-mm]").forEach(b=>b.addEventListener("click",()=>{ MAPT.mode=b.dataset.mm; sync(); }));
+  document.getElementById("mapYear").addEventListener("input",e=>{ stop(); MAPT.y=+e.target.value; sync(); });
+  document.getElementById("mapPlay").addEventListener("click",()=>{ if(MAPT.timer){ stop(); sync(); return; }
+    if(MAPT.y>=D.meta.yearMax) MAPT.y=1975;
+    MAPT.timer=setInterval(()=>{ if(MAPT.y>=D.meta.yearMax || !document.getElementById("mapYear")){ stop(); } else MAPT.y++; sync(); }, 450); sync(); });
+  MAPT.sync=sync; sync();
+}
+const MAP_BINS=[1,3,6,12,25,50,100];
+function drawMap(){
+  const host=document.getElementById("mapSvg"); host.innerHTML="";
+  const W=Math.max(560,host.clientWidth||700), H=W*0.52;
+  const feats = topojson.feature(WORLD, WORLD.objects.countries).features;
+  const proj = d3.geoNaturalEarth1().fitSize([W,H],{type:"Sphere"}); const path=d3.geoPath(proj);
+  const svg=d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H).attr("role","img").attr("aria-label","World map of study countries");
+  svg.append("path").attr("d",path({type:"Sphere"})).attr("fill","var(--sunk)");
+  MAPT.paths = svg.append("g").selectAll("path").data(feats).join("path").attr("d",path).attr("stroke","var(--surface)").attr("stroke-width",0.5)
+    .style("cursor","pointer").on("mousemove",(ev,f)=>{ const nm=D.countryName[f.properties.name]||f.properties.name; showTip(ev,`<div class="tt">${esc(nm)}</div><div class="ts">${(MAPT.cp.get(nm)||[]).length} papers ${mapRangeLabel()}</div>`);}).on("mouseleave",hideTip)
+    .on("click",(ev,f)=>mapPanel(D.countryName[f.properties.name]||f.properties.name));
+  const seq = ["--seq1","--seq2","--seq3","--seq4","--seq5","--seq6","--seq7"].map(cssVar);
+  document.getElementById("mapLegend").innerHTML = `<span>papers</span>` + MAP_BINS.map((b,i)=>`<span style="display:inline-flex;align-items:center;gap:4px"><span style="width:14px;height:10px;border-radius:2px;background:${seq[i]};display:inline-block"></span>${i===0?"1":"≤"+b}</span>`).join("");
+  mapColor();
+}
+function mapColor(){
+  if(!MAPT.paths) return; MAPT.cp = countryPapers();
+  const seq = ["--seq1","--seq2","--seq3","--seq4","--seq5","--seq6","--seq7"].map(cssVar), zero=cssVar("--seq0");
+  const col = n => { if(!n) return zero; const i = MAP_BINS.findIndex(b=>n<=b); return seq[i<0?6:i]; };
+  MAPT.paths.attr("fill",f=>col((MAPT.cp.get(D.countryName[f.properties.name]||f.properties.name)||[]).length));
+}
+function mapPanel(country){
+  const el=document.getElementById("mapPanel"); if(!el) return; const cp=MAPT.cp||countryPapers(); MAPT.country=country||null;
+  if(!country){ const top=[...cp.entries()].sort((a,b)=>b[1].length-a[1].length); const n=new Set([].concat(...cp.values())).size;
+    el.innerHTML = `<h3>Most-studied settings</h3><p class="caption" style="margin-top:0">${fmt(n)} papers with a coded setting, ${mapRangeLabel()}. Click a country (map or list).</p>${top.slice(0,24).map(([c,a])=>`<div class="prow" data-c="${esc(c)}"><span class="yr num">${a.length}</span><span><div class="ti">${esc(c)}</div><div class="au">${a.filter(p=>p.fr).length} since 2015 · ${[...new Set(a.map(p=>BR[p.br].name))].slice(0,2).map(esc).join(", ")}</div></span><span class="nc">→</span></div>`).join("")}`;
+    el.querySelectorAll("[data-c]").forEach(r=>r.addEventListener("click",()=>mapPanel(r.dataset.c))); return; }
+  const ps=(cp.get(country)||[]).slice().sort((a,b)=>(b.y||0)-(a.y||0));
+  el.innerHTML = `<button class="linkbtn" id="mapBack">← all settings</button><h3 style="margin-top:6px">${esc(country)}</h3><div class="caption" style="margin:0 0 6px">${ps.length} papers ${mapRangeLabel()}</div><div class="list">${ps.map(p=>paperRow(p)).join("")}</div>`;
+  wireRows(el); el.querySelector("#mapBack").addEventListener("click",()=>mapPanel(null));
+}
+
+/* ---------- 6 Timeline ---------- */
+RENDER.timeline = function(){
+  const v=document.getElementById("v-timeline");
+  v.innerHTML = `<h2>The literature through time and place</h2><p class="intro">${D.meta.timeIntro}</p>
+  <div class="panel"><h3>What the syllabi assign, by publication year</h3><p class="caption" style="margin-top:0">Papers per three-year window, stacked by branch family. Recent years are naturally thinner: syllabi lag the frontier by a few years.</p><div class="scroll-x" id="stackChart"></div><div class="net-legend" id="stackLegend" style="margin-top:8px"></div></div>
+  <div class="section"><h3>Where the evidence comes from</h3><p class="caption" style="margin-top:0">${D.meta.mapIntro} Move the slider or press play to watch the settings fill in; switch to a 5-year window to see where new evidence is appearing. Clicking the chart above also moves the map to that window.</p>
+  <div class="net-controls" id="mapCtl" style="margin-bottom:8px"></div>
+  <div class="grid2"><div class="panel"><div class="scroll-x" id="mapSvg"></div><div class="legend-ramp" id="mapLegend"></div></div><div class="panel sticky-panel" id="mapPanel"></div></div></div>
+  <div class="panel section"><h3>From model to test</h3><p class="caption" style="margin-top:0">Each row is a canonical mechanism. The navy tick marks the model; dots are empirical papers coded as testing it, coloured by verdict. The gap between the tick and the dots is how long theory waited for credible evidence.</p><div class="scroll-x" id="laneChart"></div></div>`;
+  drawStack(); drawMap(); mapControls(); drawLanes();
+  themeListeners.push(()=>{ if(rendered.timeline){ drawStack(); drawMap(); drawLanes(); } });
+};
+function drawStack(){
+  const host=document.getElementById("stackChart"); host.innerHTML="";
+  const bin=3, y0=1960, y1=2026; const bins=d3.range(y0,y1+1,bin);
+  const rows=bins.map(b=>{ const o={b}; for(let f=0;f<8;f++) o[f]=PE.filter(p=>p.f===f && p.y>=b && p.y<b+bin).length; return o; });
+  const keys=d3.range(8); const st=d3.stack().keys(keys)(rows);
+  const W=Math.max(620,host.clientWidth||800), H=320, M={t:12,r:16,b:30,l:40};
+  const x=d3.scaleLinear().domain([y0,y1]).range([M.l,W-M.r]); const y=d3.scaleLinear().domain([0,d3.max(st[st.length-1],d=>d[1])]).nice().range([H-M.b,M.t]);
+  const svg=d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  svg.append("g").attr("class","grid").selectAll("line").data(y.ticks(5)).join("line").attr("x1",M.l).attr("x2",W-M.r).attr("y1",y).attr("y2",y);
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${H-M.b})`).call(d3.axisBottom(x).ticks(10).tickFormat(d3.format("d")).tickSizeOuter(0));
+  svg.append("g").attr("class","axis").attr("transform",`translate(${M.l},0)`).call(d3.axisLeft(y).ticks(5).tickSizeOuter(0));
+  const area=d3.area().x(d=>x(d.data.b+bin/2)).y0(d=>y(d[0])).y1(d=>y(d[1])).curve(d3.curveMonotoneX);
+  svg.append("g").selectAll("path").data(st).join("path").attr("d",area).attr("fill",d=>famVar(d.key)).attr("fill-opacity",.88).attr("stroke","var(--surface)").attr("stroke-width",1);
+  const hl=svg.append("line").attr("y1",M.t).attr("y2",H-M.b).attr("stroke","var(--ink-2)").attr("stroke-width",1).style("display","none");
+  svg.append("rect").attr("x",M.l).attr("y",M.t).attr("width",W-M.l-M.r).attr("height",H-M.t-M.b).attr("fill","transparent")
+    .on("mousemove",ev=>{ const xv=x.invert(d3.pointer(ev)[0]); const r=rows.find(o=>xv>=o.b&&xv<o.b+bin)||rows[rows.length-1]; hl.style("display",null).attr("x1",x(r.b+bin/2)).attr("x2",x(r.b+bin/2));
+      showTip(ev,`<div class="tt">${r.b}–${r.b+bin-1}</div>`+keys.slice().reverse().filter(k=>r[k]).map(k=>`<div class="ts"><span class="dot" style="background:${famVar(k)}"></span> ${esc(FAMS[k].name)}: ${r[k]}</div>`).join("")); })
+    .on("mouseleave",()=>{hl.style("display","none"); hideTip();})
+    .on("click",ev=>{ const xv=x.invert(d3.pointer(ev)[0]); MAPT.mode="win"; MAPT.y=Math.max(1975,Math.min(D.meta.yearMax,Math.round(xv)+2)); if(MAPT.sync) MAPT.sync(); document.getElementById("mapCtl").scrollIntoView({behavior:"smooth",block:"start"}); }).style("cursor","pointer");
+  document.getElementById("stackLegend").innerHTML = FAMS.slice(0,8).map((f,i)=>`<span class="chip"><span class="dot" style="background:${famVar(i)}"></span>${esc(f.name)}</span>`).join("");
+}
+function drawLanes(){
+  const host=document.getElementById("laneChart"); host.innerHTML="";
+  const ms=D.mechs.slice().sort((a,b)=>d3.min(a.modelYears)-d3.min(b.modelYears));
+  const W=Math.max(700,host.clientWidth||900), rh=26, M={t:20,r:16,b:30,l:250}, H=M.t+M.b+ms.length*rh;
+  const x=d3.scaleLinear().domain([1950,2027]).range([M.l,W-M.r]);
+  const svg=d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  svg.append("g").attr("class","grid").selectAll("line").data(x.ticks(8)).join("line").attr("x1",x).attr("x2",x).attr("y1",M.t-8).attr("y2",H-M.b);
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${H-M.b})`).call(d3.axisBottom(x).ticks(8).tickFormat(d3.format("d")).tickSizeOuter(0));
+  const col={"+":"var(--good)","~":"var(--warn)","-":"var(--crit)"};
+  ms.forEach((m,i)=>{ const yy=M.t+i*rh+rh/2; const g=svg.append("g");
+    g.append("text").attr("x",M.l-10).attr("y",yy).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").style("cursor","pointer").text(m.name.length>36?m.name.slice(0,35)+"…":m.name).on("click",()=>{ go("mechanisms"); selectMech(m.id); });
+    g.append("line").attr("x1",x(d3.min(m.modelYears))).attr("x2",W-M.r).attr("y1",yy).attr("y2",yy).attr("stroke","var(--rule)");
+    m.modelYears.forEach(yv=>g.append("line").attr("x1",x(yv)).attr("x2",x(yv)).attr("y1",yy-8).attr("y2",yy+8).attr("stroke","var(--accent)").attr("stroke-width",2.5));
+    const ev=PALL.filter(p=>p.y && !isTheory(p) && (p.me||[]).some(z=>z[0]===m.id)).map(p=>({p,v:p.me.find(z=>z[0]===m.id)[1]}));
+    g.selectAll("circle").data(ev).join("circle").attr("cx",e=>x(e.p.y)).attr("cy",(e,k)=>yy+((k%3)-1)*3.5).attr("r",3.6).attr("fill",e=>col[e.v]).attr("fill-opacity",.85).attr("stroke","var(--surface)").attr("stroke-width",1)
+      .style("cursor","pointer").on("mousemove",(evt,e)=>showTip(evt,paperTip(e.p)+`<div class="ts">${VERD[e.v][1]} · ${esc(m.name)}</div>`)).on("mouseleave",hideTip).on("click",(evt,e)=>openPaper(e.p.id));
+  });
+}
+
+/* ---------- 7 Courses ---------- */
+RENDER.courses = function(){
+  const v=document.getElementById("v-courses");
+  v.innerHTML = `<h2>How courses carve up the field</h2><p class="intro">${D.meta.courseIntro}</p>
+  <div class="panel"><h3>Reading-list composition by branch</h3><p class="caption" style="margin-top:0">Share of each course's political-economy readings in each branch (rows sum to 100%). Courses taught in several years are pooled. Click a row to list its readings.</p><div class="scroll-x" id="courseHm"></div><div class="legend-ramp" id="courseLegend"></div></div>
+  <div class="grid2 section"><div class="panel"><h3>The canon: most-assigned papers</h3><p class="caption" style="margin-top:0">Distinct courses assigning each paper.</p><div class="scroll-x" id="canonBars"></div></div><div class="panel sticky-panel" id="coursePanel"><h3>Course readings</h3><p class="caption">Click a course in the matrix above.</p></div></div>`;
+  drawCourseHm(); drawCanonBars();
+  themeListeners.push(()=>{ if(rendered.courses){ drawCourseHm(); drawCanonBars(); } });
+};
+function drawCourseHm(){
+  const host=document.getElementById("courseHm"); host.innerHTML="";
+  const brs=D.branches.filter(b=>b.fam<8); const cs=D.courses.filter(c=>c.n>=8 && c.kind!=="user" && c.kind!=="agenda").slice().sort((a,b)=>a.inst.localeCompare(b.inst)||b.n-a.n);
+  const M={l:330,t:120,r:60,b:10}, cw=44, rh=20; const W=M.l+brs.length*cw+M.r, H=M.t+cs.length*rh+M.b;
+  const seq=["--seq1","--seq2","--seq3","--seq4","--seq5","--seq6","--seq7"].map(cssVar);
+  const col=s=> s<=0?cssVar("--seq0"):seq[Math.min(6,Math.floor(Math.min(1,s/0.4)*6.999))];
+  const svg=d3.select(host).append("svg").attr("class","chart hm").attr("width",W).attr("height",H);
+  brs.forEach((b,i)=>svg.append("text").attr("transform",`translate(${M.l+i*cw+cw/2},${M.t-8}) rotate(-45)`).attr("class","lbl").text(b.short));
+  cs.forEach((c,j)=>{ const yy=M.t+j*rh; const tot=d3.sum(brs,b=>c.br[b.id]||0)||1;
+    svg.append("text").attr("x",M.l-8).attr("y",yy+rh/2).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").style("cursor","pointer").text(c.label.length>50?c.label.slice(0,49)+"…":c.label).on("click",()=>coursePanel(c.id));
+    brs.forEach((b,i)=>{ const s=(c.br[b.id]||0)/tot; svg.append("rect").attr("x",M.l+i*cw+1).attr("y",yy+1).attr("width",cw-2).attr("height",rh-2).attr("rx",2).attr("fill",col(s)).style("cursor","pointer")
+      .on("mousemove",ev=>showTip(ev,`<div class="tt">${esc(c.label)}</div><div class="ts">${esc(b.name)}: ${(s*100).toFixed(0)}% (${c.br[b.id]||0} of ${tot})</div>`)).on("mouseleave",hideTip).on("click",()=>coursePanel(c.id)); });
+    svg.append("text").attr("x",M.l+brs.length*cw+8).attr("y",yy+rh/2).attr("dy","0.35em").attr("class","muted num").text(tot);
+  });
+  document.getElementById("courseLegend").innerHTML = `<span>share of readings</span>`+[0,.067,.133,.2,.267,.333,.4].map((s,i)=>`<span style="display:inline-flex;align-items:center;gap:4px"><span style="width:14px;height:10px;border-radius:2px;background:${seq[i]};display:inline-block"></span>${i===6?"≥40%":Math.round(s*100)+"%"}</span>`).join("");
+}
+function coursePanel(cid){
+  const c=COURSE[cid]; const el=document.getElementById("coursePanel");
+  const ps=PE.filter(p=>p.cs.includes(cid)).sort((a,b)=>b.nc-a.nc||(b.y||0)-(a.y||0));
+  el.innerHTML=`<div class="eyebrow">${esc(c.inst)} · ${esc(c.level)}</div><h3>${esc(c.label)}</h3><div class="caption" style="margin:0 0 6px">${esc(c.years.join(", "))} · ${ps.length} political-economy readings · instructors: ${esc(c.instr)}</div><div class="list">${ps.map(p=>paperRow(p)).join("")}</div>`;
+  wireRows(el); el.scrollIntoView({behavior:"smooth",block:"nearest"});
+}
+function drawCanonBars(){
+  const host=document.getElementById("canonBars"); host.innerHTML="";
+  const top=PE.slice().sort((a,b)=>b.nc-a.nc||b.cy-a.cy).slice(0,30);
+  const W=Math.max(480,host.clientWidth||520), rh=22, M={t:6,r:30,b:24,l:250}, H=M.t+M.b+top.length*rh;
+  const x=d3.scaleLinear().domain([0,d3.max(top,p=>p.nc)]).range([M.l,W-M.r]);
+  const svg=d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${H-M.b})`).call(d3.axisBottom(x).ticks(5).tickFormat(d3.format("d")).tickSizeOuter(0));
+  const g=svg.append("g").selectAll("g").data(top).join("g").attr("transform",(d,i)=>`translate(0,${M.t+i*rh})`).style("cursor","pointer").on("click",(ev,p)=>openPaper(p.id)).on("mousemove",(ev,p)=>showTip(ev,paperTip(p))).on("mouseleave",hideTip);
+  g.append("text").attr("x",M.l-8).attr("y",rh/2).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").text(p=>{const s=`${p.au.split(" ")[0]} ${p.y}: ${p.t}`; return s.length>40?s.slice(0,39)+"…":s;});
+  g.append("rect").attr("x",M.l).attr("y",4).attr("height",rh-8).attr("width",p=>x(p.nc)-M.l).attr("rx",3).attr("fill",p=>famVar(p.f));
+  g.append("text").attr("x",p=>x(p.nc)+5).attr("y",rh/2).attr("dy","0.35em").attr("class","muted num").text(p=>p.nc);
+}
+
+/* ---------- 8 Your agenda ---------- */
+let agendaSel=null;
+RENDER.agenda = function(){
+  const v=document.getElementById("v-agenda"); const A=D.agenda;
+  v.innerHTML = `<h2>${esc(A.title)}</h2><p class="intro">${A.intro}</p>
+  <h3>The causal chain, link by link</h3><p class="caption" style="margin-top:0">Counts are atlas papers mapped to each link; “since 2015” shows how much frontier work sits on it. Links flagged thin have little recent evidence.</p>
+  <div class="chain" id="chain"></div>
+  <div class="grid2"><div id="chainBody" class="panel"></div><div class="panel"><h3>Four failure types</h3><div id="failures"></div></div></div>`;
+  const ch=document.getElementById("chain");
+  ch.innerHTML=A.links.map((l,i)=>{ const ps=agendaPapers(l); const nf=ps.filter(p=>p.fr).length; return `<button class="link-step" data-i="${i}" aria-pressed="false"><span class="s">${String(i+1).padStart(2,"0")}</span><span class="h">${esc(l.name)}</span><span class="c">${ps.length} papers · ${nf} since 2015</span>${nf<A.thin?'<span class="c gap">thin evidence</span>':""}</button>`;}).join("");
+  ch.querySelectorAll("[data-i]").forEach(b=>b.addEventListener("click",()=>agendaLink(+b.dataset.i)));
+  document.getElementById("failures").innerHTML=A.failures.map(f=>`<div style="border-top:1px solid var(--rule);padding:10px 0"><div class="eyebrow">${esc(f.code)}</div><div style="font-weight:600">${esc(f.name)}</div><p style="margin:4px 0;font-size:14px;color:var(--ink-2)">${esc(f.text)}</p><div style="font-size:13px">${f.papers.map(id=>P[id]).filter(Boolean).map(p=>`<button class="linkbtn" data-pid="${p.id}">${esc(p.au)} ${p.y}</button>`).join(" · ")}</div><p style="margin:6px 0 0;font-size:13px"><b>Open question.</b> ${esc(f.open)}</p></div>`).join("");
+  document.getElementById("failures").querySelectorAll("[data-pid]").forEach(b=>b.addEventListener("click",()=>openPaper(+b.dataset.pid)));
+  agendaLink(agendaSel ?? 0);
+};
+function agendaPapers(l){ return PALL.filter(p=> l.leaves.includes(p.lf) || (p.me||[]).some(m=>l.mechs.includes(m[0]))).sort((a,b)=>(b.fr-a.fr)||b.nc-a.nc||(b.y||0)-(a.y||0)); }
+function agendaLink(i){
+  agendaSel=i; const l=D.agenda.links[i]; document.querySelectorAll(".link-step").forEach(b=>b.setAttribute("aria-pressed", +b.dataset.i===i));
+  const ps=agendaPapers(l); const el=document.getElementById("chainBody");
+  el.innerHTML=`<div class="eyebrow">Link ${i+1}</div><h3>${esc(l.name)}</h3><p style="color:var(--ink-2);margin:0 0 8px">${esc(l.text)}</p><p style="font-size:13.5px;margin:0 0 10px"><b>Where to look.</b> ${l.leaves.map(id=>chipLeaf(id)).join(" ")}</p><div class="list">${ps.slice(0,40).map(p=>paperRow(p)).join("")}</div>${ps.length>40?`<p class="caption">${ps.length-40} more in the tree under the sub-literatures above.</p>`:""}`;
+  wireRows(el);
+}
+
+/* ---------- 9 Library ---------- */
+const LIB={q:"",fam:"",br:"",lf:"",de:"",rs:"",y0:"",vx:"",scope:"pe",sort:"nc",dir:-1,limit:150};
+RENDER.library = function(){
+  const v=document.getElementById("v-library");
+  v.innerHTML = `<h2>Library</h2><p class="intro">Every work found in the sources, deduplicated and resolved against Crossref and OpenAlex. Filter, sort, and open any row. The download list at the bottom names the core papers I could not read past the title.</p>
+  <div class="lib-controls">
+    <label class="field" for="lq">Search <input type="search" id="lq" placeholder="title, author, venue" value="${esc(LIB.q)}"></label>
+    <label class="field" for="lbr">Branch <select id="lbr"><option value="">All</option>${D.branches.map(b=>`<option value="${b.id}">${esc(b.id+" · "+b.name)}</option>`).join("")}</select></label>
+    <label class="field" for="lde">Design <select id="lde"><option value="">Any</option>${Object.entries(D.designs).map(([k,v])=>`<option value="${k}">${esc(v)}</option>`).join("")}</select></label>
+    <label class="field" for="lrs">Read <select id="lrs"><option value="">Any</option><option value="review">In review</option><option value="abstract">Abstract</option><option value="intro">Introduction</option><option value="title">Title only</option></select></label>
+    <label class="field" for="ly0">From <input type="number" id="ly0" min="1900" max="2026" placeholder="year" style="width:84px" value="${esc(LIB.y0)}"></label>
+    <label class="field" for="lvx">VoxDev finding <select id="lvx"><option value="">Any</option>${Object.entries(D.voxFindings).map(([k,f])=>`<option value="${k}">${k} · ${esc(f.short)}</option>`).join("")}</select></label>
+    <label class="field" for="lscope">Scope <select id="lscope"><option value="pe">Syllabus · political economy</option><option value="x">Added from reference lists</option><option value="all">Everything</option></select></label>
+  </div>
+  <div class="caption" id="lcount" style="margin:0 0 6px"></div>
+  <div class="scroll-x"><table class="table"><thead><tr><th data-s="y">Year</th><th data-s="t" class="t">Title</th><th data-s="au">Authors</th><th data-s="lf">Sub-literature</th><th data-s="nc">Courses</th><th data-s="de">Design</th><th data-s="ct">Setting</th></tr></thead><tbody id="lbody"></tbody></table></div>
+  <div class="more" id="lmore"></div>
+  ${D.download.length?`<div class="section panel"><h3>Your download list</h3><p class="caption" style="margin-top:0">${esc(D.meta.dlNote)}</p><div class="net-legend" id="dlTiers" style="margin-bottom:8px"></div><div class="scroll-x" id="dlist"></div></div>`:""}`;
+  const bind=(id,key,ev="change")=>{ const e=document.getElementById(id); e.value=LIB[key]; e.addEventListener(ev,()=>{ LIB[key]=e.value; LIB.limit=150; renderLibrary(); }); };
+  bind("lq","q","input"); bind("lbr","br"); bind("lde","de"); bind("lrs","rs"); bind("ly0","y0","input"); bind("lvx","vx"); bind("lscope","scope");
+  v.querySelectorAll("th[data-s]").forEach(th=>th.addEventListener("click",()=>{ const s=th.dataset.s; LIB.dir = LIB.sort===s ? -LIB.dir : (s==="t"||s==="au"||s==="lf"?1:-1); LIB.sort=s; renderLibrary(); }));
+  renderLibrary(); if(D.download.length) renderDownloads();
+};
+function renderLibrary(){
+  if(!rendered.library) return;
+  const vx=document.getElementById("lvx"); if(vx) vx.value=LIB.vx;
+  const q=LIB.q.toLowerCase().trim();
+  let rows=(LIB.scope==="all"?P:LIB.scope==="x"?PX:PE).filter(p=>(!LIB.br||p.br===LIB.br)&&(!LIB.de||p.de===LIB.de)&&(!LIB.rs||p.rs===LIB.rs)&&(!LIB.y0||(p.y||0)>=+LIB.y0)&&(!LIB.vx||(p.vx||[]).includes(LIB.vx))&&(!q||(p.t+" "+(p.af||p.au)+" "+(p.v||"")).toLowerCase().includes(q)));
+  const k=LIB.sort, d=LIB.dir; rows.sort((a,b)=>{ const A=k==="ct"?(a.ct||[]).join():a[k], B=k==="ct"?(b.ct||[]).join():b[k]; if(A==null&&B==null) return 0; if(A==null) return 1; if(B==null) return -1; return (A>B?1:A<B?-1:0)*d || b.nc-a.nc; });
+  document.getElementById("lcount").textContent=`${fmt(rows.length)} papers`;
+  document.getElementById("lbody").innerHTML=rows.slice(0,LIB.limit).map(p=>`<tr data-pid="${p.id}"><td class="num">${p.y||""}</td><td class="t">${esc(p.t)}</td><td>${esc(p.au)}</td><td><span class="dot" style="background:${famVar(p.f)}"></span> ${esc(LF[p.lf]?.name||"")}</td><td class="num">${p.x?`<span title="Not on a syllabus; cited by ${p.x} syllabus papers">ref·${p.x}</span>`:p.nc}</td><td>${esc(p.de||"")}</td><td>${esc((p.ct||[]).join(", "))}</td></tr>`).join("");
+  wireRows(document.getElementById("lbody"));
+  const more=document.getElementById("lmore"); more.innerHTML = rows.length>LIB.limit?`<button class="btn" id="lmoreBtn">Show ${Math.min(300,rows.length-LIB.limit)} more</button>`:"";
+  if(rows.length>LIB.limit) document.getElementById("lmoreBtn").addEventListener("click",()=>{ LIB.limit+=300; renderLibrary(); });
+}
+let dlTier = 1;
+function renderDownloads(){
+  const all=D.download.map(id=>P[id]).filter(Boolean), tierOf=p=>D.dlTier[p.id];
+  const tg=document.getElementById("dlTiers");
+  tg.innerHTML=Object.entries(D.dlTiers).map(([t,lab])=>`<button class="chip" type="button" aria-pressed="${+t===dlTier}" data-t="${t}" title="${esc(lab)}">Tier ${t} · ${all.filter(p=>tierOf(p)===+t).length}</button>`).join("");
+  tg.querySelectorAll("[data-t]").forEach(b=>b.addEventListener("click",()=>{ dlTier=+b.dataset.t; renderDownloads(); }));
+  const ps=all.filter(p=>tierOf(p)===dlTier), key=p=>D.dlKey ? D.dlKey[p.id] : "";
+  const link=(u,lab)=>`<a href="${esc(u)}" target="_blank" rel="noopener">${lab}</a>`;
+  document.getElementById("dlist").innerHTML=`<p class="caption" style="margin:0 0 6px">Tier ${dlTier}: ${esc(D.dlTiers[dlTier])}. Save each PDF as the file name shown (or any name: I match titles) in <span class="mono">polecon_frontier_map/inbox/</span>.</p>
+  <table class="table"><thead><tr><th>#</th><th>Save as</th><th>Paper</th><th>Year</th><th>Why it matters</th><th>Links</th></tr></thead><tbody>${ps.map((p,i)=>`<tr data-pid="${p.id}"><td class="num">${i+1}</td><td class="mono">${esc(key(p))}.pdf</td><td>${esc(p.af&&p.af.length<=90&&!/[\d/()*:]/.test(p.af)?p.af:p.au)}, “${esc(p.t.replace(/<[^>]+>/g,""))}”${p.v?", <i>"+esc(p.v)+"</i>":""}</td><td class="num">${p.y||""}</td><td>${p.x?`cited by ${p.x} syllabus papers`:`${p.nc} courses`} · ${esc(LF[p.lf]?.name||"")}</td><td style="white-space:nowrap">${[p.u?link(p.u,"open copy"):"", p.doi?link("https://doi.org/"+p.doi,"DOI"):"", link("https://scholar.google.com/scholar?q="+encodeURIComponent(p.t+" "+(p.au||"").split(/[ ,]/)[0]),"Scholar")].filter(Boolean).join(" · ")}</td></tr>`).join("")}</tbody></table>`;
+  document.querySelectorAll("#dlist a").forEach(a=>a.addEventListener("click",e=>e.stopPropagation()));
+  wireRows(document.getElementById("dlist"));
+}
+
+/* ---------- Mechanism tree ---------- */
+// group → mechanism → (models | supports | qualifies | contradicts) → [decade →] papers; nodes open on click
+const MT = {open:new Set(), sel:null, withX:true};
+const MT_X = {group:0, mech:262, verd:620, dec:765, paper:765, paperDec:865};
+RENDER.mtree = function(){
+  const v=document.getElementById("v-mtree");
+  v.innerHTML = `<h2>Mechanism tree</h2><p class="intro">${D.meta.mtreeIntro}</p>
+  <div class="net-controls"><button class="btn" id="mtOpen" type="button">Open every mechanism</button><button class="btn" id="mtClose" type="button">Collapse all</button>
+    <label class="field"><input type="checkbox" id="mtX" checked> Include works added from reference lists</label>
+    <span class="net-legend">${verdictChip("+")}${verdictChip("~")}${verdictChip("-")}<span class="chip"><span class="dot" style="background:var(--accent);border-radius:2px"></span>Models & theory</span></span></div>
+  <div class="panel" id="mtInfo"></div>
+  <div class="panel tree" style="margin-top:14px"><div class="scroll-x" id="mtSvg"></div><div class="net-legend" style="margin-top:10px">${FAMS.slice(0,8).map((f,i)=>`<span class="chip"><span class="dot" style="background:${famVar(i)}"></span>${esc(f.name)}</span>`).join("")}</div><p class="caption">Paper dots take the colour of their literature family; branch dots carry the verdict. Branches with more than 24 papers split by decade. Click any node to open or close it, a paper to read it.</p></div>`;
+  document.getElementById("mtOpen").addEventListener("click",()=>{ D.mechs.forEach(m=>MT.open.add(m.id)); mtDraw(); });
+  document.getElementById("mtClose").addEventListener("click",()=>{ MT.open.clear(); mtDraw(); });
+  document.getElementById("mtX").addEventListener("change",e=>{ MT.withX=e.target.checked; mtDraw(); mtInfo(); });
+  const first = MT.sel || "M_visibility"; mtToggleMech(first, true);
+  themeListeners.push(()=>{ if(rendered.mtree) mtDraw(); });
+};
+function mtEvidence(m){
+  const pool = MT.withX ? PALL : PE;
+  const all = pool.filter(p=>(p.me||[]).some(x=>x[0]===m.id)).map(p=>({p, v:p.me.find(x=>x[0]===m.id)[1]}));
+  const byY = (a,b)=>(a.y||0)-(b.y||0);
+  const models = [...new Set([...(m.modelIds||[]), ...all.filter(e=>isTheory(e.p)).map(e=>e.p.id)])].map(i=>P[i]).filter(p=>p && (MT.withX||!p.x)).sort(byY);
+  const ev = all.filter(e=>!isTheory(e.p));
+  return {models, "+":ev.filter(e=>e.v==="+").map(e=>e.p).sort(byY), "~":ev.filter(e=>e.v==="~").map(e=>e.p).sort(byY), "-":ev.filter(e=>e.v==="-").map(e=>e.p).sort(byY)};
+}
+function mtToggleMech(id, forceOpen){
+  const open = forceOpen || !MT.open.has(id);
+  if(open){ MT.open.add(id); ["M","+","~","-"].forEach(v=>MT.open.add(id+"|"+v)); } else MT.open.delete(id);
+  MT.sel = id; mtDraw(); mtInfo();
+}
+function mtDraw(){
+  const host=document.getElementById("mtSvg"); if(!host) return; host.innerHTML="";
+  const groups=[...new Set(D.mechs.map(m=>m.group))];
+  const pnode = (p,v,dec) => ({type:"paper", id:"p"+p.id, p, v, dec});
+  const papersOf = (ps,id,v) => {
+    if(ps.length<=24) return ps.map(p=>pnode(p,v,false));
+    const by=d3.group(ps, p=>p.y?Math.floor(p.y/10)*10:0);
+    return [...by.entries()].sort((a,b)=>a[0]-b[0]).map(([d,qs])=>{ const did=`${id}|${d}`; return {type:"dec", id:did, v, name:d?`${d}s`:"n.d.", n:qs.length, children: MT.open.has(did)? qs.map(p=>pnode(p,v,true)) : null}; });
+  };
+  const lab = {M:"Models & theory","+":"Supports","~":"Qualifies","-":"Contradicts"};
+  const root = {type:"root", children: groups.map(g=>({type:"group", id:"g|"+g, name:g, children: D.mechs.filter(m=>m.group===g).map(m=>{
+    const E=mtEvidence(m), n=E["+"].length+E["~"].length+E["-"].length;
+    return {type:"mech", id:m.id, name:m.name, n, sup:E["+"].length, children: MT.open.has(m.id) ? ["M","+","~","-"].map(v=>[v, v==="M"?E.models:E[v]]).filter(r=>r[1].length).map(([v,ps])=>{ const id=m.id+"|"+v; return {type:"verd", id, v, name:lab[v], n:ps.length, children: MT.open.has(id)? papersOf(ps,id,v) : null}; }) : null};
+  })}))};
+  const h=d3.hierarchy(root, d=>d.children);
+  const rowH=20, leaves=h.leaves().length, H=Math.max(360, leaves*rowH+30);
+  d3.tree().size([H-30,1]).separation((a,b)=>a.parent===b.parent?1:1.25)(h);
+  h.each(d=>{ const t=d.data.type; d.y = t==="root"?-30 : t==="paper" ? (d.data.dec?MT_X.paperDec:MT_X.paper) : MT_X[t]; });
+  const maxX = d3.max(h.descendants(), d=>d.y) + (h.descendants().some(d=>d.data.type==="paper")?380:300);
+  const W=Math.max(host.clientWidth||700, maxX+30);
+  const svg=d3.select(host).append("svg").attr("width",W).attr("height",H).attr("role","img").attr("aria-label","Tree of canonical mechanisms with the papers that test them");
+  const g=svg.append("g").attr("transform","translate(14,15)");
+  const vcol = v => v==="+"?"var(--good)":v==="~"?"var(--warn)":v==="-"?"var(--crit)":"var(--accent)";
+  g.selectAll("path").data(h.links().filter(l=>l.source.data.type!=="root")).join("path").attr("class","link").attr("d",d3.linkHorizontal().x(d=>d.y).y(d=>d.x))
+    .attr("stroke",l=>l.target.data.v?vcol(l.target.data.v):"var(--rule-2)").attr("stroke-opacity",l=>l.target.data.v?0.45:1);
+  const node=g.selectAll("g.node").data(h.descendants().filter(d=>d.data.type!=="root")).join("g").attr("class",d=>"node"+(MT.sel===d.data.id?" sel":"")).attr("transform",d=>`translate(${d.y},${d.x})`)
+    .attr("tabindex",0).attr("role","button");
+  const rM = d3.scaleSqrt().domain([0, d3.max(D.mechs, m=>PALL.filter(p=>(p.me||[]).some(x=>x[0]===m.id)).length)||1]).range([3.5,11]);
+  node.each(function(d){ const s=d3.select(this), t=d.data.type;
+    if(t==="group"){ s.append("rect").attr("x",-5).attr("y",-5).attr("width",10).attr("height",10).attr("rx",2).attr("fill","var(--accent)"); s.append("text").attr("x",10).attr("dy","0.35em").style("font-weight",600).style("font-size","12px").text(d.data.name.length>36?d.data.name.slice(0,35)+"…":d.data.name); }
+    else if(t==="mech"){ s.append("circle").attr("r",rM(d.data.n)).attr("fill",MT.open.has(d.data.id)?"var(--surface)":"var(--accent)").attr("stroke","var(--accent)").attr("stroke-width",2); s.append("text").attr("x",rM(d.data.n)+6).attr("dy","0.35em").text(d.data.name.length>46?d.data.name.slice(0,45)+"…":d.data.name).append("tspan").attr("class","cnt").attr("dx",6).text(d.data.n); }
+    else if(t==="verd"){ const open=MT.open.has(d.data.id); s.append("circle").attr("r",6).attr("fill",open?"var(--surface)":vcol(d.data.v)).attr("stroke",vcol(d.data.v)).attr("stroke-width",2.2); s.append("text").attr("x",11).attr("dy","0.35em").text(d.data.name).append("tspan").attr("class","cnt").attr("dx",6).text(d.data.n); }
+    else if(t==="dec"){ const open=MT.open.has(d.data.id); s.append("circle").attr("r",4.5).attr("fill",open?"var(--surface)":vcol(d.data.v)).attr("fill-opacity",open?1:.55).attr("stroke",vcol(d.data.v)).attr("stroke-width",1.6); s.append("text").attr("x",9).attr("dy","0.35em").text(d.data.name).append("tspan").attr("class","cnt").attr("dx",6).text(d.data.n); }
+    else { const p=d.data.p; s.append("circle").attr("r",4).attr("fill",p.x?"var(--surface)":famVar(p.f)).attr("stroke",famVar(p.f)).attr("stroke-width",p.x?1.8:1);
+      const t2=s.append("text").attr("x",9).attr("dy","0.35em").text(`${p.au} ${p.y||""}`); t2.append("tspan").attr("class","cnt").attr("dx",6).text([p.de,(p.ct||[])[0]].filter(Boolean).join(" · ")+(p.x?" · ref":"")); }
+  });
+  node.on("click",(ev,d)=>mtClick(d.data)).on("keydown",(ev,d)=>{ if(ev.key==="Enter") mtClick(d.data); })
+    .on("mousemove",(ev,d)=>{ if(d.data.type==="paper"){ const p=d.data.p; showTip(ev, paperTip(p)+(p.fd?`<div class="ts" style="margin-top:4px;color:var(--ink-2)">${esc(p.fd)}</div>`:"")+(d.data.v!=="M"?`<div class="ts">${VERD[d.data.v][1]}</div>`:"")); } else if(d.data.type==="mech"){ showTip(ev, `<div class="tt">${esc(d.data.name)}</div><div class="ts">${d.data.n} empirical tests · click to ${MT.open.has(d.data.id)?"close":"open"}</div>`); } })
+    .on("mouseleave",hideTip);
+}
+function mtClick(d){
+  if(d.type==="paper") return openPaper(d.p.id);
+  if(d.type==="mech") return mtToggleMech(d.id);
+  if(d.type==="group"){ const ms=D.mechs.filter(m=>"g|"+m.group===d.id); const anyClosed=ms.some(m=>!MT.open.has(m.id)); ms.forEach(m=>{ if(anyClosed){ MT.open.add(m.id); ["M","+","~","-"].forEach(v=>MT.open.add(m.id+"|"+v)); } else MT.open.delete(m.id); }); return mtDraw(); }
+  MT.open.has(d.id)?MT.open.delete(d.id):MT.open.add(d.id); mtDraw();
+}
+function mtInfo(){
+  const el=document.getElementById("mtInfo"); if(!el) return; const m=MECH[MT.sel]; if(!m){ el.innerHTML=""; return; }
+  const E=mtEvidence(m);
+  el.innerHTML=`<div class="eyebrow">${esc(m.group)}</div><h3>${esc(m.name)}</h3><div class="model-refs">${esc(m.models.join(" · "))}</div>
+    <p style="color:var(--ink-2);margin:6px 0">${esc(m.logic)}</p><div style="font-size:13.5px"><b>Predictions.</b> ${m.predictions.map(esc).join(" · ")}</div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:8px">${verdictChip("+")} <span class="num">${E["+"].length}</span> ${verdictChip("~")} <span class="num">${E["~"].length}</span> ${verdictChip("-")} <span class="num">${E["-"].length}</span>
+    <button class="linkbtn" id="mtLedger" style="margin-left:8px">Evidence ledger with findings →</button></div>`;
+  el.querySelector("#mtLedger").addEventListener("click",()=>{ go("mechanisms"); selectMech(m.id); });
+}
+
+/* ---------- Who writes it: authors, coauthors, affiliations ---------- */
+const PER = [["all","All years",0,9999],["pre1990","Before 1990",0,1989],["1990s","1990s",1990,1999],["2000s","2000s",2000,2009],["2010s","2010s",2010,2019],["2020s","2020s",2020,9999]];
+const perOf = id => PER.find(p=>p[0]===id) || PER[0];
+const inPer = (y, id) => { const p=perOf(id); return (y||0)>=p[2] && (y||0)<=p[3]; };
+const AUT = {regOn:null, mode:"now", period:"all", netPeriod:"all", minP:2, q:"", sel:null, focus:null, matched:null, t:d3.zoomIdentity, nodes:null};
+const REG_I = Object.fromEntries((D.regions||[]).map((r,i)=>[r,i]));
+const instReg = i => i>=0 ? (REG_I[D.insts[i].r] ?? 8) : 8;
+const autReg = a => instReg(a.i);
+const regName = i => i<8 ? D.regions[i] : "Unknown";
+const regVar = i => i<8 ? famVar(i) : "var(--f8)";
+const regColor = i => famColor(i<8?i:8);
+const fold = s => (s||"").normalize("NFKD").replace(/[̀-ͯ]/g,"").toLowerCase();
+const STOPW = new Set(["of","and","the","de","for","in","di","la","le","du","des","y","e","at","del","da","do"]);
+const instAcr = i => fold(D.insts[i].n).split(/[^a-z]+/).filter(w=>w && !STOPW.has(w)).map(w=>w[0]).join("");
+const INST_ALIAS = {lse:"london school of economics", mit:"massachusetts institute of technology", berkeley:"university of california, berkeley", ucb:"university of california, berkeley", ucla:"university of california, los angeles", ucsd:"university of california san diego", nyu:"new york university", upf:"pompeu fabra", pse:"paris school of economics", tse:"toulouse school of economics", ubc:"university of british columbia", eui:"european university institute", chicago:"university of chicago", uchicago:"university of chicago", penn:"university of pennsylvania", upenn:"university of pennsylvania", ucl:"university college london", cmu:"carnegie mellon", bu:"boston university", iies:"stockholm university", fgv:"getulio vargas", puc:"pontif", insper:"insper", hks:"harvard", hbs:"harvard"};
+
+RENDER.authors = function(){
+  const v=document.getElementById("v-authors"); const A=D.authors;
+  if(!A.length){ v.innerHTML=`<h2>Who writes it</h2><p class="intro">Author data were not available for this build.</p>`; return; }
+  AUT.regOn = AUT.regOn || new Set(d3.range(9));
+  const withInst = A.filter(a=>a.i>=0);
+  const nCountries = new Set(withInst.map(a=>D.insts[a.i].cc).filter(Boolean)).size;
+  const us = withInst.filter(a=>D.insts[a.i].cc==="US").length;
+  const perChips = (id, cur) => `<div class="net-legend" id="${id}">${PER.map(p=>`<button class="chip" type="button" aria-pressed="${p[0]===cur}" data-per="${p[0]}">${p[1]}</button>`).join("")}</div>`;
+  v.innerHTML = `<h2>Who writes the frontier, and where</h2><p class="intro">${D.meta.authIntro}</p>
+  <div class="stats"><div class="stat"><div class="v">${fmt(A.length)}</div><div class="l">authors of atlas papers</div></div><div class="stat"><div class="v">${fmt(new Set(withInst.map(a=>a.i)).size)}</div><div class="l">current institutions</div></div><div class="stat"><div class="v">${nCountries}</div><div class="l">countries</div></div><div class="stat"><div class="v">${Math.round(100*us/withInst.length)}%</div><div class="l">based in the United States today</div></div><div class="stat"><div class="v">${fmt(D.coauth.length)}</div><div class="l">coauthor pairs</div></div></div>
+  <div class="net-controls" style="margin-top:16px"><span class="eyebrow">Regions</span><div class="net-legend" id="autRegs"></div></div>
+  <div class="grid2"><div class="panel"><h3>Where the authors sit today</h3><p class="caption" style="margin-top:0">Share of authors by the region of their current institution: authors of atlas papers published up to 2009 (hollow) against authors of papers from 2015 on (filled). Click a region to filter the centres, the map and the network; click it again to show all.</p><div class="scroll-x" id="autShift"></div></div>
+  <div class="panel"><h3 id="autInstTitle">The centres</h3>
+    <div class="net-controls" style="margin:0 0 6px"><div class="net-legend" id="autMode"><button class="chip" type="button" data-m="now">Where authors are now</button><button class="chip" type="button" data-m="then">Where each paper was written</button></div></div>
+    ${perChips("autPer", AUT.period)}
+    <p class="caption" id="autInstCap" style="margin:6px 0 4px"></p><div class="scroll-x" id="autInst"></div></div></div>
+  <div class="panel section"><h3>Map of affiliations</h3><p class="caption" style="margin-top:0">One bubble per institution, area proportional to the number of authors counted in “The centres” (same mode, period and regions). Scroll or pinch to zoom, drag to pan, or jump to a region; click a bubble to list its authors.</p>
+    <div class="net-legend" id="autMapViews" style="margin-bottom:8px"></div><div class="net-box" style="overflow:hidden"><div id="autMap"></div></div></div>
+  <div class="section"><h3>Coauthor network</h3><p class="caption" style="margin-top:0">Each node is an author; a link means they wrote at least one atlas paper together in the selected period (thicker = more). Colour is the region of the current institution, size the number of atlas papers in the period. Choose a period to see how clusters form and dissolve. Search an author or an institution (e.g. “Claudio Ferraz”, “PSE”, “LSE”) to show them and their coauthors; click a coauthor to open their connections too.</p>
+  ${perChips("autNetPer", AUT.netPeriod)}
+  <div class="net-controls" style="margin-top:8px"><label class="field" for="autQ">Find <input type="search" id="autQ" placeholder="author or institution" style="width:220px"></label>
+  <label class="field" for="autMin">At least <select id="autMin"><option value="1">1 paper</option><option value="2" selected>2 papers</option><option value="3">3 papers</option><option value="5">5 papers</option></select></label><span class="caption" id="autFindNote" style="margin:0"></span></div>
+  <div class="grid2"><div class="net-box"><canvas id="autCanvas" aria-label="Coauthor network"></canvas></div><div class="panel sticky-panel" id="autPanel"></div></div></div>`;
+  const rg=document.getElementById("autRegs");
+  rg.innerHTML=d3.range(9).map(i=>`<button class="chip" type="button" aria-pressed="true" data-r="${i}"><span class="dot" style="background:${regVar(i)}"></span>${esc(regName(i))} <span class="num" style="color:var(--muted)">${A.filter(a=>autReg(a)===i).length}</span></button>`).join("");
+  rg.querySelectorAll("[data-r]").forEach(b=>b.addEventListener("click",()=>{ const i=+b.dataset.r; AUT.regOn.has(i)?AUT.regOn.delete(i):AUT.regOn.add(i); if(!AUT.regOn.size) d3.range(9).forEach(k=>AUT.regOn.add(k)); autRegionsChanged(); }));
+  document.querySelectorAll("#autMode [data-m]").forEach(b=>b.addEventListener("click",()=>{ AUT.mode=b.dataset.m; autCentresChanged(); }));
+  document.querySelectorAll("#autPer [data-per]").forEach(b=>b.addEventListener("click",()=>{ AUT.period=b.dataset.per; autCentresChanged(); }));
+  document.querySelectorAll("#autNetPer [data-per]").forEach(b=>b.addEventListener("click",()=>{ AUT.netPeriod=b.dataset.per; document.querySelectorAll("#autNetPer [data-per]").forEach(x=>x.setAttribute("aria-pressed",x.dataset.per===AUT.netPeriod)); autBuild(); }));
+  document.getElementById("autQ").addEventListener("input",e=>{ AUT.q=e.target.value; autSearch(); });
+  document.getElementById("autMin").addEventListener("change",e=>{ AUT.minP=+e.target.value; autDraw(); });
+  autRegionsChanged(true); autBuild(); autPanel(AUT.sel);
+  themeListeners.push(()=>{ if(rendered.authors){ autShift(); autInst(); autMap(); autDraw(); } });
+};
+function autRegionsChanged(first){
+  document.querySelectorAll("#autRegs [data-r]").forEach(b=>b.setAttribute("aria-pressed",AUT.regOn.has(+b.dataset.r)));
+  autShift(); autCentresChanged(first); if(!first) autDraw();
+}
+function autCentresChanged(keepView){
+  document.querySelectorAll("#autMode [data-m]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.m===AUT.mode));
+  document.querySelectorAll("#autPer [data-per]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.per===AUT.period));
+  const per=perOf(AUT.period)[1], regs=AUT.regOn.size===9?"all regions":[...AUT.regOn].map(regName).join(", ");
+  document.getElementById("autInstTitle").textContent = `The centres · ${per}`;
+  document.getElementById("autInstCap").textContent = AUT.mode==="now"
+    ? `Institutions ranked by how many authors of atlas papers published in ${per.toLowerCase()} are there today (${regs}).`
+    : `Institutions ranked by how many authors wrote atlas papers there, using the affiliation printed on papers published in ${per.toLowerCase()} (${regs}).`;
+  autInst(); autMap(keepView);
+}
+// institution -> Set(author idx), under the current mode, period and region filter
+function autInstCounts(){
+  const m=new Map(), add=(i,k)=>{ if(i<0||!AUT.regOn.has(instReg(i))) return; if(!m.has(i)) m.set(i,new Set()); m.get(i).add(k); };
+  if(AUT.mode==="now") D.authors.forEach((a,k)=>{ if(a.p.some(pid=>inPer(P[pid].y,AUT.period))) add(a.i,k); });
+  else PALL.forEach(p=>{ if(!p.A || !inPer(p.y,AUT.period)) return; p.A.forEach((k,j)=>add((p.AI||[])[j]??-1,k)); });
+  return m;
+}
+function autShift(){
+  const host=document.getElementById("autShift"); host.innerHTML="";
+  const A=D.authors, early=A.filter(a=>a.p.some(i=>P[i].y&&P[i].y<=2009)), late=A.filter(a=>a.p.some(i=>P[i].y>=2015));
+  const rows=d3.range(9).map(i=>({i, e:early.filter(a=>autReg(a)===i).length/early.length, l:late.filter(a=>autReg(a)===i).length/late.length})).filter(r=>r.e+r.l>0).sort((a,b)=>b.l-a.l);
+  const W=Math.max(420,host.clientWidth||520), rowH=28, M={t:16,r:62,b:30,l:170}, H=M.t+M.b+rows.length*rowH;
+  const x=d3.scaleLinear().domain([0,d3.max(rows,r=>Math.max(r.e,r.l))*1.08]).range([M.l,W-M.r]).nice();
+  const svg=d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H).attr("role","img").attr("aria-label","Dumbbell chart of author shares by region; click a region to filter");
+  svg.append("g").attr("class","grid").selectAll("line").data(x.ticks(5)).join("line").attr("x1",x).attr("x2",x).attr("y1",M.t-6).attr("y2",H-M.b);
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${H-M.b})`).call(d3.axisBottom(x).ticks(5).tickFormat(d3.format(".0%")).tickSizeOuter(0));
+  const single = AUT.regOn.size===1;
+  const g=svg.append("g").selectAll("g").data(rows).join("g").attr("transform",(d,k)=>`translate(0,${M.t+k*rowH+rowH/2})`).style("cursor","pointer").attr("opacity",d=>AUT.regOn.has(d.i)?1:.3);
+  g.append("rect").attr("x",0).attr("y",-rowH/2).attr("width",W).attr("height",rowH).attr("fill",d=>single&&AUT.regOn.has(d.i)?"var(--accent-soft)":"transparent");
+  g.append("text").attr("x",M.l-10).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").style("font-weight",d=>single&&AUT.regOn.has(d.i)?700:400).text(d=>regName(d.i));
+  g.append("line").attr("x1",d=>x(d.e)).attr("x2",d=>x(d.l)).attr("stroke",d=>regVar(d.i)).attr("stroke-width",2);
+  g.append("circle").attr("cx",d=>x(d.e)).attr("r",5).attr("fill","var(--surface)").attr("stroke",d=>regVar(d.i)).attr("stroke-width",2);
+  g.append("circle").attr("cx",d=>x(d.l)).attr("r",5.5).attr("fill",d=>regVar(d.i)).attr("stroke","var(--surface)").attr("stroke-width",2);
+  g.append("text").attr("x",d=>x(Math.max(d.e,d.l))+10).attr("dy","0.35em").attr("class","muted num").text(d=>`${(d.l*100).toFixed(0)}%`);
+  g.on("mousemove",(ev,d)=>showTip(ev,`<div class="tt">${esc(regName(d.i))}</div><div class="ts">Authors of papers ≤2009: ${(d.e*100).toFixed(1)}% of ${fmt(early.length)}</div><div class="ts">Authors of papers 2015+: ${(d.l*100).toFixed(1)}% of ${fmt(late.length)}</div><div class="ts">Click to ${single&&AUT.regOn.has(d.i)?"show all regions":"filter to this region"}</div>`)).on("mouseleave",hideTip)
+   .on("click",(ev,d)=>{ hideTip(); if(single && AUT.regOn.has(d.i)) AUT.regOn=new Set(d3.range(9)); else AUT.regOn=new Set([d.i]); autRegionsChanged(); });
+}
+function autInst(){
+  const host=document.getElementById("autInst"); host.innerHTML="";
+  const top=[...autInstCounts().entries()].map(([i,s])=>[i,[...s]]).sort((a,b)=>b[1].length-a[1].length).slice(0,25);
+  if(!top.length){ host.innerHTML=`<p class="caption">No authors in this selection.</p>`; return; }
+  const W=Math.max(320,host.clientWidth||500), rh=21, M={t:4,r:34,b:24,l:Math.min(220,Math.round(W*0.48))}, H=M.t+M.b+top.length*rh;
+  const x=d3.scaleLinear().domain([0,top[0][1].length]).range([M.l,W-M.r]);
+  const svg=d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${H-M.b})`).call(d3.axisBottom(x).ticks(5).tickFormat(d3.format("d")).tickSizeOuter(0));
+  const g=svg.append("g").selectAll("g").data(top).join("g").attr("transform",(d,k)=>`translate(0,${M.t+k*rh})`).style("cursor","pointer")
+    .on("click",(ev,d)=>autPanelInst(d[0])).on("mousemove",(ev,d)=>{ const ins=D.insts[d[0]]; showTip(ev,`<div class="tt">${esc(ins.n)}</div><div class="ts">${esc([ins.ci,ins.co].filter(Boolean).join(", "))} · ${d[1].length} authors</div>`); }).on("mouseleave",hideTip);
+  const maxC=Math.floor(M.l/6.6);
+  g.append("text").attr("x",M.l-8).attr("y",rh/2).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").text(d=>{ const n=D.insts[d[0]].n; return n.length>maxC?n.slice(0,maxC-1)+"…":n; });
+  g.append("rect").attr("x",M.l).attr("y",3).attr("height",rh-6).attr("width",d=>Math.max(1,x(d[1].length)-M.l)).attr("rx",3).attr("fill",d=>regVar(instReg(d[0])));
+  g.append("text").attr("x",d=>x(d[1].length)+5).attr("y",rh/2).attr("dy","0.35em").attr("class","muted num").text(d=>d[1].length);
+}
+const MAP_VIEWS = [["natl","North Atlantic",[[-126,22],[34,63]]],["eur","Europe",[[-11,35],[31,62]]],["nam","North America",[[-128,23],[-62,55]]],["lat","Latin America",[[-95,-45],[-32,24]]],["asia","Asia-Pacific",[[66,-44],[178,48]]],["afr","Africa & Middle East",[[-20,-36],[60,40]]],["world","World",[[-180,-58],[180,78]]]];
+function autMap(keepView){
+  const host=document.getElementById("autMap"); if(!host) return; host.innerHTML="";
+  const W=Math.max(560,host.clientWidth||900), H=Math.round(W*0.52);
+  const feats=topojson.feature(WORLD, WORLD.objects.countries).features;
+  const proj=d3.geoNaturalEarth1().fitSize([W,H],{type:"Sphere"}), path=d3.geoPath(proj);
+  const svg=d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H).attr("role","img").attr("aria-label","Zoomable map of institutions").style("display","block").style("touch-action","none").style("cursor","grab");
+  const gz=svg.append("g");
+  gz.append("path").attr("d",path({type:"Sphere"})).attr("fill","var(--sunk)");
+  const land=gz.append("g").selectAll("path").data(feats).join("path").attr("d",path).attr("fill","var(--surface)").attr("stroke","var(--rule-2)").attr("stroke-width",0.5);
+  const pts=[...autInstCounts().entries()].map(([i,s])=>({i,ks:[...s],ins:D.insts[i]})).filter(d=>d.ins.la!=null&&d.ins.lo!=null).sort((a,b)=>b.ks.length-a.ks.length);
+  pts.forEach((d,k)=>{ d.rank=k; [d.x,d.y]=proj([d.ins.lo,d.ins.la]); });
+  const r=d3.scaleSqrt().domain([0,d3.max(pts,d=>d.ks.length)||1]).range([0,Math.max(13,W/52)]);
+  pts.forEach(d=>{ d.r0=Math.max(2.2,r(d.ks.length)); });
+  const dots=gz.append("g").selectAll("circle").data(pts).join("circle").attr("cx",d=>d.x).attr("cy",d=>d.y).attr("r",d=>d.r0)
+    .attr("fill",d=>regVar(REG_I[d.ins.r]??8)).attr("fill-opacity",.62).attr("stroke","var(--surface)").attr("stroke-width",.8).style("cursor","pointer")
+    .on("mousemove",(ev,d)=>showTip(ev,`<div class="tt">${esc(d.ins.n)}</div><div class="ts">${esc([d.ins.ci,d.ins.co].filter(Boolean).join(", "))}</div><div class="ts">${d.ks.length} author${d.ks.length===1?"":"s"}: ${d.ks.slice().sort((a,b)=>D.authors[b].p.length-D.authors[a].p.length).slice(0,5).map(k=>esc(D.authors[k].n)).join(", ")}${d.ks.length>5?"…":""}</div>`))
+    .on("mouseleave",hideTip).on("click",(ev,d)=>{ autPanelInst(d.i); document.getElementById("autPanel").scrollIntoView({behavior:"smooth",block:"nearest"}); });
+  const labs=gz.append("g").style("pointer-events","none").selectAll("text").data(pts.slice(0,80)).join("text").attr("class","lbl").style("paint-order","stroke").style("stroke","var(--surface)").style("stroke-width",3).text(d=>d.ins.n.replace(/^University of /,"U. ").replace(/ University$/," U."));
+  const apply=t=>{ const k=t.k; gz.attr("transform",t); land.attr("stroke-width",0.5/k); dots.attr("r",d=>d.r0/Math.pow(k,0.6)).attr("stroke-width",0.8/k);
+    labs.attr("x",d=>d.x+d.r0/Math.pow(k,0.6)+3/k).attr("y",d=>d.y).attr("dy","0.35em").style("font-size",`${11/k}px`).style("stroke-width",3/k).attr("display",d=>d.rank<Math.round(3*k*k)?null:"none"); };
+  const zoom=d3.zoom().scaleExtent([1,40]).translateExtent([[0,0],[W,H]]).on("zoom",ev=>{ AUT.mapT=ev.transform; apply(ev.transform); });
+  svg.call(zoom);
+  const zoomTo=(bb,dur)=>{ const c=[];[bb[0][0],(bb[0][0]+bb[1][0])/2,bb[1][0]].forEach(lo=>[bb[0][1],(bb[0][1]+bb[1][1])/2,bb[1][1]].forEach(la=>c.push(proj([lo,la]))));
+    const xs=d3.extent(c,p=>p[0]), ys=d3.extent(c,p=>p[1]), k=Math.min(40,0.95/Math.max((xs[1]-xs[0])/W,(ys[1]-ys[0])/H));
+    const t=d3.zoomIdentity.translate(W/2,H/2).scale(Math.max(1,k)).translate(-(xs[0]+xs[1])/2,-(ys[0]+ys[1])/2); (dur?svg.transition().duration(dur):svg).call(zoom.transform,t); };
+  AUT.mapView = AUT.mapView || "natl";
+  const mv=document.getElementById("autMapViews");
+  mv.innerHTML=MAP_VIEWS.map(([id,lab])=>`<button class="chip" type="button" aria-pressed="${id===AUT.mapView}" data-mv="${id}">${lab}</button>`).join("");
+  mv.querySelectorAll("[data-mv]").forEach(b=>b.addEventListener("click",()=>{ AUT.mapView=b.dataset.mv; mv.querySelectorAll("[data-mv]").forEach(x=>x.setAttribute("aria-pressed",x.dataset.mv===AUT.mapView)); zoomTo(MAP_VIEWS.find(m=>m[0]===AUT.mapView)[2],650); }));
+  if(keepView && AUT.mapT) svg.call(zoom.transform, AUT.mapT); else zoomTo(MAP_VIEWS.find(m=>m[0]===AUT.mapView)[2]);
+}
+// network for the selected period: nodes = authors with papers in it, links = joint papers in it
+function autBuild(){
+  const yrsOk = y => inPer(y, AUT.netPeriod);
+  const links0 = D.coauth.map(([a,b,w,ys])=>({a,b,w: AUT.netPeriod==="all" ? w : (ys||[]).filter(yrsOk).length})).filter(l=>l.w>0);
+  const adj = new Map(); links0.forEach(l=>{ if(!adj.has(l.a)) adj.set(l.a,[]); if(!adj.has(l.b)) adj.set(l.b,[]); adj.get(l.a).push([l.b,l.w]); adj.get(l.b).push([l.a,l.w]); });
+  AUT.adj = adj;
+  const nodes = D.authors.map((a,k)=>({k,a,reg:autReg(a),np:a.p.filter(pid=>yrsOk(P[pid].y)).length})).filter(n=>n.np>0).map(n=>({...n, r:2+Math.sqrt(n.np)*1.7}));
+  const idx=new Map(nodes.map((n,j)=>[n.k,j]));
+  const links=links0.filter(l=>idx.has(l.a)&&idx.has(l.b)).map(l=>({source:idx.get(l.a),target:idx.get(l.b),w:l.w}));
+  const sim=d3.forceSimulation(nodes).force("link",d3.forceLink(links).distance(16).strength(l=>Math.min(1,0.3+0.2*l.w))).force("charge",d3.forceManyBody().strength(-14).distanceMax(220))
+    .force("collide",d3.forceCollide(d=>d.r+0.8)).force("x",d3.forceX(0).strength(0.05)).force("y",d3.forceY(0).strength(0.05)).stop();
+  for(let i=0;i<300;i++) sim.tick();
+  AUT.nodes=nodes; AUT.links=links; AUT.idx=idx; AUT.rank=nodes.slice().sort((a,b)=>b.np-a.np);
+  const cv=document.getElementById("autCanvas");
+  if(!AUT.wired){ AUT.wired=true;
+    AUT.zoom=d3.zoom().scaleExtent([0.15,10]).on("zoom",ev=>{ AUT.t=ev.transform; autDraw(); }); d3.select(cv).call(AUT.zoom);
+    cv.addEventListener("mousemove",ev=>{ const n=autHit(ev); cv.style.cursor=n?"pointer":"grab"; if(n){ const ins=n.a.i>=0?D.insts[n.a.i]:null; showTip(ev,`<div class="tt">${esc(n.a.n)}</div><div class="ts">${esc(ins?ins.n:"affiliation unknown")}${ins&&ins.co?" · "+esc(ins.co):""}</div><div class="ts">${n.np} atlas papers in period · ${(AUT.adj.get(n.k)||[]).length} coauthors in period</div>`);} else hideTip(); });
+    cv.addEventListener("mouseleave",hideTip);
+    cv.addEventListener("click",ev=>{ const n=autHit(ev); if(n && AUT.focus){ (AUT.adj.get(n.k)||[]).forEach(([b])=>AUT.focus.add(b)); AUT.focus.add(n.k); } autSelect(n?n.k:null); });
+    new ResizeObserver(()=>{ const dpr=window.devicePixelRatio||1; cv.width=cv.clientWidth*dpr; cv.height=cv.clientHeight*dpr; autDraw(); }).observe(cv);
+  }
+  if(AUT.q) autSearch(); else autFit(nodes);
+}
+function autFit(ns){
+  const cv=document.getElementById("autCanvas"); if(!cv||!ns.length) return;
+  const w=cv.clientWidth, hh=cv.clientHeight, xs=d3.extent(ns,n=>n.x), ys=d3.extent(ns,n=>n.y), k=Math.min(4,0.9*Math.min(w/(xs[1]-xs[0]+60), hh/(ys[1]-ys[0]+60)));
+  d3.select(cv).call(AUT.zoom.transform, d3.zoomIdentity.translate(w/2,hh/2).scale(k).translate(-(xs[0]+xs[1])/2,-(ys[0]+ys[1])/2));
+}
+// search: authors whose name contains every typed word (accent-insensitive), or anyone at a matching institution (name, acronym or alias)
+function autSearch(){
+  const note=document.getElementById("autFindNote"); const f=fold(AUT.q).trim();
+  if(!f){ AUT.focus=null; AUT.matched=null; note.textContent=""; autFit(AUT.nodes); autDraw(); return; }
+  const toks=f.split(/\s+/), compact=f.replace(/[^a-z]/g,""), alias=INST_ALIAS[compact];
+  const insts=new Set(D.insts.map((ins,i)=>i).filter(i=>{ const n=fold(D.insts[i].n); return toks.every(t=>n.includes(t)) || (alias ? n.includes(alias) : compact.length>=2 && instAcr(i)===compact); }));
+  const matched=new Set();
+  D.authors.forEach((a,k)=>{ const words=fold(a.n).split(/[^a-z]+/); if(toks.every(t=>words.some(w=>w.startsWith(t)))) matched.add(k); if(a.i>=0 && insts.has(a.i)) matched.add(k); });
+  const inNet=[...matched].filter(k=>AUT.idx.has(k));
+  AUT.matched=new Set(inNet); AUT.focus=new Set(inNet); inNet.forEach(k=>(AUT.adj.get(k)||[]).forEach(([b])=>AUT.focus.add(b)));
+  const instNames=[...insts].slice(0,3).map(i=>D.insts[i].n);
+  note.textContent = matched.size ? `${inNet.length} matching author${inNet.length===1?"":"s"}${instNames.length?` (${instNames.join(", ")}${insts.size>3?"…":""})`:""} and ${AUT.focus.size-inNet.length} coauthors in ${perOf(AUT.netPeriod)[1].toLowerCase()}${matched.size>inNet.length?` · ${matched.size-inNet.length} without papers in this period`:""}` : "No author or institution matches.";
+  if(inNet.length===1){ AUT.sel=inNet[0]; autPanel(AUT.sel); }
+  autFit(AUT.nodes.filter(n=>AUT.focus.has(n.k))); autDraw();
+}
+function autVisible(n){ return AUT.focus ? AUT.focus.has(n.k) : (AUT.regOn.has(n.reg) && n.np>=AUT.minP); }
+function autHit(ev){ const cv=document.getElementById("autCanvas"), r=cv.getBoundingClientRect(); const [x,y]=AUT.t.invert([ev.clientX-r.left,ev.clientY-r.top]); let best=null,bd=Infinity; for(const n of AUT.nodes){ if(!autVisible(n)) continue; const d=(n.x-x)**2+(n.y-y)**2, rr=Math.max(n.r+3,8/AUT.t.k)**2; if(d<rr&&d<bd){bd=d;best=n;} } return best; }
+function autDraw(){
+  const cv=document.getElementById("autCanvas"); if(!cv||!AUT.nodes) return; const ctx=cv.getContext("2d"), dpr=window.devicePixelRatio||1;
+  ctx.setTransform(dpr,0,0,dpr,0,0); ctx.clearRect(0,0,cv.width,cv.height); ctx.translate(AUT.t.x,AUT.t.y); ctx.scale(AUT.t.k,AUT.t.k);
+  const sel=AUT.sel, nb=new Set(); if(sel!=null){ nb.add(sel); (AUT.adj.get(sel)||[]).forEach(([b])=>nb.add(b)); }
+  const edge=cssVar("--edge"), edgeHi=cssVar("--edge-hi"), surf=cssVar("--surface"), ink=cssVar("--ink"), cols=d3.range(9).map(regColor);
+  ctx.strokeStyle=AUT.focus?edgeHi:edge;
+  for(const l of AUT.links){ const a=l.source,b=l.target; if(!autVisible(a)||!autVisible(b)) continue; if(sel!=null&&(a.k===sel||b.k===sel)) continue; ctx.lineWidth=Math.min(3,0.5+0.5*l.w)/AUT.t.k; ctx.beginPath(); ctx.moveTo(a.x,a.y); ctx.lineTo(b.x,b.y); ctx.stroke(); }
+  if(sel!=null){ ctx.strokeStyle=edgeHi; for(const l of AUT.links){ const a=l.source,b=l.target; if(a.k===sel||b.k===sel){ ctx.lineWidth=(1+0.6*l.w)/AUT.t.k; ctx.beginPath(); ctx.moveTo(a.x,a.y); ctx.lineTo(b.x,b.y); ctx.stroke(); } } }
+  for(const n of AUT.nodes){ if(!autVisible(n)) continue; const dim=sel!=null&&!nb.has(n.k)&&!AUT.focus; ctx.globalAlpha=dim?0.16:1; ctx.beginPath(); ctx.arc(n.x,n.y,n.r,0,2*Math.PI); ctx.fillStyle=cols[n.reg]; ctx.fill();
+    const hi = n.k===sel || (AUT.matched && AUT.matched.has(n.k)); ctx.lineWidth=(hi?2.2:0.8)/AUT.t.k; ctx.strokeStyle=hi?ink:surf; ctx.stroke(); }
+  ctx.globalAlpha=1; ctx.fillStyle=ink; ctx.font=`${11/AUT.t.k}px ${cssVar("--font-body")||"sans-serif"}`;
+  const nTop=Math.max(12, Math.min(150, Math.round(36*AUT.t.k*AUT.t.k)));
+  const lab = AUT.focus ? AUT.rank.filter(n=>AUT.focus.has(n.k)).slice(0,90) : sel!=null ? AUT.rank.filter(n=>autVisible(n)&&nb.has(n.k)).slice(0,50) : AUT.rank.filter(autVisible).slice(0,nTop);
+  for(const n of lab) ctx.fillText(n.a.n, n.x+n.r+2/AUT.t.k, n.y+3/AUT.t.k);
+}
+function autSelect(k, pan){
+  AUT.sel=k; if(!rendered.authors) return;
+  autDraw(); autPanel(k);
+  if(pan && k!=null && AUT.idx && AUT.idx.has(k)){ const n=AUT.nodes[AUT.idx.get(k)], cv=document.getElementById("autCanvas"); if(!autVisible(n)){ AUT.minP=1; document.getElementById("autMin").value="1"; AUT.regOn.add(n.reg); }
+    d3.select(cv).transition().duration(500).call(AUT.zoom.transform, d3.zoomIdentity.translate(cv.clientWidth/2,cv.clientHeight/2).scale(Math.max(AUT.t.k,1.6)).translate(-n.x,-n.y));
+    cv.scrollIntoView({behavior:"smooth",block:"center"}); }
+}
+function autPanel(k){
+  const el=document.getElementById("autPanel"); if(!el) return;
+  if(k==null){ const top=D.authors.map((a,i)=>({a,i})).sort((x,y)=>y.a.p.length-x.a.p.length).slice(0,20);
+    el.innerHTML=`<h3>Most present authors</h3><p class="caption" style="margin-top:0">Authors with the most atlas papers (syllabus and reference-list works).</p>${top.map(o=>autRow(o.i)).join("")}`; wireAut(el); return; }
+  const a=D.authors[k], ins=a.i>=0?D.insts[a.i]:null, co=[...new Map(D.coauth.filter(c=>c[0]===k||c[1]===k).map(c=>[c[0]===k?c[1]:c[0],c[2]])).entries()].sort((x,y)=>y[1]-x[1]);
+  const ps=a.p.map(i=>P[i]).sort((x,y)=>(y.y||0)-(x.y||0));
+  const where=[...new Set(ps.map(p=>{ const j=(p.A||[]).indexOf(k); return j>=0&&(p.AI||[])[j]>=0?D.insts[p.AI[j]].n:null; }).filter(Boolean))];
+  el.innerHTML=`<button class="linkbtn" id="autBack">← most present authors</button><h3 style="margin-top:6px">${esc(a.n)}</h3>
+    <div style="font-size:14px;color:var(--ink-2)">${ins?`${esc(ins.n)}<br>${esc([ins.ci,ins.co].filter(Boolean).join(", "))}`:"Current affiliation unknown"}</div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin:8px 0"><span class="chip"><span class="dot" style="background:${regVar(autReg(a))}"></span>${esc(regName(autReg(a)))}</span><span class="chip">${a.p.length} atlas papers</span>${a.h!=null?`<span class="chip">h-index ${a.h}</span>`:""}</div>
+    ${where.length?`<p class="caption" style="margin:0 0 8px">Affiliations on atlas papers: ${where.slice(0,6).map(esc).join(" · ")}</p>`:""}
+    ${co.length?`<h4>Coauthors in the atlas · ${co.length}</h4><div style="display:flex;flex-wrap:wrap;gap:4px 10px;font-size:13px;margin-bottom:10px">${co.slice(0,30).map(([b,w])=>`<button class="linkbtn" data-ak="${b}">${esc(D.authors[b].n)}${w>1?` (${w})`:""}</button>`).join("")}</div>`:""}
+    <h4>Papers in the atlas</h4><div class="list">${ps.map(p=>paperRow(p)).join("")}</div>`;
+  wireRows(el); wireAut(el); el.querySelector("#autBack").addEventListener("click",()=>autSelect(null));
+}
+function autRow(k){ const a=D.authors[k], ins=a.i>=0?D.insts[a.i]:null; return `<div class="prow" data-ak="${k}" tabindex="0"><span class="yr"><span class="dot" style="background:${regVar(autReg(a))}"></span></span><span><div class="ti">${esc(a.n)}</div><div class="au">${esc(ins?ins.n:"affiliation unknown")}</div></span><span class="nc">${a.p.length}</span></div>`; }
+function wireAut(root){ root.querySelectorAll("[data-ak]").forEach(b=>b.addEventListener("click",()=>autSelect(+b.dataset.ak, true))); }
+function autPanelInst(i){
+  const el=document.getElementById("autPanel"); const ins=D.insts[i]; const ks=[...(autInstCounts().get(i)||[])].sort((a,b)=>D.authors[b].p.length-D.authors[a].p.length);
+  el.innerHTML=`<button class="linkbtn" id="autBack">← most present authors</button><h3 style="margin-top:6px">${esc(ins.n)}</h3><div class="caption" style="margin:0 0 6px">${esc([ins.ci,ins.co].filter(Boolean).join(", "))} · ${ks.length} authors (${AUT.mode==="now"?"there now":"wrote papers there"}, ${perOf(AUT.period)[1].toLowerCase()})</div>${ks.map(autRow).join("")}`;
+  wireAut(el); el.querySelector("#autBack").addEventListener("click",()=>autSelect(null));
+}
+
+/* ---------- Build a review: chosen topics, mechanisms, filters and questions -> structured review + AI prompt ---------- */
+const REV_DEF = {leaves:[], mechs:[], des:[], y0:1900, y1:D.meta.yearMax, set:"any", fr:false, emp:false, withX:true, qs:"", depth:8, order:"topic", ab:false};
+const REV_PRESETS = [
+  {n:"Voters & accountability for delivery", leaves:["C3","C4","C5","I1"], mechs:["M_visibility","M_moralhazard"], qs:"Does information about incumbent performance change how people vote?\nDo voters reward visible goods more than quality improvements?"},
+  {n:"Concentrated vs diffuse interests", leaves:["H1","H2","H3","H4"], mechs:["M_collective","M_lobby"], qs:"When do organised interests block reforms with diffuse benefits?\nDoes salience reduce special-interest influence?"},
+  {n:"Bureaucrats & state capacity", leaves:["G1","G3","G4","G6"], mechs:["M_bureau","M_statecap"], qs:"Do performance incentives for bureaucrats improve service delivery?\nHow does the selection of bureaucrats affect public services?"},
+  {n:"Clientelism & corruption", leaves:["E1","E4","F1","F3"], mechs:["M_clientelism","M_corruption"], qs:"What reduces vote buying?\nDo audits reduce corruption?"},
+  {n:"Media, persuasion & misinformation", leaves:["I1","I3","I4"], mechs:["M_media"], qs:"Does media coverage make politicians more responsive?\nDoes social media increase polarisation?"}];
+const REV_SAVED = (()=>{ try{ return JSON.parse(store("atlas-review")||"null"); }catch(e){ return null; } })();
+const REV = Object.assign({}, REV_DEF, REV_SAVED || REV_PRESETS[0]);
+const REV_OPEN = new Set();
+// ponytail: rough list of rich democracies, used only by the setting filter and the gaps line
+const HI_INC = new Set(["United States","United Kingdom","Germany","France","Italy","Spain","Sweden","Norway","Denmark","Finland","Netherlands","Belgium","Switzerland","Austria","Canada","Australia","New Zealand","Japan","South Korea","Israel","Ireland","Portugal","Greece","Iceland","Luxembourg","Europe"]);
+const QSTOP = new Set("the and for are was what how why does did which who whom when where with from into that this these those than then there their about over under between among more most less can could should would will its not but have has had been being any all our your they them effect effects impact impacts role".split(" "));
+const REV_DEPTH = [[4,"Brief"],[8,"Standard"],[15,"Full"]], REV_WORDS = {4:"1,500", 8:"3,000", 15:"6,000"}, VWORD = {"+":"supports","~":"qualifies","-":"contradicts"};
+let REV_LAST = {md:"", sel:[], qs:[]}, REV_IDX = null;
+const tog = (a,x) => a.includes(x) ? a.filter(y=>y!==x) : a.concat([x]);
+const revQs = () => String(REV.qs||"").split("\n").map(q=>q.trim()).filter(Boolean);
+const revTok = t => fold(t).split(/[^a-z0-9]+/).filter(w=>w.length>=3 && !QSTOP.has(w));
+const revTi = p => (p.t||"").replace(/<[^>]+>/g,"");
+const revAuFull = p => p.af && p.af.length<=160 && !/[\d/()*:]/.test(p.af) ? p.af : p.au;
+const revDes = k => D.designs[k] || k;
+RENDER.review = function(){
+  const v=document.getElementById("v-review");
+  ["leaves","mechs","des"].forEach(k=>{ if(!Array.isArray(REV[k])) REV[k]=[]; });
+  REV.leaves=REV.leaves.filter(id=>LF[id]); REV.mechs=REV.mechs.filter(id=>MECH[id]);
+  REV.leaves.forEach(id=>REV_OPEN.add(LF[id].br));
+  const cc=new Map(); PALL.forEach(p=>(p.ct||[]).forEach(c=>cc.set(c,(cc.get(c)||0)+1)));
+  const setOpts=[["any","Any setting"],["dev","Developing & emerging countries"],["hi","Rich democracies"],...[...cc.entries()].sort((a,b)=>b[1]-a[1]).slice(0,25).map(([c,n])=>[c,`${c} (${n})`])];
+  const hasAb=P.some(p=>p.ab);
+  v.innerHTML=`<h2>Build a literature review</h2><p class="intro">${D.meta.revIntro}</p>
+  <div class="panel" id="revForm">
+    <div class="rv-step"><h4>Start from an example</h4><div class="net-legend">${REV_PRESETS.map((p,i)=>`<button class="chip" type="button" data-pr="${i}">${esc(p.n)}</button>`).join("")}<button class="chip" type="button" id="revClear">Clear everything</button></div></div>
+    <div class="rv-step"><h4>1 · Topics</h4><p class="caption" style="margin-top:0">Open a branch and pick its sub-literatures. Leave this empty to let your questions choose the papers from the whole atlas.</p><div id="revTopics"></div></div>
+    <div class="rv-step"><h4>2 · Mechanisms (optional)</h4><p class="caption" style="margin-top:0">Adds every paper that tests the mechanism, and its founding models, whatever the topic.</p><div class="net-legend" id="revMechs"></div></div>
+    <div class="rv-step"><h4>3 · Filters</h4><div class="net-controls"><label class="field">Published <input type="number" id="revY0" min="1900" max="${D.meta.yearMax}" style="width:76px"> to <input type="number" id="revY1" min="1900" max="${D.meta.yearMax}" style="width:76px"></label>
+      <label class="field" for="revSet">Setting <select id="revSet">${setOpts.map(([k,l])=>`<option value="${esc(k)}">${esc(l)}</option>`).join("")}</select></label>
+      <label class="field"><input type="checkbox" id="revFr"> Only 2015 onward</label><label class="field"><input type="checkbox" id="revEmp"> Only empirical papers</label><label class="field"><input type="checkbox" id="revX"> Include works added from reference lists</label></div>
+      <div class="net-legend" id="revDesign"></div></div>
+    <div class="rv-step"><h4>4 · Your questions</h4><textarea id="revQs" rows="4" placeholder="One question per line, e.g.&#10;Do voters punish corruption when they learn about it?&#10;When do concentrated interests beat diffuse beneficiaries?"></textarea>
+      <p class="caption" style="margin-top:4px">Matched by keyword against titles, coded findings${hasAb?", abstracts":""} and topic names, so use the words a paper would use.</p></div>
+    <div class="rv-step"><h4>5 · Format</h4><div class="net-controls"><div class="net-legend" id="revDepth"></div><div class="net-legend" id="revOrder"><button class="chip" type="button" data-o="topic">Organise by topic</button><button class="chip" type="button" data-o="mech">Organise by mechanism</button></div></div></div>
+  </div>
+  <div class="net-controls rv-actions" style="margin:16px 0 10px"><button class="btn primary" type="button" id="revPrompt">Copy prompt for Claude or ChatGPT</button><button class="btn" type="button" id="revCopy">Copy as Markdown</button><button class="btn" type="button" id="revDl">Download .md</button><button class="btn" type="button" id="revPrint">Print or save as PDF</button>${hasAb?`<label class="field"><input type="checkbox" id="revAb"> Put abstracts in the prompt</label>`:""}<span class="caption" id="revMsg" style="margin:0"></span></div>
+  <div class="panel rv-out" id="revOut"></div>`;
+  [["revFr","fr"],["revEmp","emp"],["revX","withX"],["revAb","ab"]].forEach(([id,k])=>{ const e=document.getElementById(id); if(!e) return; e.checked=!!REV[k]; e.addEventListener("change",()=>{ REV[k]=e.checked; revUpdate(); }); });
+  [["revY0","y0"],["revY1","y1"]].forEach(([id,k])=>{ const e=document.getElementById(id); e.value=REV[k]; e.addEventListener("change",()=>{ REV[k]=+e.value||REV_DEF[k]; revUpdate(); }); });
+  const se=document.getElementById("revSet"); se.value=REV.set; if(se.value!==REV.set){ REV.set="any"; se.value="any"; } se.addEventListener("change",()=>{ REV.set=se.value; revUpdate(); });
+  const qa=document.getElementById("revQs"); let qt; qa.value=REV.qs; qa.addEventListener("input",()=>{ clearTimeout(qt); qt=setTimeout(()=>{ REV.qs=qa.value; revUpdate(); },350); });
+  v.querySelectorAll("[data-pr]").forEach(b=>b.addEventListener("click",()=>{ Object.assign(REV, REV_DEF, REV_PRESETS[+b.dataset.pr]); REV_OPEN.clear(); RENDER.review(); }));
+  document.getElementById("revClear").addEventListener("click",()=>{ Object.assign(REV, REV_DEF); REV_OPEN.clear(); RENDER.review(); });
+  document.getElementById("revCopy").addEventListener("click",()=>revCopy(REV_LAST.md,"Markdown copied."));
+  document.getElementById("revPrompt").addEventListener("click",()=>revCopy(revPrompt(),"Prompt copied: paste it into Claude or ChatGPT."));
+  document.getElementById("revDl").addEventListener("click",()=>{ if(!REV_LAST.md) return; const a=document.createElement("a"); a.href=URL.createObjectURL(new Blob([REV_LAST.md],{type:"text/markdown"})); a.download="literature_review.md"; document.body.appendChild(a); a.click(); a.remove(); });
+  document.getElementById("revPrint").addEventListener("click",()=>window.print());
+  revTopics(); revMechs(); revDesign(); revFormat(); revUpdate();
+};
+function revTopics(){
+  const el=document.getElementById("revTopics"), sel=new Set(REV.leaves);
+  el.innerHTML=D.branches.filter(b=>b.fam<8).map(b=>{ const ls=D.leaves.filter(l=>l.br===b.id), k=ls.filter(l=>sel.has(l.id)).length;
+    return `<details class="rv-br" data-br="${b.id}"${REV_OPEN.has(b.id)?" open":""}><summary><span class="dot" style="background:${famVar(b.fam)}"></span> ${esc(b.name)}<span class="muted num">${k?`${k} of ${ls.length} selected`:`${ls.length} sub-literatures`}</span></summary>
+      <div class="net-legend" style="margin:6px 0 6px 18px"><button class="chip" type="button" data-all="${b.id}">${k===ls.length?"Clear branch":"Whole branch"}</button>${ls.map(l=>`<button class="chip" type="button" aria-pressed="${sel.has(l.id)}" data-lf="${l.id}">${esc(l.name)} <span class="num" style="color:var(--muted)">${l.n}</span></button>`).join("")}</div></details>`; }).join("");
+  el.querySelectorAll("details").forEach(d=>d.addEventListener("toggle",()=>{ if(d.open) REV_OPEN.add(d.dataset.br); else REV_OPEN.delete(d.dataset.br); }));
+  el.querySelectorAll("[data-lf]").forEach(b=>b.addEventListener("click",()=>{ REV.leaves=tog(REV.leaves,b.dataset.lf); revTopics(); revUpdate(); }));
+  el.querySelectorAll("[data-all]").forEach(b=>b.addEventListener("click",()=>{ const ids=D.leaves.filter(l=>l.br===b.dataset.all).map(l=>l.id), all=ids.every(id=>REV.leaves.includes(id));
+    REV.leaves = all ? REV.leaves.filter(x=>!ids.includes(x)) : [...new Set(REV.leaves.concat(ids))]; revTopics(); revUpdate(); }));
+}
+function revMechs(){
+  const el=document.getElementById("revMechs"), sel=new Set(REV.mechs);
+  el.innerHTML=D.mechs.map(m=>`<button class="chip" type="button" aria-pressed="${sel.has(m.id)}" data-m="${m.id}" title="${esc(m.group)}">${esc(m.name)}</button>`).join("");
+  el.querySelectorAll("[data-m]").forEach(b=>b.addEventListener("click",()=>{ REV.mechs=tog(REV.mechs,b.dataset.m); revMechs(); revUpdate(); }));
+}
+function revDesign(){
+  const el=document.getElementById("revDesign"), sel=new Set(REV.des);
+  el.innerHTML=`<span class="field" style="margin-right:4px">Designs${sel.size?"":" (all; click to keep only some)"}</span>`+Object.entries(D.designs).map(([k,l])=>`<button class="chip" type="button" aria-pressed="${!sel.size||sel.has(k)}" data-d="${k}">${esc(l)}</button>`).join("")+(sel.size?` <button class="linkbtn" type="button" id="revDesAll">all designs</button>`:"");
+  el.querySelectorAll("[data-d]").forEach(b=>b.addEventListener("click",()=>{ REV.des=tog(REV.des,b.dataset.d); revDesign(); revUpdate(); }));
+  const all=document.getElementById("revDesAll"); if(all) all.addEventListener("click",()=>{ REV.des=[]; revDesign(); revUpdate(); });
+}
+function revFormat(){
+  const dp=document.getElementById("revDepth");
+  dp.innerHTML=REV_DEPTH.map(([n,l])=>`<button class="chip" type="button" aria-pressed="${REV.depth===n}" data-n="${n}">${l} · ${n} papers per list</button>`).join("");
+  dp.querySelectorAll("[data-n]").forEach(b=>b.addEventListener("click",()=>{ REV.depth=+b.dataset.n; revFormat(); revUpdate(); }));
+  document.querySelectorAll("#revOrder [data-o]").forEach(b=>{ b.setAttribute("aria-pressed",b.dataset.o===REV.order); b.onclick=()=>{ REV.order=b.dataset.o; revFormat(); revUpdate(); }; });
+}
+function revUpdate(){
+  store("atlas-review", JSON.stringify(REV));
+  REV_LAST=revBuild(); const out=document.getElementById("revOut"); out.innerHTML=REV_LAST.html; wireRows(out);
+  document.getElementById("revMsg").textContent = REV_LAST.sel.length ? `${fmt(REV_LAST.sel.length)} papers selected` : "";
+}
+function revIndex(){
+  if(REV_IDX) return REV_IDX;
+  const df=new Map(), docs=new Map();
+  PALL.forEach(p=>{ const d={t:new Set(revTok(revTi(p))), f:new Set(revTok(p.fd||"")), a:new Set(revTok(p.ab||"")), c:new Set(revTok([LF[p.lf]?.name||"", ...(p.me||[]).map(m=>MECH[m[0]]?.name||"")].join(" ")))};
+    docs.set(p.id,d); new Set([...d.t,...d.f,...d.a,...d.c]).forEach(w=>df.set(w,(df.get(w)||0)+1)); });
+  return REV_IDX={df, docs, vocab:[...df.keys()]};
+}
+// keyword relevance: idf-weighted hits in title (3), finding (2), topic & mechanism names (1.5), abstract (1); prefixes catch plurals
+// ponytail: bag of words without synonyms; swap for embeddings if questions prove too literal
+function revRank(q, ps){
+  const {df, docs, vocab}=revIndex(), N=PALL.length;
+  const toks=[...new Set(revTok(q))].map(t=>{ const ws=vocab.filter(w=>w===t || (t.length>=4 && w.startsWith(t)) || (w.length>=5 && t.startsWith(w))); return {ws, idf:Math.log(1+N/(1+d3.sum(ws,w=>df.get(w))))}; }).filter(t=>t.ws.length);
+  if(!toks.length) return [];
+  return ps.map(p=>{ const d=docs.get(p.id); if(!d) return null; let sc=0, hit=0;
+      toks.forEach(t=>{ const w=(t.ws.some(x=>d.t.has(x))?3:0)+(t.ws.some(x=>d.f.has(x))?2:0)+(t.ws.some(x=>d.c.has(x))?1.5:0)+(t.ws.some(x=>d.a.has(x))?1:0); if(w){ sc+=w*t.idf; hit++; } });
+      return hit ? {p, s:sc*(hit/toks.length)*(1+0.1*Math.log1p(p.nc||p.x||0))} : null; })
+    .filter(Boolean).sort((a,b)=>b.s-a.s);
+}
+function revPool(){
+  const Ds=new Set(REV.des);
+  return (REV.withX?PALL:PE).filter(p=>{ const y=p.y||0, ct=p.ct||[];
+    if(y && (y<REV.y0 || y>REV.y1)) return false;
+    if(REV.fr && y<2015) return false;
+    if(REV.emp && (!p.de || isTheory(p))) return false;
+    if(Ds.size && !Ds.has(p.de)) return false;
+    if(REV.set==="any") return true;
+    if(REV.set==="hi") return ct.some(c=>HI_INC.has(c));
+    if(REV.set==="dev") return ct.some(c=>!HI_INC.has(c) && c!=="Cross-country");
+    return ct.includes(REV.set); });
+}
+function revTally(ps){
+  const m=new Map(); ps.forEach(p=>{ if(isTheory(p)) return; (p.me||[]).forEach(([id,v])=>{ if(!MECH[id]) return; const o=m.get(id)||{id,name:MECH[id].name,s:0,q:0,c:0,n:0}; o.n++; o[v==="+"?"s":v==="~"?"q":"c"]++; m.set(id,o); }); });
+  return [...m.values()].sort((a,b)=>b.n-a.n);
+}
+const revTop = (arr,f,n) => [...d3.rollup(arr.flatMap(f), v=>v.length, x=>x)].sort((a,b)=>b[1]-a[1]).slice(0,n);
+function revEvidence(ps){ const e=ps.filter(p=>p.de&&!isTheory(p)), ds=revTop(e,p=>[p.de],3).map(([k,n])=>`${revDes(k)} ${n}`), cs=revTop(e,p=>p.ct||[],3).map(([k,n])=>`${k} ${n}`);
+  return `${e.length} empirical${ds.length?` (${ds.join(", ")})`:""}${cs.length?`, set in ${cs.join(", ")}`:""}; ${ps.length-e.length} theory, review or not yet coded.`; }
+function revFilters(){ const f=[]; if(REV.y0>1900||REV.y1<D.meta.yearMax) f.push(`published ${REV.y0}–${REV.y1}`); if(REV.fr) f.push("2015 onward"); if(REV.emp) f.push("empirical only");
+  if(REV.des.length) f.push(`designs: ${REV.des.map(revDes).join(", ")}`); if(REV.set!=="any") f.push(`setting: ${REV.set==="dev"?"developing & emerging countries":REV.set==="hi"?"rich democracies":REV.set}`); if(!REV.withX) f.push("syllabus papers only"); return f.join(" · "); }
+const revVerd = (p, only) => (p.me||[]).filter(m=>MECH[m[0]] && (!only||m[0]===only)).map(m=>[MECH[m[0]].name, m[1]]);
+function revBuild(){
+  const pool=revPool(), L=new Set(REV.leaves), M=new Set(REV.mechs), qs=revQs(), N=REV.depth, scoped=L.size||M.size;
+  const models=new Set([...M].flatMap(id=>MECH[id].modelIds||[]));
+  const inLeaf=(p,id)=>p.lf===id||(p.l2||[]).includes(id);
+  let sel=scoped ? pool.filter(p=>[...L].some(id=>inLeaf(p,id)) || (p.me||[]).some(m=>M.has(m[0])) || models.has(p.id)) : [];
+  const qres=qs.map(q=>({q, hits:revRank(q, scoped?sel:pool)}));
+  if(!scoped){ const ids=new Set(); qres.forEach(r=>r.hits.slice(0,40).forEach(h=>ids.add(h.p.id))); sel=pool.filter(p=>ids.has(p.id)); }
+  if(!sel.length) return {md:"", sel:[], qs, html:`<p class="caption">${scoped||qs.length?"No paper matches this selection: widen the years, setting or designs.":"Pick an example, a topic or a mechanism above, or type a question, and the review assembles here."}</p>`};
+  const B=[], used=new Map(), use=p=>(used.set(p.id,p), {p});
+  const leafIds = L.size ? [...L] : revTop(sel,p=>[p.lf],8).filter(([id,n])=>LF[id]&&n>=2).slice(0,6).map(d=>d[0]);
+  const emp=sel.filter(p=>p.de&&!isTheory(p)), ys=sel.map(p=>p.y).filter(Boolean), tally=revTally(sel);
+  const name = L.size ? (L.size<=3 ? [...L].map(id=>LF[id].name).join("; ") : `${L.size} sub-literatures across ${new Set([...L].map(id=>LF[id].br)).size} branches`) : M.size ? [...M].map(id=>MECH[id].name).join("; ") : "your questions";
+  B.push({t:"h1", x:`Literature review: ${name}`});
+  B.push({t:"p", x:`${fmt(sel.length)} papers (${fmt(emp.length)} empirical) published ${d3.min(ys)}–${d3.max(ys)}, ${Math.round(100*sel.filter(p=>p.y>=2015).length/sel.length)}% of them since 2015. Designs: ${revTop(emp,p=>[p.de],5).map(([k,n])=>`${revDes(k)} ${n}`).join(", ")||"none coded"}. Settings: ${revTop(sel,p=>p.ct||[],6).map(([k,n])=>`${k} ${n}`).join(", ")||"none coded"}.`});
+  B.push({t:"p", x:`Selection: ${[L.size?`topics ${[...L].map(id=>LF[id].name).join("; ")}`:"", M.size?`mechanisms ${[...M].map(id=>MECH[id].name).join("; ")}`:"", scoped?"":"papers matched by your questions", revFilters()].filter(Boolean).join(" · ")}.`});
+  let sec=1;
+  if(qs.length){ B.push({t:"h2", x:`${sec++}. Your questions`});
+    qres.forEach((r,i)=>{ B.push({t:"q", x:`Q${i+1}. ${r.q}`}); const hs=r.hits.slice(0,N);
+      if(!hs.length){ B.push({t:"p", x:"No paper in this selection matches these words. Try other terms, or clear the topics so the question searches the whole atlas."}); return; }
+      B.push({t:"p", x:`${r.hits.length} papers match; the ${hs.length} most relevant: ${revEvidence(hs.map(h=>h.p))}`});
+      B.push({t:"ps", items:hs.map(h=>use(h.p))}); }); }
+  if(REV.order==="topic") leafIds.forEach(id=>{ const l=LF[id], ps=sel.filter(p=>inLeaf(p,id)); if(!ps.length) return;
+    B.push({t:"h2", x:`${sec++}. ${l.name}`});
+    B.push({t:"p", x:`${ps.length} papers in this selection, in ${BR[l.br].name}. ${revEvidence(ps)}`});
+    if(l.settled) B.push({t:"note", k:"Settled", x:l.settled});
+    if(l.open) B.push({t:"note", k:"Open frontier", x:l.open});
+    const found=ps.filter(p=>!(p.y>=2015)).sort((a,b)=>(b.nc-a.nc)||((b.x||0)-(a.x||0))).slice(0,N), front=ps.filter(p=>p.y>=2015).sort((a,b)=>(b.nc-a.nc)||(b.y-a.y)).slice(0,N);
+    if(found.length){ B.push({t:"h3", x:"Foundations: the most-taught work before 2015"}); B.push({t:"ps", items:found.map(use)}); }
+    if(front.length){ B.push({t:"h3", x:"The frontier: 2015 onward"}); B.push({t:"ps", items:front.map(use)}); }
+    const mt=revTally(ps); if(mt.length) B.push({t:"ul", x:"Mechanisms tested here", items:mt.slice(0,6).map(m=>`${m.name}: ${m.s} support, ${m.q} qualify, ${m.c} contradict`)}); });
+  else { if(!tally.length) B.push({t:"p", x:"No coded mechanism tests in this selection: switch to Organise by topic."});
+    tally.slice(0,Math.max(4,Math.min(12,N))).forEach(mt=>{ const m=MECH[mt.id], ms=(m.modelIds||[]).map(i=>P[i]).filter(Boolean);
+      B.push({t:"h2", x:`${sec++}. ${m.name}`}); B.push({t:"p", x:m.logic});
+      if((m.models||[]).length) B.push({t:"p", x:`Models: ${m.models.join("; ")}.`});
+      if((m.predictions||[]).length) B.push({t:"ul", x:"Predictions", items:m.predictions});
+      if(ms.length){ B.push({t:"h3", x:"Founding models"}); B.push({t:"ps", items:ms.map(use)}); }
+      [["+","Supporting evidence",mt.s],["~","Qualifying evidence",mt.q],["-","Contradicting evidence",mt.c]].forEach(([vv,h,n])=>{
+        const ev=sel.filter(p=>!isTheory(p)&&(p.me||[]).some(x=>x[0]===mt.id&&x[1]===vv)).sort((a,b)=>(b.nc-a.nc)||((b.y||0)-(a.y||0))).slice(0,N);
+        if(ev.length){ B.push({t:"h3", x:`${h} (${n})`}); B.push({t:"ps", items:ev.map(p=>({...use(p), only:mt.id}))}); } }); }); }
+  if(tally.length){ B.push({t:"h2", x:`${sec++}. Mechanisms across the selection`});
+    B.push({t:"tbl", head:["Mechanism","Models","Tests","Support","Qualify","Contradict"], rows:tally.map(m=>[m.name,(MECH[m.id].models||[]).slice(0,2).join("; "),m.n,m.s,m.q,m.c])});
+    const cont=tally.filter(m=>m.n>=4 && (m.q+m.c)/m.n>=0.4);
+    if(cont.length) B.push({t:"p", x:`Most contested: ${cont.map(m=>`${m.name} (${Math.round(100*(m.q+m.c)/m.n)}% of tests qualify or contradict)`).join("; ")}.`}); }
+  const gaps=[], miss=["RCT","NatExp","RD","DiD","IV"].filter(k=>D.designs[k] && !emp.some(p=>p.de===k)), set1=revTop(emp,p=>p.ct||[],1)[0];
+  if(emp.length && miss.length && !REV.des.length) gaps.push(`No ${miss.map(revDes).join(", ")} studies in this selection.`);
+  if(set1 && emp.length>=5 && set1[1]/emp.length>=0.3) gaps.push(`${Math.round(100*set1[1]/emp.length)}% of the empirical papers study ${set1[0]}; evidence from elsewhere is thinner.`);
+  if(emp.length>=5) gaps.push(`${Math.round(100*emp.filter(p=>(p.ct||[]).some(c=>!HI_INC.has(c)&&c!=="Cross-country")).length/emp.length)}% of the empirical papers are set in developing or emerging countries.`);
+  tally.filter(m=>m.n<=2).forEach(m=>gaps.push(`${m.name}: only ${m.n} test${m.n===1?"":"s"} in this selection.`));
+  leafIds.forEach(id=>{ if(LF[id].open) gaps.push(`${LF[id].name}: ${LF[id].open}`); });
+  const nTit=sel.filter(p=>!p.fd).length; if(nTit) gaps.push(`${nTit} of these papers are placed from their titles only, so their findings are not coded here.`);
+  if(gaps.length){ B.push({t:"h2", x:`${sec++}. Gaps and open questions`}); B.push({t:"ul", items:gaps}); }
+  B.push({t:"h2", x:"References"}); B.push({t:"refs", items:[...used.values()].sort((a,b)=>revAuFull(a).localeCompare(revAuFull(b))||(a.y||0)-(b.y||0))});
+  return {md:revMd(B), html:revHtml(B), sel, qs};
+}
+function revPaperMd(it){ const p=it.p, bits=[p.de?revDes(p.de):"", (p.ct||[]).join(", ")].filter(Boolean).join(" · "), vs=revVerd(p,it.only);
+  return `- **${p.au} (${p.y||"n.d."})**, *${revTi(p)}*${p.v?`, ${p.v}`:""}. ${p.fd||"_Title only: finding not coded._"}${bits?` [${bits}]`:""}${vs.length?` — ${vs.map(([n,v])=>`${VWORD[v]} ${n}`).join("; ")}`:""}`; }
+function revPaperHtml(it){ const p=it.p, vs=revVerd(p,it.only);
+  return `<div class="rv-p" data-pid="${p.id}" tabindex="0"><div><b>${esc(p.au)} (${p.y||"n.d."})</b> · ${esc(revTi(p))}${p.v?` <span class="muted">${esc(p.v)}</span>`:""}</div><div class="fd">${p.fd?esc(p.fd):`<i class="muted">Title only: finding not coded.</i>`}</div><div class="tags">${p.de?`<span class="tag">${esc(revDes(p.de))}</span>`:""}${(p.ct||[]).slice(0,3).map(c=>`<span class="tag">${esc(c)}</span>`).join("")}${vs.map(([n,v])=>`${verdictChip(v)}<span class="muted">${esc(n)}</span>`).join(" ")}<span class="tag">${p.x?`ref·${p.x}`:`${p.nc} courses`}</span></div></div>`; }
+function revMd(B){ return B.map(b=>{ switch(b.t){
+  case "h1": return `# ${b.x}`; case "h2": return `## ${b.x}`; case "h3": return `### ${b.x}`; case "p": return b.x; case "q": return `> **${b.x}**`; case "note": return `**${b.k}.** ${b.x}`;
+  case "ul": return (b.x?`**${b.x}**\n\n`:"")+b.items.map(x=>`- ${x}`).join("\n");
+  case "ps": return b.items.map(revPaperMd).join("\n");
+  case "tbl": return [`| ${b.head.join(" | ")} |`, `| ${b.head.map(()=>"---").join(" | ")} |`, ...b.rows.map(r=>`| ${r.join(" | ")} |`)].join("\n");
+  case "refs": return b.items.map(p=>`- ${revAuFull(p)} (${p.y||"n.d."}). ${revTi(p)}.${p.v?` *${p.v}*.`:""}${p.doi?` https://doi.org/${p.doi}`:""}`).join("\n"); } }).join("\n\n")+"\n"; }
+function revHtml(B){ return B.map(b=>{ switch(b.t){
+  case "h1": return `<h2>${esc(b.x)}</h2>`; case "h2": return `<h3 class="rv-h2">${esc(b.x)}</h3>`; case "h3": return `<h4 class="rv-h3">${esc(b.x)}</h4>`; case "p": return `<p>${esc(b.x)}</p>`;
+  case "q": return `<div class="callout rv-q">${esc(b.x)}</div>`; case "note": return `<div class="branch-note"><b>${esc(b.k)}.</b> ${esc(b.x)}</div>`;
+  case "ul": return (b.x?`<h4 class="rv-h3">${esc(b.x)}</h4>`:"")+`<ul>${b.items.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`;
+  case "ps": return `<div class="list">${b.items.map(revPaperHtml).join("")}</div>`;
+  case "tbl": return `<div class="scroll-x"><table class="ledger"><thead><tr>${b.head.map(h=>`<th>${esc(h)}</th>`).join("")}</tr></thead><tbody>${b.rows.map(r=>`<tr>${r.map(c=>`<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+  case "refs": return `<ol class="rv-refs">${b.items.map(p=>`<li data-pid="${p.id}">${esc(revAuFull(p))} (${p.y||"n.d."}). ${esc(revTi(p))}.${p.v?` <i>${esc(p.v)}</i>.`:""}</li>`).join("")}</ol>`; } }).join(""); }
+function revPrompt(){
+  const r=REV_LAST; if(!r.md) return "";
+  const pack=r.sel.slice().sort((a,b)=>(b.nc-a.nc)||((b.x||0)-(a.x||0))||((b.y||0)-(a.y||0))).slice(0,300);
+  const line=p=>{ const vs=revVerd(p); return `- ${p.au} (${p.y||"n.d."}). ${revTi(p)}.${p.v?` ${p.v}.`:""} Design: ${p.de?revDes(p.de):"not coded"}. Setting: ${(p.ct||[]).join(", ")||"not coded"}. ${p.x?`Cited by ${p.x} syllabus papers`:`Taught in ${p.nc} courses`}. Finding: ${p.fd||"title only, not coded"}.${vs.length?` Mechanisms: ${vs.map(([n,v])=>`${n} (${VWORD[v]})`).join("; ")}.`:""}${REV.ab&&p.ab?` Abstract: ${p.ab}`:""}`; };
+  return `You are helping a political-economy researcher write a structured literature review.
+
+${r.qs.length?`Questions the review must answer:\n${r.qs.map((q,i)=>`${i+1}. ${q}`).join("\n")}\n\n`:""}Instructions
+- Use only the papers in the evidence pack below, cited as (Author Year). Mark anything you add from your own knowledge as "outside the pack".
+- Organise by debates and mechanisms, not paper by paper: framing and the canonical models; one section per ${REV.order==="topic"?"topic":"mechanism"} in the outline;${r.qs.length?" an explicit answer to each question, with the strength of the evidence (designs, settings, consistency);":""} contested results and why studies disagree (setting, design, outcome measured); gaps, and research designs that could close them; references.
+- The codings (design, setting, one-line finding, mechanism verdicts) are a reader's annotations, mostly from abstracts, not the full texts. Papers marked "title only" have no coded result: do not guess their findings.
+- Length: about ${REV_WORDS[REV.depth]} words, for an economics PhD audience.
+
+=== Outline assembled by the PolEcon Frontier Atlas ===
+
+${r.md}
+=== Evidence pack: ${pack.length===r.sel.length?`all ${pack.length}`:`the ${pack.length} most-taught of ${r.sel.length}`} papers in the selection ===
+${pack.map(line).join("\n")}
+`;
+}
+async function revCopy(text, msg){
+  const m=document.getElementById("revMsg"); if(!text){ m.textContent="Nothing to copy yet."; return; }
+  try{ await navigator.clipboard.writeText(text); m.textContent=`${msg} ${fmt(text.length)} characters.`; }
+  catch(e){ mbody.innerHTML=`<h3>Copy this text</h3><p class="caption">The browser blocked the clipboard: select all (Ctrl/⌘+A) and copy.</p><textarea style="width:100%;height:60vh" readonly>${esc(text)}</textarea>`; modal.hidden=false; mbody.querySelector("textarea").select(); }
+}
+
+/* ---------- boot ---------- */
+applyTheme(store("atlas-theme")||"system");
+const start = (location.hash||"").slice(1);
+go(VIEWS.some(v=>v[0]===start)?start:start==="map"?"timeline":"overview");
+</script>

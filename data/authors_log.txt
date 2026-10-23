@@ -1,0 +1,15 @@
+papers with authors 2147 authors 2333
+authors 0
+authors 250
+authors 500
+authors 750
+authors 1000
+authors 1250
+authors 1500
+authors 1750
+authors 2000
+authors 2250
+institutions 0
+institutions 250
+institutions 500
+done: authors 2333 institutions 547

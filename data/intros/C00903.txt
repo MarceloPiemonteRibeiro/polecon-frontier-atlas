@@ -1,0 +1,30 @@
+Signaling with Reform: How the Threat of Corruption
+Prevents Informed Policymaking*
+Keith E. Schnakenberg†
+Ian R. Turner‡
+February 2019
+Published in the American Political Science Review1
+Abstract
+Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.
+Keywords: Electoral Accountability; Campaigns; Lobbying; Signaling; Pandering
+*The authors would like to thank Stephane Wolton, Carlo Prato, Jon Woon, Richard Van Weelden, Chris Cotton,
+Thomas Groll, Arnaud Dellis, Philippe De Donder, Torun Dewan, Tasos Kalandrakis, Andrea Aldrich, Bill Clark, as well as seminar audiences at Texas A&M University, Universit´e du Qu´ebec `a Montr´eal, University of Pittsburgh,
+Washington University in St. Louis, and the London School of Economics and Political Science for very helpful discussions and feedback. Errors are ours alone.
+†Assistant Professor of Political Science, Washington University in St. Louis. Contact: keschnak@wustl.edu.
+‡Assistant Professor of Political Science, Yale University. Contact: ian.turner@yale.edu.
+1Full citation: Schnakenberg, Keith E. and Ian R. Turner. 2019. “Signaling with Reform: How the Threat of
+Corruption Prevents Informed Policymaking” American Political Science Review 113(3): 762-777.
+
+Political scientists are usually skeptical of blanket statements about the evils of special interest groups. Though corruption may explain some lobbying behavior (Grossman and Helpman, 2001), interest groups can also provide helpful policy information (Austen-Smith and Wright, 1992, 1994;
+Wright, 1996), increase the work-capacity of legislators (Hall and Deardorff, 2006), and provide a connection between the public and the policy process. However, most campaigns focus on the potential negative effects of lobbying. It is hard to imagine a candidate emphasizing how her cozy relationship with lobbyists will make her more effective in ofﬁce. In this article, we propose an explanation for this contrast: politicians may try to signal that they are non-corrupt by taking a combative stance toward interest groups even when this adversely affects their ability to govern.
+We develop a game-theoretic model of electoral competition in which two politicians vie for ofﬁce, committing themselves to either banning or granting interest group access should they win.
+Politician choices over group access can inform voters about whether or not politicians are corrupt.
+Once a politician wins ofﬁce an interest group, if access was granted, interacts with the winning politician. The group can engage in two types of lobbying by either providing policy-relevant in- formation or initiating a quid pro quo. The type of politician in ofﬁce dictates which lobbying tactic is most effective. The best case scenario from voters’ perspectives is to elect an honest politician who grants interest group access for informational lobbying. However, voters are uncertain about which politicians are honest and which are corrupt and therefore use access decisions to attempt to screen out corrupt politicians. This comes at the cost of information as sincere politicians will often ban interest group access to attempt to communicate their sincerity to voters, a behavior we refer to as signaling with reform.
+To illustrate our argument, consider a hypothetical election in which banking regulation is a central issue. During the campaign, the politicians can commit themselves to a policy which either allows or denies access to Wall Street interest groups. For instance, some politicians may indicate a need to work with the industry to develop effective regulations while others may emphasize a belief that the regulatory process is rigged in favor of moneyed interests and promise a closed- door policy toward industry lobbyists. These politicians may even support similar regulations
+1
+ while maintaining different positions toward interest group participation. Now suppose that some proportion of politicians seek access to secure campaign contributions from Wall Street. These politicians will always grant access to interest groups and will ultimately act in the interests of the industry. The problem is that voters cannot tell the difference between politicians who grant access because they are corrupt and those who grant access to better serve the voters’ interests. Thus, sincere politicians may deny themselves the information needed to make good policy by shutting out interest groups in order to convince voters that they are not corrupt.
+1
+Related literature
+1.1
+Lobbying tactics
+Our model builds on the idea that lobbying includes multiple tactics with countervailing implica- tions for voter welfare. We will focus on two well-studied lobbying tactics. We model socially unproductive lobbying as quid pro quo exchange between interest groups and politicians. Socially productive lobbying is modeled as policy-relevant information transmission. These two lobbying tactics are chosen because they have an important place in the lobbying literature and an unam- biguous relationship to voter utility in our model. In principle, either quid pro quo or information transmission could be replaced by some other notion of lobbying and the main insights of the model would be similar. The most important assumptions needed are that (a) the socially pro

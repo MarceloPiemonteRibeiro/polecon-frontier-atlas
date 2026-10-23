@@ -1,0 +1,41 @@
+# round 3, batch_003
+W4213034237|Cross-country|Review|Clientelism combines particularistic targeting with contingent exchange; it fades with development in some settings and adapts in others.|M_clientelism+|
+W3196446224|Argentina; Mexico; India; Venezuela|Book|Broker-mediated distribution explains why parties reward loyal voters and why machine politics declines with development.|M_clientelism+,M_bureau+|
+W2124298601|Argentina|Panel|Peronists gain more from patronage than the UCR because of better access to resources and poorer, more dependent voters.|M_clientelism+|F4
+W1985356778|Argentina|Survey|Vote buying works among poor voters when parties can monitor and punish defection; ballot reform could curb it.|M_clientelism+|F4
+W2059218518|Cross-country|Panel|Young democracies are more corrupt and favour targeted transfers because competitors cannot make credible broad promises.|M_clientelism+,M_commit+|
+01028|Chile|RD|Audited procurement officers shifted from transparent auctions to direct contracting, cutting competition: checklist audits can backfire.|M_bureau+,M_corruption~|F6
+W2024358613|Uganda|IV|A newspaper campaign publishing school grant allocations cut capture of funds and raised enrollment and learning.|M_media+,M_capture+|
+W3023420463|Cross-country|Review|Eight questions on corruption: measurement, correlates, magnitude, wages, competition, reform failures and growth effects.|M_corruption+|
+W3121335362|Cross-country|Panel|Politically connected firms are more likely to be bailed out, especially with IMF or World Bank money, and perform worse after.|M_corruption+,M_lobby+|
+W3121177697|United States|NatExp|Firms lost value when Jeffords's switch handed the Senate to Democrats in proportion to their Republican soft-money donations.|M_lobby+|
+W1972065210|Germany|NatExp|Firms connected to the Nazi party outperformed others by 5–8% in early 1933.|M_corruption+,M_lobby+|
+W3122199437|United States|DiD|Firms whose boards are connected to the party winning Congress in 1994 gained procurement contracts; losers' firms lost them.|M_corruption+,M_lobby+|
+W2134472446|Theory|Theory|Bureaucratic corruption can aid development by letting entrepreneurs bypass bad policy (efficient grease).|M_corruption-|
+W2122014785|Theory|Theory|Compares reservation, efficiency and capitulation wages for tax inspectors facing bribes.|M_corruption+,M_bureau+|
+W1519984423|Cross-country|Book|The state's grabbing hand of taxes, regulation and state firms stifles growth; depoliticizing economic life is the cure.|M_corruption+,M_capture+|
+W2165274688|Theory|Theory|Nasty interest groups threatening politicians can make honest leaders choose bad policies and delay reforms; publics respond by tolerating rents.|M_lobby+,M_capture+|
+W2912536286|Brazil; India; South Korea|Book|Developmental states combine coherent internal bureaucracy with close ties to society (embedded autonomy).|M_statecap+,M_bureau+|
+W3124514489|Europe|Panel|Fiscal centralization and limited government raised European states' extractive capacity and long-run growth.|M_statecap+|
+01376|India|Panel|VAT segments supply chains between registered and unregistered firms through sourcing distortions and complementary tax choices.|M_statecap~|
+W2088663850|Denmark|RCT|Evasion is near zero for third-party-reported income but substantial for self-reported income; audit threats raise only the latter.|M_statecap+|
+W1506056549|Pakistan|Struct|Turnover-based minimum taxes cut evasion by 60–70% and raise revenue 74% without lowering aggregate profits.|M_statecap+|
+W2108548811|Theory|Theory|Career concerns make agents work to influence assessments of their ability, which can help or hurt depending on alignment.|M_career+|
+W2124203762|Theory|Theory|Incentives from an informed principal can signal that a task is unattractive, crowding out intrinsic motivation.|M_bureau+|
+W2065190337|Theory|Theory|Technical tasks where ability matters more than effort are better delegated to independent bureaucrats; politicians resist delegating redistribution.|M_bureau+,M_career+|
+W2906886681|Uganda|RCT|Higher pay for village health promoters signalled less social value and repelled the most prosocial, who perform better.|M_bureau+|
+W2100746853|United States|Theory|Private contractors cut costs at the expense of non-contractible quality, which makes in-house provision preferable for services like prisons.|M_bureau+|
+W2011373323|Theory|Theory|Multiple and fuzzy missions weaken career-concern incentives in agencies, which then receive less autonomy.|M_career+,M_bureau+|
+W2107986666|Cross-country|XC|Weberian meritocratic recruitment and career ladders in bureaucracy predict faster growth.|M_bureau+,M_statecap+|
+W2804625995|Cross-country|Review|Social incentives move effort by about 10%, half of typical performance-pay effects, and can clash with financial incentives.|M_bureau+|
+W2043285762|Theory|Book|Budget-maximizing monopoly bureaus are too large and exploit their sponsors; competition among bureaus would help.|M_bureau+|
+W2095714582|United States|Panel|Federal grants' effects on state spending reflect Congress's and the White House's political demands through grant agencies.|M_bureau+,M_probvote+|
+W2150679261|Cross-country|Review|Surveys fiscal federalism: assignment of functions, laboratory federalism, competition and decentralization in developing countries.||
+02689|United States|Review|Measures of judicial ideology show a widening gap between Republican and Democratic appointees, driven by Republican appointees moving right.|M_citizencand+|
+02740|Italy|DiD|Randomly assigning municipal auditors instead of letting mayors choose them raised surpluses and tax revenue, most where auditors were corruptible.|M_corruption+,M_bureau+|F6
+W1978648732|United States|Panel|FTC decisions track the preferences of congressional oversight committees: Congress controls the agency.|M_bureau+,M_legbargain+|
+01797|Theory|Theory|Inside lobbying spending does not reveal interest groups' outside-lobbying power, so studies using it understate influence.|M_lobby+|
+02082|United States|NatExp|When disasters crowd politics out of the evening news, members of Congress vote more with their special-interest donors.|M_lobby+,M_visibility+,M_moralhazard+|
+02749|Europe|NatExp|Firms hiring ex-EU Commissioners earn positive abnormal returns, especially soon after the Commissioners leave office.|M_lobby+,M_corruption+|
+02702|United States|Panel|Meetings between foreign agents and US legislators bring their countries more aid and better tariffs, with no electoral cost to legislators.|M_lobby+|
+W1987936802|Theory|Theory|Interest groups target legislators whose voters are indifferent to their issue, so unorganized voters who care are still represented.|M_lobby+,M_collective~|

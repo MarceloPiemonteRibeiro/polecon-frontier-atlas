@@ -1,0 +1,40 @@
+Garcia-Hombrados, Jorge, Jansen, Marcel, Martinez, Angel, Ozcan, Berkay ,
+Rey-Biel, Pedro & Roldan-Mones, Antonio (2026) Ideological alignment and evidence-based policy adoption. American Economic Review, 116(7), 2574 - 2603. https://doi.org/10.1257/aer.20240673 https://researchonline.lse.ac.uk/id/eprint/140380/
+Version: Accepted Version
+Licence: Creative Commons: Attribution 4.0
+This document is the author’s accepted version of the journal article. There may be differences between this version and the published version.
+This author accepted manuscript has been made open access under the LSE open access publications policy and distributed under a Creative Commons: Attribution 4.0 license.
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+Ideological Alignment and Evidence-Based Policy Adoption
+Jorge Garc´ıa-Hombrados
+Marcel Jansen
+´Angel Mart´ınez
+Berkay ¨Ozcan
+Pedro Rey-Biel
+Antonio Rold´an-Mon´es
+April 12, 2026
+Abstract
+Evidence-based policy implementation relies on effectively disseminating evidence which, in turn, depends on the attributes of the messenger. We conducted a large-scale field experiment to examine the role of ideological alignment between knowledge brokers and local policy makers on policy adoption in Spain. An ideologically nonsalient research institution and ideologically opposing think tanks and newspapers communicated identical policy information to local policy- makers. Policy adoption increased by 65% when the informing institutions aligned ideologically with policymakers, while opposite-ideology informing institutions had no effect. Ideologically aligned institutions foster policy adoption more than prestigious, ideologically nonsalient ones.
+However, the latter difference (29%) is not statistically significant, likely due to limited statisti- cal power. Think tanks and newspapers were equally effective when ideologically aligned. These results provide crucial evidence on the critical role of knowledge brokers’ ideology in fostering evidence-based policymaking.
+Keywords: evidence-based, policy adoption, ideological alignment, RCT, policy brief, media.
+JEL codes: P0, C93, D72, D78, D83.
+Understanding how to improve the dissemination of scientific knowledge to policymakers is crucial for economic and social progress. Despite worldwide efforts to disseminate research findings and promote evidence-based policymaking (OECD, 2020), a significant gap persists between available evidence and the policies ultimately implemented (European Commission, 2022). Knowledge bro-
+*Garc´ıa-Hombrados: Universidad Aut´onoma de Madrid and IZA (email: jorge.garcia.hombrados@gmail.com);
+Jansen:
+Universidad Aut´onoma de Madrid and IZA (email: marcel.jansen@uam.es); Mart´ınez:
+Esade EcPol,
+ESADE-URL (email: amjorge14@gmail.com); ¨Ozcan: New York University Abu Dhabi and London School of Eco- nomics and Political Science (email:berkayozcan@gmail.com); Rey-Biel: Corresponding author. Universidad Ram´on
+Llull. ESADE-URL (email: Pedro.rey@esade.edu.); Rold´an-Mon´es: EsadeEcPol, ESADE-URL and London School of Economics and Political Science (email: antonio.roldan@esade.edu).
+The study was pre-registered with the
+American Economic Association RCT Registry (RCT ID: AEARCTR-0008967). This study received ethical approval from the Research Ethics Committee at the London School of Economics (LSE) and from the Ethics Committee at ESADE Business School. We thank Javier Mart´ınez for superb research assistance throughout the project. Jos´e
+Mar´ıa Cueto, Javier Lanza and Constanza Jeldres also provided excellent research assistance at various project stages.
+We are grateful to Miguel Almunia, Marina Agranov, Antonio Cabrales, Colin Camerer, Pol Campos-Mercade, Ste- fano DellaVigna, Nagore Iriberri, Stephen P. Jenkins, Joan Monr´as, Adam Oliver, Gerard Padr´o-i-Miquel, Diego
+Puga, Simeon Schudy, Almudena Sevilla, Uri Simonsohn, Joel Sobel and seminar audiences at UCSD, USC, UCLA
+Anderson, LSE Social Policy, CEMFI, UPF, UB, IE, ESADE, U. Innsbruck, U. Pablo de Olavide, U. Konstanz, U.
+Lund, UCL QSS, the Coller Conference in Behavioral Economics and the 2nd Istanbul Applied Economics Workshop for their comments. We thank Federaci´on de Municipios y Provincias, Fundaci´on Alternativas, Fundaci´on FAES, El
+Mundo, ElDiario.es and TIDES for supporting the experiment. This project has been funded by the Social Observa- tory of the ”La Caixa” Foundation as part of the project LCF/PR/SR21/52560009 and from Ministerio de Ciencia e
+Innovaci´on (PID2019-107916GB-I00 and PID2022-142172NB-I0). We also thank the Wikipedia Foundation for initial seed funding.
+ kers seek to bridge this gap between researchers and policymakers. However, information provision does not happen in a laboratory; it inevitably occurs in politicized contexts. While some knowledge brokers, like think tanks, are affiliated with specific ideologies, others are not.1 This raises two piv- otal questions: How does the ideological alignment between the institutions disseminating research and policymakers affect the adoption of evidence-based policies? And, are prestigious institutions with nonsalient ideologies the most effective in promoting evidence-based policies? To answer these questions, we conducted a large-scale field experiment collaborating with prominent and authori- tative institutions with opposing ideologies who disseminated research findings to a large sample of local policymakers.
+Our main experimental design keeps the information provided to policymakers constant and ma- nipulates two key variables — the institution disseminating research evidence and the format of information delivery — to investigate their impact on policy adoption across three potential factors.
+First, similarly to Hjort et al. (2021), we analyze the influence of informing policymakers compared to an uninf

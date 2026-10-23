@@ -1,0 +1,61 @@
+Recent attempts to explain the sust.ained cross count.ri,'s differences in per capita  output and growth rates have focused on the role of iutern,,/.ional differences in the  formation of knowledge in the presence of ext.ernalities and illcreasing returns to scale 
+(e.g., Romer (1986), Lucas (1988)). These studies ahstrackd, however, from the sig­ nificant role that income distribution may play in the explallittiou of the phenomenon,  conduding the analysis within a growth model charac.lerir,ed hy a representative agent. l 
+Empirical evidence snggests that income distrihution !llay indeed provide at least  a partial explanation for the cross-countries differences in l'er-citpita output. Kravis 
+(1960) established a correlation between income dist.rihutioll o.no output levels, demon­ strating that income is more equally distributed within wealt.llier couutries. An analysis  of recent statistics provided by the annual r~ports of t.he W" rld Bank, as presented in 
+Table 1, snggests that the observations made by I<ravis are , till prevalent. 
+Table 1: Income Distribllt.ion and Per·Capitn Ollt.pllt 
+Average P ercentage Share of Household Income,  by Percentile Groups of HOllseholds 
+Lowest 
+Second 
+Third 
+Fourt.h 
+Highest 
+20 percent 
+Q11intile 
+Quint.;I. 
+Qni ntile 
+20 percent 
+Low income economies 
+5.1 
+8.7 
+13.2 
+19.8 
+53.2 
+Lower middle income 
+4.4 
+8. 3 
+12.8 
+20.4 
+54.1 
+Upper middle income' 
+4.0 
+8.6 
+13.6 
+21.3 
+52.5 
+High income economies 
+6.5 
+12.3 
+17.4 
+2:\.7 
+40.1 
+. - _ .. --_.-. 
+'Excluding Hungary and Yugosla.vin. 
+Source: Table 26, World Development lhpnrt, TI,. World flonk , 1988 
+------- - ----- - -_..__.._--- . 
+1Aznrindis and Drnzen (1988) analyze the jssl1e within au overlnp J1ltlg-gt' lluntiol\s model cnphu­ lng intergenerntionnl effects of income distributiou hnt not jll t rng(".\\~rllt iOHnl dfect<;. Greenwood and 
+Jovanovic (1988) rmalyze the implications of ccotlomic growt.h fnr inco))lf': ili<;t.riblltion and KfLrl1i and 
+Zilchn (1988) the implicatiolls of tedmologicfll pr ogr ("_~s for income illeqll1\uty. 
+1 
+
+Exploring the time path of income distribution "long" rI " v~lnpment path , Kuznets 
+(1955) suggested that in the early stages of development incoTl'e in~qllalit.y ris~s whereas  in the mature stages income inequality d~c1ines . This contro""rsial hypothesis has been  confirmed by Summers, Kravis and Heston (1984), who analY7,erl the time patterns of  inequa.lity a.cross countries, demonstrat.ing that during Ih~ ['Nind 1950-1980 income  inequality declined sharply within industriali7,ed cO llntri~s , d~clined moderately within  middle income nations while increasing somewhat across low in come countries. Fur­ thermore, Lindert and Williamson (1985) suggested that the British pattern of devel­ opment supports the original findings of K uznet.s. The cNrelation betweeu income  distribution and output was largely interpret.ed as a re·flection of the implications of  economic growth for income distribution. Nevertheless, reVf'rse r;\-\lsality, from income  distribution to output as well as mutual implications are ronsistent with the exist­ ing empirical evidence. The theory presenterl in this paper will hinge upon the latter  interpretation. 
+This paper establishes a theoretical linkage, between income distribution and  aggregate economic activity as is reflected by investment, "ntput, and growth. The  analysis indicates that wealth distribution plays an im porlant role in the evolution  of the economy over time. An economy th"t is charad.eri7.erl hy " relat.ively equal  distribution of wealth is likely to be weitHhier in t.he Irmi!' r1lfl , in a(cordance with  the described empirical observations. Fnrt.hermore, th e s1 "dy suggests that wealth  distribution is significant in the determinat.ion of macro ecoll"mic adjust.ment to aggre­ gate supply ~hocks, demand shocks and t.echnologic'll inllo""t.inns. It. is shown that  the structural component of the adjustment. process (i.e., !.I,p shift. of labor from the  unskilled to t.he skilled sector) is larger the morc eqno.I incnI" ,. dist.rihllt.cd. 
+The paper develops a dynamic geneml equilibrium mod,,1 chorac.t.erjzed hy overlapping­ generations with int.ergenerational aItruiom 2 
+Til.. econnm .Y consist.s of one good that 
+2The model shares some of the features develop er{ by J.loll ry ( 1981) who (';xplored t.h e creatiou of 
+2 
+ can be produced by either a skill-intensive or an nnskilled-int0llsivp process. The aggre­ gate endowment of labor is exogenously given, whereas the dec(1 mposition of the labor  force between skilled and unskilled labor is endogenously ,\e!nm ined. Individuals live  two periods. In the first they may acquire educalioJI or wNk as unskilled labor and  in the second they are employed as skilled or unskilled labor according to their educa­ tion level. Individuals are characterized by ident.ical preferell,-es nver consumption and  bequest. They may differ, however, in their illherit.an ce of '.'pital endowments. 
+It is shown that due to capital market imperfections (associated with enforce­ ment costs) which result in a higher interest rat.e for borrowers than for lenders, the  acquisition of skills is limited to those individuals who inherit It sufficiently high level  of wealth. Thus, the distribution of wea\tl, determiues the iLggregate level of skilled  and unskilled labor and consequently the aggregate level of "ulput.. 
+The economy is characterized by ltIult.iple steady-stat (' equilibria as a result of  non-convexities in the production of hultlan capital. Wealfh dist.ribut.ion , therefore,  carries long-run as well as short-run implicat.ions. The historical rlist.ribut.ion of wealth  determines the dynamic evolution of the economy, the long-run rlecomposition of the  labor force between skilled and unskilled lahor, and conseqll('nily the long-run output. 
+If the marginal productivity of unskilled lil.hor is const'tII t. f I,e e("onomy is segmented  into rich dynasties in which genera

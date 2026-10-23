@@ -1,0 +1,48 @@
+NBER WORKING PAPER SERIES
+THE MORTALITY COST OF POLITICAL CONNECTIONS
+Raymond Fisman
+Yongxiang Wang
+Working Paper 21266 http://www.nber.org/papers/w21266
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+June 2015
+We thank the Kent Daniel, Harry DeAngelo, Wouter Dessein, David Hirshleifer, Harrison Hong, Emir
+Kamenica, John Matsusaka, Kevin Murphy, Jay Ritter, Amit Seru, Rene Stulz, Wei Xiong and Jiang
+Wang, as well as seminar participants at a number of institutions for insightful comments; Eric Hardy,
+Jane Zhao, Jun Xiao and Rong Xu provided excellent RA support. Wang also thanks the China National
+Science Foundation and (Grant Number: 71472180) and the Australian Research Council (DP150102339) for financial support. All errors are our own. The views expressed herein are those of the authors and do not necessarily reflect the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peer- reviewed or been subject to the review by the NBER Board of Directors that accompanies official
+NBER publications.
+© 2015 by Raymond Fisman and Yongxiang Wang. All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including
+© notice, is given to the source.
+
+The Mortality Cost of Political Connections
+Raymond Fisman and Yongxiang Wang
+NBER Working Paper No. 21266
+June 2015
+JEL No. D73,J81,P26
+ABSTRACT
+We study the relationship between the political connections of Chinese firms and workplace fatalities.
+In our preferred specification we find that the worker death rate for connected companies is two to three times that of unconnected firms (depending on the sample employed), a pattern that holds for within-firm estimations. The connections-mortality relationship is attenuated in provinces where safety regulators' promotion is contingent on meeting safety targets. In the absence of fatalities, connected firms receive fewer reports of major violations for safety compliance, whereas in years of fatal accidents the rate of reported violations is identical. Moreover, fatal accidents produce negative returns at connected companies and are associated with the subsequent departure of well-connected executives. These results provide suggestive evidence that connections enable firms to avoid (potentially costly) compliance measures, rather than using connections to avoid regulatory response after accidents occur. Our findings emphasize the social costs of political connections, and suggest that appropriate regulatory incentives may be useful in mitigating these costs.
+Raymond Fisman
+School of Business
+Columbia University
+622 Uris Hall
+3022 Broadway
+New York, NY 10027 and NBER rf250@columbia.edu
+Yongxiang Wang
+Marshall School of Business
+University of Southern California
+Los Angeles, CA 90089
+Yongxiang.Wang@marshall.usc.edu
+A data appendix is available at: http://www.nber.org/data-appendix/w21266
+
+There exists a longstanding debate on the social impact of rent-seeking by politically connected rms. The overall eect hinges to a large extent on whether political ties allow businesses to circumvent needlessly onerous bureaucratic constraints or to get around regu- lations that are socially benecial but result in lower rm prots. Yet there is little empirical evidence to inform our views on this tradeo. In this paper, we examine the link between
+rms' political ties and workplace fatalities in China, thus highlighting the cost side of this tradeo; we also examine the eect of regulator incentives in mitigating these costs.
+There have been many anecdotal accounts of substandard working conditions across a range of industries in China. As some indication of the scale of the problem, China's worker death rate is over 20 times that of the United Kingdom (Wang, 2011). This poor safety record is generally attributed to weak enforcement rather than the absence of adequate laws and regulations (Phillips, 2010). For example, a scathing assessment by the International
+Labour Organization in 2012 stated that rms in China's construction industry do not meet international standards, national laws and regulations due to a lack of prevention, illegal operations, poor preventive and protective measures, lack of provision of personal protection equipment and eective and regular safety inspections, audits and training. 1
+Bribery is often implicated in cases of poor safety compliance: following an explosion at a Nanjing chemical factory that killed 12 workers, the Wall Street Journal suggested that corruption and collusion between...factory owners and local inspectors limit the likelihood that laws protecting workers will be enforced. This view is echoed by statements from the national ministry charged with production safety, whose spokesman stated as recently as 2013 that
+protection from local government and corruption...are behind many major deadly accidents.
+Others have taken the contrary view - politicians plausibly put more weight on worker welfare relative to prots than businessmen, so that political ties could lead to better treatment of workers at politically connected rms (see Dong et.al. (2014) for recent evidence from China).
+We use data from publicly traded Chinese rms during 2008 - 2013 to examine the em- pirical relationship between rms' political connections and workplace safety. We begin by documenting a robust positive correlation between the political ties of executives and worker deaths. We dene a company to be politically connected if its CEO or another C-suite executive previously held a high-level government post; the number of workplace deaths per employee at connected rms is two to three times higher than at unconnected rms (depend- ing on the sample we employ). This pattern holds in regression specications, both in the cross-section and also in a rm-year panel with rm xed-eects, whe

@@ -1,0 +1,41 @@
+# batch_007 — abstracts
+00705|Vietnam|IV|Firm growth lowers bribes as a share of revenue, because inter-jurisdictional competition constrains officials (more for mobile firms).|M_corruption+|
+01027|Italy|Panel|Discretionary negotiated procurement is linked to corruption only when competition is restricted; discretion otherwise adds efficiency.|M_corruption~,M_bureau+|F6
+00019|Indonesia|NatExp|Rumours about Suharto's health moved stock prices of connected firms far more: a large share of their value came from connections.|M_corruption+|
+00197|United States|NatExp|Board ties to Vice-President Cheney had precisely zero market value: US institutions curb rents from personal connections.|M_corruption-|
+00419|South Korea|DiD|Presidents appoint network members to head state firms, which then steer more procurement to connected private firms that perform worse.|M_corruption+|
+00208|Theory|Theory|Bargaining between politicians and managers explains subsidies to state firms, bribes, and when privatization works.|M_corruption+|
+00285|China|Panel|Politically connected Chinese firms have two to three times the worker death rate, via avoided safety compliance; promotion-linked safety targets attenuate this.|M_corruption+,M_bureau+|
+00572|Africa|Review|Political distortions (patronage, contract enforcement, connections) explain recent African growth patterns better than deep historical factors.|M_clientelism+|
+00837|Italy|RD|Market leaders are more politically connected and innovate less; connections raise survival and size but not productivity, lowering aggregate growth.|M_corruption+,M_lobby+|
+00706|Italy|Panel|Connections to local politicians raise firm revenue 5% (25% where corruption is high) through public demand, reducing public-good provision ~20%.|M_corruption+|
+01717|Argentina|Panel|Firms connected to Argentina's junta had three times more union representatives repressed, then fewer strikes and higher valuations.|M_corruption+|
+01058|Cross-country|Panel|Political connections of controlling shareholders are widespread, especially where corruption is high; new connections raise firm value.|M_corruption+|
+00283|Cross-country|IV|Corruption lowers investment and growth across countries (instrumenting with ethnolinguistic fractionalization).|M_corruption+|
+00372|Theory|Theory|Optimal pay for corruptible inspectors: raising corruption penalties can even raise pollution; bribery is an inefficient incentive.|M_corruption+|
+00166|Theory|Theory|Red tape and corruption arise because governments act where markets fail and face internal agency problems, worse at low development.|M_corruption+,M_bureau+|
+00299|Theory|Theory|Contract enforcement needs honest public employees; it may be optimal to tolerate some corruption, more so in poor economies.|M_corruption+|
+00428|Theory|Theory|Groups influence policy with bribes and threats; cheaper violence means more corruption and less able politicians; immunity can help with weak courts.|M_corruption+,M_citizencand+|
+00903|Theory|Theory|Honest politicians may refuse lobbyists' access to signal integrity, losing valuable information.|M_cheaptalk+,M_lobby+|
+01500|Theory|Book|Theory of incentive regulation and procurement under asymmetric information (reviewed book).||
+00042|Theory|Theory|Legal and fiscal capacity are complementary investments, encouraged by common-interest public goods (external war), stability and inclusive institutions.|M_statecap+|
+00043|Cross-country|Book|Development clusters combine peace, broad taxation and rule of law; cohesive institutions and common interests sustain all three.|M_statecap+|
+00066|Colombia|Struct|Local state capacity decisions are strategic complements across municipalities; network spillovers account for much of the impact.|M_statecap+|
+00284|India|RCT|Biometric Smartcards made NREGS and pension payments faster, more predictable and less corrupt, cost-effectively.|M_bureau+,M_corruption+|F6
+00445|Theory|Theory|States invest in fiscal capacity as a forward-looking choice shaped by conflict risk, political instability and resource dependence.|M_statecap+,M_war+|
+00095|Europe|Hist|As money became decisive for military success, cohesive European states built capacity while divided ones dropped out.|M_statecap+,M_war+|
+01102|Theory|Theory|Civic culture of reciprocity sustains high voluntary compliance and fiscal capacity; institutions and common interests foster it.|M_statecap+,M_culture+|
+01676|Rwanda|Hist|Rwanda's high state capacity rests on state–society kinship networks, not Weberian bureaucracy; compliance tracks historical network strength.|M_statecap+|
+00202|DR Congo|NatExp|Coltan and gold price shocks led armed groups to settle as stationary bandits, creating taxes and administration; this raised welfare.|M_statecap+,M_war+|
+00165|China|Panel|A one-point higher tariff raises evasion (export–import gaps) about 3%, partly via misclassification.||
+00055|Cross-country|Desc|Informal taxation (often in-kind labour) is widespread and more regressive than formal taxes.|M_statecap+|
+00324|DR Congo|RCT|Property-tax collection by city chiefs raised compliance 3.2 points (revenue +44%) using local information, with more bribes but no loss of tax morale.|M_statecap+,M_bureau+|F6
+00433|Theory|Book|Textbook of public economics (reviewed).||
+01374|Brazil|Survey|VAT creates informality chains: suppliers and clients of informal firms are more likely informal; enforcement spreads up and down.||
+01103|Cross-country|Review|Poor countries tax little because of economic structure plus weak institutions, fragmented polities, weak media and weak compliance norms.|M_statecap+|
+00752|Theory|Theory|Third-party reporting by large firms makes collusive evasion unsustainable, so tax capacity rises with formal employment.|M_statecap+|
+01375|Ecuador|NatExp|Firms notified of revenue discrepancies raised reported revenue but offset it with reported costs, so collections barely rose.|M_statecap~|
+01371|Brazil|DiD|Rewarding consumers for demanding receipts raised firms' reported sales at least 21% and net revenue 9.3%.|M_statecap+|
+00820|DR Congo|RCT|A property-tax campaign raised compliance from 0.1% to 11.6% and raised political participation 31%: a participation dividend of taxation.|M_statecap+,M_coord+|
+01372|Mexico|DiD|Tying pensions to reported wages reduced firms' wage underreporting for younger workers.|M_statecap+|
+01369|Cross-country|Desc|The income-tax base expands with development as employee shares grow and third-party-reported income spreads down the distribution.|M_statecap+|

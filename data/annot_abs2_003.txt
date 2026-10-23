@@ -1,0 +1,41 @@
+# round 2, batch_003 — abstracts
+02057|Cross-country|Panel|Existing party systems choose electoral rules: few-party systems keep majority rule, and multiparty systems predate proportional representation.||
+02250|United States|Review|Field experiments on voter mobilization have produced measurable advances over survey research.||
+01992|Theory|Theory|Reputation-minded expert committees favour unconventional decisions, show a united front and may manipulate shared information.|M_career+,M_cheaptalk+|
+02251|United States|Lab|Lab elections confirm the size, competition and underdog effects of the Palfrey–Rosenthal turnout model, with deviations fit by quantal response.||
+02254|United States|Panel|Politically aware, partisan Nader supporters in competitive states defected strategically to major candidates, often at the ballot box.||
+02547|United States|Survey|Unions raise turnout among members and nonmembers; union decline modestly increased the class bias of the electorate.|M_collective+|
+02639|Theory|Theory|With social preferences the expected benefit of voting does not shrink with electorate size, making substantial turnout rational.||
+02086|Cross-country|Survey|Higher income inequality depresses political interest, discussion and turnout among all but the affluent.||
+02605|United States|Panel|US cities chose at-large or district elections strategically, with white majorities using rules to limit Black representation.|M_diversity+|
+02636|Theory|Theory|Simple majority rule satisfies the standard axioms on a larger class of preference domains than any other rule.||
+02638|United States|Lab|Subjects who believe they are more likely to be pivotal vote more, but most overestimate their pivotality.||
+02651|United States|Desc|Twin studies show a substantial share of the variation in turnout and participation is heritable.||
+02365|United States|NatExp|Voting for a candidate polarizes later opinions of him: eligible voters' presidential ratings are two to three times more polarized than ineligibles'.||
+02640|Theory|Book|Discusses Arrow's impossibility theorem, its limits for social reasoning, and voting rules closer to the ideal.||
+01923|United States|Struct|A structural model of turnout and voting across concurrent US elections quantifies ideology, information and civic duty.||
+02055|Cross-country|Panel|Low-magnitude PR districts deliver near-proportional representation while limiting fragmentation and coalition complexity.||
+02752|Italy|RD|Majoritarian-tier Italian deputies propose more constituency-targeted bills and are absent less than proportional-tier deputies.|M_moralhazard+,M_probvote+|
+01753|Theory|Theory|In common-value elections less-informed citizens abstain in deference to experts, yet turnout stays realistic and optimal.||
+01751|Theory|Review|Short introduction to social choice: implementation, impossibility theorems, agendas, tournaments and median-voter results.|M_median+|
+02666|Australia|DiD|Compulsory voting raised Australian turnout by 24 points and Labor vote and seat shares by 7–10 points, and raised pension spending.|M_median+|
+01766|Theory|Theory|Correlation neglect makes some voters vote on information rather than preferences, which can improve information aggregation.||
+02089|Switzerland|DiD|Sanctioned compulsory voting raised support for leftist referendum positions by up to 20 points.|M_median+|
+02664|United States|RCT|Voters mobilized to vote also became more informed about the election: information is endogenous to participation.||
+02663|France|RD|A third candidate in runoffs raises turnout, cuts top-two vote shares and flips one race in five against the closest candidate, through expressive voting.||
+00397|Switzerland|Panel|More concurrent propositions reduce voters' knowledge of federal ones but do not consistently lower decision quality.||
+01988|Theory|Theory|Parties choose turnout norms enforced by costly peer punishment; when enforcement is costly, smaller parties can be advantaged, as Olson predicts.|M_collective+|
+02637|Theory|Theory|Strategy-proofness plus the standard axioms uniquely characterize majority rule on any admissible domain.||
+02652|United States|RCT|Poll information shifts beliefs about closeness, but those beliefs do not change turnout.||
+02658|Cross-country|Panel|Generational change and the proliferation of elective offices explain most of the global decline in turnout.||
+02647|United States|Panel|Movers reveal that place explains 37% of cross-state variation in turnout and somewhat less of party affiliation.||
+02653|France; Cross-country|RD|Placing first rather than second in the first round raises a candidate's odds of staying in and winning, through party deals, voter coordination and bandwagons.|M_coord+|
+02641|Theory|Theory|Relaxing Arrow's independence condition to allow preference intensities uniquely characterizes the Borda count.||
+01979|United States|Struct|Incumbents have higher valence than challengers, worth 3.5 vote-share points; equalizing valence nearly doubles challengers' win probability.|M_selection+|
+02648|Cross-country|Review|Voting procedures mainly change participation costs and matter most when early and low-salience; election rules work through benefits.||
+02649|United States; France|RD|Candidates move to the centre between rounds and converge toward whichever opponent narrowly qualified: Downsian adjustment.|M_median+|
+02645|France|RCT|Home registration visits raised registration more than information alone, and the newly registered voted and became more informed.||
+02081|United States|DiD|Universal vote-by-mail modestly raises turnout without changing either party's turnout share or vote share.||
+02657|United States|NatExp|Each additional early-voting day raises turnout 0.22 points, more for women, Democrats and working-age voters.||
+02070|United States|Panel|Voters judge incumbents' taxes against neighbouring states', so yardstick competition shapes reelection and tax setting.|M_moralhazard+|
+02072|Theory|Theory|Accountability lets voters screen and discipline officials but induces pandering; the model says when to give decisions to voters, politicians or judges.|M_moralhazard+,M_selection+|

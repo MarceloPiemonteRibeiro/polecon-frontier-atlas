@@ -1,0 +1,32 @@
+This paper provides new evidence on the evolution of global interpersonal income inequality  between 1988 and 2008. This inequality concept measures inequality amongst all individuals in  the world irrespective of their country of residency thus implicitly assuming a “cosmopolitan”  social welfare function and translating the concern for within-country inequality to the global  level. Over the period 1988-2008, the face of globalisation changed dramatically with the  integration of many developing countries into the world economy. Global interpersonal  inequality captures the effects of these shifts on both within- and between-country inequality. 
+ 
+We find that the inequality in the global income distribution, as measured for example by a Gini  index, does not change very much over this period. However, this hides substantial re-ranking of  country-deciles and changes in the regional composition of different parts of the global  distribution. We first present new evidence on the evolution of global interpersonal inequality. 
+We then dig deeper and analyse changes in the composition of the global distribution of income. 
+ 
+Measuring global inequality empirically is substantially more difficult compared with within- country inequality. In the absence of a global household survey, we need to resort to combining  national surveys. Our database includes 565 household surveys across five benchmark years and  each country-year observation is represented by the average income of ten income decile groups.2 
+National surveys collect information in terms of local currencies, so we need to convert these into  a common currency preferably adjusting for differences in the price level (across countries and  over time).3 We should point out that in constructing our global distribution we mix income and  consumption surveys. We refer to them interchangeably, as is customary in this literature,  although we are obviously fully aware of the important differences between the two concepts.4 
+ 
+2 Each decile is weighted by its population, so we measure interpersonal global income inequality where each  individual is assigned the income of his or her income decile. 
+ 
+3 Analyses of national income inequality are often done on nominal incomes, thus assuming a common national price  level. We follow these national studies by ignoring differences in the price level within countries (except for the case  of China, India and Indonesia where we allow for rural-urban price differentials). 
+ 
+4 However, we improve on earlier approaches by keeping the type of survey (income or consumption) constant over  time for a particular country. 
+ 
+
+3 
+ 
+ 
+This paper offers four main contributions to the study of global income inequality. First, we  compile a new and improved database of national household surveys in response to criticism of  earlier data sets (for example by Anand and Segal, 2008). Second, this allows us to present more  credible results on global interpersonal income inequality between 1988 and 2008. Third, we  create balanced and unbalanced panels of country-deciles for five benchmark years. This allows  us to go further than the statements about which countries (and by how much) affected global  inequality, by looking into a more disaggregated distribution of country-deciles. We can thus  identify those country-deciles that have gained and lost most over this twenty year period. Fourth,  we present one of the first comprehensive adjustments for missing top incomes in the study of  global inequality.5 We offer valuable new empirical insights because the effect on global  inequality of non-response at the top within individual countries is unclear on a priori basis 
+(Deaton, 2005).6 
+ 
+We estimate the Gini index to be around 70%. The global Gini index has fallen over this twenty  year period, with the decline being strongest between 2003 and 2008. However, these observed  changes are probably not robust to plausible standard errors. The time-series pattern is robust to  alternative measures of inequality, such as the Theil indices. Most of global inequality is  accounted for by differences between countries, although this contribution has declined over  time, suggesting that countries have become more similar. The within-country component of  global inequality, however, has increased continuously over this twenty-year period. 
+ 
+ 
+5 Pinkovskiy (2013) estimates nonparametric bounds on the global Atkinson index allowing for any country-level  income distribution given fractile shares and a Gini index. With a sufficiently high non-response at the top, the  direction of change of global welfare between 1970 and 2006 becomes ambiguous. He does not present bounds for  global inequality measures which allow for non-response at the top. 
+ 
+6 It might appear intuitive that stretching out the top tail would increase within-country inequality. However, this is  not true in general and depends on the particular pattern in which underreporting occurs. As Deaton (2005) shows, if  the probability of compliance at the top decreases following a Pareto distribution and the true distribution of incomes  is lognormal, the “true” variance will not be different from the one obtained from a truncated distribution. The effect  on global inequality depends on the extent of top income misreporting across countries, where in the global income  distribution countries and their top income groups are, how far in the national income distribution non-participation  begins (e.g. top 10% or top 5%), and how populous the countries and their top recipients are. If top income  misreporting is particularly strong in poor countries, global inequality might actually fall once we allow for  underreporting at the top. 
+ 
+
+4 
+ 
+We present a number of robustness checks. When we scale survey incomes to final household  consumption from national accounts, we obtain a lower level of the global Gini index and a  stronger decline over time.7 We also present

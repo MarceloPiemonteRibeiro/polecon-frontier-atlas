@@ -1,0 +1,63 @@
+One way to try to account for political choices is to imagine that  each chooser occupies a fixed position in a space of one or more  dimensions , and to suppose that every choice presented to him is a  choice between two or more points in that space 
+•
+•
+•
+ 
+One of th e most difficult problems of def ining dimensions  in this way centers about the operational definition of distance 
+• 
+• 
+• Scales of the sort we have used 
+• 
+• 
+•  appear to define only an  ordering rel ation rather than an interval sc.ale •
+•
+•
+•
+ The  def inition of distance therefore marks a crucial gap between the  model we shall propose and the data we have presented. 
+MacRae (195 8 , pp. 3 55-56) 
+This e ssay bridges MacRae's "crucial gap. " Using solely the  nominal data of observed pol itical choices, we are abl e to e stimate  metric spatial distance s. 
+We pre sent our methodology in the context  of legislative roll call analysis. 
+The se methods also apply to the  analysis of voting in popular elections and other forms of pol itical  choice behavior when the choice set is a finite set of alternatives. 
+Consequently, we develop the analysis with more general ity than  necessary for our il lustrative example, an analysis of rol l call  voting in the U.S. Senate from 1979 through 1981. 
+The individuals making the pol itical choices can be either  voters or legislators. 
+Typical choice sets would be {Yea, Nay} , for  the U. S. Congre ss, {Carter, Ford, Did Not Vote} , for the 197 6 
+2 
+Presidential el ect ion, {Extreme Left, Communist, Social ist Federation, 
+Center, Independent Republ ican, Gaul list, Extreme Right, Blank or 
+Spoiled Ballot, Abstention} , for French elections in the 1960s. 
+A long-standing [e. g. , Rice (1924) ] re. search method i s to  create an Eucl idean representation of either the choices or the  individuals. 
+Various methods, such as factor analysis and nonmetric  scaling, have been applied in an e ssentially black box, stati stical- method driven fashion. 
+For roll call example s , see Weisberg (1968)  and Warwick (1977).1 
+Over a decade ago , re searchers began to realize that, if  choice beh avior is consistent with the elementary multidimensional  spatial model (Davis et al. , 1970) , the se black-box methods would  inaccurately recover the true Eucl idean coordinates. 
+At that time,  almost all work was based either upon legisl ator-by-legislator  analysis or roll call-by-roll call analysis. 
+In either case , measures  of association, such as Yul e ' s Q or d/d 
+, were input fodder to the  max  black box procedures. 
+As to legislator-by-legislator analysis, Morrison (1972)  pointed out that th e most accepted methods were all based on the  proportion of the total votes on wh ich two legisl ators disagreed. 
+Morrison showed th at the proportion of disagreement can serve ne ither  as a measure of angle nor as one of distance.2 
+S ince the black boxe s  assume their input is either distances or angles, they are unl ikely to 
+ recover the "true" Eucl idean space. 
+Independently, Weisberg ( 1968) pre sented a discussion similar  to Morrison's and also covered rol l call-by-roll call analysis. 
+In  addition, Weisberg addressed how error would affect the bl ack box  methods. 
+In an errorl ess world, a legisl ator will always vote , in  spatial terms, for the closest alternative , as suming sincere voting. 
+That i s , the legislator votes for the alternative with highest  ut ility. 
+But suppose these utilities are subj ect to error (perh aps  from perceptual error or from omitted, idiosyncratic dimensions ) , so  that the legisl ator no longer always choose s the closest alternative. 
+In that case, citing an abundant psychometric l iterature , Wei sberg 
+3  shows that the black box methods will generally find a space with more  dimensions than "truly" exi st. 
+The problems that Weisberg and Morrison pointed out with the  various mul tidimensional "bl ack box" procedures also occur with 
+Guttman scal ing, a procedure even more widely used by pol itical  scientists. 
+To see the relationship of Guttman scal ing to spatial  analysis, first a ssume a one-dimensional space where th e Yea and Nay  alternatives are points on the continuum. 3 
+Assume further that each  legislator vote s for the alternative closest to his ideal point. 
+In  th is case, the "cutting point" equidistant from the alternative s for  each roll call will divide the legi slators into "left" and "right"  camps, and one obtains a perfect Guttman scale. 
+In such a case, we  can never hope to learn anyth ing about the spatial position of  legislation since all pairs of alternatives with the same cutting 
+4  point generate the same roll call behavior. 
+We can, at least  ordinally, identify the cutting points, but we can never, in this  perfect world, learn where the alternatives are. 
+Hopeful ly, the  strong behavioral assumptions underlying Guttman scal ing will not hold  in practice, and there will be some error in the choices. 
+Somewhat  paradoxical ly, we need error to learn about the location of  al ternatives. 
+Now if th ere is error but only one "true" dimension and we  insist upon Guttman scaling [or related techniques such as MacRae' s 
+( 1970) Q-cluster analysis] not all the roll call s will form a single  scale. 
+In fact, as acknowledged by Clausen ( 1967 , p. 1023 ) in h i s  discussion of Lingoe s Multiple Scalogram Analysis, w e might wel l find  several scales and conclude that there are multiple dimensions or  issue areas when in fact only one exists. 
+When the true space is multidimensional , Guttman sca l ing will  also exaggerate dimensionality for another reason. 
+To see thi s ,  consider a two-dimensional space where choice i s again without error  and legislators vote for the closest alternative. 
+Now "Yea" and "Nay"  voters are separated by a cutting l ine , the perpendicular b i se ctor of  the l ine j oining the two alternative s. 
+Draw any l ine through the  space. 
+All roll cal l s with cutting l ine s pe

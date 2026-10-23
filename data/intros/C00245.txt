@@ -1,0 +1,38 @@
+One of the goals of political economy is to understand how institutional arrangements shape policy outcomes and human well-being. A large litera- ture has now emerged which studies aspects of this. For the most part this has concentrated on studying democratic institutions where elections are the main institution that shapes policy choices.
+However, throughout most of human history, elections have served a fairly modest role. Far more common are systems based on coercive power –such as monarchies, military dictator- ships or one party rule where elections are either a veil or non-existent.
+Recent history has seen a signi…cant move towards open and free elec- tions as a means of determining who should hold power. The case for such institutional arrangements is partly based on liberal values that emphasize the political freedoms that such institutions embody.
+Indeed, this intrinsic case for democracy, emphasized by Sen (1999), would stand regardless of whether it delivered concrete policy bene…ts to its citizens. But the case for democracy would be cemented further if there were demonstrable bene…ts in terms of outcomes.
+A key observation which motivates this paper is that autocratic govern- ment is not always a disaster in economic terms. Indeed, throughout history there has been growth and development in autocratic systems of government.
+For example, the British industrial revolution predates the introduction of free and fair elections with mass participation. Modern China is also a case in point with a spectacular growth performance in a non-democratic setting.
+Whether these observations damage the instrumental case for democracy is moot.
+After all, it is the counter-factual that matters – growth and de- velopment might have preceded at a greater pace were democracy present.
+But it is equally clear that whether one looks at democracy or autocracy there is a great deal of heterogeneity in their performance that cries out for explanation.
+This fact is illustrated in Figure 1, which shows estimated density func- tions for real GDP per capita growth rates among autocratic and democratic regimes that lasted …ve full calendar years or longer.1 A “regime”is de…ned
+1The density functions are estimated by using the Gaussian kernel and the bandwidth that minimizes the mean integrated squared error.
+Including regimes that lasted less than …ve years does not change the distributions substantially except for the inclusion of democratic regimes that existed less than 3 years, which tend to perform very badly
+(growth rates less than -1 percent).
+2
+ as a period in which authority characteristics of a country stay the same, ac- cording to the POLITY IV data set.2
+Regimes are democratic if the Polity score is positive, and autocratic if it is non-positive.3 The striking fact that we will explore in more detail is that the distribution of autocracies has fatter tails— there are more very good autocracies and more very bad autocracies compared to democracies.4
+The key challenge for students of political economy is to extract lessons from historical and contemporary experience about what makes government work in the general interest of its citizens. There is little doubt that building infrastructure, managing macro-economic policy, facilitating private trade and investment and protecting the vulnerable are all facilitated by e¤ective government.
+In this paper, we will focus somewhat narrowly on the issue of why autocracy can sometimes be successful. This project is not intended as a defense of autocracy, but as means of gaining further insights into the institutional basis of good government. It also contributes to broader discus- sions about the di¤erences in policy and performance between democracies and autocracies.
+The main focus of the paper is on the institutions that make government accountable – speci…cally …nding a means of removing poorly-performing leaders from o¢ ce.
+Democracies organize this through regularized contests for power in elections.
+However, the means of achieving accountability are more murky in autocratic settings. The analysis emphasizes accountability from a “selectorate” comprising insiders who have the ability to depose a leader.5
+We show that autocratic government works well when the power of the selectorate does not depend on the existing leader remaining in o¢ ce.
+The framework can be used to contrast the performance of autocracy and democracy in terms of accountability of leaders.
+We then turn to identifying successful autocracies empirically.
+We look at a variety of methods and use these to pick out regimes that are robustly high performers. This sample of regimes provides a structured basis for some case study analysis. We are also able to looking statistically at the patterns
+2Section 4 provides details.
+3The shapes of the two estimated density functions are similar if we de…ne a democratic regime as its Polity score being more than 5, as Fearon (2007) does.
+4Rodrik (1997, 2000), Almeida and Ferreira (2002), and Glaeser et al. (2004, Table 8) make similar observations although the unit of observation in their analysis is a country rather than a regime.
+5The term “selectorate”is borrowed from Bueno de Mesquita et al. (2003).
+3
+ of successful autocracies across countries.
+We then examine the idea that successful autocracies are able to generate accountability mechanisms in the absence of open contests for power.
+The remainder of this paper is organized as follows. In the next section, we review some of the voluminous literature on autocracy and democracy by both economists and political scientists to set our paper in context. Section three develops the model.
+In section four, we look empirically at success- ful autocracies and how far their incidence can be explained.
+Section …ve explores links between the theory and the characteristics of successful autoc- racies. Section six o¤ers some concluding remarks.
+2
+Background
+The background to this paper is a large body of studi

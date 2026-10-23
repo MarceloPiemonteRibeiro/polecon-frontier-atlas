@@ -1,0 +1,41 @@
+# round 2, batch_006 — abstracts
+01897|United States|Theory|Politicians design administrative procedures to stack the deck and curb bureaucratic drift by empowering favoured constituencies.|M_bureau+|
+01896|United States|Struct|Supreme Court labor-relations decisions respond to congressional preferences, limiting judicial independence.||
+01898|Theory|Theory|Procedures that let interest groups monitor agencies trade policy losses for information; competing groups, including opponents, monitor best.|M_bureau+,M_lobby+|
+01973|Theory|Theory|Veto-based oversight raises regulatory quality but makes agencies over-invest in observable effort; better overseer expertise beats forced disclosure.|M_bureau+|
+02690|United States|Panel|Republican and Democratic appointees vote differently in ideologically contested cases, and panel composition moderates or amplifies the gap.|M_citizencand+|
+02694|United States|Panel|When Congress, reflecting public discontent, proposes court-curbing bills, the Supreme Court strikes down fewer acts.||
+02692|United States|Panel|Sex affects judging only in sex-discrimination cases, where male judges side with plaintiffs less and female colleagues shift men's votes.|M_citizencand+|
+02691|United States|Panel|Adding a Black judge to an appellate panel nearly ensures that it upholds affirmative action.|M_citizencand+|
+01942|United States|Struct|Communities learned about Prohibition's crime costs from enforcement outcomes, explaining the policy's reversal.|M_culture+|
+01940|United States|Struct|Lower mandatory minimums would cut incarceration time but raise convictions; banning plea bargains would acquit over 20% of some incarcerated defendants.||
+00306|Theory|Theory|Contributions create an information externality that discourages lobbies from gathering information; groups specializing in money gain.|M_lobby+,M_cheaptalk+|
+00596|Theory|Theory|Informational lobbying moves policy only if messages are costly and the group's preferences point the right way.|M_lobby+,M_cheaptalk+|
+01986|Theory|Theory|Consulting two experts helps only when they are biased in opposite directions; rebuttal can induce full revelation.|M_cheaptalk+|
+02700|United States|Panel|Large firms' lobbying at the FCC follows collective-action and transaction-cost predictions; small firms' does not.|M_lobby+,M_collective+|
+02698|Theory|Review|Lobbying is mostly information transmission rather than money.|M_lobby+,M_cheaptalk+|
+02699|United States|Review|Summarizes agreed facts on lobbying and methods for causal inference in lobbying research.|M_lobby+|
+02194|United States|Panel|Across 1,779 policy issues, economic elites and business groups shape US policy while average citizens have little independent influence.|M_lobby+,M_median-|F5
+02707|Theory|Theory|Large firms can capture the rules, risking a "Medici vicious circle" in which economic and political power reinforce each other.|M_capture+,M_lobby+|
+01969|United States|Struct|Interest groups give more to legislators central in alumni networks, as the model predicts.|M_lobby+|
+01794|United States|NatExp|Industry contributions predicted legislators' SOPA/PIPA positions until the Internet blackout made the bills salient; then the link vanished.|M_lobby+,M_visibility+|
+02704|United States|Panel|Lobbyists earn politicians' trust by screening clients and are more selective when ideologically aligned with the politician.|M_lobby+|
+02705|United States|IV|Challenger spending matters far more than incumbent spending because it buys name recognition.||
+02706|United States|Panel|With repeat challengers, campaign spending has an extremely small effect on House outcomes.||
+02697|Theory|Theory|Contribution limits with matching public funds can be Pareto-improving even with truthful ads and rational voters.|M_lobby+|
+02695|Theory|Theory|Incumbents' fundraising advantage can deter challengers; matching funds help where advertising occurs and can hurt elsewhere.|M_lobby+|
+01922|Canada|Struct|Campaign spending in multiparty elections both shifts votes between parties and reduces abstention.||
+02452|United States|Panel|Contributions from competing telecom interests shift state utility commissions' regulatory decisions.|M_lobby+,M_capture+|
+02094|United States|Panel|Higher individual contribution limits select more polarized legislators; higher PAC limits select more moderate ones.|M_lobby+,M_selection+|
+02701|United States|Struct|High-lobbying firms carry a 6–8% political-risk premium that raises capital costs and cuts R&D.|M_lobby+|
+02673|United States|RCT|Political ads have small effects on favourability and vote regardless of context, message, sender or receiver.|M_media~|
+02703|Colombia|RD|Looser contribution limits give top donors more public contracts, which overrun costs more often.|M_lobby+,M_corruption+|
+02659|France|Text|Candidates stick to the party line but moderate campaign communication with non-policy issues when they need a broader electorate.|M_median+|
+02671|United States|RCT|Political practitioners predict which messages persuade barely better than chance and no better than laypeople.|M_media~|
+02678|United States|RCT|Campaigns' own experiments show small, theory-resistant variation in ad persuasiveness, which favours well-funded campaigns.|M_media+,M_lobby+|
+02696|France|RD|Spending limits with public reimbursement raise competitiveness and lower incumbents' reelection, through reimbursement rather than limits.|M_selection~|
+02062|Theory|Theory|Compares anarchic cooperation and competitive political entrepreneurs as solutions to collective action over public goods.|M_collective+|
+02064|Theory|Theory|Conditional cooperators and willing punishers survive alongside egoists; rules that reveal past behaviour support collective action.|M_collective~,M_culture+|
+02582|Cross-country|Review|Unions reduce inequality largely by reducing class bias in politics; their decline weakens labour's political voice.|M_collective+|
+01970|Theory|Theory|Volunteer-based organization approximates the optimal collective-action mechanism; organized groups succeed where unorganized finite groups never do.|M_collective~|
+01892|Theory|Theory|Regulation as an administered long-term contract has efficiency rationales; the case against regulation is overstated.|M_capture-|

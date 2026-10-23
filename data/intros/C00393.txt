@@ -1,0 +1,50 @@
+The recognition of social losses from contestable rents is one of the most significant  contributions of public choice to economics and politics. A substantial literature,  both theoretic and applied, has followed the observation by Gordon Tullock (1967)  that there is a social loss when rents are contested. A rent is a privileged benefit 
+(Tullock 1989) and the contest is one of persuasion or a quest for influence over the  decision who will have the privilege to benefit from the rent. Government is the  primary source of privileged benefit. We use the example of rents in academia to  illustrate that privileged benefit also exists outside of government.1 
+ 
+ 
+1 For literature on contest models, see Congleton, Hillman, and Konrad (2008), volume 1 on theory  and models, and volume 2 on applications. Konrad (2009) provides an overview of contest theory. 
+See also Hillman (2013) and Long (2013). For surveys of different aspects of rent seeking, see the  papers in Congleton and Hillman (2015). Anne Krueger (1974) gave the name ‘rent seeking’ to the  contesting of rents. There is a literature on design of contests for rent creation and rent sharing that  is not part of our concern. Our focus is on social loss from contestable benefits. 
+
+3 
+ 
+2. The social loss from contestable rents 
+Figure 1 shows a usual monopoly that maximizes profits by choosing price PM and  quantity QM when MR=MC. The triangle ABC is a deadweight loss known as the 
+Harberger triangle (after Harberger 1954) compared to the competitive market  equilibrium at price PC and quantity QC. In traditional presentations, monopoly  profits given by the rectangle PMABPC are an income transfer from consumers to the  owners of the monopoly. Gordon Tullock (1967) proposed, however, that monopoly  profits represent social loss if the profits are contestable. The profits are a rent or  privileged benefit that a competitive market would not provide. Competitive entry  would eliminate the monopoly rent. With monopoly persisting, resources can be  expected to be attracted into displacing the incumbent monopolist and becoming  the beneficiary of the monopoly profits. Resources will also be used by the  monopolist to defend the monopoly position. If the monopoly is politically  designated, the resources will be used in political persuasion or lobbying. If the  monopoly exists because of physical deterrence of competitors, the resources will  be used in a war over who will be the monopolist. In either case, use of resources in  contesting the monopoly profits replaces use of resources in competitive entry. 
+There are therefore two sources of social loss from monopoly in figure 1, (1) the  social loss due to the existence of monopoly (the Harberger triangle) and (2) a 
+
+4 
+  further social loss through resources used in contesting the monopoly rent, if the  rent is contestable.2 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+The social loss is precisely measured by the value of the monopoly rent in  figure 1 if rent dissipation in contesting the profits is complete (if resources equal in  value to the profits are attracted into contesting the profits) – but unless we know  the value of the monopoly rent and we observe actual use of resources in contesting  the rent, we cannot know whether the entire monopoly rent or a part is dissipated  in the contesting of the rent. With Nash behavior, the social loss from contestability  of the profits in figure 1 does not exceed the value of the profits. Behavioral  assumptions (see Sheremeta 2015; Dechenaux, Kovenock, and Sheremeta 2015) are  required for over-dissipation to occur (some type of emotional influence or 
+ 
+2 There can be links between the two sources of social loss. See Kahana and Klunover (2014). 
+MC=AC 
+B 
+C 
+A 
+PC 
+O 
+QC 
+QM 
+Quantity 
+Price 
+S 
+DEMAND 
+PM 
+MR 
+
+5 
+ 
+‘irrationality’ is required for more resources to be attracted to a contest than the  value of the rent that is contested). 
+Tullock titled his 1967 paper ‘the welfare costs of tariffs, monopoly, and  theft’. The contest could be to determine who benefits from protectionist rents  created by tariffs. The addition of ‘theft’ made clear the competitive process  underlying social loss. Thieves compete for other people’s money in seeking to  become the successful thief among many thieves. Resources and time to plan and  perpetrate theft are used before the identity of the successful thief is known. The  social loss therefore occurs before the actual theft takes place. When the theft occurs,  a redistribution of income takes place from the victim to the successful thief. The  redistribution does not affect total income. Total income will however have declined  in the course of the wasteful use of resources in planning and perpetrating the theft  before the theft took place. Tullock’s description of theft as akin to seeking  monopoly and protectionist rents makes clear the ex-ante nature of the social loss,  which is incurred before the identity of successful thieves or successful rent seekers  is established. 
+The theory of rent seeking stresses that the quest for influence in seeking  rents is a rational personal response based on positive expected utility from  participation in a contest for a rent – but the time and resources used in socially  unproductive persuasion, lobbying, and influence-seeking have productive  alternatives. Societies are therefore made poorer when contestable rents are present, 
+
+6 
+  or it is sufficient for unproductive use of resources that people believe that  privileged rents can be obtained through political influence. 
+A preliminary quest may be to persuade political decision makers to choose  policies that create rents. Resources are by prospective beneficiaries to influence the  rent-creating decision, perhaps cooperatively, and a deadweight loss is incurred  when the monopoly or protectionist rent is created. In a further contest, the rent  created is contested non-cooperatively by the potential beneficiaries. Katz and

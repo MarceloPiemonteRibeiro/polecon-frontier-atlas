@@ -1,0 +1,34 @@
+Organizations are governed by rules.
+A key function of these rules is to limit the agency costs that principals incur when they involve better informed but biased agents in the decision making.
+The decision rules that organizations employ for this purpose take many diﬀerent forms.
+Some rules allow the agents to make any decisions but give the principals the right to overrule or otherwise adjust them.
+When the U.S. House of Representatives delegates the drafting of bills to standing committees, for instance, it employs a variety of legislative rules that specify if and how the committees’ proposals can be amended. Other rules simply specify what decisions agents are and are not allowed to make and give them the right to freely choose among the permissible decisions. Regulators who delegate pricing decisions, for instance, often specify price caps below which the regulated ﬁrms can set any prices. In this paper we analyze the optimal design of such rules. In particular, we analyze the design of decision rules by a principal who faces an informed but biased agent and who is unable to commit to contingent monetary transfers.
+To illustrate the issues we are interested in, consider the classic problem of regulating a monopolist who is privately informed about his costs (Baron and Myerson 1982). In contrast to the standard literature, however, suppose that transfers between the regulator and the monopolist are ruled out by law.1
+In this setting, how should the regulator decide on the monopolist’s price? Should she simply impose the welfare maximizing price given the expected costs or should she involve the monopolist in the price setting process?
+In the latter case, what form should the monopolist’s involvement take? Should he be allowed to set any price below a price cap, for instance, or should the regulator opt for some other decision making process? In short, what is the best decision rule the regulator can adopt?
+The regulation problem illustrates the three main features of our model:
+(i.) an orga- nization that consists of a principal and an agent must make a decision.
+The principal and the agent have diﬀerent preferences over the possible decisions and their preferred decisions depend on the state of the world. In the regulation problem, the regulator and the monopolist disagree on the price that should be charged and their respective preferred prices vary with
+1In many countries and industries, regulators are legally forbidden to make transfers to ﬁrms (Laﬀont and
+Tirole 1990, 1993; Armstrong and Sappington 2004; see also our discussion below).
+1
+ the monopolist’s costs.
+(ii.) there is a mismatch between authority and information: while the principal has the legal right to make the decision, only the agent is informed about the state.
+The regulator, for instance, has the legal right to set the price but the monopolist is better informed about his costs. (iii.) as mentioned before, contingent transfers between the principal and the agent are not feasible, for instance, because of legal constraints as in the regulation problem.
+In this set-up the principal can commit to any deterministic decision rule.2
+The problem of ﬁnding the optimal decision rule reduces to a delegation problem (Holmström 1977, 1984).
+In this problem the principal simply decides on a set of decisions and the agent is then allowed to make any decision from this delegation set.
+In other words, the principal merely needs to decide what decisions the agent should and should not be allowed to make.
+The ﬁrst step in addressing this problem is to decide whether the principal should delegate any decision rights to the agent.
+In other words, the principal needs to decide whether she should let the agent choose between at least two alternatives or whether she should simply impose her best uninformed decision.
+In our setting the principal beneﬁts from delegation if and only if the principal and the agent are minimally aligned, a condition that depends on the preferences and the agent’s information. As one would expect, the principal is more willing to delegate to a more aligned agent. More surprisingly, in many cases the principal’s willingness to delegate does not depend on the agent’s informational advantage.
+In many speciﬁcations of the regulation problem, for example, the regulator beneﬁts from giving the monopolist some discretion over pricing if and only if the expected marginal costs are above a threshold that depends only on the demand characteristics.
+An increase in the monopolist’s informational advantage, as captured by a mean preserving spread of the cost distribution, therefore does not aﬀect the regulator’s willingness to give the monopolist some discretion over pricing.
+Once the principal has determined that she can beneﬁt from delegation, she must decide how much discretion the agent should have.
+In other words, she needs to decide which decisions the agent should be allowed to make and which should be ruled out. At ﬁrst glance one might think that the principal simply rules out those decisions for which the agent is very biased.
+A key insight of our analysis is that this is not the case. In particular, whether a
+2The analysis therefore encompases decisions rules that can be implemented through cheap talk (Crawford and Sobel 1982; Dessein 2002) and veto-delegation (Marino 2006; Mylovanov 2006), among many others.
+2
+ decision should be ruled out depends not just on the level of the bias but also on its slope. To see this, suppose that for some states the slope of the agent’s bias is not very big, that is, his preferred decisions are ﬂat relative to the principal’s. If this agent were allowed to make any decision, his decisions would, from the principal’s perspective, be too insensitive to changes in the state.
+The principal may then rule out intermediate decisions to encourage more state- sensitive decision making and she may do so even if the agent is locally very aligned.
+This insight allows us to derive a full

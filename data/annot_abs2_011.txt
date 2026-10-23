@@ -1,0 +1,41 @@
+# round 2, batch_011 — abstracts
+02181|Cross-country|Panel|Where low-skilled surplus labour weakens collective action, globalization lowers welfare spending in developing countries.|M_collective+|
+02176|France; Germany|Hist|Employers supported social insurance depending on sector-specific risks and skills, contrary to the view that business opposes it.|M_lobby+|
+02178|Cross-country|Book|Social spending spread with political voice, ageing and income, and its net growth cost has been about zero.|M_median+|
+02174|Cross-country|Panel|Redistribution in affluent democracies rose in proportion to rising market inequality as existing programs compensated.|M_median+|
+02197|Cross-country|Panel|Social democratic parties serve secure insiders and neglect labour-market outsiders.|M_probvote+,M_collective+|
+02258|Theory|Theory|Public education arises as a compromise between the rich and the young poor to limit government size, unless the young cohort is large.|M_median~|
+02193|United States|Desc|Tax policy tracks partisan elites more than public preferences: estate-tax repeal and the falling minimum wage defied majority views.|M_median-,M_lobby+|
+02198|Cross-country|Panel|PR systems produce centre-left coalitions and more redistribution than majoritarian systems.|M_legbargain+,M_median~|
+02065|Cross-country|Panel|Because richer citizens vote more, the pivotal voter is richer than the median; turnout predicts social spending.|M_median~|
+02172|Cross-country|Review|Labour institutions compress earnings and inequality but have equivocal effects on employment and unemployment.||
+02186|Cross-country|Panel|The territorial structure of inequality shapes whether countries centralize or fragment redistribution.|M_median+|
+02259|Theory|Theory|Taste diversity first tilts policy toward targeted special-interest goods and away from general redistribution, then at high diversity only redistribution survives.|M_diversity~,M_probvote+|
+02180|Cross-country|Review|Social protection in developing countries has authoritarian roots; reforms reflect varying political coalitions.|M_commit~|
+02200|United States|Desc|The wealthiest Americans hold vastly more material power than average citizens and may dominate policy in key areas.|M_lobby+|
+02541|Cross-country|Desc|Wealth inequality in small-scale societies tracks how much wealth is transmitted across generations: high for pastoralists and farmers, low for foragers.||
+02535|Latin America|Hist|Latin American inequality was not unusually high before the late 19th century, so persistence from the conquest is a myth.|M_commit-|
+02536|Cross-country|Hist|Social tables for 28 pre-industrial societies show elites extracted close to the maximum feasible inequality.|M_commit+|
+02188|Cross-country|Review|Top income shares collapsed in the early 20th century and rose again since 1980 in English-speaking countries, India and China but not continental Europe.||
+02189|Cross-country|Panel|When the middle is closer to the poor than to the rich, middle-income voters ally with the poor and redistribution rises.|M_median+|
+02201|Cross-country|Book|An accessible history of inequality within and between nations across time.||
+02182|Cross-country|DiD|Significant inheritance taxation followed mass mobilization for war, not suffrage extension.|M_median-,M_statecap+|
+02175|Cross-country|Panel|A composite model shows median-voter and power-resources theories jointly explain redistribution in 18 OECD countries.|M_median+,M_collective+|
+02190|Cross-country|Hist|Skeletal heights show agriculture opened inequality, while political institutions and military technology shaped its distribution.|M_commit+|
+02532|Cross-country|Review|Top 1% shares rose most where top tax rates fell, through bargaining over pay and returning capital incomes.|M_lobby~|
+02540|United Kingdom; United States|Panel|The US was more occupationally mobile than Britain in the 19th century, but its lead disappeared by the 1950s.||
+02125|Theory|Theory|The rich constrain taxes by threatening costly political conflict; opposition parties can broker Pareto-improving compromises.|M_lobby+|
+02525|Cross-country|Desc|Wealth-income ratios in rich countries rose from 200–300% in 1970 to 400–600% in 2010, returning toward 19th-century levels.||
+02533|United States|Desc|Upward mobility varies widely across US areas and correlates with less segregation and inequality, better schools, social capital and family stability.||
+02168|Cross-country|Book|Globalization reduced inequality between nations while raising it within them; domestic policy must respond.||
+02471|Theory|Review|Without proper rules finance degenerates into rent-seeking, which academia under-appreciates.|M_lobby+,M_capture+|
+02538|United States|Panel|Intergenerational elasticities were flat in the 19th century, rose sharply in 1900–1920 and declined slightly after.||
+02066|Theory|Theory|Equilibrium redistribution reflects group size, income responsiveness and within-group homogeneity, which can dominate.|M_probvote+,M_diversity+|
+02170|Sweden; Germany; South Korea|Hist|Labour-market reform followed the collapse of welfare coalitions as employers withdrew from settlements.|M_lobby+|
+02526|United States|NatExp|Winners of Georgia's 1832 land lottery did not educate their children or grandchildren more: wealth alone did not build human capital.||
+02534|Cross-country|XC|Inequality between ethnic homelands, rooted in geographic endowments, predicts lower development.|M_diversity+|
+02095|United States|Survey|Republican representatives respond more to the wealthy ("oligarchic"), Democratic ones roughly equally across incomes ("populist").|M_lobby+,M_median~|
+02169|Europe|Desc|Post-2008 EU labour-market reforms only partly reduced dualization between secure and insecure jobs.||
+02184|Cross-country|Review|Democracy and high wealth inequality coexist through other cleavages, fairness beliefs and possible capture by the rich.|M_median~,M_culture+|
+02529|China|Desc|China's top 10% income share rose from 27% to 41% in 1978–2015 as public wealth fell from 70% to 30% of the total.||
+02183|Cross-country|Panel|War mobilization raises taxes on the rich only when elites lack the resources to block it.|M_lobby+,M_statecap~|

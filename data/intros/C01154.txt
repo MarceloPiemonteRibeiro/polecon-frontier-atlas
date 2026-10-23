@@ -1,0 +1,34 @@
+A uthoritarian regimes hold elections for different reasons than their democratic counterparts.
+Rather than serving as mechanisms to regulate the competition for power, non-democratic elections act as means to distribute the spoils (Blaydes 2011;
+Magaloni 2006), mitigate intra-regime conﬂicts (Boix and Svolik 2013; Geddes 2006), or solve information problems (Brownlee 2007; Cox 2009; Lust-Okar 2005;
+Malesky and Schuler 2011). But the ultimate value of these elections lies in the incumbents’ ability to enhance public legitimacy and regime stability in parallel. To distinguish them from mere ceremonies, authoritarian elections should provide a basic level of fairness to encourage participation from the opposition. At the same time, these elections should safeguard the out- come by giving the ruling elite the subtle control over the electoral process. Any movement away from this equilibrium leaves the incumbent vulnerable to either an electoral defeat or protests against fraud (Gandhi
+2008; Magaloni 2008; Schedler 2013).
+In hegemonic party regimes, the dilemma between encouraging electoral competition and trying to curb the outcome is particularly relevant. The stability of these regimes depends upon their capacity to balance concessions to the opposition with the ﬁne control of electoral institutions. However, while incumbent parties can achieve these goals by tailoring electoral rules to their beneﬁt (D´ıaz-Cayeros and Magaloni
+2004; Higashijima and Chang 2015; Levitsky and Way
+2010), they often end up relying on fraud (Birch 2012;
+Little 2015; Rozenas 2015; Simpser 2013). If hege- monic parties contravene the rules they created in ﬁrst place, the role of electoral institutions in concealing electoral irregularities is unclear. Do electoral rules in non-democratic regimes shape the opportunities for fraud, or are they a mere façade for electoral manipulation?
+Thispaperexplorestheroleofelectoralinstitutionsin concealing manipulation using new data on the 1988 presidential election in Mexico. This election is often taken as an example of the way hegemonic parties rely on fraud despite their overwhelming control of the electoraladministration.Nevertheless,thewaysandthe scope of electoral manipulation in this event remain unknown. I focus on the opportunities to alter the vote tallies after an electoral reform that allowed district ofﬁcials to amend the results, preventing any legal objection from the opposition. While these provisions yielded the formal opportunities to manually alter the results, the ofﬁcial candidate’s surprising lack of pop- ularity behooved the incumbent party to rely on the governors of each state, who each had the ultimate task of coordinating and monitoring the electoral operation.
+I analyze the variation of fraud at the sub-national level by considering the governors’ electoral experience and personal ties to the presidential candidate. Working at the interface between formal and informal politics,
+I look for the constraints and opportunities involved in manipulating the election results during the vote- aggregation process.
+I document the extent of aggregation fraud in the election by using a novel database with images of more than 50,000 vote tallies available for the election.
+Applying Convolutional Neural Networks (CNN)— a computer-aided detection system used for image- recognition problems—I identify blatant alterations in about a third of the vote tallies in the country. A complementary analysis suggests that these alterations were more likely to occur in tallies from polling stations
+Francisco Cant´u
+, Assistant Professor, Political Science, University of Houston, fcantu10@uh.edu.
+Ang´elica Alva and Pablo Hern´andez Aparicio provided great re- search assistance. I am grateful to Danis Boumer, Rodolfo C´ordova,
+Federico Est´evez, Florian Hollenbach, Ryan Kennedy, Jacob
+Montgomery, Marco Morales, Jos´e Newman, Pippa Norris, Gonzalo
+Rivero, Alex Ruiz, Jane Sumner, and Ricardo Vilalta, the editor, and three anonymous reviewers for their useful feedback. This research also beneﬁtted from feedback during presentations at MIT, UC San
+Diego,theUniversityofOregon,the2016APSAAnnualMeeting,the
+2017 SPSA Annual Meeting, the 2017 MPSA Annual Meeting, the 2017 Conference of the Society for Political Methodology, and the
+2018 Texas Conference on Political Methodology. All errors are my own. Replication materials can be found on Dataverse at: https:// doi.org/10.7910/DVN/NNNPOU.
+Received: September 11, 2017; revised: December 21, 2018; accepted:
+March 27, 2019.
+710 https://doi.org/10.1017/S0003055419000285 Published online by Cambridge University Press
+ where the opposition was absent and in the jurisdictions of governors who had either personal ties to the ofﬁcial candidate or expertise in leading electoral operations for the ruling party.
+This paper sheds light on the opportunities avail- able for electoral fraud during the vote-aggregation process (Callen and Long 2015; Ferrari and Mebane
+2017; Myagkov, Ordeshook, and Shakin 2009). The results demonstrate that the inﬂation of vote returns occurred at the crossroads of the opportunities established by the electoral institutions and the ca- pacity of governors to mobilize the election ofﬁcials under their jurisdiction. These ﬁndings provide evi- dence for the existence of the formal and informal conditions for local ofﬁcials to execute fraud (Mar- tinez Bravo 2014; Mares 2015; Reuter and Robertson
+2012; Ziblatt 2009).
+This study also assesses the integrity of the vote tallies by introducing a CNN model that can be used in the analysis of other contemporary elections. The proposed approachcomplementsrecentdevelopmentsthatlookfor statistical anomalies in vote returns (Beber and Scacco
+2012; Mebane 2015; Myagkov, Ordeshook, and Shakin
+2009; Rozenas 2017). In particular, this work is most similar to the few works applying machine learning to identify patterns of electoral manipulation (Cant´u and
+Saiegh 2011; Levin, Pomares, and

@@ -1,0 +1,57 @@
+!
+!
+ 
+ 
+ 
+A Better Life for All? 
+Democratization and Electrification in Post-Apartheid South Africa 
+ 
+ 
+Verena Kroth*, Valentino Larcinese†, and Joachim Wehner‡ 
+ 
+ 
+December 2015 
+Accepted for publication in the Journal of Politics. 
+ 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!
+* Department of Government, London School of Economics and Political Science, Houghton Street, London 
+WC2A 2AE, United Kingdom (verena.kroth@gmail.com). 
+† Department of Government, London School of Economics and Political Science, Houghton Street, London 
+WC2A 2AE, United Kingdom (v.larcinese@lse.ac.uk). 
+‡ Department of Government, London School of Economics and Political Science, Houghton Street, London 
+WC2A 2AE, United Kingdom (j.h.wehner@lse.ac.uk).!
+
+!
+!
+ 
+ 
+ 
+Abstract: Does democracy affect basic service delivery? If yes, who benefits, and which elements of  democracy matter - enfranchisement, the liberalization of political organization, or both? In 1994, 19 million 
+South Africans gained the right to vote. The previously banned African National Congress was elected  promising “a better life for all”. Using a difference-in-differences approach, we exploit heterogeneity in the  share of newly enfranchised voters across municipalities to evaluate how franchise extension affected  household electrification. Our unique dataset combines nightlight satellite imagery, geo-referenced census  data, and municipal election results from the 1990s. We include covariates, run placebo regressions, and  examine contiguous census tracts. We find that enfranchisement increased electrification. In parts of the  country where municipalities lacked distribution capacity, the national electricity company prioritized core  constituencies of the ANC. The effect of democratization on basic services depends on the national  government’s ability to influence distribution at the local level. 
+ 
+Keywords: Democracy; Distributive politics; Electricity; South Africa. 
+ 
+Short title: Democratization and Electrification 
+ 
+Appendices: Supplementary material for this article is available in the appendix in the online edition. 
+ 
+Data and replication materials: Replication files are available in the JOP Data Archive on Dataverse. 
+
+!
+!
+1!
+Does democracy affect the delivery of essential basic services? If yes, who benefits, and which elements of  democracy trigger changes in implemented policies – enfranchisement, the liberalization of political  organization, or both? Several studies find that democracies are better at providing public services than  autocratic regimes (e.g., Lake and Baum 2001, Bueno de Mesquita et al. 2003, Min 2015). Franchise  extension can shift the median voter in a way that affects the size of government and redistribution towards  the poor (e.g., Meltzer and Richard 1981, Husted and Kenny 1997, Boix 2003, Aidt and Eterovic 2011, Aidt  and Jensen 2013) and the delivery of services benefiting the newly enfranchised (Aidt and Dallal 2008, 
+Miller 2008, Fujiwara 2013, Vernby 2013). 
+However, it is difficult to quantify the direct effect of democratization on the lives of the poor. Cross-country  comparisons may suffer from omitted variable bias, reverse causality, and sample selection bias (Ross 2006, 
+Hollyer et al. 2011). Reliance on cross-national data of uneven quality gives rise to concerns about  measurement error. Other studies examine the impact of democracy on resource allocation rather than  services delivered (Stasavage 2005). Yet, especially in poor countries, funds are often not spent as intended 
+(Stasavage and Moyo 2000, Reinikka and Svensson 2004). An additional challenge is that the process of  democratization typically entails a bundle of different changes, including franchise extension as well as the  lifting of barriers to political activity and organization. Yet, empirical work based on standard indices of  democracy (Munck and Verkuilen 2002) leaves unresolved what precisely it is about democracy that  accounts for the effect of interest. Tackling such “compound treatment” problems requires separating the  effects of franchise extension and political parties on service delivery. 
+This paper examines electrification in South Africa during the first period of democratic local government,  which provides a particularly good opportunity to evaluate the effect of democracy on service delivery. We  examine a case of contemporary democratization with unique scale: in 1994 suffrage was extended to about 
+19 million non-white South Africans, representing 84% of the estimated 22.7 million adult citizens and  permanent residents who had the right to vote (Southall 1994: 639). Restrictions on political activity were 
+
+!
+!
+2! lifted and all parties were free to compete in elections, including the previously banned African National 
+Congress (ANC) led by Nelson Mandela. At the same time, backlogs in basic services reflected the apartheid  era’s political inequality. Two-thirds of households were estimated to lack access to electricity (African 
+National Congress 1994: para. 2.7.1). Our identification strategy exploits heterogeneity in the share of the  newly enfranchised population across municipalities. This subnational approach helps mitigate several  concerns raised above. In particular, municipalities within a country are more comparable than countries with  different historical, cultural, and institutional circumstances, which reduces the risk of omitted variable bias.1 
+We use an innovative method to combine two sets of census data, the most reliable data available to directly  measure actual service delivery outcomes, which in turn we corroborate with nightlight satellite imagery. 
+Our study extends prior work on the politics of electrification. Brown and Mobarak (2009) document a  relative shift in the distribution of electricity from industry towards households that is associated with  democratization, but this cross-national work suffers from shortcomings including standard identification an

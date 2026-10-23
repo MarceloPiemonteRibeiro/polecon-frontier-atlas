@@ -1,0 +1,37 @@
+Wolton, Stephane (2019) Are biased media bad for democracy? American Journal of Political Science, 63(3), 548 - 562. https://doi.org/10.1111/ajps.12424 https://researchonline.lse.ac.uk/id/eprint/100104/
+Version: Accepted Version
+This document is the author’s accepted version of the journal article. There may be differences between this version and the published version.
+Items deposited in LSE Research Online are protected by copyright, with all rights reserved unless indicated otherwise. They may be downloaded and/or printed for private study, or other acts as permitted by national copyright laws.
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+Are Biased Media Bad for Democracy?
+Short title: Are Biased Media Bad for Democracy?
+Keywords: omission bias, presentation bias, accountability, counterfactual
+Stephane Wolton∗
+Postal address: Department of Government, London School of Economics and Political Science,
+Houghton Street, London WC2A 2AE, United Kingdom
+Email: s.wolton@lse.ac.uk
+∗I thank Chris Berry, Scott Ashworth, Ethan Bueno de Mesquita, Ernesto Dal B´o, Mariaelisa Epifanio, Marco
+Giani, Helios Herrera, Selina Hofstetter, Rafa Hortala-Vallve, Navin Kartik, Pablo Montagnes, Erik Snowberg,
+Richard Van Weelden, and many seminar and conference participants for their helpful comments. Pablo Montagnes and Scott Tyson coined the term ‘Theoretical Implications of Empirical Models’ used in the conclusion of this paper.
+All remaining errors are the author’s responsibility.
+
+Are Biased Media Bad for Democracy?
+Abstract
+This paper assesses the normative and positive claims regarding the consequences of biased media using a political agency framework that includes a strategic voter, polarized politicians, and news providers. My model predicts that voters are always better informed with unbiased than biased outlets even when the latter have opposite ideological preferences.
+However, biased media may improve voter welfare. Contrary to several scholars’ fears, partisan news providers are not always bad for democracy. My theoretical ﬁndings also have important implications for empirical analyses of the electoral consequences of changes in the media environment. The impact of left-wing and right-wing biased outlets depends on the partisan identity of oﬃce-holders. Empirical ﬁndings may, thus, not be comparable across studies or even within studies over time.
+Existing empirical studies are unlikely to measure the consequences of biased media as researchers never observe and can rarely approximate the adequate counterfactual: elections with unbiased news outlets.
+Replication Materials: Not relevant for this article
+Word count: approx 9,980 words
+
+There is a broad consensus that news outlets are politically biased. Politicians commonly assert it. The broader public in the U.S (Newseum Institute, 2017) and elsewhere (Reuters Institute,
+2015) believes it. And multiple academic studies have conﬁrmed it (Puglisi and Snyder, 2015a).
+But are biased news providers harmful for democracy?
+Some argue so (e.g., Entman, 1989; McChesney, 2004; Ladd, 2012). Broadly speaking, these scholars argue that through omission or presentation bias, partisan outlets—newspapers, television channels, or radio stations—reduce the information available to the electorate. As information is key to holding politicians accountable, democracy faces “a political crisis of the highest magnitude”
+(McChesney, 2004, 18). In a time of high political polarization when politicians are often misaligned with the electorate, this problem appears especially acute. As Prior puts it (2013, 123), “The median voter has never been so bored.”
+This paper assesses the normative claims regarding the consequences of biased media. To do so, I use a political agency framework in which a representative voter faces the dual problem of controlling and selecting polarized politicians. I analyse equilibrium behaviors under four diﬀerent media environments. In the ﬁrst one, the voter is informed by a news outlet who shares her policy preference, an environment I refer to as ‘unbiased.’ In the second, the voter receives news reports from two biased media outlets, ideologically located to the right and the left of the voter. Since the voter is exposed to diverse viewpoints, I describe this environment as ‘balanced.’ The remaining two cases correspond to ‘right-wing biased’ and ‘left-wing biased’ media environments in which the voter’s information comes from a single right-wing or left-wing news provider, respectively.
+I compare the equilibrium behaviors of all actors—outlet(s), the voter, and politicians—across media environments. In line with the literature, I show that the voter is always less informed with biased news providers (whether the environment is balanced or not) than with an unbiased outlet. Keeping the oﬃce-holders’ actions constant, the voter’s welfare would be maximized in an unbiased media environment.
+However, when electoral incentives are suﬃciently strong, I show that politicians’ behavior changes with the media environment. Taking into account these equilibrium eﬀects, I ﬁnd that the voter is better oﬀwith two (or even one) biased news providers than with an unbiased outlet. Therefore, the often expressed opinion that media bias is bad for democracy needs to be qualiﬁed.
+I study a two-period game. There is a single election at the end of the ﬁrst period when the voter decides whether to reelect the incumbent or to replace him with a randomly drawn challenger. Each
+1
+ period, the oﬃce-holder makes a policy choice. The impact of the implemented policy depends on an underlying state of the world that is directly observed by the oﬃce-holder, but not by the voter. The voter would like the policy chosen to always match the state; the incumbent’s ideal policy is to the right of the voter, an

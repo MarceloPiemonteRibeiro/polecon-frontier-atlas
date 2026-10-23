@@ -1,0 +1,50 @@
+Anna Getmansky and Thomas Zeitzoff 
+Terrorism and voting: the effect of rocket  threat on voting in Israeli elections 
+Article (Accepted version) 
+(Refereed) 
+Original citation: 
+Getmansky, Anna and Zeitzoff, Thomas (2014) Terrorism and voting: the effect of rocket threat  on voting in Israeli elections. American Political Science Review, 108 (3). pp. 588-604. ISSN 
+0003-0554 
+DOI: 10.1017/S0003055414000288 
+ 
+© 2014 American Political Science Association 
+ 
+This version available at: http://eprints.lse.ac.uk/89172/ 
+Available in LSE Research Online: July 2018 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+ 
+This document is the author’s final accepted version of the journal article. There may be  differences between this version and the published version. You are advised to consult the  publisher’s version if you wish to cite from it. 
+
+Terrorism and Voting: The Eﬀect of Rocket Threat on
+Voting in Israeli Elections
+Forthcoming in the American Political Science Review
+Anna Getmansky
+Thomas Zeitzoﬀ
+Abstract
+How does the threat of becoming a victim of terrorism aﬀect voting behavior? Localities in southern Israel have been exposed to rocket attacks from the Gaza Strip since 2001.
+Relying on variation across time and space in the range of rockets, we identify the eﬀect of this threat on voting in Israeli elections. We ﬁrst show that the evolution of the rockets’ range leads to exogenous variation in the threat of terrorism. We then compare voting in national elections within and outside the rockets’ range. Our results suggest that right-wing vote-share is 2 to 6 percentage points higher in localities that are within the range– a substantively signiﬁcant eﬀect. Unlike previous studies that explore the role of actual exposure to terrorism on political preferences and behavior, we show that the mere threat of an attack aﬀects voting.
+How does the threat of becoming a victim of terrorism aﬀect voting behavior? Are voters more likely to support parties that favor extending greater concessions to terrorists in order to avoid further violence, or are they more likely to vote for parties that oppose concessions, and that favor more aggressive policy towards the perpetrators? These questions have direct
+Anna Getmansky is a Lecturer, Lauder School of Government, Diplomacy, and Strategy, Interdisciplinary
+Center Herzliya, Israel.
+While working on this paper, she was a postdoctoral fellow at the Center for
+International Relations in the Department of Social and Decision Sciences at Carnegie Mellon University.
+E-mail: agetmansky@idc.ac.il
+Thomas Zeitzoﬀis an Assistant Professor, the Department of Justice, Law and Criminology, School of
+Public Aﬀairs, American University. E-mail: zeitzoﬀ@gmail.com
+We thank Neal Beck, Bruce Bueno de Mesquita, Baruch Fischoﬀ, Esteban Klor, John Miller, Uzi Rubin,
+Tolga Sinmazdemir, the reviewers and the editor of the Review for their helpful suggestions. We also beneﬁted from the comments of participants of 2012 Peace Science Society (International), and the Symposium on
+Political Violence at the University of Pittsburgh. Finally, we thank the Israel Social Science Data Center and the GIS Center at the Hebrew University of Jerusalem for providing us with election results data and shapeﬁles, respectively.
+1
+ implications for conﬂict resolution, as well as for understanding and assessing the eﬀectiveness of terrorism as a political tool. The existing literature that focuses primarily on the actual exposure to terrorism has been mixed, with some studies suggesting that terrorism leads voters to be more accommodating of terrorists’ demands, and others showing a hardening of attitudes (a rightward shift) in the electorate.
+Our study improves on the existing studies in several ways. We explore the eﬀect of a particular method of terrorism–being in the range of rocket ﬁre. In the context of the
+Israeli-Palestinian conﬂict, rocket launchers are conﬁned to the Gaza Strip, and therefore the eﬀect of rockets depends on the maximum distance that these rockets can travel from
+Gaza. We show that the rockets’ range is exogenous to the Israeli political circumstances, and is determined by the availability of rocket technology and launching expertise in Gaza.
+This allows us to assess the eﬀect of rockets’ threat on voting. Speciﬁcally, we explore the variation in the range of rockets from 2001 through 2009, and show that voters who reside in the range are more likely to vote for right-wing parties. We estimate that the eﬀect of being in the rockets’ range is an increase of 2 to 6 percentage points in the right-wing vote-share, and this implies additional 2 to 7 seats in the Israeli Knesset (parliament) out of 120 for the right-wing bloc, if all voters in Israel were within the rockets’ range.1
+We also unpack changes in diﬀerent subsets of the right-wing bloc, as well as changes in vote-shares of speciﬁc parties.
+We ﬁnd that within the right-wing bloc, rocket range primarily aﬀects the nationalistic parties (rather than religious or Jewish-sectarian parties
+1It is worth noting that rocket ﬁre from Gaza is not the only instance in which rockets were used in the context of an intrastate conﬂict. According to Rubin (2011), the IRA, the Tamil Tigers, and Afghan insurgents possessed ballistic weapons.
+The IRA and the Tamils used mortars or rockets very sparsely, and only against government or military targets. The Afghan mujahideens initially used

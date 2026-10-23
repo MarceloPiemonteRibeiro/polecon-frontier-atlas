@@ -1,0 +1,41 @@
+# round 2, batch_004 — abstracts
+01945|Theory|Review|Principal–agent theory in politics moved from outcome incentives to administrative procedures and commitment-driven agent autonomy.|M_bureau+,M_moralhazard+|
+02449|Argentina|NatExp|Randomly assigned longer legislative terms raised legislators' output in both chambers: an investment logic beats the accountability logic.|M_moralhazard-|
+02263|Theory|Theory|Signalling politicians bunch just above the reelection threshold, creating incumbency advantage; a supermajority reelection threshold improves selection.|M_selection+,M_moralhazard+|
+01776|Theory|Theory|Tying the electoral fates of proposer and veto player curbs spurious obstruction by career-concerned veto players and improves selection.|M_career+,M_selection+|
+02098|Theory|Theory|Policy restrictions lower the returns to political information, so poorer voters learn less and may get less redistribution.|M_commit~|
+01820|Theory|Theory|Popular autocrats hold fair elections to signal popularity and deter protest; high elite repression makes fair elections less likely.|M_coord+,M_fear+|
+02096|United States|DiD|Term-limited state legislators sponsor fewer bills, work less in committee and miss more votes, but do not shift ideologically.|M_moralhazard+|
+01764|Theory|Theory|Transparency about actions rather than consequences makes career-concerned experts conform, hurting both discipline and sorting.|M_career+|
+02376|Mexico|RD|Local media let voters punish the parties of mayors whom audits reveal as corrupt or diverting funds from the poor; the penalty persists.|M_media+,M_moralhazard+|F2
+02267|Mozambique|RCT|SMS campaigns, a misconduct hotline and free newspapers all raised turnout; only the newspaper raised accountability-based participation and cut electoral problems.|M_media+|
+02097|Theory|Theory|Shocks outside incumbents' control can rationally change votes because they change what voters can learn about incumbents.|M_selection+,M_moralhazard~|
+02662|France|RCT|Door-to-door canvassing for Hollande did not change turnout but raised his vote share, a quarter of his runoff margin, persistently.|M_media+|
+02382|India|RCT|Seeding information to a few villagers under common knowledge beat broadcasting to all, because image concerns deter asking questions.|M_media~|
+02613|Philippines|RCT|Information on platforms and past promise-keeping moved votes toward closer and promise-keeping candidates, even in a clientelist setting.|M_clientelism~,M_moralhazard+|
+00841|United States|NatExp|Fracking earthquakes cut incumbent votes for specialized energy regulators but not governors: bundling many issues in one office dilutes salience.|M_visibility+,M_moralhazard+|
+02280|Chile; Colombia; Peru|Panel|Politicians deliberately forbear from enforcing street-vending laws where poor voters are pivotal; weak capacity does not explain it.|M_probvote+,M_statecap-|
+02351|Indonesia|Panel|Forest fires fall in district election years and surge afterwards: politicians suppress illegal burning when it could cost votes.|M_moralhazard+|
+02309|Cross-country|NatExp|Random leader deaths show leaders matter for growth, and more educated leaders raise growth.|M_selection+|
+00887|Theory|Theory|Primaries keep heterogeneous parties united when party elites cannot commit to policy concessions.|M_commit+|
+00875|United States|Panel|Future members of Congress came from richer, more educated families and out-earned their own siblings: entry barriers plus electoral advantages for the educated.|M_citizencand+,M_selection+|
+02655|Pakistan|RCT|Framing office as prosocial rather than status-enhancing raised candidacy and election of such citizens and later policy alignment, but only when delivered publicly.|M_citizencand+,M_selection+|F3
+02085|Theory|Theory|Beyond promissory representation, anticipatory, gyroscopic and surrogate representation need systemic, deliberative criteria.||
+02117|India|NatExp|Mumbai seats reserved for women in one election are five times likelier to elect women after the quota is withdrawn.|M_citizencand+|F3
+02119|India|NatExp|Village-president caste quotas have weak distributive effects because cross-cutting party ties drive targeting.|M_citizencand~,M_clientelism+|F3
+02092|United States|Panel|Women, minority and veteran legislators intervene with agencies more for constituents who share their identities.|M_citizencand+|
+02088|Theory|Theory|Proposes four operational conceptions of representation bridging political theory and quantitative work.||
+02120|Sweden|Survey|Immigrants' underrepresentation stems from party elites' nominations and list placement, not lower ambition.|M_citizencand~|
+02606|United States|DiD|Minorities are strategically underrepresented in city government, especially where pivotal; after Shelby County local institutions cut representation further.|M_diversity+|
+02480|United States|IV|Legislators who hold power longer are more likely to have relatives enter Congress: power begets power.|M_selection~|
+02481|Philippines|RD|Relatives of current office-holders hold better-paying jobs than relatives of losing candidates.|M_corruption+,M_clientelism+|
+02482|Sweden|RD|Children of narrowly elected mayors earn about 15% more, though not through illegitimate job allocation.|M_corruption~|
+02486|Italy|Panel|Where politicians rather than voters control selection, dynastic politicians are less educated than their peers.|M_selection+|
+02484|Italy|DiD|Politicians' relatives get private-sector jobs while they hold office, a quid pro quo form of corruption.|M_corruption+|
+02548|Mexico|NatExp|Union-backed parties gain votes at polling stations in schools only when teachers are partisans, not through monitoring.|M_clientelism~|
+01822|Armenia|NatExp|International observers reduced election-day fraud at the polling stations they visited.|M_corruption+|
+01821|Theory|Theory|Citizens discount fraud, so monitoring that raises fraud costs helps insecure incumbents and makes elections likelier.|M_coord+|
+01799|United States|DiD|Voting Rights Act coverage halved political violence as voting replaced violence as the means of political expression.||
+00506|Brazil|RCT|Raising audit risk by 20 points cut procurement corruption but did not change health-service quality or cash-transfer targeting.|M_corruption+|
+01780|Cross-country|Review|Reviews the causes, consequences and remedies of corruption.|M_corruption+|
+02352|Mexico|Struct|About 10% of Mexico City drivers bribed emission-test technicians; ending cheating would cut emissions substantially at high cost to owners.|M_corruption+|

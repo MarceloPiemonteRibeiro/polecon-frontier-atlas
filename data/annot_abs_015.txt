@@ -1,0 +1,41 @@
+# batch_015 — abstracts
+01647|United States|Survey|Americans picture God as young, white and loving; liberals see a more feminine, Black, loving God and conservatives an older, more powerful one.|M_culture+|
+01527|Theory|Review|Incentives crowd out intrinsic motivation and moral codes; policy must combine incentives with moral messages studied in local context.|M_culture+|
+01537|Indonesia|Hist|Elites shielded land from 1960s expropriation by converting it to waqf; the endowments entrenched Islamist institutions, Islamist votes and local sharia laws.|M_culture+,M_commit+|
+01616|Cross-country|XC|Tight-kinship societies enforce cooperation through communal values, revenge and shame; loose-kinship ones through universal values, guilt and altruistic punishment.|M_culture+|
+01635|Ghana; Tanzania|Lab|Priming "one true religion" raised intergroup discrimination while "universal love" fostered equal treatment in dictator games.|M_culture+|
+01662|Tanzania|Survey|Religious beliefs and leaders shape Lake Tanganyika fishers' behaviour and compliance with harvest rules.|M_culture+|
+01522|India|Struct|Identity choices revealed by food consumption respond to group status, salience and the economic cost of prescribed behaviours.|M_culture+|
+01526|Zambia|RCT|Negotiation training raised girls' schooling for three years by resolving incomplete contracting with parents; information alone had no effect.||
+01535|France|DiD|The 2004 headscarf ban reduced Muslim girls' secondary attainment and strengthened both national and religious identity through perceived discrimination.|M_culture+|
+01603|Cross-country|DiD|Cheaper Landsat data raised the quantity and quality of science, disproportionately helping developing-country scientists.||
+01648|Cross-country|Lab|Conflict threat raises the demand for order and belief in a punitive God; warfare preceded punitive-God belief between 1800 and 2000.|M_culture+|
+01649|Cross-country|XC|In non-industrial societies, cultural tightness covaries across domains and correlates with ecological threat, authoritarianism and moralizing religion.|M_culture+|
+00624|Theory|Theory|Culture is a repertoire of attributes forming configurations; cultural change is saltational and co-determined with institutions.|M_culture+|
+01591|Cross-country|Survey|Minimally monetized communities report subjective well-being as high as rich nations.||
+01597|Finland|NatExp|Innovators create products for customers like themselves; exposure to lower-income peers in military service raises necessity-product entrepreneurship.||
+01642|United States|Lab|Cultural tightness raises punitive religious beliefs and mediates the effect of ecological threat on them.|M_culture+|
+01630|DR Congo|Lab|Participants act less prosocially toward partners with strong traditional supernatural beliefs, contradicting the view that such beliefs sustain cooperation.|M_culture~|
+01636|Cross-country|XC|Coding artefacts create a spurious link between moralizing gods and social complexity; moralizing gods are common in small societies.|M_culture~|
+01637|Mexico|NatExp|Patron-saint festivals that coincide with planting or harvest lower long-run income but raise religiosity and social capital.|M_culture+|
+01685|Cross-country|DiD|Culturally British households abroad cut fertility in step with Britain after the 1877 Bradlaugh–Besant trial: culture drove the fertility transition.|M_culture+,M_media+|
+01593|Cross-country|Review|Development programs built on WEIRD independent agency neglect interdependent agency and can provoke backlash.|M_culture+|
+01608|DR Congo|Theory|Effort-suppressing beliefs (envy, witchcraft) evolve in zero-sum environments, raising material welfare but lowering subjective well-being.|M_culture+|
+01536|Afghanistan|NatExp|Mobile-phone data show religious observance rises when droughts worsen economic conditions.|M_culture+|
+01588|China|Hist|Ineffective rainmaking rituals persisted through a supernatural worldview, chance successes and underreported failures.|M_culture+|
+01592|Cross-country|Survey|Indigenous and local communities with very low incomes report life satisfaction comparable to rich countries.||
+01606|Cross-country|Review|Universalism versus particularism organizes modern political competition, predicts left voting better than income, and reflects adaptation to kinship and markets.|M_culture+|
+01618|Theory|Review|Economists can test moral-psychology theories at scale: morality is functional and shapes views on redistribution and polarization.|M_culture+|
+00829|United States|Survey|Voters weigh moral values more as income rises, so rich liberals vote against their economic interest more than poor conservatives.|M_culture+,M_probvote~|
+01511|Cross-country|Review|Cultural mismatch between World Bank managers and project locations lowers project success; policy and culture reshape each other.|M_culture+,M_bureau~|
+01543|India|DiD|Dowry transfers to grooms' parents act as pensions that let sons migrate; highway-induced migration rises more in strong-dowry areas.|M_culture+|
+01586|Cross-country|Review|Extractive institutions persist through power relations and through normative orders that confer legitimacy; reform must change both.|M_culture+,M_commit+|
+01643|Theory|Theory|People endorse moralizing-god beliefs strategically to police others' cooperation, explaining both extractive and prosocial religions.|M_culture+|
+01529|Cross-country|Review|Religiosity persists or rises in developing countries; religious institutions act as public-goods providers and political actors.|M_culture+|
+01530|Africa|Panel|Higher opportunity costs of Adventist crop bans slowed membership growth; the church responded with schools, clinics and softer tenets.|M_culture+|
+01547|Theory|Review|Reviews game theory's contributions to cultural evolution and its interfaces with economics.|M_culture+|
+01607|United States|Survey|Zero-sum thinking predicts support for redistribution, affirmative action and immigration restriction, and traces to ancestors' mobility, migration and enslavement.|M_culture+|
+01653|Cross-country|Text|Folktales portraying nature with agency predict pro-environment attitudes and better biodiversity and forest outcomes (correlational).|M_culture+|
+01057|United States|Panel|District universalism (giving decay with distance) predicts Democratic vote share, roll calls and moral rhetoric better than income or education.|M_culture+|
+00054|United States|Panel|Ethnically fragmented US cities spend smaller shares on productive public goods.|M_diversity+|
+00205|United States|Survey|Participation in social groups is lower in unequal and ethnically fragmented localities.|M_diversity+,M_collective+|

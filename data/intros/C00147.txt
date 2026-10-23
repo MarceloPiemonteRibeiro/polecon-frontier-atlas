@@ -1,0 +1,59 @@
+Robin Burgess, Remi Jedwab, Edward Miguel, 
+Ameet Morjaria and Gerard Padró i Miquel 
+The value of democracy: evidence from  road building in Kenya 
+Article (Published version) 
+(Refereed) 
+Original citation: 
+Burgess, Robin, Jedwab, Remi, Miguel, Edward, Morjaria, Ameet and Padró i Miquel, Gerard 
+(2015) The value of democracy: evidence from road building in Kenya. American Economic 
+Review, 105 (6). pp. 1817-1851. ISSN 0002-8282 
+DOI: 10.1257/aer.20131031 
+ 
+© 2015 American Economic Association 
+ 
+This version available at: http://eprints.lse.ac.uk/61947/ 
+Available in LSE Research Online: September 2015 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+ 
+
+American Economic Review 2015, 105(6): 1817–1851  http://dx.doi.org/10.1257/aer.20131031
+1817
+The Value of Democracy: 
+Evidence from Road Building in Kenya†
+By Robin Burgess, Remi Jedwab, Edward Miguel, 
+Ameet Morjaria, and Gerard Padró i Miquel*
+Ethnic favoritism is seen as antithetical to development. This paper  provides credible quantification of the extent of ethnic favorit- ism using data on road building in Kenyan districts across the 
+1963–2011 period. Guided by a model, it then examines whether the  transition in and out of democracy under the same president constrains  or exacerbates ethnic favoritism. Across the ­post-independence  period, we find strong evidence of ethnic favoritism: districts that  share the ethnicity of the president receive twice as much expenditure  on roads and have five times the length of paved roads built. This  favoritism disappears during periods of democracy. (JEL D72, H54, 
+J15, O15, O17, O22, R42)
+Ethnic favoritism refers to a situation where coethnics benefit from patronage  and public policy decisions, and thus receive a disproportionate share of public  resources, when members of their ethnic group control the government. It has been  argued by historians, political scientists, and economists that this phenomenon  has hampered the economic performance of many countries, particularly in Africa 
+* Burgess: Economics Department, London School of Economics, Houghton Street, London WC2A 2AE, UK 
+(e-mail: r.burgess@lse.ac.uk); Jedwab: Economics Department, George Washington University, 2115 G Street NW, 
+Washington, DC 20052 (e-mail: jedwab@gwu.edu); Miguel: Economics Department, University of California–
+Berkeley, 530 Evans Hall, Berkeley, CA 94720 (e-mail: emiguel@econ.berkeley.edu); Morjaria: Department of 
+Managerial Economics and Decision Sciences, Kellogg School of Management, Northwestern University, 2001 
+Sheridan Road, Evanston, IL 60208 (e-mail: ameet.morjaria@gmail.com); Padró i Miquel: Economics Department, 
+London School of Economics, Houghton Street, London WC2A 2AE, UK (e-mail: g.padro@lse.ac.uk). For their  helpful comments, we thank Gani Aldashev, Alberto Alesina, Tim Besley, Oriana Bandiera, Bronwen Burgess, 
+Konrad Burchardi, Denis Cogneau, Taryn Dinkelman, Ruben Durante, Eliana La Ferrara, Greg Fischer, Paul Gertler, 
+James Habyarimana, Charles Hornsby, Asim Ijaz Khwaja, Michael Kremer, Guy Michaels, Stelios Michalopoulos, 
+Suresh Naidu, Benjamin Olken, Torsten Persson, Jean-Philippe Platteau, Daniel Posner, Jim Robinson, Gerard 
+Roland, Ryan Sheely, Jim Snyder, Justin Valasek, Ekaterina Zhuravskaya, and seminar audiences at UC Berkeley, 
+CEPR Development Economics Symposium, Gothenberg, Harvard, IGC Africa Growth Conference, International 
+Economic Association Conference, LSE, NBER, NEUDC (MIT), Namur, MIT, Oxford, Princeton, PSE, Royal 
+Economic Society Conference, Stanford, Warwick Public Economics Conference, Warwick/Princeton Political 
+Economy Conference, WGAPE (UCLA), World Bank ABCDE, and WZB Berlin, as well as to four anonymous ref- erees for very helpful suggestions and comments. This research was funded by the ESRC-DFID Poverty Alleviation 
+Fund, the DFID funded Institutions for Pro-Poor Growth (iiG) Research Consortium, and the International Growth 
+Centre. Morjaria thanks Survey of Kenya and Kenya National Archives for hosting his stay in Nairobi. Padró i 
+Miquel acknowledges financial support from the European Union’s Seventh Framework Programme (FP/2007-
+2013)/ERC Starting Grant Agreement 283837. The views expressed here are those of the authors alone and do not  necessarily reflect those of DFID or any of the other organizations acknowledged here. The authors declare that they  have no relevant or material financial interests that relate to the research described in this paper.
+† Go to http://dx.doi.org/10.1257/aer.20131031 to visit the article page for additional materials and author  disclosure statement(s).
+
+1818
+THE AMERICAN ECONOMIC REVIEW june 2015
+(Mamdani 1996; Easterly and Levine 1997; Herbst 2000; Posner 2005; Alesina  and La Ferrara 2005; Miguel and Gugerty 2005; Michalopoulos and Papaioannou 
+2011; Alesina, Michalopoulos, and Papaioannou 2012). In fact, the widespread  belief among citizens that ethnic favoritism is prevalent can “poison” local political  culture and make the phenomenon self-sustaining (Horowitz 1985; Esman 1994; 
+Fearon 1999; Wamwere 2003; Chandra 2004; Padró i Miquel 2007; Caselli and 
+Coleman 2013). According to several of these accounts, ethnic favoritism emerges  when weak political institutions are unable to constrain governments from discrim- inating among citizens. Therefore, to understand the recent political and economic  performance of many African countries, it is crucially

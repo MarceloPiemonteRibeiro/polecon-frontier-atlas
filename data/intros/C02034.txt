@@ -1,0 +1,44 @@
+Teri Caraway, Stephanie Rickard and Mark Anner 
+International negotiations and domestic  politics: the case of IMF labor market  conditionality 
+ 
+Article (Published version) 
+(Refereed) 
+Original citation: 
+Caraway, Teri and Rickard, Stephanie and Anner, Mark (2012) International negotiations and  domestic politics: the case of IMF labor market conditionality. International organization, 66 (1).  pp. 27-61. 
+DOI: 10.1017/S0020818311000348 
+ 
+© 2012 Cambridge University Press 
+ 
+This version available at: http://eprints.lse.ac.uk/36150/ 
+Available in LSE Research Online: February 2013 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+
+International Negotiations and
+Domestic Politics: The Case of IMF
+Labor Market Conditionality
+Teri L+ Caraway, Stephanie J+ Rickard, and Mark S+ Anner
+Abstract
+What is the role of international organizations ~IOs! in the formulation of domestic policy, and how much inﬂuence do citizens have in countries’ negotia- tions with IOs? We examine these questions through a study of labor-related condi- tionality in International Monetary Fund ~IMF! loans+ Using new data from IMF loan documents for programs from 1980 to 2000, we test to see if citizens’ economic interests inﬂuence IMF conditionality+ We examine the substance of loan conditions and identify those that require liberalization in the country’s domestic labor market or that have direct effects on employment, wages, and social beneﬁts+ We ﬁnd evi- dence that democratic countries with stronger domestic labor receive less intrusive labor-related conditions in their IMF loan programs+ We argue that governments con- cerned about workers’ opposition to labor-related loan conditions negotiate with the
+IMF to minimize labor conditionality+ We ﬁnd that the IMF is responsive to domes- tic politics and citizens’ interests+
+Many scholars, policymakers, and citizens believe that international organizations
+~IOs! constrain domestic policy+ Recent developments, such as the International
+Monetary Fund ~IMF! loan programs in Ireland and Greece, seem to support this conventional wisdom, since they stipulate policy reforms that must be undertaken by the Irish and Greek governments to receive vital monies from the IMF+ Although
+IOs may constrain domestic policy, they do not do so equally in all countries+ The
+IMF, for example, requires more extensive policy reforms in some countries than in others+ Explaining this variation is integral to understanding how IOs inﬂuence the formulation of domestic policy+
+Authors are listed in order of relative contribution+ We thank research assistants Jacob Westlund,
+Dong Fang, Susan Kang, and Mark Gough, and the Pennsylvania State University’s College of the
+Liberal Arts and the University of Minnesota’s MacMillan Travel Fund for research support+ For invalu- able suggestions and encouragement, we also thank Todd Allee, Lawrence Broz, Mark Copelovitch,
+Axel Dreher, Steph Haggard, Daniel Y+ Kono, David Lake, Sara McLaughlin Mitchell, Chad Rector,
+David Singer, Randy Stone, and Jim Vreeland+ Supplementary material for this article can be found at www+journals+cambridge+org0ino2012001+
+International Organization 66, Winter 2012, pp+ 27–61
+© 2012 by The IO Foundation+ doi:10+10170S0020818311000348
+
+We argue that the extent to which IOs inﬂuence domestic policy depends, in part, on domestic interests+ For example, Greek citizens poured into the streets to protest the austerity policies that were expected to accompany an IMF loan+
+Although the agreed-upon loan conditions stipulated signiﬁcant policy reforms, important compromises were made—the lowest-paid workers received protection from the cuts in public-sector wages and pensions, and no binding conditions were set for state employee layoffs or controls on private-sector wage increases+1 These compromises were, in part, a response to the public protests by Green citizens+
+The Greek case points to the importance of considering domestic interests as a potential determinant of international negotiations’ outcomes+ To this end, we explore when and under what conditions citizens’ interests inﬂuence negotiations between national government executives and IMF staff+ Speciﬁcally, we examine the extent to which workers’ interests shape IMF loan conditions+
+The IMF is often at the center of debates about the role of citizens’ interests in international negotiations+ Although citizen groups are frequently assumed to be unable to signiﬁcantly inﬂuence IMF policy, we ﬁnd evidence that the economic interests of an important group of citizens, namely workers, can inﬂuence IMF loan conditions+ Among democratic countries that borrowed money from the IMF between 1980 and 2000, those with stronger domestic labor received less-intrusive labor-related conditions ~that is, conditions that stipulate domestic labor market reforms!+ When workers have the potential to be politically powerful, govern- ments not only negotiate with the IMF to minimize labor-related conditions, but the IMF is also more likely to accede to these demands+
+This ﬁnding has several important implications for studies of IMF conditional- ity and international organizations more generally+ First, governments facing pow- erful labor at home receive fewer and less intrusive labor-related loan conditions by leveraging their opposition to reforms as bargaining chips in international nego- tiations+ This ﬁnding conﬁrms the logic of Putnam’s two-level game

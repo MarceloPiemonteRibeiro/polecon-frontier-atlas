@@ -1,0 +1,47 @@
+Roger Fouquet and Stephen Broadberry 
+Seven centuries of European economic  growth and decline 
+Article (Published version) 
+(Refereed) 
+Original citation: Fouquet, Roger and Broadberry, Stephen (2015) Seven centuries of European  economic growth and decline. Journal of Economic Perspectives, 29 (4). ISSN 0895-3309 
+DOI:10.1257/jep.29.4.227 
+ 
+ 
+© 2015 American Economic Association 
+ 
+This version available at: http://eprints.lse.ac.uk/63626/ 
+Available in LSE Research Online: November 2015 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+
+Journal of Economic Perspectives—Volume 29, Number 4—Fall 2015—Pages 227–244
+J ohn Maynard Keynes (1931) wrote in his essay “Economic Possibilities for Our 
+Grandchildren”:
+From the earliest times of which we have record—back, say, to two thousand  years before Christ—down to the beginning of the eighteenth century, there  was no very great change in the standard of life of the average man living in the  civilised centres of the earth. Ups and downs certainly. Visitations of plague,  famine, and war. Golden intervals. But no progressive, violent change. Some  periods perhaps 50 per cent better than others—at the utmost 100 per cent  better—in the four thousand years which ended (say) in A.D. 1700.
+Over the decades, his nuanced account of the past has become a great deal more  stylized—the lack of “very great” or “violent” change became an absence of any  change. Today, received wisdom holds that the western European countries did not  experience major phases of economic growth (or decline) prior to the Industrial 
+Revolution. As one example among many that could be cited, Hansen and Prescott 
+(2002, pp. 1214–15) write that “sustained growth has existed for at most the past  two centuries, while the millennia prior have been characterized by stagnation with 
+Seven Centuries of European Economic 
+Growth and Decline
+†
+■ Roger Fouquet is Principal Research Fellow, Grantham Research Institute on Climate 
+Change and the Environment at the London School of Economics and Political Science, 
+London, United Kingdom. Stephen Broadberry is Professor of Economic History, University  of Oxford, United Kingdom. Their email addresses are r.fouquet@lse.ac.uk and stephen. broadberry@nuffield.ox.ac.uk.
+† For supplementary materials such as appendices, datasets, and author disclosure statements, see the  article page at http://dx.doi.org/10.1257/jep.29.4.227  doi=10.1257/jep.29.4.227
+Roger Fouquet and Stephen Broadberry
+
+228 Journal of Economic Perspectives no significant permanent growth in living standards.” Yet qualitative accounts of 
+European histories seem to indicate that the Renaissance in Italy and the Golden 
+Age in Holland reflected phases of economic development—associated with the  expansion of trade and urbanization, as well as developments in art and science— prior to the Industrial Revolution (Goldthwaite 2009; Acemoglu and Robinson 
+2012; de Vries and van der Woude 1997).
+Building in part on Angus Maddison’s (1982, 1995, 2003) bold empirical  research program to create very long-run data series for many countries, a generation  of economic historians has been exploring archives and combining datasets to create  more and better evidence. Over the last four years, a number of very long-run time  series have been completed for major economies of Europe connecting the late medi- eval era with the present using annual data. The new time series have been looked at  individually by the researchers who produced the data (Broadberry, Campbell, Klein, 
+Overton, and van Leeuwen 2011; Malanima 2011; van Zanden and van Leeuwen 2012; 
+Schön and Krantz 2012; Álvarez-Nogal and Prados de la Escosura 2013; Reis, Martins,  and Costa 2013). The main aim of this paper is to present this data together and offer  an alternative interpretation of very long-run European economic development.
+The first section of this paper rejects the received wisdom that economies in  pre–Industrial Revolution Europe were stagnant. The new data shows trends in GDP  per capita in the key European economies before the Industrial Revolution, identi- fying episodes of economic growth in specific countries, often lasting for decades. 
+Ultimately, these periods of growth were not sustained, but they noticeably raised 
+GDP per capita. It also shows that many of these economies experienced periods  of substantial economic decline. Thus, rather than being stagnant, pre-nineteenth  century European economies experienced a great deal of change.
+In the second section, the paper tentatively finds that the likelihood of being in  a phase of growth increased and the risk of being in a phase of decline decreased  in the nineteenth and twentieth centuries. The discussion in the third section  turns to evidence on patterns of divergence and convergence in Europe, showing  that divergence occurred when a new economic leader moved ahead, followed by  a period of convergence and catch-up by others. The fourth section presents the  main data sources and methods used to construct the GDP per capita estimates  from the late medieval and early modern eras until the nineteenth century in  six European economies: England/Great Britain, Holland, Italy, Spain, Sweden,  and Portugal.
+Following the publication of successive editions of Maddison’s (1982, 1995, 
+2003) data on long-run economic performance, understanding of long-run  economic growth and development advanced, as many

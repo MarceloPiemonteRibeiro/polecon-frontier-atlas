@@ -1,0 +1,41 @@
+# round 3, batch_004
+W1969028417|Theory|Theory|In menu auctions, interested parties bid contingent offers for a decision-maker's actions and truthful equilibria yield efficient choices (the basis of protection for sale).|M_lobby+|
+W1964242754|United States|Panel|Contributions buy legislators' committee participation rather than floor votes; members respond more to organized business than to unorganized voters.|M_lobby+,M_collective+|F5
+W2010050173|Theory|Theory|Vote-buying lobbyists pay most to legislators slightly opposed to their bill; moderate lobbyists want salience, extreme ones obscurity.|M_lobby+,M_visibility+|
+W3125672505|United States|IV|University lobbying raises academic earmarks only for universities represented on appropriations committees.|M_lobby+,M_legbargain+|
+01795|Theory|Theory|Donors may fund moderates to signal policy-relevant information rather than to elect allies, but the signal fails when electoral effects are small.|M_lobby+,M_cheaptalk+|
+W2114078650|United States|Panel|Special-interest contributions behave like investments in favours, priced by candidates' probability of winning.|M_lobby+|
+W2034293871|United States|Panel|Correcting for challenger quality and reverse causality, incumbent spending raises votes substantially.||
+W2080642065|Theory|Theory|Candidates trade services to interest groups for contributions; recognition, valuation of office and service costs explain incumbents' success.|M_lobby+,M_selection~|
+W2033555993|Theory|Theory|Parties maximizing expected seats versus the probability of a majority allocate campaign resources differently.|M_probvote+|
+W1978469792|United States|IV|Instrumenting spending, incumbent and challenger spending have similar effects; incumbents' spending advantage adds 6 points.||
+W2058433447|United States|RCT|Field experiments show challenger campaigns work while incumbent campaigns barely move vote shares.||
+01729|Brazil|RD|Farmer mayors raised deforestation and agricultural earmarks before satellite-based enforcement (PPCDAm), but not after, and lost their electoral edge.|M_capture+,M_statecap+|
+W2102461236|Theory|Theory|Regulators balance producers and consumers at the margin, so regulation never serves a single interest.|M_capture~,M_lobby+|
+W1993302203|United States|NatExp|In-state television coverage has no detectable effect on incumbents' vote margins.|M_media-|
+W2481123866|United States|Hist|US newspapers became informative about corruption as scale and competition rose; party-affiliated papers were biased.|M_media+|
+W2041827300|United States|DiD|Spanish-language local TV news raised Hispanic turnout by 5–10 points.|M_media+|
+W2060635194|United States|Panel|As the New York Times expanded nationally, local papers lost educated readers and repositioned toward local news.|M_media+|
+W1479997380|United States|Book|News is a product shaped by audience demand, advertisers and costs, which explains the rise of nonpartisan papers and soft news.|M_media+|
+W4300170376|United States|Book|Opinions are built from salient elite messages filtered by attention and knowledge: the receive-accept-sample model.|M_media+|
+W2136753600|United States|RCT|Randomized TV ad buys moved vote preferences strongly but the effect decayed within weeks.|M_media+|
+W3021924681|Cross-country|Survey|Beliefs about 9/11 in Muslim countries depend on the source of news and education (Arab versus Western), not on overall exposure.|M_media+,M_culture+|
+W2076668105|Theory|Theory|Competition among interested parties providing verifiable information helps only with sophisticated, skeptical decision-makers or opposed interests.|M_cheaptalk+,M_lobby+|
+W2028211630|United States|Lab|People accept evidence that confirms their views and scrutinize evidence that does not, so mixed evidence polarizes.|M_culture+|
+W1542183466|Theory|Theory|Introduces the monotone likelihood notion of favourable news with applications to prices, bonuses, disclosure and bidding.|M_cheaptalk+|
+W2756230309|United States|Panel|Polarization grew most among groups least likely to use the Internet: the Internet explains little of it.|M_media-|
+W4214662720|United States|Book|More media choice let entertainment fans avoid news, widening gaps in knowledge and turnout and raising polarization.|M_media+|
+W2303924600|United States|Panel|Social media and search raise ideological distance between people but also exposure to the other side; effects are modest.|M_media~|
+W1686065478|United States|Panel|On Facebook, users' own choices limit cross-cutting exposure more than algorithmic ranking.|M_media~|
+W2144188763|China|Text|Chinese censors leave criticism of the state but delete posts with collective-action potential.|M_media+,M_coord+|
+W2068869385|Theory|Book|Bargaining and deterrence rest on commitment, threats that leave something to chance and focal points.|M_commit+,M_war+|
+W1575812287|Theory|Theory|Insurrection, soldiering and production compete for labour; more insurrection lowers output but can raise peasants' expected income.|M_contest+,M_war+|
+01005|Europe; Middle East|DiD|The potato's introduction permanently reduced conflict, mainly civil conflict, for about two centuries.|M_war+|
+W2116559484|Cross-country|Panel|Sons-of-the-soil and contraband-funded civil wars last longest because governments cannot commit to autonomy deals.|M_war+,M_commit+|
+W2007352806|Cross-country|Desc|The UCDP/PRIO armed-conflict dataset extends the 25-death threshold back to 1946.||
+W2160232843|Cross-country|Review|Oil raises conflict onset, especially separatist; lootable resources lengthen wars; legal agricultural commodities do not matter.|M_war+|
+W2118200461|Cross-country|Panel|Oil, gas and diamonds robustly predict civil war onset; contraband predicts duration.|M_war+|
+W2048306071|Cross-country|Desc|The GREG dataset geo-references ethnic group territories; territorially concentrated groups face higher conflict risk.|M_diversity+|
+02304|Mexico|Hist|Kingpin strategies splintered large drug cartels into many smaller organizations, making the trade less concentrated.|M_statecap~|
+02305|Mexico|IV|Cartel presence, instrumented by 1930 Chinese settlement, goes with better socioeconomic outcomes, tax revenue and competition locally.|M_statecap~|
+00597|United States|Review|Fryer responds to Durlauf and Heckman on measuring racial differences in police use of force.|M_diversity~|

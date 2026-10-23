@@ -1,0 +1,39 @@
+A central feature of the industrial revolution in China over the last two decades is the decline of the state-owned sector. Figure 1 illustrates that the share of state owned ﬁrms in industrial output declined from 50 percent in 1998 to 30 percent by 2005, and has continued to fall since then, albeit at a slower rate. This fact naturally suggests that China’s growth was driven by the growth of the private sector and the reallocation of resources away from state-owned ﬁrms.
+According to this view, the growth of the private sector was only possible when, starting in the late 1990s, state-owned ﬁrms were shut down or privatized. The shutdown of loss-making state-owned ﬁrms released resources that were more proﬁtably employed by private ﬁrms. In turn, the privatization of state-owned ﬁrms may have raised their productivity because such
+ﬁrms may have a closer alignment of control and cash-ﬂow rights. The industrial revolution in
+China is, thus, nothing more than the triumph of “Markets Over Mao ”, to quote the title of a recent book (Lardy 2014).
+There is another view that China’s growth was driven by “State Capitalism”. Advocates of the role of “State Capitalism”point out that although many state owned ﬁrms were closed or privatized, ﬁrms that remained under state control are among the largest ﬁrms in China today. For example, 67 of the 69 Chinese companies in Fortune Magazine’s 2014 list of the 500 largest companies in the world are state owned. One can also point to the experience of speciﬁc state owned companies. Consider, for example, the experience of the Baoshan Steel Company.
+Baoshan, a large steel manufacturer in Shanghai, became a publicly traded company in 2000.1
+The controlling share (75 percent) was held by a holding company (the BaoSteel Group) wholly owned by the Chinese central government.2 Baoshan has done very well since the late 1990s.
+Total sales increased from USD 2.8 billion in 1998 to USD 17 billion by 2007. Proﬁts increased by even more, from USD 122 million in 1998 to USD 2.5 billion by 2007. Baoshan is currently the largest steel producer in China and the second-largest steel producer in the world.
+The experience of Baoshan is an example of how many state owned ﬁrms have changed.
+Such ﬁrms have been “corporatized ”and merged into large state-owned conglomerates. Many are now publicly listed and are among the largest companies in China today. While the concern
+1Technically, Baoshan was closed in 2000, and a new company called Baoshan Company Limited was estab- lished with the assets of the old state company and publicly listed on the Shanghai Stock Exchange.
+2Baoshan is legally controlled by the Central Government’s State Assets Supervisory Committee (SASAC), and Baoshan’s senior executives are appointed by the Organization Department of the Chinese Communist
+Party.
+1
+ in the late 1990s was over the threat posed by the non-performing loans of state-owned ﬁrms, the concern now is that the state-owned ﬁrms are too successful. A new popular phrase in
+China is “guo jin min tui ”which translates roughly as “state advances, private sector retreats”.
+Implicit in this slogan is the recognition that state-owned ﬁrms have been successful, but their success has had negative aggregate eﬀects.
+What is missing in this debate is evidence, and this is what we provide in this paper. We use detailed ﬁrm-level data from China’s Industrial Survey to measure the quantitative importance of the transformation of the state sector on aggregate productivity growth. We report the following ﬁndings. First, small state-owned ﬁrms were closed or privatized after 1998, and these ﬁrms generally had lower labor and capital productivity. Second, many new state-owned
+ﬁrms were established after 1998. These new ﬁrms are typically large, with labor productivity similar to that of the average private ﬁrm but capital productivity that is signiﬁcantly lower.
+Third, the labor productivity of surviving state-owned ﬁrms and privatized ﬁrms converged to that of private ﬁrms, but there is little change in the gap in capital productivity.
+We then interpret these facts through the lens of a standard model of monopolistic com- petition with heterogeneous ﬁrms. Under the assumption that the aggregate supply of capital is elastic, we ﬁnd that closing and privatizing state-owned ﬁrms accounted for slightly more than 3.2 percent of the aggregate growth in the industrial sector from 1998 to 2007. This is driven by reallocation of resources from the closed and privatized state-owned ﬁrms and by the increase in productivity among the privatized ﬁrms. In addition, productivity growth and the release of surplus labor by surviving state-owned ﬁrms (such as Baoshan) were responsible for more than 13 percent of aggregate growth over the same period. Finally, the creation of new state-owned ﬁrms drives more than 7 percent of aggregate growth over this period.
+The rest of the paper is organized as follows. In Section 2, we lay out a model to guide our empirical analysis. Section 3 presents the facts regarding the characteristics of exiting ﬁrms, survivors, and entrants in the state sector relative to that of their private counterparts. We then use the model to back out ﬁrm-level productivity and distortions in Section 4. We also explore the institutional forces behind the dramatic changes in the state sector. Section 5 quantiﬁes the eﬀect of the reallocation towards private ﬁrms and the productivity improvements among state-owned ﬁrms on aggregate GDP. Section 6 concludes.
+2
+A Model-Based Accounting Framework
+This section presents a standard model of heterogeneous models with monopolistic competition.
+We will use this framework to quantify the eﬀect of the diﬀerent forces behind China’s growth.
+2
+
+Aggregate output is a CES aggregate of output of individual ﬁrms,
+Q =
+ N
+X i
+Q1−η i
+!
+1
+1−η
+.
+(1)
+Here, i indexes the ﬁrm; N is the number of ﬁrms; Qi is ﬁrm output; and 1/η > 1 is the elasticity of substitution between varieties. Firm

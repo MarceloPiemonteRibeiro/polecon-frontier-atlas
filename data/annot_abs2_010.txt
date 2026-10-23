@@ -1,0 +1,41 @@
+# round 2, batch_010 — abstracts
+02231|Mexico|Hist|Mexico's emigration controls failed because of dependence on the US and local actors in a balkanized state who undermined federal policy.|M_bureau+|
+02039|United States|Survey|Exposure to immigrants' fiscal pressure lowers support for immigration among natives, especially the skilled; no such effect for trade.|M_median+|
+02043|United Kingdom|Survey|Welfare concerns matter more than labour-market concerns for attitudes to immigration; racial prejudice matters for ethnically distant origins.|M_diversity+,M_median+|
+02105|Europe|Book|Immigrant–native and immigrant–state conflict depends on local economic scarcity and electoral incentives, not cultural difference.|M_probvote+,M_diversity~|
+02042|United States|Panel|As trade and FDI let immigrant-using firms close or offshore, they stopped lobbying for immigration, allowing restriction.|M_lobby+|
+02232|Cross-country|Panel|Trade openness and capital mobility weakened business support for low-skill immigration, so states closed borders while opening trade.|M_lobby+|
+02559|United States|Panel|Age of Mass Migration immigrants faced no large initial earnings penalty and advanced as fast as natives; cross-sections mislead.||
+02045|Europe|Survey|Globalization raises low-skilled workers' risk perceptions and demand for social protection but lowers them among the high-skilled.|M_median+|
+02233|Cross-country|Panel|Remittances promote democratization in party-based autocracies by making voters less dependent on state transfers.|M_clientelism+|F4
+02234|Cross-country|Panel|Parliamentary and high-magnitude PR systems, more responsive to voters than to special interests, moved less toward open immigration.|M_lobby+,M_median+|
+02012|United States|Panel|Incumbent presidents gain votes in counties with high-skill tradable services and lose them in low-skill manufacturing, especially in swing states.|M_moralhazard+,M_probvote+|
+02041|United States|Panel|Georgia counties with more unauthorized workers vote more Republican, especially wealthier counties and voters.|M_diversity~|
+02044|United Kingdom|Review|Open-economy politics explains much of the Brexit vote but leaves puzzles for international political economy.||
+02719|Austria|IV|Immigrant inflows raised FPÖ vote shares, via labour-market and neighbourhood-amenity concerns.|M_diversity+|
+02237|Cross-country|IV|Autocrats restrict emigration when citizens would go to democracies, which raises democratization risk, and free it for economic emigration.|M_commit+|
+02562|Sweden|IV|Mass emigration to the US raised labour-movement membership, strikes and voting at home, and led to more welfare spending and inclusive institutions.|M_collective+,M_commit+|
+02564|Cross-country|Theory|Gulf states admitting many low-wage migrants reduce global inequality more than OECD welfare states: an openness–equality trade-off.||
+02565|United States|DiD|Excluding Mexican bracero farm workers did not raise US farm wages or employment.|M_median~|
+02099|Greece|NatExp|Islands exposed to transient refugee inflows raised Golden Dawn's vote share by 2 points.|M_diversity+|
+02107|Europe|Text|Party manifestos show left and right co-moving on immigration, little contagion from anti-immigrant parties, and a persistent economic frame.|M_median~|
+02235|Cross-country|Panel|Resource-rich democracies restrict low-skill immigration because Dutch disease weakens pro-immigration business.|M_lobby+|
+02236|Cross-country|Panel|States sign bilateral labour treaties when they cannot attract enough or the right migrants unilaterally.||
+02341|United States|IV|Counties with more 1850–1920 immigration have higher income, education and urbanization today through industrialization and innovation.||
+02342|United States|DiD|Bans on German in schools after WWI backfired: affected individuals volunteered less in WWII and married within the group more.|M_culture+,M_diversity+|
+01831|United States|Struct|Retaliatory tariffs against Trump's trade war were politically targeted at his supporters, especially China's.|M_probvote+|
+01971|Poland|Survey|Descendants of Poles forcibly resettled after WWII are more educated today, shifting from material assets to human capital.|M_culture+|
+02238|Cross-country|IV|Emigration reduces domestic violence and protest by offering exit, but emigration to democracies raises peaceful protest in autocracies.|M_coord~,M_commit+|
+02345|Europe|IV|Natives in regions with more immigrants support less redistribution, especially in large welfare states and for low-skilled origins.|M_diversity+|
+02106|Austria|DiD|Opening public housing to immigrants under an EU directive raised far-right votes where public-housing users were concentrated.|M_diversity+|
+02108|France|IV|Small migrant centres after the Calais "Jungle" was dismantled reduced far-right vote growth by about 12 points, consistent with contact theory.|M_diversity~|
+02264|Cross-country|RCT|People overestimate immigrants' number and dependence; priming immigration lowers support for redistribution and correct facts do not undo it.|M_diversity+,M_media~|
+02343|United States|DiD|1920s quotas did not help US-born workers; immigrants were replaced by internal and Mexican migrants and farms mechanized.||
+02621|United States|Struct|Moment inequalities on China trade votes estimate what legislators knew and how much they weighted constituents and ideology.|M_median+|
+02226|Germany|Panel|East Germany approved emigration for opponents while punishing applicants, screening for the most determined dissidents.|M_fear+|
+02228|Cross-country|Panel|IMF borrowers with large diasporas in G5 countries get larger loans with fewer conditions.|M_lobby+|
+02344|Theory|Theory|Egalitarian backlash does not justify immigration restriction, but a threat to democratic institutions can under some conditions.||
+02227|Cross-country|Desc|A historical dataset shows democracies admit fewer immigrants but grant migrants more rights, and openness and rights are complements.||
+02173|Cross-country|Panel|Inequality raises support for insurance benefits to the employed but lowers support for benefits to those without earnings.|M_median~|
+02179|Cross-country|Theory|Employment, unemployment and wage protection let workers invest in specific skills, so employers support social protection.|M_commit+|
+02171|United States; Sweden|Book|Welfare states and labour-market institutions in the US New Deal and Swedish social democracy were built on cross-class alliances with capitalists.|M_lobby+|

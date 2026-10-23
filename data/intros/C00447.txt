@@ -1,0 +1,37 @@
+Callen, Michael & Long, James D. (2015) Institutional corruption and election fraud: evidence from a field experiment in Afghanistan. American Economic Review,
+105(1), 354 - 381. https://doi.org/10.1257/aer.20120427 https://researchonline.lse.ac.uk/id/eprint/102931/
+Version: Accepted Version
+This document is the author’s accepted version of the journal article. There may be differences between this version and the published version.
+Items deposited in LSE Research Online are protected by copyright, with all rights reserved unless indicated otherwise. They may be downloaded and/or printed for private study, or other acts as permitted by national copyright laws.
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+American Economic Review 2015, 105(1): 354–381  http://dx.doi.org/10.1257/aer.20120427
+354
+Institutional Corruption and Election Fraud: 
+Evidence from a Field Experiment in Afghanistan †
+By Michael Callen and James D. Long *
+We investigate the relationship between political networks, weak insti- tutions, and election fraud during the 2010 parliamentary election in 
+Afghanistan combining: (i) data on political connections between can- didates and election officials; (ii) a nationwide controlled evaluation  of a novel monitoring technology; and (iii) direct measurements of  aggregation fraud. We find considerable evidence of aggregation fraud  in favor of connected candidates and that the announcement of a new  monitoring technology reduced theft of election materials by about 60  percent and vote counts for connected candidates by about 25 percent. 
+The results have implications for electoral competition and are poten- tially actionable for policymakers. (JEL C93, D02, D72, K42, O17)
+Many governments are not responsive to their citizens. Fair elections provide an  important means of improving responsiveness by making elected officials account- able to voters.1 However, election fraud undermines this critical function in many  young democracies, often at the hands of tightly networked groups of political elites. 
+This paper examines whether candidates exploit connections to elections officials  to add fraudulent votes during the aggregation process. We study this problem in 
+1 There is substantial empirical documentation of the benefits of improving political accountability (Besley  and Burgess 2002; Besley, Pande, and Rao 2005; Chattopadhyay and Duflo 2004; Ferraz and Finan 2008, 2011; 
+Fujiwara 2013; Pande 2003; Martinez-Bravo et al. 2013). Additionally, in countries experiencing violent contests  for state control (such as Afghanistan), fair elections may also undermine popular support for insurgents by promot- ing an accountable and legitimate government and by providing a forum for reconciliation (Berman, Shapiro, and 
+Felter 2011; Besley and Persson 2011; McChrystal 2009; United States Army 2006; World Bank 2011).
+* Callen: Harvard Kennedy School, Harvard University, 79 JFK Street, Cambridge, MA 02138 (e-mail:  michael_callen@hks.harvard.edu); Long: Department of Political Science, University of Washington, 1410 
+Northeast Campus Parkway, Seattle, WA 98195 (e-mail: jdlong@uw.edu). We are grateful to Glenn Cowan, Jed 
+Ober, Eric Bjornlund, Evan Smith, and Jon Gatto at Democracy International (DI) and Nader Nadery, Jandad 
+Spinghar, and Una Moore at the Free and Fair Elections Foundation of Afghanistan (FEFA). We acknowledge  financial support from USAID Development Innovation Ventures (DIV), DI, and grant #FA9550-09-1-0314 from  the Air Force Office of Scientic Research (Callen). We are indebted to James Andreoni, Leonardo Bursztyn, Luke 
+Condra, Gordon Dahl, Daniel Egel, Col. Joseph H. Felter, Ray Fisman, Tarek Ghani, Susan Hyde, Radha Iyengar, 
+Danielle Jung, Asim Ijaz Khwaja, David Laitin, David Lake, Edward Miguel, Karthik Muralidharan, Paul Niehaus, 
+Gerard ­Padró-i-Miquel, Rohini Pande, Ngoc Anh Tran, Maura O’Neill, Shanker Satyanath, Jacob Shapiro, Romain 
+Wacziarg, Scott Worden, Christopher Woodruff, and seminar participants at the NBER Political Economy Meeting,  the 2011 NEUDC conference, George Mason University, the Development and Conflict Research (DACOR) con- ference, the 2011 Institute on Global Conflict and Cooperation (IGCC) conference, UC San Diego, Yale, the Center  for Global Development (CGD), and USAID for extremely helpful comments. We are particularly indebted to 
+Eli Berman, Clark Gibson, and Craig McIntosh for advice and support at all stages of the project. This project  would not have been possible without the dedicated research assistance of Randy Edwards, Mohammad Isaqzadeh, 
+Shahim Kabuli, and Arman Rezaee. Mistakes remain with the authors. The authors declare that they have no rele- vant or material financial interests that relate to the research described in this paper.
+† Go to http://dx.doi.org/10.1257/aer.20120427 to visit the article page for additional materials and author  disclosure statement(s). 
+
+355
+Callen and Long: Institutional Corruption and Election Fraud
+VOL. 105 NO. 1
+Afghanistan, a country where democratic institutions are struggling to develop after  the last three decades of continuous conflict.2
+There are many ways to manipulate elections, including voter intimidation, ballot  box stuffing, and changing vote totals after ballots are cast. We study the manipula- tion of vote totals during the aggregation process, which we henceforth call aggre- gation fraud. We are interested in this particular type of fraud because it is likely to  involve collusion between candidates and election officials. We collect novel data  on aggregation fraud by photographing provisional vote tally sheets at individual  polling centers before the aggregation process and comparing these counts to the  corresponding numbers after aggregation is completed.3 This technique, which we  call photo qu

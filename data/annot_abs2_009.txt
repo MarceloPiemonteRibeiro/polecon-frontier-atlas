@@ -1,0 +1,41 @@
+# round 2, batch_009 — abstracts
+02389|United States|NatExp|Successful rather than failed terror attacks cut local jobs and earnings by about 2% and raise consumer pessimism via media coverage.||
+02301|Colombia|DiD|Exposure to La Violencia in early childhood reduced schooling and kept cohorts in agriculture, slowing structural transformation.||
+02142|Pakistan|NatExp|Drone hits on terrorist leaders raised their groups' attacks by about 50–70% relative to misses, as new leaders struggled to control operatives.|M_war~|
+02134|United Kingdom|NatExp|After the 2005 London bombings, support for restricting civil liberties rose only after a week and then stabilized higher, likely through media.|M_media+|
+02300|Laos|IV|Areas heavily bombed in the US Secret War are poorer fifty years later, through unexploded ordnance limiting human capital and structural change.||
+02327|Cross-country|Panel|Within schools, cooperative teaching practices raise students' beliefs in cooperation: progressive education builds social capital.|M_culture+|
+02320|Theory|Review|Culture as rules of thumb explains why historical shocks persist; settlers' values underlay the colonial institutions credited to institutions alone.|M_culture+,M_commit~|
+01663|Benin|Survey|Voodoo rules and secular fishing committees both modestly reduce unsustainable gear, suggesting a transition between institutions.|M_culture+|
+01904|Cross-country|Panel|Each additional year lived under democracy raises support for democracy: political preferences are endogenous to the regime.|M_culture+|
+01976|Cross-country|Theory|Individualist cultures democratize earlier and more durably than collectivist ones, which see more autocratic transitions.|M_culture+,M_coord~|
+02322|Africa|Survey|Members of segmentary-lineage groups trust non-relatives less, especially in rural areas.|M_culture+|
+01551|Cross-country|IV|Women from historically pastoral societies face more infibulation, restrictive sexual norms and mobility limits, driven by male absence.|M_culture+|
+01646|United States|Lab|Thinking about karma or God reduces selfishness among believers in dictator games.|M_culture+|
+02550|Pakistan|Lab|A quarter to a third of Pakistani men forgo money to avoid anonymously thanking the US government: identity has a price.|M_culture+|
+02326|United States|Desc|Half of cross-class disconnection reflects exposure and half friending bias, which depends on group structure; integration helps where friending bias is low.|M_culture+|
+02328|India|RCT|Microfinance entry shrank village social networks and informal risk sharing, hurting even those who did not borrow.|M_culture+|
+02123|Cross-country|Review|Ethnic diversity hurts public goods and policy in poor places but can raise productivity in rich, well-governed ones.|M_diversity+|
+02270|Cross-country|IV|More ethnically and linguistically segregated countries have worse government quality, through lower trust.|M_diversity+|
+02111|France|NatExp|Ethnic diversity in quasi-randomly allocated public housing causes social anomie, weaker sanctioning of vandalism and less collective demand for maintenance.|M_diversity+,M_collective+|
+02185|United States|Survey|Support for welfare falls as local recipiency rises and rises when recipients share one's race: racial group loyalty limits redistribution.|M_diversity+,M_median~|
+02196|United States; Europe|Review|Economic explanations fail; US–Europe redistribution gaps reflect racial heterogeneity, political institutions and beliefs about the poor.|M_diversity+,M_culture+|
+02199|Europe|Survey|Attitudes toward eliminating income inequality reflect political and social ideas more than economic self-interest.|M_culture+,M_median~|
+02191|United Kingdom; Cross-country|Survey|Support for taking from the rich follows self-interest while support for giving to the poor follows social affinity.|M_median~,M_culture+|
+02549|United States|RCT|Information on inequality changes views of inequality but barely moves policy preferences, except the estate tax, partly due to low trust in government.|M_median~,M_culture+|
+02087|Theory|Book|Six moral reasons why inequality matters, from status and opportunity to political equality.||
+02192|Spain|Survey|Workers at risk of automation prefer slowing technology to compensation.|M_median~|
+02124|Theory|Theory|Caste and rat-race equilibria persist because deviators are punished by others conforming to the norm.|M_culture+,M_coord+|
+02114|United States|Review|Reviews racial discrimination in employment, housing, credit and consumer markets and its individual, organizational and structural mechanisms.|M_diversity+|
+02113|Theory|Theory|Philosophical account of what makes discrimination wrongful.||
+02116|Theory|Review|Returns to Becker's taste-based versus statistical discrimination and how to tell them apart.|M_diversity+|
+02122|United States|NatExp|After Chicago public housing demolition displaced Black residents, nearby white voters' turnout fell over 10 points: racial threat shapes behaviour.|M_diversity+|
+02558|United States|Panel|States adopted compulsory schooling earlier when hosting migrants with weak civic values: schooling as nation building.|M_statecap+,M_diversity+|
+02753|Rwanda|IV|Post-genocide radio propaganda lowered ethnic salience and raised interethnic trust and contact.|M_media+,M_diversity~|
+02121|India|NatExp|Rich students with poor classmates become more prosocial and egalitarian and discriminate less, through personal interaction.|M_diversity~,M_culture+|
+02110|India|RCT|Collaborative mixed-caste cricket teams raised cross-caste friendship and trade efficiency; adversarial contact reduced them.|M_diversity~|
+02242|Indonesia|DiD|Islamic schools competed with new public schools, absorbing secondary demand; public school expansion weakened support for the secular regime and raised religiosity.|M_statecap~,M_culture+|
+02229|Theory|Theory|Exit restrains arbitrary rule when wealth is mobile but can make reform harder; small states retain citizens by providing public goods.|M_commit+|
+02230|Cross-country|Theory|Immigration politics in liberal democracies is broadly expansionist, with distinct modes in settler states, post-war European receivers and new receivers.|M_lobby+|
+02038|United States|Survey|Less-skilled workers prefer more restrictive immigration, consistent with labour-market competition.|M_median+|
+02104|Europe|Text|Globalization created a winners-versus-losers cleavage that reshaped national political spaces and party configurations in six countries.|M_median~|

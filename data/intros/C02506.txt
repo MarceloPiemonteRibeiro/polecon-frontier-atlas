@@ -1,0 +1,57 @@
+The general problem of “information foraging” (Pirolli & Card, 1999) in an environment about which agents have incomplete information has been explored in many ﬁelds, including cognitive psychology (Todd et al., 2012;
+Hills et al., 2015), neuroscience (Cohen et al., 2007), economics (March,
+1991; Azoulay-Schwartz et al., 2004), ﬁnance (Uotila et al., 2009), ecology
+(Stephens & Krebs, 1986; Eliassen et al., 2007), and computer science (Sut- ton & Barto, 1998). In all of these areas, the searcher aims to enhance future performance by surveying enough of existing knowledge to orient themselves in the information space.
+Individual scientists and scholars can be viewed as conducting a cognitive search (Todd et al., 2012) in which they must balance exploration of ideas that are novel to them against exploitation of knowledge in domains in which they are already expert (Berger-Tal et al., 2014). Researchers have studied the exploration-exploitation trade-oﬀin cognitive search at timescales of minutes up to years and decades. Laboratory experiments on visual attention are one example of this balancing act on short timescales (Chun & Wolfe, 1996), while studies of the recombination of patented technologies demonstrate long-term group behavior (Youn et al., 2015).
+New advances in the digitization of historical archives enable longitudinal study of how individuals explore and synthesize the work of their contemporaries and predecessors over the course of a lifetime.
+2
+
+Major Events in Charles Darwin’s Life (1809-1882)
+12 Feb 1809
+Born in Shrewsbury, England
+22 Oct 1825
+Matriculates at University of Edinburgh
+15 Oct 1827
+Admitted to Christ’s College, Cambridge
+27 Dec 1831
+Departs England aboard the HMS Beagle
+2 Oct 1836
+Return to England aboard the HMS Beagle
+July 1837
+First entries in reading notebooks
+Aug 1839
+Publication of The Voyage of the Beagle (1st edition)
+May 1842
+Writes the 1st Essay on Species
+4 July 1844
+Writes the 2nd Essay on Species
+Aug 1845
+Publication of The Voyage of the Beagle (2nd edition)
+1 Oct 1846
+Begins barnacle project
+19 Feb 1851
+Publishes ﬁrst volume of barnacle work
+9 Sep 1854
+Begins sorting notes on natural selection
+14 May 1856
+Starts writing “large work” on species
+24 Nov 1859
+Publication of The Origin of Species (1st edition)
+13 May 1860
+Last entry in reading notebooks
+24 Feb 1871
+Publication of The Descent of Man
+19 Feb 1872
+Publication of The Origin of Species (6th and ﬁnal edition)
+21 Apr 1882
+Dies at Down House in Kent, England
+Table 1: Timeline. Major events in Charles Darwin’s life, including those marked on
+Fig. 1. This paper focuses on the critical period of his work from 1837 to 1860, leading to the publication of The Origin of Species. See Berra (2009) for an expanded chronology.
+As one of the most successful and celebrated scientists of the modern era, Charles Darwin’s scientiﬁc creativity has been the subject of numerous narrative and qualitative studies (Gruber & Barrett, 1974; Johnson, 2010;
+Van Hulle, 2014). In part, these studies are possible because Darwin left his biographers careful records of his intellectual and personal life. These include records of the books he read from 1837 to 1860, a critical period which culminated in the publication of The Origin of Species. Table 1 summarizes key events in Darwin’s life.
+This article presents the ﬁrst quantitative analysis of an important sci- entist’s reading diaries, tracking how Darwin navigated the exploration- exploitation trade-oﬀin choosing what to read. We link Darwin’s reading records with the full text of the original volumes. We then use probabilistic
+3
+ topic models (Blei et al., 2003; Blei, 2012b) to represent the original text of each book Darwin read as a mixture of topics. We use information theory to measure the surprise, or unpredictability, of the next book that Darwin chose to read, compared to his past history of reading.
+We present three key ﬁndings:
+1. Darwin’s reading patterns switch between both exploitation and ex- ploration throughout his career. This is in contrast to a pure surprise- minimization strategy that consistently exploits content within a local region before moving on. The general trend, as Darwin’s career devel- ops, is towards increasing exploration.
+2. In comparison to the publication order of the texts Darwin read, Dar- win’s reading order shows higher average surprise. This indicates that the order in which the books were written by the scientiﬁc community is less surprising than the order

@@ -1,0 +1,41 @@
+# round 2, batch_014 — abstracts
+02222|Europe|Theory|Central bank independence spread through institutional isomorphism and symbolic legitimacy rather than proven economic necessity.|M_commit~|
+02011|United States|Panel|Sectors with scale economies and cross-border production sharing lobbied for NAFTA and were liberalized faster.|M_lobby+|
+02213|Cross-country|Panel|Democracies attract up to 70% more FDI than autocracies and have lower sovereign risk.|M_commit+|
+02215|Developing countries|Panel|Democracy raises FDI through property-rights protection but, net of that, lowers it by constraining incentives to investors.|M_commit+|
+01828|Theory|Theory|Peace is likeliest when two democracies interact, because of information and strategic complements; one democracy alone does not suffice.|M_war+|
+02000|Cross-country|Survey|Pro-trade attitudes rise with human capital, non-traded sector employment and relative status; nationalism predicts protectionism.|M_median+,M_culture+|
+02008|Japan; Europe|Panel|Institutionalized linkage between agricultural and industrial issues in negotiations promoted agricultural liberalization by mobilizing exporters.|M_lobby+,M_collective+|
+02001|Cross-country|Survey|Heavy consumers of exportables are more protectionist than consumers of imports: consumption shapes trade preferences.|M_median+|
+02023|Cross-country|Panel|Bilateral investment treaties diffused through competition among developing countries for FDI.|M_commit+|
+02329|Cross-country|Panel|US aid to a country rises 59% when it rotates onto the UN Security Council, especially in key diplomatic years.|M_corruption+,M_lobby+|
+02002|United States|Panel|The World War I export boom, and congressional districts' export income, shaped US moves toward intervention.|M_lobby+,M_war+|
+02019|Denmark; Sweden|Survey|Euro referendum votes reflect economic calculation where exchange-rate regime is at stake and identity with Europe in both countries.|M_culture+,M_median+|
+02028|Europe|Panel|Merchant-dominated city-states borrowed more cheaply than territorial states, especially with constitutional checks.|M_commit+|
+02207|Cross-country|Panel|Counting informal participants, the GATT/WTO did raise trade, correcting earlier null findings.||
+01952|United States|Hist|Antebellum tariffs fell after Jackson broke the North–West logroll of tariffs for internal improvements and western export interests shifted.|M_legbargain+,M_lobby+|
+02216|Developing countries|Panel|WTO membership and preferential trade agreements raise FDI inflows by credibly committing to protect investors.|M_commit+|
+02223|East Asia|Hist|Actors' balance-sheet vulnerabilities to depreciation versus tightening shaped exchange-rate preferences and crisis outcomes.|M_lobby+|
+02224|Cross-country|Hist|IMF staff adopted capital-account liberalization as a norm through recruitment, adaptation and internal entrepreneurship.|M_bureau+|
+02337|Cross-country|IV|Bilateral trade lowers the probability of war between a pair, but multilateral openness raises it by reducing bilateral dependence.|M_war+|
+01996|Theory|Review|Open economy politics is a unifying paradigm but should endogenize interests that international institutions shape.||
+01998|Theory|Review|Compares Heckscher–Ohlin, specific-factors, neo-Ricardian and scale-economy models for trade, migration and investment politics.|M_lobby+|
+02014|Theory|Review|Reviews the political economy of exchange-rate regimes and levels, separating system-level from national choices.||
+02208|United States|Survey|Trade attitudes reflect sociotropic perceptions and out-group anxiety more than skills or industry self-interest.|M_culture+,M_median-|
+02717|Cross-country|Survey|Perceived corruption raises demand for regulation and left-wing voting, as punishment of disliked corrupt capitalists.|M_corruption+,M_culture+|
+02220|Developing countries|IV|Remittances, stable and countercyclical, raise the likelihood that developing countries fix their exchange rates.||
+02016|Cross-country|Panel|More democratic regimes keep less de facto exchange-rate fixity because the median voter is a domestic producer.|M_median+|
+02031|Cross-country|Book|Constructivist essays argue ideas, cognition and uncertainty shape the international economy.|M_culture+|
+01993|Cross-country|Review|Historical overview of how capitalism became a truly international economic order from the 16th century.||
+02034|Cross-country|Panel|Democracies with stronger labour receive less intrusive labour-related IMF conditions.|M_median+,M_collective+|
+02033|Cross-country|Review|Reviews empirical work on sovereign debt and default and its fit with theory.||
+02225|Cross-country|Panel|Countries with a PTA with their base country are less likely to peg and keep more undervalued currencies.|M_commit~|
+01994|Cross-country|Review|Technological innovation and capitalism's spread reinforced each other from 1848 to 2005.||
+02015|United States|Panel|Currency appreciation raises antidumping petitions only in industries with high exchange-rate pass-through.|M_lobby+|
+02026|Cross-country|Desc|After systemic banking crises it takes about eight years on average to regain pre-crisis income, often with double dips.||
+02214|Cross-country|Panel|Democratization liberalizes FDI by raising the political influence of labour, its main beneficiary.|M_median+|
+02275|Cross-country|Panel|Civil wars are likelier under Republican US administrations and when presidential approval is low, via foreign influence on power shifts.|M_war+,M_commit+|
+02030|Cross-country|Review|Global financial stability is a public good with large free-rider incentives, yet governance of global finance has slowly grown.|M_collective+|
+02035|Eastern Europe|Hist|Countries chose austerity or devaluation by which was cheaper overall, and all designed reforms to shelter their own voters.|M_probvote+|
+02217|United States|Panel|US firms with vertical FDI and intrafirm imports from undervaluing countries file fewer antidumping petitions.|M_lobby+|
+02004|United States|Panel|Product differentiation and firm heterogeneity break up industry opposition to trade agreements.|M_lobby+,M_collective~|

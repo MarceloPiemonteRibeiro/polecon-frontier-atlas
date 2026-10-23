@@ -1,0 +1,32 @@
+How does the internet aﬀect the electoral process and governments’ policies? In recent years, some observers have argued that the internet is responsible, in part, for decreasing politi- cal participation, heightening ideological polarization, and reducing checks on governments
+(Sunstein, 2007). The goal of this paper is to shed some light on these issues using detailed data on internet penetration in the U.K. matched with both local election outcomes and local governments’ policy choices, such as expenditures and taxation.
+Voters’ information plays a key role in the democratic process, helping to hold elected of-
+ﬁcials accountable to their electorate. Mass media are the primary sources of information for voters, enabling them to monitor politicians and to use this information in their voting deci- sions. The internet has dramatically aﬀected media markets, decreasing the costs of accessing information. At the same time, the internet has increased the availability of many forms of entertainment (such as movies, games and social media), potentially inducing individuals to substitute away from news and from traditional media, thus crowding out their political engagement (Prior, 2007).1 Notably, evidence from the introduction of then-new media in the
+U.S. shows remarkably diﬀerent eﬀects: Str¨omberg (2004b) documents that radio increased political participation, whereas Gentzkow (2006) shows that television decreased it.
+Moreover, the extent of political participation may aﬀect aggregate policy choices. Large increases in suﬀrage provide, perhaps, the most interesting historical episodes: Lott (1999) examines the growth of U.S. government spending as a result of women’s voting rights; Lizzeri and Persico (2004) show that the extension of voting franchise in nineteenth-century Britain was associated with an increase in expenditures on local public goods. Similarly, politicians’ policy choices react to voters’ information: Besley and Burgess (2002) ﬁnd that the Indian government’s responses to disasters was more rapid in areas with greater newspaper circu- lation; Str¨omberg (2004b) documents that the New Deal’s federal spending in the U.S. was higher in areas with greater radio coverage; and Snyder and Str¨omberg (2010) show that U.S. congressmen who receive greater press coverage channel more federal funds to their districts.
+The goal of this paper is to empirically study the eﬀects of internet diﬀusion on election outcomes, as well as on politicians’ policy choices. We exploit the dramatic growth of the internet in the U.K. through a rich dataset that reports the total number of local broad- band subscribers in each node of British Telecom’s local distribution network. Figure 1, for example, displays that the share of U.K. households with a broadband internet connection increased from six percent in 2003 to 74 percent in 2011. Arguably, the diﬀusion of a new technology, such as the internet, changes people’s access to mass media; since this diﬀusion is heterogeneous across individuals, this variation is well suited to studying the eﬀects of the
+1Putnam (2000) also argues that television and the internet made leisure more private, thereby reducing social interactions, social capital and voter turnout.
+2
+
+0
+20
+40
+60
+80
+Broadband Penetration
+2003
+2005
+2007
+2009
+2011
+Year
+Figure 1: Fraction of U.K. households with a broadband internet connection, 2003-2011. new medium on electoral politics and government policy, as Str¨omberg (2004b) and Gentzkow
+(2006) did for radio and television, respectively.
+Our empirical analysis proceeds in three main stages, focusing on the eﬀects of internet penetration on 1) local elections; 2) local-government policies; and 3) local news. More specif- ically, in the ﬁrst stage, we study the eﬀect of internet penetration on electoral participation by merging our database on internet penetration with data on local election outcomes in each electoral ward in England.2 This analysis faces one key empirical challenge: potential en- dogeneity concerns plague the identiﬁcation of the eﬀects of internet penetration on election outcomes. Internet penetration is positively correlated with several observable demographic characteristics (such as income and education) that are also positively correlated with political participation. Hence, it is also possible that some unobservable demographic characteristics could be correlated with both internet penetration and election outcomes.
+We seek to resolve these demand-side endogeneity concerns by using complementary iden- tiﬁcation strategies. The ﬁrst one follows the insights of Altonji, Elder, and Taber (2005), as recently extended by Oster (Forthcoming), and constructs bounds on the eﬀects of internet diﬀusion on voter turnout based on the correlation between observable controls and internet diﬀusion. The second one exploits instruments that aﬀect the supply of broadband inter- net across diﬀerent geographic areas and over time. More speciﬁcally, Schulman and Spring
+(2011) and Deljac, Randi´c, and Krˇceli´c (2016), among others, ﬁnd that internet network out- ages are more likely to occur during rain and thunderstorms, and several U.K. regulatory reports document that the weather aﬀects the costs of providing reliable broadband. For ex- ample, the regulated network operator Openreach (2014) argues: “Openreach access network
+2While we have data on internet penetration for the entire U.K., we have election data only for England;
+Section 2 describes our data in detail.
+3
+
+[...] is vulnerable to a wide range of weather variables (e.g., rainfall, high winds, lightning, etc.). The direct eﬀect of weather damage may be the need to replace or repair assets, and this can be extensive and costly, but highly signiﬁcant in the context of this market review is the consequential generation of customer fault reports and failures of service to end-users that is perhaps the most relevant issue. [...] Openreach’s ability to service end-users and a

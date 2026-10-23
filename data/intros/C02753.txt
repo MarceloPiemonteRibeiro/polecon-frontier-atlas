@@ -1,0 +1,31 @@
+Can a government in an ethnically divided, conﬂict-ridden society help bridge the ethnic divide? A large literature argues that more conﬂict, higher corruption, weaker institutions and lower economic growth all plague countries with ethnic divisions.1
+In this context, nation-building - in the form of increased ethnic trust, cooperation, and reduced ethnic salience - may have the potential to undercut the roots of inter-ethnic violence.2
+This paper examines the role of propaganda as a tool of nation-building in Rwanda - a country in which Hutu extremists massacred more than 70% of the minority Tutsi population in 1994 in one of the worst genocides in recorded history. Critics of the government’s program of post-genocide nation-building (e.g. Thomson (2011a)), have noted how diﬃcult it is to assess whether progress in ethnic reconciliation is cosmetic or real. In large part, this is because, under President Kagame, Rwanda is a quasi-autocracy that controls the media and tries to manage the narrative on reconciliation. In fact, according to a recent report on
+Rwanda in the New York Times: “Mr. Kagame has created a nation that is orderly but repressive...Against this backdrop, it is diﬃcult to gauge sentiment about the eﬀectiveness of reconciliation eﬀorts.”3
+Accordingly, we evaluate the Rwandan government’s eﬀorts to reshape ethnic attitudes through radio propaganda, by implementing a series of lab-in-the-ﬁeld experiments that mea- sure ethnic attitudes. Our design exploits village-level variation in reception of government- owned-and-operated Radio Rwanda - the result of the mountainous topography of Rwanda
+(colloquially known as the land of a thousand hills). Our empirical strategy is similar in spirit to Yanagizawa-Drott (2014) but relies on contemporary variation in Radio Rwanda rather than historical variation in the hate-radio station RTLM.4 We combine GIS data
+1See Easterly and Levine (1997); Garcia-Montalvo and Reynal-Querol (2004), Blattman and Miguel
+(2010).
+2See Alesina and Ferrara (2005), Alesina et al. (2016) for evidence, and Besley and Persson (2011)
+(Chapter 7) on the importance of “cohesiveness” of inter-group preferences for development.
+3This is a from “How a Nation Reconciles After Genocide Killed Nearly a Million People” by Megan
+Specia in April 25, 2017. (emphasis added)
+4The ﬁrst paper to exploit variation of signal transmission for examining economic outcomes is Olken
+3
+ showing the reach of radio signals with data from a survey, and lab-in-the-ﬁeld experiments on inter-ethnic attitudes conducted with 438 subjects in 52 villages in rural Rwanda.
+We examine four main outcomes, each of which sheds light on aspects of inter-ethnic attitudes. The ﬁrst aims to measure the salience of ethnic identity and the second measures a subject’s willingness to engage in a cooperative task with a partner from another ethnic group. We also collected data on both a private and a public version of the trust game and supplemented this with simple survey questions on in-group and out-group trust. Of course, the key to this exercise relies on the ability to identify the ethnic identity of all subjects. This is particularly challenging since the Rwandan government typically forbids researchers from directly asking subjects if they are Hutu or Tutsi. Navigating this challenge was facilitated by our discovery of a proxy for Tutsi ethnicity: whether or not the subject was eligible to receive funds from the Fund for the Assistance of Survivors of the Genocide5 (known as F.A.R.G.). F.A.R.G is a reparations fund available only to genocide “survivors” (read:
+Tutsi). Armed with these data, we examine the impact of radio propaganda on inter-ethnic behavior and ethnic salience.
+Our ﬁrst outcome is a measure of ethnic salience. Several studies suggest that ethnic salience may be weak when individuals do not expect ethnicity to matter for the allocation of economic or political rewards.6 Finding a measure of ethnic salience that is both plausible and easy to measure in a country such as Rwanda presents a research challenge. To address this challenge, in this paper, we introduce a new methodological tool to economics - the salience of identity test (SIT).7 The test provides a simple way to capture whether a subject subconsciously or consciously categorizes others on the basis of his or her ethnicity: in this case Hutu or Tutsi. The test involves a recall task centered on matching pictures of Hutu and
+(2009) who examined impact of watching TV on social capital in Indonesia.
+5This is translated from French. The original name of the fund in French is: “Fonds d’Assistance aux
+Rescap´es du G´enocide”
+6The pull of national identity has also been shown to inﬂuence inter-ethnic attitudes. Gibson and Gouws
+(2005) show how the pull of national identity weakened inter-group antipathy in South Africa. Also see
+Sniderman and Carmines (1997) and Eifert et al. (2010).
+7Versions of this test have been used in cognitive psychology and the classic reference is Taylor et al.
+(1978) - we discuss this much more systematically later in the paper.
+4
+
+Tutsi men to associated generic (neither positive nor negative) statements. If we ﬁnd that an individual is systematically more likely to mistakenly attribute a statement that corresponds to one Hutu to another Hutu rather than a Tutsi, we say that this is because ethnicity is salient for that subject.
+We ﬁnd that ethnicity is less salient in regions exposed to the government’s nation building rhetoric. Individuals in exposed regions are 10-13 percentage points (≈0.39 standard deviations) less likely to categorize others on the basis of their ethnicity, as measured by the SIT (mean 86%).
+The second outcome is a partner selection task. We asked villagers to select, from a pool of ﬁfteen other subjects, the ﬁve that they would most like to be partnered with for a cooperative face-to-face interaction. Residents of villages with exposure to Radio Rwanda were 15.6 percentage points, o

@@ -1,0 +1,96 @@
+Digitized by the Internet Archive in 2011 'with funding from
+AT URBANA-CH
+•
+University of llbj^isAlJjt)ana-Champaign http://www.archive.org/details/congressionalcon1637spil
+
+S24£
+<:
+CENTRAL CIRCULATION BOOKSTACKS
+The person charging this material is re- sponsible for its renewal or its return to the library from which it was borrowed on or before the
+Latest Date stamped below. You may be charged a minimum fee of $75.00 for each lost book.
+Theft, mutilation, and underlining of books art reasons for disciplinary action and may result
+In dismissal from the University.
+TO RENEW CALL TELEPHONE CENTER, 333-8400
+UNIVERSITY OF
+ILLINOIS
+LIBRARY
+AT
+URBANA-CHAMPAIGN
+APR 2 9 199e
+AUG
+3 1998
+When renewing by phone, write new due date below previous due date.
+L162
+
+
+35
+37
+COPY
+2
+STX
+BEBR
+FACULTY WORKING
+PAPER NO. 90-1637
+Congressional Control or Judicial Independence:
+The Determinants of US Supreme Court Labor Relations
+Decisions, 1949-1987
+Pablo T.
+Spiller
+Rafael Gely
+WORKING PAPER SERIES ON THE POLITICAL ECONOMY OF INSTITUTIONS NO. 37
+College of Commerce and Business Administration
+Bureau of Economic and Business Research
+University of Illinois Urbana-Champaign
+
+
+BEBR
+FACULTY WORKING PAPER NO.
+90-1637
+College of Commerce and Business Administration
+University of Illinois at Urbana- Champaign
+February 1990
+Congressional Control or Judicial
+Independence:
+The Determinants of US
+Supreme Court Labor Relations Decisions,
+1949/1987
+Pablo
+T.
+Spiller
+University of Illinois, at Urbana -Champaign and
+Rafael Gely
+ILIR,
+University of Illinois, at Urbana- Champaign
+Support from the Lilly Endowment, through the Center for the Study of the
+Economy and the
+State, at the University of Chicago, and from the
+Institute for Government and Public Affairs, through its Ameritech Research Fellowship to Spiller is gratefully acknowledged.
+Preliminary versions of this paper were presented at the University of Chicago, the University of Southern
+California, at the University of California,
+Berkeley, and at the Hoover
+Institution's Collective Choice Workshop.
+The authors would like to thank the workshop participants,
+Lee Alston and Barry Weingast for helpful comments.
+
+I
+
+ABSTRACT
+This paper extends the approach to Congressional and regulatory institutions developed by Shepsle and Weingast by introducing an ideologically motivated
+Judiciary.
+The model yields empirically refutable implications which are then tested in the framework of modeling the Court's industrial labor relations decisions.
+Using information on politicians'
+ADA scores, the composition of the
+Court, and the decisions of the
+Court, we obtain estimates of a) the position of the Court in relation to the relevant members of Congress, and b) the determinants of labor policy through the years.
+We find, first, that the
+Court was constrained by Congress over at least half of the period.
+Second, that a
+10 points increase in the ADA rating of the relevant member of
+Congress, or in the imputed ADA rating of the Supreme Court, increases the probability of a pro-union decision by approximately
+5 percentage points.
+Third, that the imputed political preferences of the Court seem to be well explained simply by its political composition.
+Finally, while parsimonious, our model is a relatively good predictor of the Court's decisions, and substantially superior to a simple political bargaining model without institutional content.
+Our results, then, suggest that the Court responds, albeit indirectly, to interest group pressures.
+
+I
+I

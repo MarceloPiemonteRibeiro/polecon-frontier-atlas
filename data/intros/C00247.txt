@@ -1,0 +1,70 @@
+3
+2
+Is Persuasion Eﬀective?
+5
+2.1
+Persuading Consumers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+2.2
+Persuading Voters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+2.3
+Persuading Donors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.4
+Persuading Investors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+3
+What Models Best Capture the Response to Persuasive Communication? 17
+3.1
+Predictions of Belief-Based Models
+. . . . . . . . . . . . . . . . . . . . . . .
+18
+3.2
+Predictions of Preference-Based Models . . . . . . . . . . . . . . . . . . . . .
+22
+3.3
+Demand for Information and Limited Attention . . . . . . . . . . . . . . . .
+24
+4
+What are Senders’ Incentives?
+26
+4.1
+Incentives of Advertisers . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+4.2
+Incentives in Financial Reporting . . . . . . . . . . . . . . . . . . . . . . . .
+27
+4.3
+Incentives of Financial Analysts . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+4.4
+Incentives of the Media . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31
+5
+How Does Persuasion Aﬀect Equilibrium Outcomes?
+34
+6
+Conclusion
+37
+1
+
+Abstract
+We provide a selective survey of empirical evidence on the eﬀects as well as the drivers of persuasive communication. We consider persuasion directed at consumers, voters, donors, and investors. We organize our review around four questions. First, to what extent does persuasion aﬀect the behavior of each of these groups? Second, what models best capture the response to persuasive communication? In particular, we distinguish information-based models from preference-based models. Third, what are persuaders’ incentives and what limits their ability to distort communications? Finally, what evidence exists on the equilibrium outcomes of persuasion in economics and politics?
+Keywords: Persuasion, Communication, Beliefs
+2
+
+1
+Introduction
+The eﬃciency of market economies and democratic political systems depends on the accuracy of individuals’ beliefs. Consumers need to know the set of goods available and be able to evaluate their characteristics. Voters must understand the implications of alternative policies and be able to judge the likely behavior of candidates once in oﬃce. Investors should be able to assess the expected proﬁtability of ﬁrms.
+Some beliefs are shaped by direct observation. But a large share of the information on which economic and political decisions are based is provided by agents who themselves have an interest in the outcome. Information about products is delivered through advertising by the sellers, political information comes from candidates interested in winning election, and ﬁnancial data is released strategically to shape the perceptions of investors. Third par- ties that might be more objective—certiﬁers, media ﬁrms, ﬁnancial analysts—have complex incentives that may diverge from the interests of recipients.
+Scholars have reached sharply diﬀerent conclusions about the implications of commu- nication by motivated agents. Much of the early writing—shaped by the growth of mass advertising in the late nineteenth century and the powerful propaganda campaigns of the early twentieth—is pessimistic. Lippmann (1922), for example, sees citizens as largely at the mercy of powerful persuaders. Democracy asks them to express opinions on topics about which they can have no direct experience, and the fact that their views are shaped by those in power undermines democracy’s basic premise. Robinson (1933), Kaldor (1950), Galbraith
+(1967), and others view advertising as anti-competitive and detrimental to welfare.
+The alternative view is that persuasive communication is a more or less eﬃcient provision of information. That those providing the information have ulterior motives may be no more troubling than the fact that Adam Smith’s butchers and bakers act out of their own self interest. Bernays (1928) defends the value of propaganda on the grounds that even distorted communications are often informative. The inﬂuential work of Stigler (1961) and Telser
+(1964) shows that in a world of incomplete information advertising can enhance market
+3
+ eﬃciency. Downs (1957) sees political campaigns and media coverage playing a similar role, delivering information at low cost to voters who would have insuﬃcient incentive to seek it out themselves.
+In this review, we provide a selective survey of empirical evidence on the eﬀects as well as the drivers of persuasive communication. We deﬁne a persuasive communication to be a message provided by one agent (a sender) with at least a potential interest in changing the behavior of another agent (a receiver). We exclude situations where an agent attempts to manipulate another through means other than messages—providing monetary incentives, for example, or outright coercion. We also depart from some existing literatures in using the term persuasion to refer to both informative and non-informative dimensions of messages.
+Some of the evidence we review comes from economists, including a recent surge of work applying modern empirical tools.
+Other evidence comes from marketing, political science, psychology, communications, accounting, and related ﬁelds. Our main focus is on studies that credibly identify eﬀects on ﬁeld outcomes. We do not attempt to review the laboratory evidence on persuasion, nor do we discuss literatures where the outcome measures are primarily self-reported attitudes. Even within these parameters, we inevitably omit many important studies, and give only cursory treatment to others.
+We consider four groups that are targets of persuasion: consumers, voters, donors, and investors. We organize our review around four questions. First, to what extent does per- suasion aﬀect the behavior of each of these groups? Second, what models best capture the response to persuasive communication? In particular, we distinguish belief-based models from preference-based models. Third, wha

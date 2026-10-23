@@ -1,0 +1,41 @@
+# batch_014 — abstracts
+00806|China|Book|Chinese society is organized by concentric "differential modes of association" rather than Western group membership, shaping its ethics.|M_culture+|
+01534|Theory|Theory|Strict religious groups use stigma and sacrifice to screen out free riders in club goods.|M_culture+,M_collective+|
+00049|Cross-country|Hist|Collectivist (Maghribi) versus individualist (Genoese) cultural beliefs produced different institutional trajectories and path dependence.|M_culture+|
+00139|Theory|Theory|Minorities invest more in homogamy and socialization, so ethnic and religious traits converge to a heterogeneous steady state.|M_culture+|
+01413|Israel|RCT|Fining parents for late pickup increased lateness and it stayed high after removal: fines can crowd out norms.|M_culture+|
+01519|Cross-country|Lab|Ultimatum and public-goods games in 15 small-scale societies show behaviour varies with market integration and cooperation in daily life.|M_culture+|
+01614|United States|Survey|The happiest people have strong social relationships; good relations are necessary but not sufficient for happiness.||
+01615|United States|Lab|Social exclusion activates brain regions associated with physical pain.||
+01517|Theory|Book|Culture as socially transmitted information evolves and explains both human success and maladaptation.|M_culture+|
+01545|Theory|Theory|Trustworthiness transmitted by socialization is the relevant social capital; it interacts with production, cautioning against rapid reform.|M_culture+|
+00135|Cross-country|Review|Culture can be tested as beliefs and preferences transmitted across generations and affects economic outcomes.|M_culture+|
+00140|United Kingdom|Theory|Middle-class parents instil patience and work ethic while rentier aristocrats cultivate leisure tastes, explaining the rise of capitalists.|M_culture+|
+01641|Cross-country|Review|Religion promotes prosociality mainly when reputational concerns are salient; moralizing gods go with larger groups.|M_culture+|
+00136|Europe|Panel|Bilateral trust rooted in history, religion and genetic similarity affects trade and investment between European countries.|M_culture+|
+00137|United States|Panel|Second-generation American women's work and fertility track their ancestral country's female labour participation and fertility.|M_culture+|
+01678|Peru|Desc|Archaeology of Inca offerings illuminates the Andean concept of an animating vital force (camaquen).|M_culture+|
+00134|Europe|IV|Culture (trust, respect, self-determination) instrumented by historical literacy and institutions predicts regional development in Europe.|M_culture+|
+01548|Cross-country|Panel|Distrust creates demand for regulation even from corrupt governments, and regulation discourages trust: multiple equilibria.|M_culture+|
+01589|Cross-country|Review|Western, educated, industrialized, rich, democratic subjects are unrepresentative of human psychology.|M_culture+|
+01611|Cross-country|Review|Stronger social relationships raise survival odds by about 50%, comparable to major health risk factors.||
+00142|Theory|Theory|Laws send messages about societal values and interact with honour, stigma and norms; norms-based interventions face credibility limits.|M_culture+|
+01030|Cross-country|IV|Societies with historical plough agriculture have lower fertility, as children were less useful in fields.|M_culture+|
+01681|Cross-country|Review|An anthropologist's critique of popular development economics.||
+01590|Cross-country|Book|Prehistoric social logics set the stage for hereditary inequality, monarchy, slavery and empire.|M_commit+|
+01524|India|Struct|Tastes favour foods historically abundant in each region, so trade liberalization yields smaller nutritional gains.|M_culture+|
+01595|Cross-country|Desc|Text mining of 11 million patents shows innovation focuses on about 4% of described species.||
+01622|Mauritius|Lab|More painful rituals raise participants' and observers' generosity: extreme rituals promote prosociality.|M_culture+|
+01521|United States|IV|Historical Scots-Irish settlement predicts higher homicide in the South, a culture of honour persisting where institutions were weak.|M_culture+|
+01578|Theory|Theory|Economic relations rest on three moral principles — communism, exchange and hierarchy — combined in every society.|M_culture+|
+01645|Theory|Review|Prosocial religions with moralizing gods culturally evolved alongside large-scale cooperation and intergroup competition.|M_culture+|
+01654|Canada|Desc|Euro-Canadians and Blackfoot conserved bison under different worldviews about humans and nature.|M_culture+|
+01638|Cross-country|IV|Longer Ramadan fasting lowers output growth in Muslim countries but raises Muslims' subjective well-being (club-good screening).|M_culture+|
+00998|Theory|Theory|Social segregation and unequal treatment by a surveilling state sustain each other as coordination failures.|M_coord+|
+01523|India|Panel|Interstate migrants carry origin food preferences and consume fewer calories per rupee.|M_culture+|
+01594|Theory|Lab|Partially connected groups accumulate more complex cultural innovations than fully connected ones.|M_culture+|
+01031|United States|RCT|Single female MBA students understate ambition when single male classmates can observe their answers.|M_culture+|
+01467|United States|DiD|Disclosure of the Tuskegee study increased medical mistrust and mortality among older Black men.|M_culture+|
+01516|Theory|Book|Culture drove human cognitive evolution through feedback between learning and biology.|M_culture+|
+01532|Cross-country|XC|Proximity to pre-600 trade routes and arid ecology predict today's Muslim adherence.|M_culture+|
+01533|DR Congo|Theory|Belief in bullet-proofing magic persists because it yields group-level benefits in conflict despite individual costs.|M_culture+,M_war+|

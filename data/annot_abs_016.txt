@@ -1,0 +1,41 @@
+# batch_016 — abstracts
+01023|Uganda|Lab|Co-ethnics cooperate because they coordinate on cooperative equilibria and can sanction through networks, not because of shared tastes or altruism.|M_diversity+,M_collective+|
+00558|United States|IV|The Great Migration raised Democratic support, congressional promotion of civil rights and pro-civil-rights activism in the North, including among some whites.|M_diversity~,M_median+|
+00692|Kenya|NatExp|Upstream workers misallocate flowers against non-coethnic teammates, more so after the 2007 conflict; team pay reduces the distortion.|M_diversity+|
+01702|United States|RCT|Black men assigned to Black doctors take up much more preventive care, enough to cut the cardiovascular mortality gap by about 19%.|M_diversity+|
+00096|Theory|Theory|Dynasties learn about effort versus luck from their own mobility, sustaining persistent left- and right-wing beliefs about redistribution.|M_median~,M_culture+|
+00092|Theory|Theory|Prospects of upward mobility can make a poorer majority reject redistribution, but only under specific (concave) mobility processes.|M_median~|
+00987|Cross-country|Survey|Americans are more optimistic about mobility; pessimistic information raises support for opportunity policies, but only among left-wing respondents.|M_median~,M_culture+|
+00971|United States; Europe|Book|The US–Europe redistribution gap reflects political institutions, racial heterogeneity and beliefs about the causes of poverty.|M_diversity+,M_culture+|
+00227|Kenya; Tanzania|NatExp|Tanzania's nation building erased the diversity penalty on local school funding that persists across the border in Kenya.|M_diversity~,M_statecap+|
+00816|Indonesia|NatExp|Resettlement fostered national integration in fractionalized communities but raised ethnic attachment in polarized ones.|M_diversity+|
+00909||RCT|On an online platform women face discrimination without history but are favoured after positive evaluations, revealing biased beliefs.||
+00912|United States|Review|Economists should study institutional (organizational and legal) discrimination, through which past discrimination persists.|M_culture+|
+00910|Theory|Theory|Fear of identity contagion sustains segregated labour markets; office-seeking candidates propose symbolic anti-minority policies that trigger discrimination and lower redistribution.|M_diversity+,M_probvote+|
+01560|Spain; Portugal|Hist|Racist ideology crystallized in Iberia before 1492, so racism preceded American slavery rather than resulting from it.|M_culture+|
+01732|Theory|Theory|Poorer citizens identify more with the nation, and national identification lowers support for redistribution across democracies.|M_culture+,M_median~|
+00251|DR Congo|Lab|Implicit Association Tests reveal in-group ethnic bias, smaller than self-reported bias.|M_diversity+|
+01557|Cross-country|Book|Western racism emerged in the late Middle Ages; compares Jim Crow, Nazi Germany and apartheid.|M_culture+|
+00314|Europe|IV|Chinese import shocks raised support for nationalist, isolationist and radical-right parties in Western Europe, with sociotropic voting.||
+00424|United Kingdom|IV|Leave support was higher in regions hit harder by Chinese imports; immigrant stocks did not predict it.||
+00431|United States|IV|Mass migration in 1910–30 raised natives' employment yet triggered conservative legislators, anti-immigration votes and lower redistribution, driven by cultural distance.|M_diversity+|
+00311|United States|IV|China-shock exposure polarized politics: more Fox viewing, polarized donations, conservative Republicans in white areas and liberal Democrats in minority areas.|M_diversity+|
+00959|United Kingdom|Panel|FDI exposure in workers' industries raises perceived economic insecurity.||
+00793|Cross-country|Review|Removing emigration barriers could add large fractions of world GDP, far more than remaining trade or capital liberalization.||
+00948|United States|Panel|Voters punish incumbents more for trade-related job losses, less where more displaced workers received Trade Adjustment Assistance.|M_moralhazard+|
+00917|Switzerland|NatExp|In Swiss naturalization referendums, origin (former Yugoslavia, Turkey) drives rejection more than any other applicant trait.|M_diversity+|
+00616|United States|NatExp|The 1927 flood pushed Black out-migration and landowners then mechanized; before, landowners had resisted out-migration to keep cheap labour.|M_commit+|
+00955|United States|IV|China-shock exposure made House members vote more protectionist on trade bills only, with no electoral penalty: strategic responsiveness.|M_median+|
+00906|Greece|IV|Mere transit exposure to refugee arrivals on Aegean islands caused lasting hostility and support for restrictive policies.|M_diversity+|
+01022|Denmark|NatExp|Quasi-random refugee allocation raised anti-immigration vote shares except in the largest urban municipalities.|M_diversity+|
+00548|Israel|RCT|Random assignment of financial assets shifted votes toward pro-peace parties by raising awareness of conflict's economic costs.|M_war+|
+00905|Europe|Review|Failure to compensate the losers of trade, technology, crises and immigration drives economic nationalism and the radical right.||
+00918|Switzerland|DiD|Naturalization rates rose 60% when elected councils replaced referendums, most for marginalized groups: accountable representatives constrain discrimination.|M_diversity+,M_moralhazard+|
+00399|Theory|Theory|Office-motivated politicians underprovide non-targetable public goods, more under winner-take-all than proportional systems.|M_probvote+|
+00038|Cross-country|Theory|More inequality raises the median voter's preferred capital tax and lowers growth; land and income inequality predict slower growth.|M_median+|
+00114|Theory|Book|Unified political economics: rational voters, agency problems with politicians and institutions shaping policy.|M_median+,M_probvote+,M_moralhazard+|
+00029|Theory|Theory|More parties push each to target narrower constituencies, replacing diffuse-benefit policies with special-interest ones.|M_probvote+|
+00785|Theory|Theory|Politics compensates losers through inefficient protection because transfers reward political rather than economic characteristics.|M_probvote+,M_commit+|
+00541|Theory|Theory|Proportional representation with legislative bargaining yields higher taxes and flatter post-tax incomes than winner-take-all.|M_legbargain+|
+00982|Cross-country|Panel|Distributional conflict leads politics to tax growth-promoting activities; inequality predicts lower growth.|M_median+|
+00781|Theory|Theory|With intra-party factions, both parties propose progressive income taxes in a two-dimensional policy space.|M_median~|

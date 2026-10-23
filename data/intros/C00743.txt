@@ -1,0 +1,59 @@
+LAND REFORM, POVERTY REDUCTION AND GROWTH: EVIDENCE FROM INDIA
+BY
+TIMOTHY BESLEY AND ROBIN BURGESS*
+London School of Economics
+Houghton Street
+London WC2A 2AE
+This Draft: September 1998
+DEDPS No. 13
+ The Development Economics Discussion Paper Series
+October 1998
+ The Suntory Centre
+Suntory and Toyota International Centres for Economics and Related Disciplines
+London School of Economics
+Houghton Street
+London WC2A 2AE
+Tel: 0171 955 6698
+ 
+* The authors are grateful to Ahbijit Banerjee, Pranab Bardhan, Clive Bell, Francois Bourguignon, Jean
+Dreze, Michael Lipton, Rohini Pande, Martin Ravallion and a number of seminar participants for helpful comments. Timo Henckel and Cecilia Testa provided able research assistance. We also thank
+STICERD for invaluable financial support.
+
+LAND REFORM, POVERTY REDUCTION AND GROWTH: EVIDENCE FROM INDIA
+BY
+TIMOTHY BESLEY AND ROBIN BURGESS
+London School of Economics
+Houghton Street
+London WC2A 2AE
+This Draft: September 1998
+ABSTRACT
+In recent times there has been a renewed interest in relationships between redistribution, growth and welfare. Land reforms have been central to strategies to improve the asset base of the poor in developing countries thought their effectiveness has been hindered by political constraints on implementation. In this paper we use panel data on the sixteen main Indian states from 1958 to 1992 to consider whether the large volume of land reforms as have been legislated have had an appreciable impact on growth and poverty. The evidence presented suggests that land reforms do appear to be associated with poverty reduction.
+Keywords: land reform, political economy, poverty, growth, India
+JEL Classification: D60, H11 O11, Q15, R11
+© by Timothy Besley and Robin Burgess. All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
+
+Odqg Uhirup/ Sryhuw| Uhgxfwlrq dqg
+Jurzwk= Hylghqfh iurp Lqgld
+Wlprwk| Ehvoh| dqg Urelq Exujhvv
+Orqgrq Vfkrro ri Hfrqrplfv
+Krxjkwrq Vwuhhw
+Orqgrq ZF5D 5DH
+Wklv Gudiw= Vhswhpehu 4<<;
+Devwudfw
+Lq uhfhqw wlphv wkhuh kdv ehhq d uhqhzhg lqwhuhvw lq uhodwlrqvklsv eh0 wzhhq uhglvwulexwlrq/ jurzwk dqg zhoiduh1 Odqg uhirupv kdyh ehhq fhqwudo wr vwudwhjlhv wr lpsuryh wkh dvvhw edvh ri wkh srru lq ghyhorslqj frxqwulhv wkrxjk wkhlu hhfwlyhqhvv kdv ehhq klqghuhg e| srolwlfdo frqvwudlqwv rq lp0 sohphqwdwlrq1 Lq wklv sdshu zh xvh sdqho gdwd rq wkh vl{whhq pdlq Lqgldq vwdwhv iurp 4<8; wr 4<<5 wr frqvlghu zkhwkhu wkh odujh yroxph ri odqg uh0 irupv dv kdyh ehhq ohjlvodwhg kdyh kdg dq dssuhfldeoh lpsdfw rq jurzwk dqg sryhuw|1 Wkh hylghqfh suhvhqwhg vxjjhvwv wkdw odqg uhirupv gr dsshdu wr eh dvvrfldwhg zlwk sryhuw| uhgxfwlrq1
+Wkh dxwkruv duh judwhixo wr Dkelmlw Edqhumhh/ Sudqde Edugkdq/ Folyh Ehoo/ Iudqfrlv Erxu0 jxljqrq/ Mhdq Guh}h/ Plfkdho Olswrq/ Urklql Sdqgh/ Pduwlq Udydoolrq dqg d qxpehu ri vhplqdu sduwlflsdqwv iru khosixo frpphqwv1
+Wlpr Khqfnho dqg Fhflold Whvwd surylghg deoh uhvhdufk dvvlvwdqfh1 Zh dovr wkdqn VWLFHUG iru lqydoxdeoh qdqfldo vxssruw1
+
+41 Lqwurgxfwlrq
+Ilqglqj hhfwlyh phdqv wr uholhyh sryhuw| lv d ghqlqj plvvlrq iru ghyhorsphqw hfrqrplfv1 Wr wklv hqg/ d zlgh udqjh ri srolf| dowhuqdwlyhv kdyh ehhq lpsoh0 phqwhg1 Krzhyhu/ wkh ehqhwv ri pdq| vxfk hruwv kdyh ehhq txhvwlrqhg1 Vrph dujxh wkdw srolwlfdo frqvwudlqwv rq lpsohphqwdwlrq ghq| wkh srru wkh ehqhwv ri uhglvwulexwlyh hruwv1 Rwkhuv vxjjhvw wkdw ehqhwv wr wkh srru duh xqghuplqhg e| glvlqfhqwlyhv wr jhqhudwh lqfrph1 Zruvh vwloo/ wkhvh glvlqfhqwlyhv fdq d"lfw wkh qrq0srru zkr wu| wr txdoli| iru dvvlvwdqfh1 Wklv lq wxuq ohdgv srolf| dqdo|vwv wr txhvwlrq wkh zlvgrp ri lpsohphqwlqj uhglvwulexwlyh srolflhv dw doo/ irfxvlqj lqvwhdg rq srolflhv wkdw surprwh hfrqrplf jurzwk1 Frpedwwlqj vxfk shvvlplvp uhtxluhv hpslulfdo hylghqfh wkdw vrph uhglvwulexwlyh srolflhv kdyh dfklhyhg wkhlu vwdwhg jrdov1
+Wklv sdshu vwxglhv odqg uhirup dv d uhglvwulexwlyh srolf|1
+Wkurxjkrxw wkh srvw0frorqldo shulrg/ lpsuryhphqw lq wkh dvvhw edvh ri wkh srru kdv ehhq ylhzhg dv d fhqwudo vwudwhj| wr uholhyh hqghplf sryhuw| +Fkhqhu| hw do1/ 4<:3,1
+Lq d srru djuduldq hfrqrp|/ w|slfdo ri wkrvh lq pdq| ohvv ghyhorshg frxqwulhv/ wklv lpsolhv lpsurylqj wkh whupv rq zklfk wkh srru kdyh dffhvv wr odqg1 Vljqlfdqw srolwlfdo fkdqjhv/ vxfk dv ghfrorql}dwlrq/ kdyh vrphwlphv drughg wkh rssruwxqlw| wr xqghuwdnh idu0uhdfklqj odqg uhirupv wkdw wudqvihu surshuw| uljkwv wr wkh srru1
+Krzhyhu/ vxfk lqvwdqfhv duh uduh dqg pruh lqfuhphqwdo phdvxuhv duh frpprq1
+Wklv lv wkh fdvh lq Lqgld zkhuh odqg uhirupv kdyh ehhq rq wkh srolf| djhqgd vlqfh lqghshqghqfh1
+Wkhvh uhirupv kdyh lqyroyhg rqo| olplwhg hruwv dw odqg uhglvwulexwlrq/ prvwo| wkurxjk ohjlvodwhg fhlolqjv rq odqg kroglqj1
+Ohjlvodwlrq dlphg dw uhjxodwlqj whqdqflhv/ iru h{dpsoh e| lpsurylqj whqxuldo vhfxulw|/ dqg uhgxflqj wkh srzhu ri devhqwhh odqgorugv dqg lqwhuphgldulhv duh pruh frpprq1
+Zkloh wkh odwwhu qhhg qrw fkdqjh wkh glvwulexwlrq ri odqg kroglqjv/ wkh| pd| lpsuryh whqdqwv* fodlpv wr wkh uhwxuqv iurp wkhlu odqg1 Wklv pd| dovr ehqhw wkh odqgohvv e| udlvlqj djulfxowxudo zdjhv1
+Lqgld lv dq lpsruwdqw fdvh vwxg| ri odqg uhirup1 Lw lv erwk krph wr d vljqlfdqw iudfwlrq ri wkh srru lq wkh ghyhorslqj zruog dqg lq wkh srvw0Lqghshqghqfh shulrg zdv vxemhfwhg wr wkh odujhvw erg| ri odqg uhirup ohjlvodwlrq hyhu wr kdyh ehhq sdvvhg lq vr vkruw d shulrg lq dq| frxqwu| +Wkruqhu/ 4<:9,1 Wkh h!fdf| ri wklv ohjlvodwlrq kdv/ krzhyhu/ ehhq pxfk ghedwhg1 Wkh frqyhqwlrqdo zlvgrp iroorzlqj wkh lq xhqwldo frpphqwdu| ri Edugkdq +4<:3, lv wkdw/ zkloh odqg uhirup ohjlvodwlrq derxqgv/ wkh uhdo lpsdfw rq wkh frqglwlrqv ri wkh srru lv pxwhg e| xqhqwkxvldvwlf lpsohphqwdwlrq ri sursrvhg fkdqjhv1 Krzhyhu/ eurdg edvhg txdqwlwdwlyh whvwlqj
+5
+ ri wklv qrwlrq grhv qrw dsshdu wr kdyh ehhq dwwhpswhg suhylrxvo|1 Wklv sdshu wdnhv dgydqwdjh ri wkh vwdwh ohyho sdqho gdwd dydlodeoh iru wkh vl{whhq pdlq Lqgldq vwdwhv iurp 4<8; wr 4<<5 wr dvvhvv wklv1 Wkh vwdwh lv wkh qdwxudo

@@ -1,0 +1,32 @@
+Why Doesn’t the United States Have a European-Style Welfare State?
+EUROPEAN GOVERNMENTS REDISTRIBUTE income among their citizens on a much larger scale than does the U.S. government. European social pro- grams are more generous and reach a larger share of citizens. European tax systems are more progressive. European regulations designed to protect the poor are more intrusive. In this paper we try to understand why.
+The literature on the size of government is rich and varied. However, here we do not focus on the size of government as such, but rather on the redistributive side of government policies. Thus our goal is in one sense narrower than answering the question, “What explains the size of govern- ment?” since we focus on a single, but increasingly important, role of ﬁs- cal policy. Yet in another sense our focus is broader, because redistributive policies go beyond the government budget—think, for instance, of labor market policies.
+We consider economic, political, and behavioral explanations for these differences between the United States and Europe. Economic explanations focus on the variance of income and the skewness of the income distribu- tion before taxes and transfers, the social costs of taxation, the volatility of income, and expected changes in income for the median voter. We con- clude that most of these theories cannot explain the observed differences.
+187
+A L B E R T O A L E S I N A
+Harvard University 
+E D WA R D G L A E S E R
+Harvard University
+B R U C E S A C E R D O T E
+Dartmouth College
+We are grateful to our discussants for very useful suggestions. We also thank William
+Easterly, Benjamin Friedman, Michael Mandler, Casey Mulligan, Roberto Perotti, Andrei
+Shleifer, Theda Skocpol, and a large number of conference participants for very useful com- ments. We thank the National Science Foundation for financial assistance through a grant with the National Bureau of Economic Research. Arnaud Devleeschauwer and Jesse Shapiro provided excellent research assistance. 
+
+Before-tax income in the United States has both a higher variance and a more skewed distribution. There is no evidence that the deadweight losses from taxation are lower in Europe. And the volatility of income appears to be lower in Europe than in the United States. However, there is some possibility that middle-class households in the United States have a greater chance of moving up in the income distribution, which would make the median voter more averse to redistribution.
+Political explanations for the observed level of redistribution focus on institutions that prevent minorities from gaining political power or that strictly protect individuals’ private property. Cross-country comparisons indicate the importance of these institutions in limiting redistribution. For instance, at the federal level, the United States does not have proportional representation, which played an important role in facilitating the growth of socialist parties in many European countries. America has strong courts that have routinely rejected popular attempts at redistribution, such as the income tax or labor regulation. The European equivalents of these courts were swept away as democracy replaced monarchy and aristocracy. The federal structure of the United States may have also contributed to con- straining the role of the central government in redistribution. 
+These political institutions result from particular features of U.S. his- tory and geography. The formation of the United States as a federation of independent territories led to a structure that often creates obstacles to cen- tralized redistributive policies. The relative political stability of the United
+States over more than two centuries means that it is still governed by an eighteenth-century constitution designed to protect property. As world war and revolution uprooted the old European monarchies, the twentieth- century constitutions that replaced them were more oriented toward major- ity rule, and less toward protection of private property. Moreover, the spatial organization of the United States—in particular, its low popula- tion density—meant that the U.S. government was much less threatened by socialist revolution. In contrast, many of Europe’s institutions were established either by revolutionary groups directly or by elites in response to the threat of violence. 
+Finally, we discuss reciprocal altruism as a possible behavioral expla- nation for redistribution. Reciprocal altruism implies that voters will dis- like giving money to the poor if, as in the United States, the poor are perceived as lazy. In contrast, Europeans overwhelmingly believe that the
+188
+Brookings Papers on Economic Activity, 2:2001
+ poor are poor because they have been unfortunate. This difference in views is part of what is sometimes referred to as “American exceptionalism.”1
+Racial discord plays a critical role in determining beliefs about the poor.
+Since racial minorities are highly overrepresented among the poorest
+Americans, any income-based redistribution measures will redistribute disproportionately to these minorities. Opponents of redistribution in the
+United States have regularly used race-based rhetoric to resist left-wing policies. Across countries, racial fragmentation is a powerful predictor of redistribution. Within the United States, race is the single most important predictor of support for welfare. America’s troubled race relations are clearly a major reason for the absence of an American welfare state.
+The Size and Structure of Redistributive Policies in the 
+United States and Europe
+In this section we review the basic facts about the level of redistribu- tion to the poor in the United States and Europe. 
+Government Spending
+Table 1 summarizes the magnitude and composition of government spending in Europe and in the United States, using data from the Organi- zation for Economic Cooperation and Development (OECD). In addition to reporting averages for the countries in the Eur

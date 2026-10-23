@@ -1,0 +1,47 @@
+TSpace Research Repository tspace.library.utoronto.ca 
+ 
+What is Discrimination? 
+ 
+Sophia Moreau 
+ 
+Version: Accepted Manuscript 
+ 
+Citation: Sophia Moreau, "What is Discrimination?" (2010) 38:2 Philosophy & Public Affairs 
+143, online: <onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2010.01181.x>. 
+ 
+Copyright / License: 
+ 
+Publisher’s Statement: This is the peer reviewed version of the following article: Sophia 
+Moreau, "What is Discrimination?" (2010) 38:2 Philosophy & Public Affairs 143. It has been  published in final form at https://doi.org/10.1111/j.1088-4963.2010.01181.x. This article may be  used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of 
+Self-Archived Versions. 
+ 
+How to cite TSpace items 
+Always cite the published version, so the author(s) will receive recognition through  services that track citation counts, e.g. Scopus. If you need to cite the page number of the  author manuscript from TSpace because you cannot access the published version, then cite  the TSpace version in addition to the published version using the permanent URI (handle)  found on the record page. 
+ 
+This article was made openly accessible by U of T Faculty. 
+Please tell us how this access benefits you. Your story matters. 
+ 
+
+ 
+What Is Discrimination?* 
+ 
+Sophia Moreau, University of Toronto 
+ 
+ 
+Anti-discrimination laws are a familiar feature of our legal landscape. In the private sector,  they operate in certain contexts—for instance, the provision of goods and services, rental  housing, and employment—to prohibit us from singling out individuals for less favorable  treatment because of certain traits, such as their race, age, gender, or religion.1 They also  sometimes prohibit us from adopting rules or practices that do not explicitly exclude anyone  on the basis of a prohibited ground but nevertheless have the effect of disproportionately  disadvantaging some groups on this basis, such as aerobic capacity tests that exclude women  at a higher rate than men.2 And some anti-discrimination laws, such as the Americans with 
+Disabilities Act, require us not just to avoid disadvantaging people on the basis of a  prohibited ground of discrimination but also to provide the facilities and services they need.3 
+ 
+*Forthcoming in Philosophy & Public Affairs 38.2 (2010). I am very grateful for the many helpful comments 
+I have received from the Editors of Philosophy & Public Affairs, and from audiences at the Gould School of 
+Law, the McGill Legal Theory Workshop, the NYU Colloquium in Legal, Political and Social Philosophy, the 
+UCLA Legal Theory Workshop, and the University of Toronto Faculty of Law. 
+1 Some central examples of anti-discrimination legislation in the United States are Title VII of the Civil Rights 
+Act of 1964, 42 U.S.C. §§2000E (2003), the Age Discrimination in Employment Act of 1967, 29 U.S.C. 621–
+34, and the Fair Housing Act and Fair Housing Amendments Act, 42 U.S.C. §§ 3601–19. In Canada, each  province has its own anti-discrimination legislation covering all of the above contexts: see, for a representative  example, the Ontario Human Rights Code, R.S.O. 1990, c.H.19. The United Kingdom has recently introduced  the Equality Bill (April 24, 2009), a single piece of legislation aimed at harmonizing anti-discrimination laws  in the United Kingdom. When passed, it will replace the United Kingdom’s current subject-specific anti- discrimination laws, such as the Sex Discrimination Act of 1975 (c.65), the Race Relations Act of 1976 (c.74),  and the Disability Discrimination Act of 1995 (c.50). 
+2 All of the legislation cited above in note 1 also prohibits this second form of discrimination. This form of  discrimination does not necessarily involve an exclusionary motive; but the countries cited in note 1 differ  somewhat in the ways in which they draw the distinction between it and the kind of discrimination that does. 
+In the United States, the distinction is between “disparate treatment,” which necessarily involves an  exclusionary motive, and “disparate impact,” which does not, and can be proven simply by adducing statistical  evidence that the rule or practice disproportionately burdens the claimant’s group. In Canada and the United 
+Kingdom, the distinction is between “direct discrimination,” which may or may not involve an exclusionary  motive but must involve a rule that explicitly draws a prohibited distinction, and “adverse effect discrimination”  or “indirect discrimination,” which involves facially neutral rules or practices that have the effect of  disadvantaging some individuals based on a prohibited ground. My argument does not depend on our drawing  the distinction in one of these ways rather than another. Indeed, as I shall argue later in the article, my account  of discrimination implies that these distinctions are not deep. It is largely irrelevant from the standpoint of  justice whether discrimination has been intentional or non-intentional, direct or indirect; although, as I shall  explain, the presence of a discriminatory motive may have bearing on whether the claimant is owed additional  damages for mental suffering. 
+3 Americans with Disabilities Act of 1990, as amended by the ADA Amendments Act of 2008, 42 U.S.C. c.126, 
+47 U.S.C. c.5. See also the Family and Medical Leave Act of 1993, 29 U.S.C. §§ 2601–54 (1994 & Supp. III 
+1997). In the United Kingdom, the Disability Discrimination Act of 1995 imposed similar accommodation  requirements, note 1 above. All of the provincial human rights codes in Canada cited in note 1 impose  accommodation requirements with respect to all of the grounds of discrimination. Indeed, the Canadian 
+Supreme Court has defined discrimination in the private sector as the failure to provide reasonable  accommodation to those disadvantaged by one’s policies on the basis of a prohibited ground of discrimination:  see British Columbia (Public Service Employee Relations Commission) v. BCGSEU, [1999] 3 S.C.R. 3

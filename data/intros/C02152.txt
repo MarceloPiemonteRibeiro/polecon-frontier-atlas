@@ -1,0 +1,31 @@
+. 
+ 
+ 
+Today, both the U.S. and the international community face two major development  challenges around the world, from Iraq, to Haiti, to sub-Saharan Africa: how to ignite growth and  how to establish democracy. Economic research has identified two broad approaches to  confronting these challenges. The first approach emphasizes the need to start with democracy  and other checks on government as the mechanisms for securing property rights. With such  political institutions in place, investment in human and physical capital, and therefore economic  growth, are expected to follow. The second approach emphasizes the need for human and  physical capital accumulation to start the process. It holds that even pro-market dictators can  secure property rights as a matter of policy choice, not of political constraints. From the vantage  point of poor countries, it sees democracy and other institutional improvements as the  consequences of increased education and wealth, not as their causes. 
+ 
+Both approaches to development have extensive intellectual pedigree. The importance of  constraining government was stressed by Montesquieu (1748) and Smith (1776), as well by the  new institutional economics literature (Buchanan and Tullock 1962, North and Thomas 1973, 
+North 1981, 1990). DeLong and Shleifer (1993) supplied early empirical support for this view  using data on urbanization of European regions during the last millennium, which showed faster  city growth under more limited governments. More recently, the literature on economic growth,  starting with early contributions by Knack and Keefer (1995) and Mauro (1995), has turned to the  effects of good institutions on economic growth. It is fair to say that recent work, including Hall  and Jones (1999), Acemoglu, Johnson and Robinson (2001, 2002), Easterly and Levine (2003), 
+Dollar and Kraay (2003), and Rodrik, Subramanian, and Trebbi (2002), has reached close to an  intellectual consensus that the political institutions of limited government cause economic growth. 
+
+ 
+3
+ 
+The reverse idea, namely that growth in income and human capital causes institutional  improvement, is most closely associated with the work of Seymour Martin Lipset (1960), who  however himself gives credit to Aristotle. Lipset believed that educated people are more likely to  resolve their differences through negotiation and voting than through violent disputes. Education  is needed for courts to operate and to empower citizens to engage with government institutions. 
+Literacy encourages the spread of knowledge about the government’s malfeasance. According to  this view, countries differ in their stocks of human and social capital – which can be acquired  through policies pursued even by dictators – and institutional outcomes depend to a large extent  on these endowments (see Djankov et al. 2003). This line of work seems to accord well with the  experiences of South Korea, Taiwan, and China, which grew rapidly under one-party  dictatorships, the first two eventually turning to democracy. Empirically, Lipset’s hypothesis –  that growth leads to better political institutions -- has received considerable support in the work of 
+Przeworski and his associates (Alvarez et al. 2000) and Barro (1999). 
+ 
+The two views of economic and political development share some important similarities. 
+They both emphasize the need for secure property rights to support investment in human and  physical capital, and they both see such security as a public policy choice. However, the  institutional view sees the pro-investment policies as a consequence of political constraints on  government, whereas the development view sees these policies in poor countries largely as  choices of their – typically unconstrained -- leaders. 
+ 
+In this paper, we revisit these two broad approaches to development in an effort to assess  each one’s empirical validity. Our view is shaped to some extent by the experiences of North and 
+South Korea, illustrated in Figure 1. Prior to the Korean war, the two countries were obviously  part of one, so it is difficult to think of them as having different histories. They were both 
+
+ 
+4 exceptionally poor in 1950. Between the end of the Korean war and 1980, both countries were  dictatorships. If institutions are measured by Polity’s “constraints on the executive,” which as we  discuss below is probably the best of the measures commonly used in the literature, then between 
+1950 and 1980 North Korea had an average score of 1.71, and South Korea 2.16 (out of 7). Yet 
+South Korean dictators chose capitalism and secure property rights and the country grew rapidly,  reaching per capita income level of US $1589 in 1980. The North Korean dictator, in contrast,  chose socialism, and the country only reached the level of income of US $768 in 1980. Figure 1  also shows that, starting in 1980, South Korea transforms itself into a democracy, while North 
+Korea remains a dictatorship. While on average, looking over the half century between 1950 and 
+2000, South Korea obviously had better institutions as measured by constraints on the executive,  these institutions are the outcome of economic growth after 1950 rather than its cause. It would  be wrong to attribute South Korea’s growth to these institutions rather than the choices made by  its dictators. 
+ 
+Our empirical analysis proceeds in five stages. In section II, we revisit three measures of 
+“institutions” used in the current economic growth literature: risk of expropriation by the  government, government effectiveness, and constraints on the executive. We show that the first  two of these measures by construction do not describe political institutions: they are outcome  measures that reflect the government’s past restraint from expropriation in the first case, and its  quality in the second. These measures do not code dictators who choose to respect property rights  any differently than democratically elected leaders who have no choi

@@ -1,0 +1,41 @@
+# round 2, batch_013 — abstracts
+02724|United States|Panel|Credit analysts not affiliated with the president's party downgrade firms more often, with price effects.|M_culture+|
+02728|United States|Survey|Partisans' economic expectations swing with control of the White House, increasingly so, but actual spending does not follow.|M_culture+|
+01978|Theory|Theory|Parties with unpopular ideologies may strategically lose today because radical policies teach voters more, gambling on bigger future wins.|M_median~|
+02723|Cross-country|Panel|US institutional investors allocate more capital to countries whose governments are ideologically aligned with them.|M_culture+|
+01989|Theory|Theory|Voters' short memory generates cycles: consensus lets parties polarize, and polarization teaches voters enough to force convergence.|M_median~|
+02722|Brazil|Panel|Brazilian business owners hire and promote copartisan workers, reflecting political discrimination rather than quid pro quo.|M_culture+|
+02727|United States|Panel|Democratic inventors patent more after Obama's election and less after Trump's, aggregating to partisan shifts in technology.|M_culture+|
+02726|United States|Panel|Republicans start more firms than Democrats, and each side's entrepreneurship rises when its party holds the presidency.|M_culture+|
+00787|Cross-country|Panel|Proportional systems spend more on transfers and majoritarian systems more on geographically targetable goods.|M_probvote+|
+01773|Theory|Theory|Electoral systems that guarantee minority representation give candidates the strongest incentive to make unequal promises to small groups.|M_probvote+|
+02077|Theory|Review|Electoral systems and the allocation of powers define the game politicians play, so institutions should be compared by their equilibria.|M_moralhazard+|
+02079|Europe|Panel|More veto players and greater ideological distance among them reduce the production of significant labour laws.|M_legbargain+|
+01772|United States|Panel|Reviews and updates US-state evidence on how political institutions affect representation and policy outcomes.|M_moralhazard+,M_selection+|
+01771|Cross-country|Panel|Presidential regimes and majoritarian elections lead to smaller governments and welfare programs.|M_legbargain+,M_probvote+|
+01770|Cross-country|Panel|Proportional elections raise spending indirectly by fragmenting party systems and producing coalition governments.|M_legbargain+|
+01775|Cross-country|Panel|Majoritarian–PR differences in unemployment-benefit generosity depend on unemployment in contestable versus safe districts.|M_probvote+|
+01777|Theory|Theory|In list PR, more ballot flexibility can worsen local representation, and higher district magnitude makes legislators toe the party line.|M_moralhazard~|
+01774|Theory|Theory|A relative electoral sensitivity effect can make majoritarian systems less unequal in targeted interventions than PR.|M_probvote+|
+02710|Theory|Theory|Alternating policymakers with different spending priorities accumulate excess debt to constrain successors, more so with polarization.|M_commit+|
+02630|Theory|Theory|Stabilizations are delayed by a war of attrition among groups trying to shift the burden of adjustment.|M_collective+,M_commit+|
+02631|Theory|Theory|High-inflation crises can be welfare-improving by resolving social conflict and enabling reform; indexation delays reform.|M_commit+|
+01953|Europe; United States|Hist|Early central banks solved a free-rider problem by giving monopoly privileges to creditors; political decentralization hindered them.|M_commit+,M_collective+|
+02713|Italy|RD|Relaxing municipal fiscal rules raised deficits and cut taxes, more where mayors could be reelected, parties were many and voters older.|M_commit+,M_moralhazard+|
+01918|United States|Text|FOMC transparency after 1993 increased discipline and conformity in deliberation, with discipline dominating.|M_career+|
+02667|Cross-country|RD|Narrow left-wing election wins lower stock prices, especially with radical platforms and in developing economies.|M_citizencand+|
+02711|Theory|Theory|With limited enforcement and present-biased governments, the optimal fiscal rule is a maximally enforced deficit limit.|M_commit+|
+02712|Theory|Theory|Deficit-biased successive governments alternate between responsible and irresponsible fiscal regimes, switching during crises.|M_commit+|
+01995|Cross-country|Theory|Postwar "embedded liberalism" combined multilateral openness with domestic stability, rooted in state–society relations.||
+02205|Cross-country|Theory|Changes in trade exposure pit owners of scarce against abundant factors, predicting class coalitions by development level and land-labour ratio.|M_lobby+|
+01968|East Asia|Review|East Asian growth with equity rested on weak labour, brief import substitution, land reform and insulated, meritocratic bureaucracies.|M_bureau+,M_statecap+|
+01997|Cross-country|Review|Hegemonic stability theory splits into leadership and hegemony theories, neither adequately tested.||
+02010|Cross-country|Panel|Free trade is likelier within military alliances, especially under bipolarity.||
+01991|Theory|Theory|Leaders signal resolve by tying hands through domestic audience costs or by sinking costs; tying hands does better on average.|M_commit+,M_war+|
+02203|United States|Panel|US trade liberalization after 1934 followed shifts in party constituencies and societal preferences, not the RTAA delegation itself.|M_lobby+|
+02221|Cross-country|Panel|Politicians fix exchange rates more when electoral defeat costs are low and election timing is flexible.|M_commit+|
+02017|Cross-country|Panel|Governments commit to and comply with IMF Article VIII when regional peers do, driven by reputation and markets.|M_commit+|
+02021|Cross-country|Panel|Multinationals partner with local firms against political hazards unless contractual hazards from those partners are high.|M_commit+|
+02219|Cross-country|Panel|Pre-electoral monetary expansions occur only with floating rates and dependent central banks; fiscal expansions occur with fixed rates.|M_moralhazard+|
+02003|Cross-country|Hist|Trade politics splits along class lines when inter-industry factor mobility is high and along industries when it is low.|M_lobby+|
+02218|Cross-country|Review|Exchange-rate regimes and central bank independence should be analysed jointly as political choices.|M_commit+|

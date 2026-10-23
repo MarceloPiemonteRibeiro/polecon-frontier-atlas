@@ -1,0 +1,35 @@
+R ecent years have seen the highest levels of forced displacement, up to 66 million, since the after- math of World War II. Since 2015, more than three million individuals, predominantly from Muslim- majority countries such as Syria, Afghanistan, and Iraq, have applied for asylum in Europe alone. Although applications declined in 2016 and 2017 after the implementation of the EU–Turkey Agreement, overall numbers are expected to remain high as asylum seekers continue to ﬂee protracted conﬂicts and persecution.
+The dramatic increase in asylum seekers and the chaotic management of refugee ﬂows have dominated news cycles across Europe, led to social tensions and political conﬂict, and triggered, at times, even violent political backlash (Bansak, Hainmueller, and Hang- artner 2016; Marbach and Ropers 2018). In many countries, extreme-right parties have sought to leverage natives’ anxieties to mobilize voters and enact more restrictive asylum policies. Several recent studies that focusedonAustria(Steinmayr2018),France(Vertierand
+Viskanic 2018), and Greece (Dinas et al. forthcoming) have all corroborated that refugee migration is an important factor fueling the rise of extreme-right parties.
+Beyond its impact on aggregate vote shares for extreme-right parties, little is known, however, about how refugee migration shapes the attitudes, policy preferences, and political behavior of European citizens.
+This lacuna is problematic for our theoretical under- standing of the short- and long-term consequences of the refugee crisis on Europe’s political landscape and the mechanism under which contact with refugees alleviates or catalyzes concerns. Similarly, policymakers who are tasked with designing a more cooperative asylum system need a deeper understanding of how and when refugee arrivals trigger local opposition and political backlash
+(Bansak, Hainmueller, and Hangartner 2017).
+Why do we know so little about the impact of refugee migration on natives’ attitudes, preferences, and behavior? First, in order to go beyond readily available aggregate data on voting behavior and drill down to individual-level outcome measures, one has to ﬁeld a survey in areas with varying levels of refugee exposure.
+Dominik Hangartner, Associate Professor, Center for Comparative and International Studies, ETH Zurich; Immigration Policy Lab,
+Stanford University and ETH Zurich; and Department of Govern- ment, London School of Economics, d.hangartner@lse.ac.uk.
+Elias Dinas, Swiss Chair in Federalism, Democracy and Interna- tional Governance, Robert Schuman Centre for Advanced Studies andDepartmentof SocialandPoliticalSciences,EuropeanUniversity
+Institute; and Associate Professor, Department of Politics and
+International Relations, University of Oxford, elias.dinas@eui.eu.
+Moritz Marbach
+, PostDoc, Center for Comparative and Inter- national Studies, ETH Zurich; and Immigration Policy Lab, Stanford
+University and ETH Zurich, moritz.marbach@gess.ethz.ch.
+Konstantinos Matakos, Assistant Professor, Department of Political
+Economy, King’s College London, konstantinos.matakos@kcl.ac.uk.
+Dimitrios Xefteris, Assistant Professor, Department of Economics,
+University of Cyprus, xefteris.dimitrios@ucy.ac.cy.
+The survey was ﬁelded by the Survey Unit of the University of
+Macedonia according to our sampling frame and in line with the ethics policy of the London School of Economics and Political Science for human subjects research. DH, ED, MM, KM, and DX conceived and designed the research;ED, DH, andKM designed the survey; ED, KM,
+MM, DX, and DH helped with data collection; MM and DH performed statistical analyses; and DH, MM, KM, and ED wrote the manuscript.
+We thank Alexandra Dufresne, Marc Helbling, Dan Hopkins, and
+David Laitin for detailed comments. This paper beneﬁted from the questions and suggestions from numerous seminar and conference participants. The usual disclaimer applies. ED and KM acknowledge
+ﬁnancial support from the British Academy for a Small Leverhulme
+Grant (project number CTR00340) and DH support from the Lev- erhulme Trust. Replication ﬁles are available at the American Political
+Science Review Dataverse: https://doi.org/10.7910/DVN/XGVQDT.
+Received: August 15, 2017; revised: April 5, 2018; accepted:
+November 6, 2018. First published online: December 27, 2018.
+442
+Downloaded from https://www.cambridge.org/core. Library, London School of Economics, on 09 May 2019 at 09:18:19, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0003055418000813
+
+Second,akeyproblem facedbyallstudiesoftheimpact of refugee migration is that refugee ﬂows are far from ran- domly assigned. Starting with Ravenstein’s (1885) “law of migration,”scholarshaveexploredthemigrant’sdecision- making process that determines whether—and where to—migrate, and there is ample evidence that a similar calculus also applies to forcefully displaced people (e.g.,
+Neumayer 2005). Within the ﬁnancial and legal con- straintsthatasylumseekersface,theytendtoﬂeetoplaces that are feasible to travel to, but also where they are, inter alia, welcome. This latent hospitality toward refugees is hard to measure empirically but will typically confound the relationship between refugee arrivals and outcome measures of hostility (measured after the arrivals took place).Ifoneignoresthisimportantconfounderandrunsa cross-sectional regression of, say, exclusionary attitudes on refugee arrivals, the estimated correlation might well be negative (indicating that more arrivals alleviate hos- tility), even if the true causal effect is positive.
+In this paper, we address both issues by ﬁelding a targeted survey of European citizens to measure the impact of the refugee crisis on their attitudes toward refugees, immigrants, and Muslim minorities; their pref- erences regarding asylum, immigration, and integration policies; and their political engagement to enact policies affecting refugees. By focusing the comparison on simi

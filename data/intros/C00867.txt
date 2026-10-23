@@ -1,0 +1,37 @@
+While the theoretical literature on non-cooperative legislative bargaining has grown voluminous, there is little empirical work attempting to test a key prediction in this literature: proposal power is valuable. This paper aims to ﬁll this gap in the literature by investigating the role of proposal power in the allocation of Congressionally earmarked transportation projects across
+Congressional districts in 1991 and 1998. Throughout the legislative process, the transportation committee was granted signiﬁcant proposal powers, thereby allowing for a direct test of this theoretical prediction.
+For several reasons, Congressional negotiations over the allocation of transportation funds are well suited to an empirical test of predictions from non-cooperative bargaining models.
+First, these episodes meet the classic deﬁnition of a bargaining situation, which exists when agents engaged in negotiations have a common interest in agreement but conﬂicting prefer- ences over the terms of agreement (Muthoo, 1999).
+While there was widespread interest within Congress in funding these transportation projects, there was sharp disagreement and signiﬁcant controversy over the cross-district allocation, which, in the end, was skewed for the beneﬁt of members of the transportation committee.
+Second, while payoﬀs are diﬃcult to measure in many bargaining environments, the distribution of transportation projects across
+Congressional districts is both observable and publicly available.
+Third, the stakes involved in Congressional bargaining tend to be large.
+The funding for the transportation projects examined here totaled $5 billion in 1991 and $8 billion in 1998, and these funds translate into increased re-election probabilities. Levitt and Snyder (1997) estimate that an additional $100 per capita in federal spending is worth as much as 2 percentage points of the popular vote for the incumbent in Congressional elections.
+Fourth, these funds were earmarked for spe- ciﬁc projects in Congressional districts, rather than distributed to states according to formula, giving representatives signiﬁcant discretion over the allocation of project spending across dis- tricts. Finally, while bargaining procedures are diﬃcult to discern in many economic settings,
+Congressional procedures of voting and proposals are well documented and correspond in a reasonable way to the process outlined in bargaining models.
+1Transcript from The News Hour with Jim Lehrer, March 30, 1998.
+2
+
+The empirical speciﬁcation in this paper adheres as closely as possible to the non-cooperative legislative bargaining model of Baron and Ferejohn (1989, 1993), which is itself closely related to the seminal bargaining model of Rubinstein (1983). I incorporate only the following necessary modiﬁcations to the Baron and Ferejohn model: committees of multiple representatives, rather than a single proposer, and recognition probabilities that vary across representatives.
+This paper ﬁrst provides a simple test of the predictions of this legislative bargaining model regarding the value of proposal power.
+The evidence supports the key qualitative prediction of the legislative bargaining model: members with proposal power, those sitting on the transportation committee, secure higher project spending than do other districts. Support for the quantitative predictions, which are more powerful than the qualitative predictions, is more mixed.
+I then empirically address several alternative theories of legislative organization and behavior.
+2
+Related Literature
+A related empirical literature has documented a positive correlation between federal spending in jurisdictions and representation by politically powerful Congressional delegations. Ferejohn
+(1974) ﬁnds that states with Congressional representatives on relevant committees, especially those with tenure or in the majority party, received more water projects than other states.
+Atlas et. al (1995) show that inequality in per-capita political clout, due in part to each state having two Senators regardless of population, has predictable and signiﬁcant eﬀects on the distribution of federal spending, net of federal taxes, across states. Levitt and Poterba (1999)
+ﬁnd that states with powerful representatives, captured through seniority and service on in-
+ﬂuential committees, experienced more rapid economic growth than states with less powerful delegations.
+My empirical analysis of transportation projects oﬀers several advantages over this existing literature.
+First, I correct for the possibility of preference outliers among the transportation committee members using ﬁxed eﬀects and instrumental variables approaches.
+Second, the theoretically-guided approach used in my paper allows for a more powerful test of the model.
+In addition to the qualitative predictions examined in the existing literature, the theoretical legislative bargaining model provides quantitative restrictions on the value of proposal power.
+Finally, I consider speciﬁc Congressional bargaining episodes, tightening the connection between the theoretical model of legislative bargaining and the empirical analy- sis. The previous literature has tended to aggregate bargaining outcomes across either federal spending programs or time.2
+2A related literature studies the relationship between political power and electoral outcomes.
+Milyo (1997)
+ﬁnds that the Gramm-Rudman-Hollings budget rules, which increased the power of the Budget committees relative to the Approprations commitees, led to both an increase in campaign contributions to members of the
+3
+
+A second related literature studies bargaining over the formation of coalition governments in Europe, with a speciﬁc focus on the timing of agreements and government stability. While the bargaining model of Baron and Ferejohn predicts immediate agreement, Merlo and Wilson
+(1995) construct a bargaining model in which the discounted total surplus is stochastic and thus may increase in future rounds of bargaining, creating

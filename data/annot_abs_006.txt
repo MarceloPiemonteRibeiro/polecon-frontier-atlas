@@ -1,0 +1,41 @@
+# batch_006 — abstracts
+00824|Brazil|RD|Female mayors elected in close races are less corrupt, hire fewer temporary workers before elections and raise less money, but are re-elected less often.|M_citizencand+|F3
+00891|Italy|RD|Municipal governments headed by women are more likely to end early, especially with all-male councils and less favourable attitudes to working women.|M_citizencand~|
+00890|Spain|DiD|A 40% gender quota slightly improved results for the most affected parties, implying party leaders had not been maximizing votes: agency problems hold women back.|M_citizencand+|F3
+01109|Germany|NatExp|Women's electoral underperformance is explained almost entirely by parties nominating them in less winnable districts, not voter bias.|M_citizencand+|F3
+00037|Cross-country|NatExp|Leaders' deaths in office shift growth, especially in autocracies: individual leaders matter.|M_selection+|
+00149|Cross-country|NatExp|Successful assassinations of autocrats produce sustained moves toward democracy and change small-conflict intensity.|M_commit+|
+00033|India|RD|Winning state elections raises politicians' asset growth 3–5% a year relative to runners-up, more in corrupt states and for ministers.|M_corruption+|
+00242|United States|RD|Narrow winners of congressional seats during the Civil War accumulated ~40% more wealth, linked to military contracting.|M_corruption+|
+00104|Theory|Theory|Citizen-candidate model of representative democracy: policy is chosen by whoever runs and wins; handles multidimensional policy.|M_citizencand+|
+00222|Theory|Theory|With citizen-candidates, the number and positions of candidates depend on entry costs and the electoral rule (Duverger under plurality).|M_citizencand+|
+00415|Sao Tome and Principe|RCT|An electoral-commission campaign against vote buying reduced its perceived prevalence; vote buying raised turnout and favoured challengers.|M_clientelism~|F4
+00265|Argentina|Survey|Much apparent vote buying is turnout buying: parties reward their own passive supporters, which only requires monitoring turnout.|M_clientelism+|F4
+00475|Theory|Theory|Model of open vote buying in general elections: parties bid with up-front payments or contingent platforms.|M_clientelism+|
+00911|Theory|Theory|In poor democracies parties converge on economics and compete on social cleavages; development raises economic polarization but can worsen divisive campaigning.|M_fear+|
+00856|Argentina|Theory|Machines circumvent the secret ballot through social networks, punishing defectors ("perverse accountability"); poor and weakly ideological voters are targeted.|M_clientelism+|F4
+01570|Africa|Review|Neopatrimonialism describes African governance but has little predictive power for economic policy or performance.|M_clientelism~|
+00676|South Africa|DiD|Chiefs aligned with the ANC raise its vote share 6.6–8.2 points in former Bantustans: traditional leaders broker votes for rents.|M_clientelism+|F4
+00281|United Kingdom|Panel|Colonial governors connected to superiors were promoted to richer colonies yet raised less revenue and invested less; gaps vanished after patronage ended.|M_clientelism+,M_bureau+|F6
+00675|United States|DiD|Control of patronage jobs helped parties hold state legislatures and offices, especially entrenched parties, until civil-service reform.|M_clientelism+|F4
+01072|Ghana|DiD|Politicians hire co-partisans into menial public jobs but use merit for professional posts.|M_clientelism+,M_bureau+|F6
+00004|Indonesia|NatExp|Bribes at truck checkpoints respond to market structure: officials price-discriminate and fewer checkpoints raise per-stop bribes.|M_corruption+|
+00009|Indonesia|RCT|Raising the audit probability from 4% to 100% cut missing road-project expenditures by 8 points; grassroots monitoring did little.|M_corruption+,M_capture+|F2
+00164|Italy|NatExp|Public bodies pay very different prices for the same goods; 83% of waste is passive (inefficiency) rather than active (bribes).|M_bureau+|F6
+00070|Brazil|Struct|Having been audited reduces future corruption 8% and raises legal action 20%, mainly through non-electoral costs.|M_corruption+,M_moralhazard~|F2
+00105|Uganda|Panel|Schools received only 13% of a capitation grant on average; better-off communities captured more, making spending regressive.|M_capture+,M_corruption+|
+00056|India|RCT|Applicants offered a bonus for fast licences paid more through agents and got licences without driving skill: corruption distorts allocation.|M_corruption+|
+00230|Argentina|NatExp|A crackdown cut hospital input prices 15%; higher wages lowered prices when audit intensity was intermediate, as Becker–Stigler predicts.|M_corruption+,M_bureau+|
+00266|Iraq|Desc|Iraq underpriced oil to solicit $0.7–2 billion in bribes under Oil-for-Food until retroactive pricing removed its discretion.|M_corruption+|
+00534|United States|NatExp|Diplomats from high-corruption countries accumulated more unpaid parking tickets until enforcement started: norms and enforcement both matter.|M_culture+,M_corruption+|
+00282|India|Desc|Bribes for health jobs average 17 months' salary, but hires are of similar quality; outcomes depend on the wealth–quality correlation among applicants.|M_corruption+|F6
+00505|India|Desc|Irrigation engineers raise illicit revenue and pass it to superiors and politicians, a system organized around control of transfers.|M_corruption+,M_bureau+|F6
+00207|Uganda|Survey|Firms' bribes depend on control rights and bargaining power: officials price-discriminate by ability to pay and refusal power.|M_corruption+|
+00373|United States|Hist|Corruption in US cities peaked 1880–1930; machines and reform movements were the democratic responses.|M_clientelism+|
+00371|India|DiD|A statutory NREGS wage increase reduced theft less than expected because officials protect future rents: a "golden goose" effect.|M_corruption+|
+00366|United States|Panel|Isolated state capitals have more corruption, less newspaper coverage and less informed, less engaged voters far from the capital.|M_media+,M_selection+|
+00286|Russia|Panel|Firms with procurement revenue tunnel cash around regional elections; in more corrupt places contracts go to unproductive firms.|M_corruption+|
+00933|Brazil|NatExp|Randomized anti-corruption audits increased the number of firms in government-dependent sectors; connected firms lost out.|M_corruption+|
+00586|El Salvador|DiD|A 2016 gang truce reduced competition and violence but raised extortion payments ~20%, passed on to consumers.|M_corruption+|
+00423|United States|Panel|Congressional candidates charged with corruption lose 6–11% of their expected vote, though most are re-elected.|M_selection+|F2
+00701|Cross-country|Desc|Across 166 bribery cases, bribes buy contracts worth far more than the bribe; returns depend on the rank of officials bribed.|M_corruption+|

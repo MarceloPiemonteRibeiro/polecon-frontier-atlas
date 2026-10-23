@@ -1,0 +1,53 @@
+Michael M. Bechtel, Dominik Hangartner, Lukas Schmid 
+Does compulsory voting increase support for  leftist policy? 
+Article (Published version) 
+(Refereed) 
+Original citation: 
+Bechtel, Michael M., Hangartner, Dominik and Schmid, Lukas (2016) Does compulsory voting  increase support for leftist policy? American Journal of Political Science, 60 (3). pp. 752-767. 
+ISSN 0092-5853 
+ 
+DOI: 10.1111/ajps.12224 
+ 
+Reuse of this item is permitted through licensing under the Creative Commons: 
+ 
+© 2015 The Authors 
+CC BY-NC 4.0 
+ 
+This version available at: http://eprints.lse.ac.uk/68646/ 
+ 
+Available in LSE Research Online: December 2016 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. You may freely distribute the URL 
+(http://eprints.lse.ac.uk) of the LSE Research Online website. 
+ 
+ 
+ 
+
+Does Compulsory Voting Increase Support for Leftist Policy?
+Michael M. Bechtel
+University of St. Gallen
+Dominik Hangartner
+LSE and University of Zurich
+Lukas Schmid
+University of St. Gallen
+Abstract: Citizens unequally participate in referendums, and this may systematically bias policy in favor of those who vote.
+Some view compulsory voting as an important tool to alleviate this problem, whereas others worry about its detrimental effects on the legitimacy and quality of democratic decision making. So far, however, we lack systematic knowledge about the causal effect of compulsory voting on public policy. We argue that sanctioned compulsory voting mobilizes citizens at the bottom of the income distribution and that this translates into an increase in support for leftist policies. We empirically explore the effects of a sanctioned compulsory voting law on direct-democratic decision making in Switzerland. We find that compulsory voting significantly increases electoral support for leftist policy positions in referendums by up to 20 percentage points. We discuss the implications of these results for our understanding of the policy consequences of electoral institutions.
+Replication Materials: The data, code, and any additional materials required to replicate all analyses in this arti- cle are available on the American Journal of Political Science Dataverse within the Harvard Dataverse Network, at: http://dx.doi.org/10.7910/DVN/29591.
+O ne of the fundamental objectives of democracy is to ensure that public policy responds to citizens’ needs. A large literature has demon- strated, however, that there exist significant differences in civic engagement across politically relevant, sociodemo- graphic divides: Low income earners, the less educated, the less urban, the young, and those belonging to ethnic
+Michael M. Bechtel is SNSF Research Professor of Political Science, University of St. Gallen, Department of Political Science, Rosen- bergstrasse 51, CH-9000 St. Gallen, Switzerland (mbechtel.mail@gmail.com). Dominik Hangartner is Associate Professor, London School of Economics and Political Science, Department of Methodology, Houghton Street, London WC2A 2AE, United Kingdom and Uni- versity of Zurich, Department of Political Science, Affolternstrasse 56, CH-8050, Z¨urich, Switzerland (d.hangartner@lse.ac.uk). Lukas
+Schmid is Senior Research Associate, University of St. Gallen, Department of Economics, Bodanstrasse 8, CH-9000 St. Gallen, Switzerland
+(lukas.schmid@unisg.ch).
+We thank Reto Foellmi, Simon Jackman, Peter Selb, Kenneth Scheve, three anonymous referees, and audiences at Stanford University and the University of Konstanz for valuable comments. We thank Yvan Rielle for providing data, and Fabian Morgenthaler, Christian Vogt, and
+Nils B¨urk for valuable research assistance. The authors gratefully acknowledge support from the University of St. Gallen. Michael M. Bechtel gratefully acknowledges support from the Swiss National Science Foundation (grant #PP00P1-139035). Dominik Hangartner and Lukas
+Schmid gratefully acknowledge support from the Swiss National Science Foundation (grant #100017-141317/1 and grant CRSI11-132272).
+Lukas Schmid acknowledges support from the Swiss National Science Foundation (grants #CRSI11-147668 and #PBBEP1-141484).
+[Correction added on July 11, 2016, after first online publication: Table 5 (Overview of Compulsory Voting in Switzerland) has been updated, in section II additional information has been added about the selection of the control group, and in Table 12 additional results were added showing the main estimates are robust to different definitions of the control group.]
+1The positive empirical relationship between income and the propensity to vote in industrialized countries has been well documented
+(DeNardo 1980; Filer, Kenny, and Morton 1993; Mueller and Stratmann 2003; Nevitte et al. 2009; Sigelman et al. 1985; Verba, Schlozman, and Brady 1995), although recent work finds that the positive correlation between income and vote choice is weaker in richer states (Brooks and Brady 1999; Gelman, Kenworthy, and Su 2010; Gelman et al. 2007). This finding is consistent with Kasara and Suryanarayan (2015), who show that high earners are more likely to vote when their own preferences differ strongly from those of low-income individuals.
+Anderson and Beramendi’s (2012) study of the relationship between inequality and turnout further underscores the importance of income for our understanding of variation in turnout. minorities have a significantly lower propensity to vote
+(Armingeon and Sch¨adel 2015; Kasara and Suryanarayan
+2015; Mueller and Stratmann 2003; Nevitte et al. 2009;
+Verba, Schlozman, and Brady 1995).1 From this perspec- tive, low turnout may reduce or even destroy the positive welfare effects of government responsiveness through electoral accountability (Bj¨orkman and Svensson 2009;
+American Journal of Political Science, Vol. 60, No. 3, July 2016, Pp. 752–767
+C⃝2015 The Authors. American Journal of Pol

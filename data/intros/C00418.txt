@@ -1,0 +1,31 @@
+In 1970 Reverend Andrew Young of Atlanta, Georgia launched a campaign to become  the first Black Southern congressman since Reconstruction. On the day of the general election, 65  percent of White registered voters went to the polls to voice their opinions on this issue. 
+Statewide, White turnout was only 50 percent. Reverend Young was defeated [Delaney 1970]. 
+ 
+Twenty-eight years later in the same state, three Black candidates vied for three separate  statewide offices. Black turnout soared. Blacks comprised 29 percent of those casting ballots that  day, up from 16 percent in the previous interim election. Two of three Black candidates won their  contests [Sack 1998]. 
+ 
+These anecdotes suggest a positive impact of Black candidates on the voter turnout of  two distinct groups: Black voters who come out in support and White voters who come out in  opposition. Examining the degree to which these anecdotes are borne out in the data is important  not only for understanding elections which involve Black candidates, but also for interpreting the  results of any additional contests on the ballot that day. Elections do not occur in isolation. On the  day that the Atlanta electorate handed Young a defeat, they also helped decide statewide contests  for governor and lieutenant governor. These contests were likely impacted by the increased  turnout in response to Young’s candidacy.1 
+This spillover of turnout effects motivates the methodology employed in this paper. The  vast majority of the voting literature treats each electoral competition as if it were the sole contest  of the day. In this paper I consider several races in tandem, which is in fact how they occur. I sum  the total number of Blacks on the ballot, focusing on contests for the United States House of 
+Representatives and higher offices. Using this metric and panels of both state and district  observations for the general election years 1982 to 2000, I find that each Black Democratic  candidate on the ballot increases district turnout by approximately 2 percentage points. 
+Examining impact by race, I find that the increase in Black and White turnout is similar, about 2 
+ 
+1 The winners were Jimmy Carter (governor) and Lester Maddox (lieutenant governor). 
+
+ 
+2 to 3 percentage points for each racial group in response to a Black Democratic candidate on the  ballot. Black Republican candidates, on the other hand, are associated with no such increase in  the turnout of the aggregate citizenry or of either racial group. 
+ 
+Who are the Whites who are responding to a Black Democratic candidate on the ballot? 
+They are both Democrats (who increase turnout 7 percentage points) and Republicans (who  increase their turnout by 5 percentage points). However, party affiliation does not map directly to  party selected on the ballot. Survey results demonstrate that White voters of both parties are more  likely to vote against their own party’s candidate when their own party’s candidate is Black. 
+The key limitation of this analysis is the endogeneity of Black candidates on the ballot. 
+While state fixed effects control for any time-invariant omitted state characteristics, there still  remains the possibility that the conditional correlation between Black candidates and turnout  could be due to omitted election, voter, or candidate characteristics that change over time. 
+Examining the impact of lags and leads of Black candidates on contemporary turnout, I find no  evidence that the basic result is caused by some underlying trend in political views. Further, the  additions of controls for contemporary voter views, voter political knowledge and candidate  characteristics do not substantively change the point estimate of the impact of Black candidates  on the voting behavior of White voters.2 The fact that voters respond to Black Democrats but not  to Black Republicans, however, does suggest that voters’ perceived polarization between the  candidates may be part of the reason for increased turnout. Black Democrats are viewed as far  more liberal than their non-Black counterparts. 
+ 
+ The remainder of the paper proceeds as follows: Section II presents hypotheses on why  there may be a link between Black candidates and increased turnout. Section III provides the data  and methodology. Section IV details the results and Section V concludes. 
+ 
+2 This analysis is done using the National Election Survey. I do not perform a similar analysis for Black  voters because the sample size for Blacks is too limited to draw any meaningful conclusions. 
+
+ 
+3
+II. Why Black Candidates May Raise Turnout 
+ 
+Anecdotes aside, there are several reasons why we might observe a conditional  correlation between Black candidates and voter turnout. The first stems from the theoretical and  empirical literature that demonstrates that politician ideology can influence policy. (See for  example Alesina [1988], Wittman [1990] and Ansolabehere, Snyder, and Stewart [2001].) The  fact that Black employment is higher in cities with Black mayors [Eisenger 1982] and that Black  legislators receive higher scores on the Leadership Conference on Civil Rights Index for their  voting records [Cameron, Epstein, O’Halloran 1996] suggests that Black politicians may increase  transfers to Black constituents. However, the possibilities of omitted constituency characteristics  driving these results mean that they cannot be interpreted in a causal manner. In other countries  the reservation of leadership positions for members of particular ethnic groups allows for the  identification of the impact of politician race on transfers to constituents of various racial groups. 
+For example, Pande [2003] exploits the reservation of village leadership positions in India for  members of particular tribes and castes, to demonstrate that leaders increase transfers to members  of their own ethnic group. Unfortunately, due to the lack of exogenous variation in leadership  ethnicity we have no conclusive evidence fo

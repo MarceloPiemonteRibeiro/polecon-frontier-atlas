@@ -1,0 +1,32 @@
+It is a well-established fact that the amount of money spent by corporations on lobbying is relatively modest (Tullock, 1972). Corporations report spending $4 billion a year on lobbying, which pales in comparison to the trillions of dollars on public policy interventions or government contracts. Given that ﬁrms spend so little, is corporate lobbying economically irrelevant?
+Not necessarily. One theory suggests that when politicians ﬁercely compete for contributions or when there is greater dispersion of views among voters over ideological issues, policies may be largely distorted even if contributions are small (Grossman and Helpman, 1996). In this paper,
+I propose a further possibility: corporate lobbying may be costly for the ﬁrms, even when the direct costs are small. The basic idea is that corporate lobbying creates a winner-take-all contest, which in equilibrium creates risks for ﬁrms. When investors pricing the equity of ﬁrms are risk averse, this risk manifests in ﬁnancial markets, rendering capital costlier, reducing ﬁrms’ incen- tives to make other investments, such as in research and development (R&D), and ultimately reducing overall innovation.
+This insight is important in light of the following facts in the data: (1) High-political-risk
+ﬁrms lobby more, as documented in great detail by Hassan et al. (2019). (2) A larger fraction of high-lobbying ﬁrms’ revenues come from government contracts (Agca and Igan, 2019). (3)
+These ﬁrms are also among the ﬁrms with the largest R&D efforts and (4) highest markups
+The editor in charge of this paper was Nicola Gennaioli.
+1122
+Downloaded from https://academic.oup.com/restud/article/91/2/1122/7109877 by London Business School user on 18 March 2024
+
+Grotteria
+FOLLOW THE MONEY
+1123 in the economy.1 (5) More importantly, they earn higher returns and are riskier. A zero-cost portfolio that goes long in high-lobbying ﬁrms and short in low-lobbying ﬁrms generates an annual premium of about 6%. This relation is robust to controlling for ﬁrm characteristics known to be related to the cross section of stock returns.
+I propose a model to evaluate the real impact of the political-risk premium as measured by the difference between stock returns of high- and low-lobbying ﬁrms. This framework, centrally featuring the interaction between ﬁnancial and real markets, does the following: (1) simultane- ously accounts for these ﬁve facts; (2) quantitatively matches key moments of lobbying ﬁrms, for example, that lobbying expenses are tiny relative to sales; (3) yields additional testable predic- tions on the characteristics of lobbying companies; and (4) can be used to study counterfactual situations and quantify the economic costs of the political-risk premium.
+My framework is an extension of the workhorse endogenous-growth model proposed by
+Aghion and Howitt (1992) and Aghion et al. (2005). Their theory of competition and innovation allows me to study both the process of adopting new technologies and the way new technologies interact with the competitive pressures within an industry. Relative to Aghion et al. (2005), (1)
+I allow ﬁrms to lobby, where lobbying serves to procure unwarranted monetary gains as in the classical rent-seeking frameworks of Tullock (1967) and Krueger (1974) and (2) I introduce an aggregate source of risk, and risk-averse investors pricing the equity of ﬁrms.
+In the model, a government agency assigns contracts to heterogeneous ﬁrms. Firms compete with each other and optimally devote resources to innovation and lobbying to gain and preserve monopolistic rents.2 Whereas innovation serves to reduce the cost of production, lobbying serves as a means for ﬁrms to obtain political power and unduly gain a larger share of government contracts. In equilibrium, ﬁrms that currently enjoy large rents choose to lobby more in order to protect their privileged position.
+To derive implications about the ﬁrms’ cost of capital, I introduce a source of priced risk coming from the government and affecting all ﬁrms’ proﬁts. This source of risk within my framework can be thought of in multiple ways, for example, time-varying proﬁt tax (Croce et al.,
+2012), time-varying government policy’s impact (P´astor and Veronesi, 2012, 2013), or time- varying restrictions on prices ﬁrms can charge, which is common in the pharmaceutical industry
+(Koijen et al., 2016). This paper does not propose a new form of priced government risk but shows that lobbying competition among ﬁrms endogenously modiﬁes each ﬁrm’s exposure to such a risk.
+Lobbying efforts are informative about the cross section of stock returns because of the novel
+“rent-risk channel” that endogenously arises in the model. Two ingredients are necessary. First, through lobbying, a ﬁrm can become the industry leader and extract larger rents, but, due to
+(lobbying) competition among ﬁrms, leadership is a precarious position. Second, at any point in time, the government can intervene; for instance, the government can increase the corporate tax rate, temporarily reducing proﬁts of all ﬁrms.
+Because both the shock to the government policy variable (e.g. tax rate) and industry leader- ship are expected to last only a few periods, the big risk for shareholders is that the government intervenes exactly when their company is the industry leader. The direct effect of lobbying is the
+1. Some examples of high-lobbying companies are Lockheed Martin in the defence industry, Emergent BioSo- lutions in the pharmaceutical industry, and Science Applications International Corporation in information technology.
+2. As noted by Tullock (1987, p. 147) and frequently suggested by others, “the activity of creating monopolies is a competitive industry.”
+Downloaded from https://academic.oup.com/restud/article/91/2/1122/7109877 by London Business School user on 18 March 2024
+
+1124
+REVIEW OF ECONOMIC STUDIES protection of a ﬁrm’s proﬁts, but in equilibrium, lobbying competition creates risk that affects
+ﬁrms heterogeneously, raising lea

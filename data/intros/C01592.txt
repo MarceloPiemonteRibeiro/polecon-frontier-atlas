@@ -1,0 +1,46 @@
+PNAS  2024  Vol. 121  No. 7  e2311703121 https://doi.org/10.1073/pnas.2311703121   1 of 8
+RESEARCH ARTICLE | 
+Significance
+It is often said that money can’t  buy happiness, yet many surveys  have shown that richer people  tend to report being more  satisfied with their lives. This  tendency could be taken to  indicate that high material  wealth—as measured in monetary  terms—is a necessary ingredient  for happiness. Here, we show  survey results from people living  in small-­scale societies outside the  globalized mainstream, many of  whom identify as Indigenous. 
+Despite having little monetary  income, the respondents  frequently report being very  satisfied with their lives, and some  communities report satisfaction  scores similar to the wealthiest  countries. These results imply  greater flexibility in the means to  achieve happiness than are  apparent from surveys that  examine only industrialized  societies.
+Author contributions: E.D.G., S.M., and V.R.-­G. designed  research; S.M., E.M.N.A.N.A., P.B., L.C.-­M., R. Carmona, 
+R. Chakauya, Z.C., F.C., Á.F.-­L., D.G.-­d.-­A., M.G., T.H., A.E.I., 
+A.B.J., M.L., X.L., J.M., M.D.M., V.P., A.P.-­F., A.S., R.S., U.B.S., 
+P.S., M.T.-­T., T.U., and R.W. performed research; E.D.G., 
+C.B.-­L., S.Á.-­F., and V.R.-­G. analyzed data; and E.D.G., 
+C.B.-­L., and V.R.-­G. wrote the paper.
+Reviewers: R.A.E., University of Southern California; 
+A.F.-­I.-­C., Spanish National Research Council; and S.O., 
+University of Chicago.
+The authors declare no competing interest.
+Copyright © 2024 the Author(s). Published by PNAS. 
+This open access article is distributed under Creative 
+Commons Attribution License 4.0 (CC BY).
+1To whom correspondence may be addressed. Email:  victoria.reyes@uab.cat.
+This article contains supporting information online at  https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.​
+2311703121/-­/DCSupplemental.
+Published February 5, 2024.
+ANTHROPOLOGY
+High life satisfaction reported among small-­scale societies  with low incomes
+Eric D. Galbraitha,b,c
+, Christopher Barrington-­Leighd,e
+, Sara Miñarroa, Santiago Álvarez-­Fernándeza, Emmanuel M. N. A. N. Attohf,g, Petra Benyeia,h, 
+Laura Calvet-­Mira,i, Rosario Carmonaj, Rumbidzayi Chakauyak, Zhuo Chenl, Fasco Chengulam, Álvaro Fernández-­Llamazaresa,n
+, David García-­del-­Amoa, 
+Marcos Glausero, Tomas Huancap, Andrea E. Izquierdoq, André B. Junqueiraa, Marisa Lankerr, Xiaoyue Lia
+, Juliette Mariels, Mohamed D. Miarat,u, 
+Vincent Porchera, Anna Porcuna-­Ferrera,s, Anna Schlingmanna, Reinmar Seidlerv, Uttam Babu Shresthaw
+, Priyatma Singhx, Miquel Torrents-­Ticón,y
+, 
+Tungalag Ulambayarz, Rihan Wuaa,bb, and Victoria Reyes-­Garcíaa,b,1
+Contributed by Victoria Reyes-­García; received July 17, 2023; accepted December 8, 2023; reviewed by Richard A. Easterlin, Ada Ferrer-­I-­Carbonell, and 
+Shigehiro Oishi
+Global polls have shown that people in high-­income countries generally report being  more satisfied with their lives than people in low-­income countries. The persistence of  this correlation, and its similarity to correlations between income and life satisfaction  within countries, could lead to the impression that high levels of life satisfaction can  only be achieved in wealthy societies. However, global polls have typically overlooked  small-­scale, nonindustrialized societies, which can provide an alternative test of the con- sistency of this relationship. Here, we present results from a survey of 2,966 members of 
+Indigenous Peoples and local communities among 19 globally distributed sites. We find  that high average levels of life satisfaction, comparable to those of wealthy countries, are  reported for numerous populations that have very low monetary incomes. Our results  are consistent with the notion that human societies can support very satisfying lives for  their members without necessarily requiring high degrees of monetary wealth. subjective well-­being | happiness | Indigenous Peoples | monetary income | wealth
+One of the most robust findings of happiness research has been a strong correlation  between reported life evaluations and income. Life evaluations are commonly measured  by asking people for a numerical response to a single question, either the Cantril Ladder,  which asks participants to associate their life with a step on an imaginary ladder, or a more  straightforward satisfaction with life (SWL) question (1). Life evaluations are frequently  taken as holistic measures of well-­being and are playing an increasingly prominent role  in setting policy agendas (2).
+The correlation between income and life evaluation responses has been repeatedly shown  for individuals within countries (3–5), as well as at the international scale using Gross 
+Domestic Product (GDP) per capita as a proxy for income (6–9). For example, in the 
+2022 edition of the World Happiness Report (10), no country with GDP per capita under 
+US$ 4,500 per year reported an average Cantril ladder response above 5.5 (on a scale of 
+0 to 10). Conversely, average responses exceeding 7 out of 10 were only reported in  countries where GDP per capita exceeded US$ 40,000 per year. When statistical models  are used to predict the variation among national averages, GDP per capita typically emerges  as a dominant predictor of life evaluations (10).
+Yet, although life evaluations are frequently correlated with GDP per capita, there are  both empirical and theoretical reasons to question the degree to which this reflects a  universal predictive relationship. One line of questioning arose from the finding that life  evaluations within a country do not consistently increase over time as GDP per capita  increases, a phenomenon known as the Easterlin paradox (11, 12). This paradox is often  attributed to a combination of adaptation, by which people become accustomed to mate- rial wealth over time (13–15), and social comparison, by which people gain satisfaction  from their wealth when it appears large relative to others, ir

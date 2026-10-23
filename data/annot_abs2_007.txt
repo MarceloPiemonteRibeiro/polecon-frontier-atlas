@@ -1,0 +1,41 @@
+# round 2, batch_007 — abstracts
+01893|United States|Theory|Franchise bidding for natural monopolies such as cable TV runs into contracting problems resembling regulation; regulation's bad reputation is undeserved.|M_capture-|
+02623|Theory|Theory|Regulatory institutions are designed to limit interest-group capture when regulators hold private information.|M_capture+|
+01894|Cross-country|Hist|Telecom regulatory commitment depends on each country's institutional endowment, and credible commitment drives investment.|M_commit+|
+01895|United States|XC|Municipal gas ownership was likelier in small towns and under city-council regulation, supporting small-market and commitment explanations.|M_commit+|
+01955|United States|Panel|The relative strength of winning and losing interest groups explains when states deregulated bank branching.|M_lobby+,M_collective+|
+02625|United States|NatExp|Rotating federal bank supervisors are systematically tougher than state ones; state leniency predicts costly failures, not revolving doors.|M_bureau+,M_capture-|
+02628|Theory|Theory|Media cover large and advertiser-valued groups more, biasing policy toward them; radio raised spending on poor and rural voters.|M_media+,M_probvote+|
+02380|United States|RCT|Randomly timed articles in 48 small outlets raised national Twitter discussion of the policy areas by about 63% of a day's volume.|M_media+|
+02629|United States|NatExp|Access to in-state local TV news raises knowledge of governors and senators and split-ticket voting, slowing nationalization.|M_media+,M_moralhazard+|
+01791|Theory|Theory|Politically motivated owners can withhold news even from rational consumers; competition helps, but mergers can defeat it.|M_media+|
+01790|Theory|Theory|Unbiased outlets always inform voters better, yet biased media can raise voter welfare by disciplining politicians.|M_media~|
+02685|United States|DiD|The AP's ban on "illegal immigrant" spread to local outlets and lowered exposed readers' support for restrictive immigration policy.|M_media+|
+00448|China|DiD|China's new curriculum made students view Chinese governance more positively, changed views of democracy and raised scepticism of markets.|M_media+,M_culture+|
+02680|Theory|Theory|Coarse thinkers transfer and frame information across categories, letting persuaders use uninformative messages.|M_media+|
+02676|Theory|Theory|Competition among senders need not raise information; a condition on the information environment determines when it does.|M_media~|
+02679|Theory|Theory|Characterizes when a sender benefits from designing signals to persuade a Bayesian receiver, and the optimal signal.|M_cheaptalk+|
+02683|Cross-country|Theory|Viral economic narratives drove the 1920–21 depression, the Great Depression and the Great Recession.||
+02675|Theory|Theory|Changing a listener's worldview requires disconfirming evidence; persuaders sometimes conceal it and exploit the existing worldview.|M_media+|
+02674|Theory|Theory|Narratives as causal models attract people through hope; equilibrium narratives sustain policies and polarization.|M_culture+|
+02682|Theory|Theory|Persuaders propose models that fit past data; better-fitting models move beliefs less, and competition pushes toward fit.|M_media+|
+02311|United States|IV|Father Coughlin's broadcasts cut Roosevelt's 1936 vote share, raised pro-Nazi Bund branches and lowered war-bond sales.|M_media+|
+02681|Cross-country|RCT|Debaters randomly assigned a side persuade themselves of its factual and moral superiority.||
+00051|Russia|IV|VK penetration raised 2011 protest participation by lowering coordination costs, while also raising pro-government support.|M_coord+,M_media+|
+00995|United States|Desc|Homophily on Twitter gives disproportionate exposure to like-minded information, and larger groups receive more information.|M_media+|
+02377|Russia|NatExp|Blog posts exposing corruption in state companies lowered their returns and raised management turnover.|M_media+,M_corruption+|
+02379|Indonesia|RCT|Celebrity-originated vaccination tweets spread far more than identical tweets without their imprimatur; citing sources reduced diffusion.|M_media+|
+02282|United States|Review|Misperceptions persist where accuracy incentives are weak and partisan motives strong, and elites exploit them.|M_media+|
+02375|United States|RCT|Deactivating Facebook before the 2018 midterms reduced news knowledge and polarization and raised well-being.|M_media+|
+01931|United States|Desc|Most Americans have moderate online media diets; echo chambers hold only a small, influential group of partisans.|M_media~|
+02378|China|Panel|Weibo spread protests and strikes across Chinese cities through tacit coordination and emotion, despite strict control.|M_coord+,M_media+|
+01819|China|Theory|Autocrats optimally permit some watchdog journalism on lower officials and tighten it when social tensions are high.|M_media+,M_bureau+|
+01816|Theory|Theory|Rulers would gain by committing to censor less; bad rulers prefer strong media and good rulers weak media.|M_media+,M_coord+|
+01983|Theory|Theory|Governments with coercive power try to monopolize violence, fighting rather than buying off rivals when the spoils of security are large.|M_war+,M_commit+|
+00393|Theory|Review|Contestable rents waste resources; losses are smaller in democracies where groups seek public-good benefits.|M_contest+|
+02607|DR Congo|Struct|A network model of alliances and enmities in the Second Congo War shows how removing groups or embargoes would cut fighting.|M_war+,M_contest+|
+02374|Cross-country|XC|Income, natural resources and population predict civil war; ethnic fractionalization has a non-monotonic effect.|M_war+,M_diversity~|
+02407|Cross-country|IV|US food aid increases the incidence, onset and duration of civil conflict, especially small-scale conflicts.|M_war+|
+02273|Cross-country|IV|Faster population growth after 1940s health innovations raised social conflict over scarce resources.|M_war+|
+02284|Cross-country; Mexico|IV|Population growth from health innovations raised conflict across countries and Mexican municipalities, more under economic hardship.|M_war+|
+02608|Afghanistan; Pakistan|Struct|Geocoded attack data reveal unobserved coalition structures among insurgent groups.||

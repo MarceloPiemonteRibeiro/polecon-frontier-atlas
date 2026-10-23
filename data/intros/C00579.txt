@@ -1,0 +1,50 @@
+Carlo Prato, Stephane Wolton 
+The voters' curses: why we need Goldilocks  voters 
+ 
+Article (Accepted version) 
+(Refereed) 
+Original citation: 
+Prato, Carlo and Wolton, Stephane (2016) The voters' curses: why we need Goldilocks  voters. American Journal of Political Science, 60 (3). pp. 726-737. ISSN 0092-5853 
+ 
+DOI: 10.1111/ajps.12223 
+ 
+© 2015 Midwest Political Science Association 
+ 
+This version available at: http://eprints.lse.ac.uk/63336/ 
+ 
+Available in LSE Research Online: December 2016 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+ 
+This document is the author’s final accepted version of the journal article. There may be  differences between this version and the published version. You are advised to consult the  publisher’s version if you wish to cite from it. 
+ 
+ 
+ 
+
+The Voters’ Curses:
+Why We Need Goldilocks Voters∗
+Carlo Prato
+Georgetown University
+Stephane Wolton
+London School of Economics and Political Science
+Abstract
+Scholars have long deplored voters’ lack of interest in politics and argued in favor of greater political engagement. We present a formal theory of elections where suc- cessful communication of campaign messages requires both eﬀort by candidates and attention from voters. Voters’ interest in politics aﬀects their attention, and impacts the eﬀectiveness of the electoral process as a screening and disciplining device. In line with existing theories, there exists a curse of the uninterested voter: When voters have little interest in politics, the electoral process performs poorly, and voters’ attention to politics is low. Surprisingly, we uncover a curse of the interested voter, by which the same happens when voters have a strong interest in politics. Our results highlight the importance of distinguishing between voters’ interest and attention, two notions often conﬂated in empirical studies. Moreover, policy interventions aimed at subsidizing the cost of acquiring political information can have unintended consequences.
+∗Carlo Prato is Assistant Professor, Edmund A. Walsh School of Foreign Service, ICC 301, Georgetown
+University, 37th and O Streets N.W., Washington D.C. 20057 (cp747@georgetown.edu). Stephane Wolton
+(corresponding author) is Assistant Professor, Department of Government, London School of Economics and
+Political Science, Houghton Street, WC2A 2AE London, United Kingdom (S.Wolton@lse.ac.uk).
+1
+
+Democracies require an active electorate to perform well (Tocqueville, 1840). Indeed, few dispute that politicians’ incentive to act in voters’ interests depend on voters’ attention and oversight. Voters’ ability to fulﬁll this role, however, is heavily debated. Copious studies question voters’ competence (Campbell et al., 1960; Delli Carpini and Keeter, 1996), the consistency of their beliefs (Converse, 1964; Zaller, 1992), and their capacity to correctly at- tribute responsibility (Achen and Bartels, 2002; Healy and Malhotra, 2009). Other scholars argue that “voters are not fools”: They make the best possible choice given the set of avail- able alternatives (Key, 1966), the information presented to them (Popkin, 1991; Lupia and
+McCubbins, 1998), and the cost and beneﬁt of collecting political information (Downs, 1957;
+Page, 1978). Despite this disagreement, these scholars share a common premise: “Citizens do need to be more engaged in politics” (Delli Carpini and Keeter, 1996, p.21).
+This paper questions the assumption embedded in democratic theory that more political engagement always beneﬁts voters. To this end, we present a theory of elections that dis- tinguishes between voters’ interest (their evaluation of the importance of politics, captured by their payoﬀfrom policy change) and attention (their cognitive involvement with the elec- toral process, captured by their eﬀort in learning candidates’ platforms). Unlike most formal models of elections, our theory builds on the notion that voters choose how much political information to acquire under signiﬁcant cognitive constraints. Contrary to most studies of voting behavior, we explicitly consider how strategic interactions between voters’ attention and candidates’ behaviors determine the set of policy options available to the electorate.
+Consistent with existing theories, we ﬁnd that when voters have little interest in politics, the performance of the democratic system—measured in term of voters’ welfare—is low. We term this phenomenon the curse of the uninterested voter. More surprisingly, we uncover a curse of the interested voter, whereby voters’ welfare and attention to politics might also be low when voters’ interest is high. Our theory indicates that like Goldilocks who “likes her porridge not too cold, not too hot, likes it just right,” the best policy outcomes occur when voters care about politics not too little and not too much.
+These results stem from candidates’ strategic responses (policy and campaigning choices) to voters’ attention, which aﬀects how much voters can actually learn from the electoral campaign. Our theory points to the importance of distinguishing between two notions of political engagement, interest and attention, which have previously been conﬂated empirically
+2
+
+(e.g., Verba et al., 1997; Solt, 2008).
+In fact, we show that voters’ lack of attention to politics is not necessarily evidence of their lack of interest. Our results also highlight how well-intentioned interventions aimed at decreasing the cost of acquiring politica

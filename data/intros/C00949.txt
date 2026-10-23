@@ -1,0 +1,30 @@
+In recent years it has become widely accepted that establishing institutions of  limited government increases the credibility of government economic policies. In  political systems where multiple veto players must agree to any policy change, private  agents will have less reason to fear opportunistic policy changes by government, such as  repudiation of debt or ex post changes to investment regulations. One of the seminal  contributions to this literature has been North and Weingast's (1989) article which  argues that the establishment of institutions of limited monarchy in England after 1688  allowed the sovereign to credibly commit to repayment of debts and to the security of  property rights in a way which was not previously possible.1 I suggest in this paper that  their argument is compelling but incomplete. While creating multiple veto points  should, on average, increase credibility, this institutional step is neither a necessary nor  a sufficient condition for commitment. In some circumstances, credibility can be  insured even with only one veto point. In other instances, credible commitment cannot  be obtained even with multiple veto points. Ultimately, establishing propositions in  this area necessitates considering not only the number of veto points, but also partisan  control of different veto points, the possibility for cross-issue coalitions, and whether  policy is delegated. I use historical evidence from 18th century France and England to  evaluate several propositions, focusing on the credibility of sovereign debt repayment. 
+My argument has three key implications for our understanding of credibility and  limited government. Most directly, it highlights the need for a reinterpretation of  credible commitment in 18th century England and France. By tracking changes in  interest rates on government debt over time, I present evidence to show that credibility  was not irrevocably established in England after 1688. Instead, credibility varied 
+
+ 
+ 
+Stasavage 
+3
+ 
+  depending on the partisan control of the House of Commons, the House of Lords, and  ministerial positions. Likewise, while 18th century France is often portrayed as  suffering from low credibility due to the absence of institutions of limited government,  a joint examination of political institutions and partisan politics leads to a different  conclusion. Even if institutions of limited government had been established, there is  good reason to believe that credible commitment would not have been obtained, due to  the poor representation of government creditors in national representative assemblies. 
+In fact, one proposal to establish limited government in France in 1715 was made  precisely to facilitate a repudiation of government debt, not in order to establish  credibility. 
+A second implication of this work is that in order to explain credible  commitment, one has to consider how bargaining between politicians over multiple  dimensions of policy can lead to different outcomes than if issues were considered in  isolation. Following on this idea, it is also important to consider the role played by  political parties, to the extent that they provide a means for heterogeneous interests to  cement cross-issue bargains. Analysts often note that most members of the English 
+Parliament after 1688 were landowners and that very few directly represented the 
+London-based financial interests who were the government's main creditors. What is  less often considered is that landowners could actually have had a short-term interest in  defaulting on government debt so as to allow a reduction in taxes on land. This means  that when we restrict our attention to this one policy dimension (taxes on land vs. taxes  on capital) it is difficult to explain why the increased power of Parliament after 1688  improved credibility of debt repayment. 
+
+ 
+ 
+Stasavage 
+4
+ 
+ 
+I argue that government creditors were often well represented in the English 
+Parliament after 1688, because they were part of a larger Whig coalition which took a  common stand on multiple issues of religion, foreign policy, and finance. Of key  importance, the Whig coalition was also characterized by a form of party organization  which gave party leaders important means to enforce voting cohesion. A large volume  of work by historians over the past four decades has demonstrated both the importance  of partisan politics for policy choices in Great Britain during the period 1688-1715 in  particular, and that leaders of the Whig party were able to use a number of devices to  increase voting cohesion among their rank and file. In France, in contrast, those  political coalitions which did develop in the National Assembly after 1789 were  unstable, and they were generally not characterized by forms of organization which  would have allowed leaders to enforce voting cohesion among the rank and file. 
+Cross-issue bargaining may be particularly important in the aftermath of a  period where governments have been unable to establish credibility. Following any  period where government opportunism has been prevalent, if institutions of limited  government are subsequently established, groups with the most to lose from abrupt  changes in taxes or regulations (due to the nature of the assets they own) are likely to  be politically weak. The reason is that over time, in response to an environment of low  credibility, private agents will have moved assets into activities which will be less  subject to opportunism. To the extent that it is costly to transfer assets back into  activities which were once subject to opportunism (like finance), any lobby opposed to  opportunism may initially lack influence. The experience of England after 1688  suggests that even if groups who stand to lose from actions such as default on debts  only have minority representation in a legislature, credible commitment may still be 
+
+ 
+ 
+Stasavage 
+5
+ 
+  established if these groups belong to a broader political coa

@@ -1,0 +1,44 @@
+Timothy Besley and Maitreesh Ghatak 
+Competition and incentives with motivated  agents 
+ 
+Article (Published version) 
+(Refereed) 
+Original citation: 
+Besley, Tim and Ghatak, Maitreesh (2005) Competition and incentives with motivated agents. 
+American economic review, 95 (3). pp. 616-636. 
+DOI: 10.1257/0002828054201413 
+ 
+© 2005 American Economic Association 
+ 
+This version available at: http://eprints.lse.ac.uk/928/ 
+Available in LSE Research Online: November 2011 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+
+Competition and Incentives with Motivated Agents
+By TIMOTHY BESLEY AND MAITREESH GHATAK*
+A unifying theme in the literature on organizations such as public bureaucracies and private nonproﬁts is the importance of mission, as opposed to proﬁt, as an organizational goal. Such mission-oriented organizations are frequently staffed by motivated agents who subscribe to the mission. This paper studies incentives in such contexts and emphasizes the role of matching the mission preferences of principals and agents in increasing organizational efﬁciency. Matching economizes on the need for high-powered incentives. It can also, however, entrench bureaucratic conservatism and resistance to innovations. The framework developed in this paper is applied to school competition, incentives in the public sector and in private nonproﬁts, and the interdependence of incentives and productivity between the private for-proﬁt sector and the mission-oriented sector through occupational choice. (JEL D23, D73, H41, L31)
+The late twentieth century witnessed a his- toric high in the march of market capitalism, with unbridled optimism in the role of the proﬁt motive in promoting welfare in the production of private goods. Moreover, this generated a broad consensus on the optimal organization of private good production through privately owned competitive ﬁrms. When it comes to the provision of collective goods, no such consen- sus has emerged.1 Debates about the relative merits of public and private provision still dominate.
+This paper suggests a contracting approach to the provision of collective goods. It focuses on two key issues: how to structure incentives, and the role of competition between providers. At its heart is the idea that organizations that pro- vide collective goods cohere around a mission.2
+Thus production of collective goods can be viewed as mission-oriented.
+Our approach cuts across the traditional public-private divide. Not all activities within the public sector are mission-oriented. For ex- ample, in some countries, governments own car plants. While this is part of the public sector, the optimal organization design issues here are no different from those faced by General Motors or
+Ford. Not all private sector activity is proﬁt- oriented. Universities, whether public or pri- vate, have many goals at variance with proﬁt maximization. Our examples will draw from both the public and the private sectors.
+The missions pursued in the provision of collective goods come from the underlying mo- tivations of the individuals (principals and agents) who work in the mission-oriented sec- tor. Workers are typically motivated agents, i.e., agents who pursue goals because they perceive intrinsic beneﬁts from doing so. There are many examples—doctors who are committed to sav- ing lives, researchers to advancing knowledge, judges to promoting justice, and soldiers to de- fending their country in battle. Viewing workers
+* Besley: London School of Economics, Houghton
+Street, London WC2A 2AE (e-mail: t.besley@lsc.ac.uk);
+Ghatak: London School of Economics, Houghton Street,
+London WC2A 2AE (e-mail: m.ghatak@lse.ac.uk). The authors would like to thank numerous seminar participants as well as Daron Acemoglu, Alberto Alesina, Madhav
+Aney, Ben Bernanke, Michela Cella, Leonardo Felli, Julian
+Le Grand, Caroline Hoxby, Rocco Machiavello, Meg
+Meyer, Hannes Mueller, Andrei Shleifer, Daniel Sturm,
+Steve Tadelis, Jean Tirole, and two anonymous referees for helpful comments. Financial support from the Economic and Social Research Council through research grant RES-
+000-23-0717 is gratefully acknowledged.
+1 We use the term “collective good” as opposed to the stricter notion of a “public good.” Collective goods in this sense also include merit goods. This label also includes a good like education to which there is a commitment to collective provision, even though the returns are mainly private.
+2 See, for example, James Q. Wilson (1989) on public bureaucracies and Robert M. Sheehan (1996) on nonproﬁts.
+Jean Tirole (1994) is the ﬁrst paper to explore the implica- tions of these ideas for incentive theory.
+616
+ as mission-oriented makes sense when the out- put of the mission-oriented sector is thought of as producing collective goods. The beneﬁts and costs generated by mission-oriented production organizations are not fully reﬂected in the mar- ket price. In addition, donating our income earned in the market to an organization that pursues a mission that we care about is likely to be an imperfect substitute for joining and work- ing in it. This could be due to the presence of agency costs or because individuals care not only about the levels of these collective goods, but also about their personal involvement in their production (i.e., a “warm glow”).
+It is well known from the labor literature on compensating differentials that employment choices and wages depend on taste differ

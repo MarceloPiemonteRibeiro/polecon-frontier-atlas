@@ -1,0 +1,224 @@
+DIVISION
+OF
+THE
+HUMANITIES
+AND
+SOCIAL
+SCIENCES
+CALIF
+ORNIA
+INSTITUTE
+OF
+TECHNOLOGY
+P
+ASADENA,
+CALIF
+ORNIA
+91125
+POLITICAL
+BIAS
+AND
+W
+AR
+Matthew
+O.
+Jackson
+Califo rnia
+Institute of
+T echnology
+Massimo
+Mo relli
+The
+Ohio
+State
+Universit y
+1891
+C
+A
+L
+I
+F
+O
+R
+N
+I
+A
+ 
+I
+N
+S
+T
+I
+T
+U
+T
+E
+ 
+O
+F
+ 
+T
+E
+C
+H
+N
+O
+L
+O
+G
+Y
+SOCIAL
+SCIENCE
+W
+ORKING
+P
+APER
+1247
+Janua ry
+2006
+
+P olitical
+Bias and
+W ar
+Matthew
+O.
+Jac kson
+Massimo
+Morelli
+Abstract
+W e examine the incen tiv es for coun tries to go to w ar as they dep end on the compar- ison b et w een ho w m uc h their piv otal decision-mak ers ha v e at risk and ho w m uc h they stand to gain from a w ar.
+Ho w this ratio compares to the coun try at large is what w e term
+\p olitical bias."
+If there is no p olitical bias, then there are alw a ys pa ymen ts that one coun try w ould lik e to mak e to the other that will a v oid a w ar in the presence of commitmen t or enforceabilit y of p eace treaties.
+If there is a bias on the part of one or b oth coun tries, then w ar can result and in some cases cannot b e prev en ted b y an y transfer pa ymen ts.
+W e examine ho w w ar tec hnology and relativ e w ealth lev els in teract with p olitical bias in determining whether coun tries mak e transfers, go to w ar, and form alliances.
+Our results shed some new ligh t on the unev en con tender parado x and the in terpretation of the
+\demo cratic p eace".
+JEL classication n um b ers:
+C78,
+D74
+Key w ords:
+W ar,
+P olitical
+Bias,
+Alliances,
+Bargaining,
+T ransfers,
+Commitmen t,
+Demo- cratic
+P eace,
+W ar
+T ec hnology
+
+P olitical
+Bias and
+W ar
+
+Matthew
+O.
+Jac kson
+Massimo
+Morelli
+1
+In tro duction
+The ric h history of w ar pro vides evidence of its dev astating consequences and of the wide v ariet y of circumstances that lead to it.
+1
+While there is m uc h that w e kno w ab out w ars, there is still m uc h to b e learned ab out ho w the c hoices to go to w ar dier across coun tries and circumstances, and in particular ho w this relates to economic situations and p olitical regimes.
+Although religious and ethnic conicts ha v e pla y ed k ey roles in man y w ars, balance of p o w er, territorial disputes, expansion of territory
+, and access to k ey resources or w ealth are often either in v olv ed or the primary driving force b ehind w ars.
+2
+In this pap er, w e build a mo del of w ar based on bargaining that serv es as a basis for understanding ho w p olitical structure
+(crudely mo deled) in teracts with economic incen tiv es to determine when w ars will o ccur.
+Our mo del of w ar is describ ed as follo ws.
+Tw o coun tries are faced with a p ossible w ar, and eac h kno ws their resp ectiv e probabilit y of winning, whic h dep ends on their resp ectiv e w ealth lev els.
+If a w ar ensues, eac h coun try incurs a cost, and then the victor claims a p ortion of the loser's w ealth.
+The incen tiv es of eac h coun try th us dep end on the costs, the p oten tial sp oils, and the probabilit y that eac h will win.
+If either coun try wishes to go to w ar then w ar ensues.
+Coun tries can oer to giv e
+(or receiv e) some transfer in order to forgo a w ar.
+
+W e are grateful for
+nancial supp ort from the
+National
+Science
+F oundation under gran t
+SES-0316493, the
+Guggenheim
+F oundation, and from the
+Cen ter for
+Adv anced
+Studies in
+Beha vioral
+Sciences.
+W e thank
+M.
+Battaglini,
+J.
+Eguia,
+G.
+Gatta,
+D.
+Jank o wski,
+T.
+Kim,
+L.
+Mathev et,
+E.
+Rasm usen,
+D.
+V erdier,
+C.
+V olden and
+L.
+Zam b ernardi for helpful commen ts on an earlier draft, and participan ts at seminars for useful feedbac k.
+1
+See, for example,
+Blainey
+[2] and
+Kaiser
+[20
+].
+2
+Resources and w ealth are the fo cus of m uc h of the recen t formal literature on w ar, as discussed b elo w.
+Moreo v er, materialistic motiv ations ha v e b een iden tied as primary source of w ars in the history of empires
+(see, for example,
+Harris
+[15
+] and
+Findla y
+[13
+]), and some sc holars argue that mo dernization has further increased the protabilit y of conquest
+(see
+Lib erman
+[24
+] who discusses
+Hitler's exploitation of o ccupied territories during
+W orld
+W ar
+I
+I).
+A recen t example of a w ar related to materialistic expansion motiv ations is the in v asion of
+Ku w ait in
+1990.
+W e stress that b y materialistic motiv ations w e include p o w er and con trol motiv ations of coun try leaders, and hence our argumen ts apply ev en when no territory or resource is a cause of w ar.
+
+The w a y in whic h w e tie the analysis bac k to p olitical structure is crude but p o w erful.
+W e mo del a coun try's decisions through the ey es of the piv otal decision-mak er in the so ciet y
+.
+F or instance, this could b e an executiv e, monarc h, military leader, or the median v oter.
+The ratio of relativ e share of b enets from w ar compared to share of costs for this piv otal agen t is th us a critical determinan t of a coun try's decisions.
+W e call this ratio
+\p olitical bias."
+If it is close to one, then the coun try's critical decision mak er's relativ e b enets/costs are similar to the coun try at large.
+If this ratio is greater than one, then w e sa y that the coun try leader has a
+\p ositiv e bias".
+An un biased leader is
+\represen tativ e" of the in terests of the coun try
+, in the sense that he or she sees the same relativ e b enets and costs from a w ar as the coun try do es as a whole.
+Hence un biasedness ma y b e seen as an op erationalization of a represen tativ eness prop ert y asso ciated with the lev el of demo cracy of a p olitical regime.
+P olitical bias essen tially em b o dies an ything that migh t lead to dieren t incen tiv es for the critical decision mak er relativ e to the so ciet y as a whole.
+F or instance, in an authoritarian regime, it migh t b e that a leader can k eep a disprop ortionate share of the gains from a w ar.
+It migh t also b e that the leader sees other gains from w ar, in p ersonal recognition or p o w er.
+Similarly
+, if the military is leading a coun try
+, then it ma y b e that military leaders gain disprop ortionat

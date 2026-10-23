@@ -1,0 +1,97 @@
+2. Data and Program Description 
+3. Identification Strategy 
+4. Effects on Rural Development 
+5. Discussion 
+References 
+Data Appendix 
+Tables 1 – 11 
+Figures 1 - 9 
+ 
+ 
+ 
+ 
+ 
+ 
+The Suntory Centre 
+ 
+ 
+ 
+ 
+ 
+Suntory and Toyota International Centres for 
+ 
+ 
+ 
+ 
+ 
+Economics and Related Disciplines 
+ 
+ 
+ 
+ 
+ 
+London School of Economics and Political Science 
+Discussion Paper 
+ 
+ 
+Houghton Street 
+No. DEDPS/40 
+ 
+ 
+London WC2A 2AE 
+August 2003 
+ 
+ 
+Tel.: 020-7955 6674 
+ 
+ 
+We thank Esther Duflo for very helpful and detailed comments. We have benefited from  comments and suggestions from Josh Angrist, Abhijit Banerjee, Tim Besley, Richard 
+Blundell, Bronwen Burgess, Anne Case, Ken Chay, Dom Leggett, Jonathan Murdoch, Atif 
+Mian, Andrew Newman, Debraj Ray, Mark Rosenzweig, Ken Sokoloff, Duncan Thomas, 
+Robert Townsend, and seminar participants at the Bureau for Research in Economic 
+Analysis of Development (BREAD) 2002 Meeting, Caltech, Cornell, Harvard, IMF, LSE, 
+Michigan, MIT, NYU, Princeton, Southampton, Stanford, Stockholm, UBC, UCLA, UCSD, 
+World Bank and Yale. Juan de Laiglesia, Mattia Romani, Gaurav Shah, Heideeflower Stoller  and Grace Wong provided exceptional research assistance. 
+ 
+
+ 
+ 
+Abstract 
+ 
+Lack of access to finance is often cited as a key reason why poor people remain  poor. This paper uses data on the Indian rural branch expansion program to provide  empirial evidence on this issue. Between 1977 and 1990, the Indian Central Bank  mandated that a commercial bank can open a branch in a location with one or more  bank branches only if it opens four in locations with no bank branches. We show that  between 1977 and 1990 this rule caused banks to open relatively more rural  branches in Indian states with lower initial financial development. The reverse is true  outside this period. We exploit this fact to identify the impact of opening a rural bank  on poverty and output. Our estimates suggest that the Indian rural branch expansion  program significantly lowered rural poverty, and increased non-agricultural output. 
+ 
+Keywords: Finance and development; rural banking; bank licensing; credit  constraints; structural change; diversification; redistribution; poverty, growth. 
+ 
+JEL Nos.: E5, G2, H1, H4, I3, N2, O0, O1, O2, O4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© The authors. All rights reserved. Short sections of text, not to exceed two  paragraphs, may be quoted without explicit permission provided that full credit,  including  notice, is given to the source. 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact address: 
+Dr Robin Burgess, STICERD, London School of Economics and Political Science, 
+Houghton Street, London WC2A 2AE, UK. Email: r.burgess@lse.ac.uk 
+ 
+
+1
+Introduction
+A key objective in development economics is to work out ways to lift people out of poverty. Access to ﬁnance has been seen as a critical factor in enabling people to transform their production and employment activities and to exit poverty (Banerjee and Newman 1993; Aghion and Bolton 1997; Banerjee, 2001). Countries with better developed ﬁnancial systems, it is argued, should be better able to exploit growth op- portunities (Schumpeter, 1934; Gerschenkron 1962; Greenwood and Jovanovic, 1990;
+Bencivenga and Smith, 1991).
+Financial development may also enhance ﬁnancial stability with positive implications for economic performance (Bernanke and Gertler,
+1990). While these arguments have often provided the theoretical justiﬁcation for widespread government intervention in the banking sector, evidence on the success of such interventions in reducing poverty remains limited.1 In this paper we use data on the Indian rural bank branch expansion program — the largest ever attempted in a developing country — to provide such evidence.
+The Indian branch expansion program was representative of a whole host of state- led rural ﬁnance programs that spread across the developing world in the post-colonial period. This trend was not restricted to low income countries — in the United States, for example, the Community Reinvestment Act of 1977 requires a bank to meet the credit needs of its entire community, including low income neighborhoods (Zinman
+2002). In most cases such ﬁnancial interventions went hand in hand with government oversight of the banking sector, often aided by government ownership of banks.2
+However, it is now widely believed that state control of the banking sector implied that political, not economic, considerations determined the ﬂow of credit across sec- tors and individuals. Political imperatives also implied that widespread loan default on the part of borrowers was permitted, and made the banking sector more suscepti- ble to elite capture (La Porta, Lopez-De-Silanes and Shleifer, 2003; Sapienza, 2003).
+Some go as far as to claim that elite capture, combined with the imposition of interest rate ceilings in the formal sector, led to ﬁnancial dualism wherein formal subsidized funds are concentrated in the hands of the powerful few and terms in the informal markets (on which the poor depend) worsened (see Adams et al 1984; Braverman and Guasch 1986; Hoﬀand Stiglitz, 1998). In sum, it is believed that formal sub- sidized credit was ineﬀective in reaching the poor, and may even have undermined rural development and increased rural poverty.
+However, the evidence in support of such claims remains thin. By virtue of their vintage social banking episodes, though numerous and large in scale, have largely escaped serious evaluation. And this is despite the fact that, even today, state provi- sion remains the dominant source for formal ﬁnance in the rural areas of developing
+1Cross country data shows that banking expansion and economic growth are positively correlated
+(King and Levine, 1993; Levine and Zervos, 1998; Rajan and Zingales, 1998). However, the fact that countries (or regions) with greater growth potential attract more banks renders a causal interpretation problematic. In addition, the absence of comparable cross-country poverty data across time make

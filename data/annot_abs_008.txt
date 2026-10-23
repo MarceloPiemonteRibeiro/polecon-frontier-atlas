@@ -1,0 +1,41 @@
+# batch_008 — abstracts
+01370|Indonesia|DiD|Moving top firms into well-staffed medium-taxpayer offices more than doubled their tax payments, equivalent to an 8-point rate increase.|M_statecap+,M_bureau+|F6
+01379|Colombia|NatExp|Two-fifths of the wealthiest 0.01% evade wealth taxes offshore; enforcement (Panama Papers threat, disclosure program) raised compliance and progressivity.|M_statecap+|
+01380|Uganda|Desc|VAT reports of buyers and sellers disagree 79% of the time; a quarter of firms misreport against themselves; misreporting cost ~US$384m.|M_statecap~|
+01378|Cross-country|Desc|Accounting for informal purchases, consumption taxes are progressive in poor countries, undermining the case for food exemptions.||
+00623|DR Congo|RCT|The status-quo property tax rate exceeds the revenue-maximizing rate; better enforcement raises that ceiling ~40%, so rates and enforcement are complements.|M_statecap+,M_bureau+|F6
+01105|Cross-country|Review|Tax administration — organization, personnel, task management — and state legitimacy are under-studied levers of tax capacity in low-capacity states.|M_statecap+,M_bureau+|F6
+00044|Mexico|RCT|Randomly higher advertised public-sector wages attracted more able applicants with no loss of public-service motivation and filled vacancies in worse municipalities.|M_bureau+|F6
+00369|India|Lab|Students who cheat in a lab task prefer public jobs, and cheating predicts corruption among civil servants: selection fuels corruption.|M_bureau+,M_corruption+|F6
+00444|Pakistan|RCT|Letting tax inspectors choose postings in order of performance raised revenue growth 30–41%.|M_bureau+|F6
+00257|Russia|Panel|Individual bureaucrats and organizations explain 39% of price variation in 16 million public purchases; domestic-preference rules help only with ineffective bureaucrats.|M_bureau+|F6
+00952|Theory|Theory|Civil-service tenure and policy discretion can sustain expert, policy-motivated bureaucracies, but expertise comes with politicization.|M_bureau+|
+00514|India|RCT|Teacher performance pay raised math and language scores 0.27 and 0.17 SD with no adverse effects, cost-effectively.|M_bureau+|F6
+00914|France|Panel|Asylum officers initially favour Christian over Muslim applicants but stop discriminating after about a year on the job.|M_bureau~|
+01025|United States|Panel|Procurement contracts overseen by officers ideologically misaligned with the president have more cost overruns and delays (a morale effect).|M_bureau+|F6
+01024|United States|DiD|Pendleton Act exams improved customs employees' backgrounds and cut turnover but not cost-effectiveness, as exempt positions grew.|M_bureau~|F6
+01026|United States|DiD|Civil-service reform of post offices cut delivery errors and raised productivity, especially in election years, and weakened local partisan papers.|M_bureau+,M_clientelism+|F6
+00790|Brazil|RCT|Mayors pay for and update on research findings; informing them about reminder letters raised adoption 10 points.|M_cheaptalk+|
+01087|Cross-country|Review|Reviews bureaucracy and development, linking administrative-data and experimental work to state capacity and politics.|M_bureau+,M_statecap+|F6
+01569|DR Congo|Desc|Kinshasa's traffic police run a coalition extortion scheme yielding five times fine revenue and subverting service.|M_corruption+|
+01601|Brazil|DiD|Embrapa's locally relevant public agricultural R&D raised aggregate agricultural productivity ~110% (benefit–cost 17).|M_statecap+|
+00630|Spain|RCT|Research on an effective policy raised adoption 65% when delivered by an ideologically aligned think tank or newspaper, and not when from the other side.|M_cheaptalk+|
+01071|Theory|Theory|Bureaucrats can sabotage service quality to make reforms look bad when voters are torn, deterring unpopular reforms and causing accountability loss.|M_bureau+,M_collective+|F5
+00241|India|RCT|Camera monitoring with attendance-based pay cut teacher absence 21 points and raised test scores 0.17 SD.|M_bureau+|F6
+00240|Cross-country|Desc|About 19% of teachers and 35% of health workers are absent on unannounced visits across six countries.|M_bureau+|F1
+00206|India|RCT|Monitoring nurses' presence worked at first but local health administrators undermined it with "exempt days" until it was ineffective.|M_bureau+,M_collective+|F5,F6
+00063|Indonesia|RCT|Community targeting identifies the poor slightly worse than proxy means tests but yields higher satisfaction; communities use a different poverty concept, not elite capture.|M_capture-|
+00726|Cross-country|Review|Reviews randomized strategies to reduce provider absence (incentives, monitoring, demand-side pressure).|M_bureau+|F6
+00507|Indonesia|RCT|Mailing eligibility cards to beneficiaries raised subsidized rice received by 26% with no loss to others: information cuts leakage.|M_corruption+|
+01361|India|Theory|With corruptible agents, adding indicators to proxy-means tests can worsen targeting; BPL card allocation is far less progressive in practice.|M_corruption+|
+00735|India|Desc|Unqualified private providers do as well as public ones on treatment and better on effort; doctors work harder in their private clinics.|M_bureau+|F1
+00277|Uganda|RCT|Community monitoring of health providers raised effort and utilization and cut child mortality.|M_selection+|
+00072|Sierra Leone|RCT|A community-driven development program improved local public goods but did not durably change institutions or inclusion; shows the value of a pre-analysis plan.|M_capture~|
+00160|United States|Panel|Communities trade scale economies against heterogeneity: more ethnically and income-diverse areas form more political jurisdictions.|M_diversity+|
+00228|India|RCT|Information and training for community participation did not raise involvement or school quality; volunteer-run reading camps did raise reading.|M_collective+|
+00279|Afghanistan|RCT|Secret-ballot referenda reduced elite influence over project choice and improved perceptions of governance, without raising project impact.|M_capture+|
+00539|Theory|Theory|An agenda-setting bureaucrat exploits the reversion point in referenda to obtain larger budgets than the median voter wants.|M_legbargain+|
+00341|Uganda|RCT|Citizen report cards and community monitoring raised health-service quality and lowered child deaths (working-paper version).|M_selection+|
+00360|Afghanistan|RCT|Elected village councils improve aid targeting when they clearly manage distributions, but overlapping mandates with customary leaders raise embezzlement.|M_capture~|
+00278|Indonesia|RCT|Linking school committees with village councils, especially with elected committees, improved learning most cost-effectively.|M_capture~|
+00359|Uganda|RCT|Gains from community monitoring of health providers persisted long run; participation without performance information had no effect.|M_selection+|

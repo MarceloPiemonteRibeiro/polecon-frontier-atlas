@@ -1,0 +1,52 @@
+Quoc-Anh Do, Kieu-Trang Nguyen and Anh N. Tran 
+One Mandarin benefits the whole clan:  hometown favoritism in an authoritarian  regime 
+ 
+Article (Published version) 
+(Refereed) 
+Original citation: 
+Do, Quoc-Anh, Nguyen, Kieu-Trang and Tran, Anh N. (2017). One Mandarin benefits the whole  clan: hometown favoritism in an authoritarian regime. American Economic Journal: Applied 
+Economics 9, (4) pp. 1-23. ISSN 1945-7782 
+ 
+DOI: 10.1257/app.20130472 
+ 
+© 2017 The Authors 
+ 
+This version available at: http://eprints.lse.ac.uk/85928/ 
+ 
+Available in LSE Research Online: November 2017 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+
+American Economic Journal: Applied Economics 2017, 9(4): 1–29 https://doi.org/10.1257/app.20130472
+1
+One Mandarin Benefits the Whole Clan:
+Hometown Favoritism in an Authoritarian Regime†
+By Quoc-Anh Do, Kieu-Trang Nguyen, and Anh N. Tran*
+We study patronage politics in authoritarian Vietnam, using an  exhaustive panel of ranking officials from 2000 to 2010 to estimate  their promotions’ impact on infrastructure in their hometowns of  patrilineal ancestry. Native officials’ promotions lead to a broad  range of hometown infrastructure improvement. Hometown favorit­ ism is pervasive across all ranks, even among officials without bud­ get authority, except among elected legislators. Favors are narrowly  targeted toward small communes that have no political power, and  are strengthened with bad local governance and strong local family  values. The evidence suggests a likely motive of social preferences  for hometown. (JEL D72, H76, O15, O17, O18, P25, Z13)
+One person becomes a mandarin,1 his whole clan benefits.
+—Vietnamese proverb
+Even the blind favor the people they know.
+—Indian proverb
+When a man attains power, even his chickens and dogs ascend to heaven.
+—Chinese proverb
+O ne common form of public office misuse is favoritism targeted toward certain  groups. In democracies, favoritism is often associated with pork barrel politics  whereby office holders direct resources to specific constituencies in order to win 
+1 The term “mandarin” refers to bureaucrats of the historical Vietnamese monarchist court. 
+* Do: Department of Economics and LIEPP, 28 rue des Saints-Pères, Paris 75007, France, and Sciences Po,  and CEPR (email: quocanh.do@sciencespo.fr); Nguyen: Department of Economics and CEP, London School of 
+Economics and Political Science, Houghton Street, London WC2A 2AE, United Kingdom (email: nguyenk@lse. ac.uk); Tran: School of Public and Environmental Affairs, Indiana University Bloomington; 1315 E 10th Street, 
+Bloomington, IN 47405 (email: trananh@indiana.edu). We thank Robin Burgess, Frederico Finan, Matthew O. 
+Jackson, Monica Martinez-Bravo, Eddy Malesky, Ben Olken, Kosali Simon, two anonymous referees, seminar  participants at Indiana University, Université Paris 1, and Singapore Management University, conference partici­ pants at the NEUDC 2011 at Yale University and the ALEA meeting 2012 at Stanford University, as well as other  colleagues for thoughtful suggestions. Nguyen Ba Hai’s excellent research assistance is deeply acknowledged. 
+Do acknowledges support from the French National Research Agency’s (ANR) “Investissements d’Avenir” grants 
+ANR-11-LABX-0091 (LIEPP) and ANR-11-IDEX-0005-02. Remaining errors are our own.
+† Go to https://doi.org/10.1257/app.20130472 to visit the article page for additional materials and author  disclosure statement(s) or to comment in the online discussion forum.
+
+2 
+AMERICAN ECONOMIC JOURNAL: APPLIED ECONOMICS
+OCTOBER 2017 their votes and political support for reelection.2 In contrast, in authoritarian regimes  where the state is barely accountable to voters, politicians do not gain power via  competitive elections. To get appointed to an office they need to please their supe­ riors rather than any other group of citizens. Without electoral incentives, different  questions on favoritism under dictatorship arise. Do appointed officials favor any  group of citizens, and which ones? Which officials, at which ranks, can direct public  resources toward favored groups? How is favoritism actually exercised? What are  the motives of favoritism when elections do not matter? Those issues of “who gets  what, when, how” are central to the study of politics (Lasswell 1936), hence, of high  necessity to understanding the functioning and development of autocracies.
+In contribution to those questions, this paper investigates hometown favoritism  under autocracy across a spectrum of office holders, highlighted by the relation­ ship between their new promotions and new public infrastructures in their ancestral  hometowns. We provide empirical characteristics of hometown favoritism regarding  its prevalence below the top leadership, the breadth of its targets, its scope across  types of infrastructure, and the local characteristics that can predict its strength.
+Hometown favoritism in dictatorship has traditionally been recounted through  a host of anecdotal examples of excessive favors that dictators bestow on their  hometowns. Sirte, Libya was a small unknown village until the early 1970s when  it received massive government investments, and eventually became home of the 
+Libyan parliament and most government departments after 1988 (Maher 2004). 
+The town was not chosen at random. It was the birthplace of Colonel Muammar 
+Gaddafi, Libya’s autocrat for 42 years. In a similar spirit, Côte d

@@ -1,0 +1,53 @@
+Archive ouverte UNIGE https://archive-ouverte.unige.ch
+Article scientifique
+Article
+2011                                    
+Accepted version
+Public access
+This is an author manuscript post-peer-reviewing (accepted version) of the original publication. The layout of  the published version may differ .
+The Structure of Inequality and the Politics of Redistribution
+Lupu, Noam; Pontusson, Harry Jonas
+How to cite
+LUPU, Noam, PONTUSSON, Harry Jonas. The Structure of Inequality and the Politics of Redistribution. In: 
+, 2011, vol. 105, n° 02, p. 316–336. doi: 10.1017/S0003055411000128
+The American political science review
+This publication URL: https://archive-ouverte.unige.ch/unige:40999
+Publication DOI:
+10.1017/S0003055411000128
+© This document is protected by copyright. Please refer to copyright holder(s) for terms of use.
+Last update in Archive ouverte UNIGE on 14.03.2023 22:52
+ psr1100012 xxx (xxx)
+April 25, 2011
+14:49
+American Political Science Review
+Vol. 105, No. 2
+May 2011 doi:10.1017/S0003055411000128
+The Structure of Inequality and the Politics of Redistribution
+NOAM LUPU
+Princeton University
+JONAS PONTUSSON
+Universit´e de Gen`eve
+A gainst the current consensus among comparative political economists, we argue that inequality matters for redistributive politics in advanced capitalist societies, but it is the structure of in- equality, not the level of inequality, that matters. Our theory posits that middle-income voters will be inclined to ally with low-income voters and support redistributive policies when the distance between the middle and the poor is small relative to the distance between the middle and the rich. We test this proposition with data from 15 to 18 advanced democracies and ﬁnd that both redistribution and nonelderly social spending increase as the dispersion of earnings in the upper half of the distribution increases relative to the dispersion of earnings in the lower half of the distribution. In addition, we present survey evidence on preferences for redistribution among middle-income voters that is consistent with our theory and regression results indicating that the left parties are more likely to participate in government when the structure of inequality is characterized by skew.
+T he recent growth of empirical scholarship on the politics of redistribution in advanced capitalist societies is impressive. Taking the canonical me- dian voter model associated with Romer (1975) and
+Meltzer and Richard (1981) as the point of departure, much of this research asks, “Does more inequality lead to more redistribution?” Although Kenworthy and Pontusson (2005) and Milanovic (2000) show that patterns of within-country variation broadly conform to the core prediction of the Romer-Meltzer-Richard
+(RMR) model, others point out that the cross-national association between income inequality and redistribu- tion among Organisation of Economic Co-operation and Development (OECD) countries is in fact the op- posite of what the canonical model seems to predict:
+Governments in less egalitarian countries tend to en- gage in less redistribution (e.g., Alesina and Glaeser
+2004, 57–60). Perhaps because of the difﬁculty of recon- ciling within- and cross-country evidence, the current consensus seems to be that inequality does not matter for the politics of redistribution, at least not in any direct and particularly signiﬁcant way. Instead, recent studies emphasize the causal role of a range of other
+Noam Lupu is a Ph.D. candidate, Department of Politics, Prince- ton University, 130 Corwin Hall, Princeton, NJ 08544 (nlupu@ princeton.edu).
+Jonas
+Pontusson is
+Professor of
+Comparative
+Politics,
+D´epartement de science politique, Universit´e de Gen`eve, 40, Boule- vard du Pont d’Arve, 1211 Gen`eve 4, Switzerland (Jonas.Pontusson@ unige.ch).
+Previous versions of this article were presented in seminars and workshops at Harvard, Oxford, Princeton, Stanford, and the Univer- sities of Toronto and Geneva, as well as the 2010 Annual Meetings of the American Political Science Association and Midwest Polit- ical Science Association. We are grateful to the many individuals who asked difﬁcult questions and made useful suggestions in these venues. For detailed comments, we are indebted to Pablo Beramendi,
+Michael Donnelly, Patrick Emmenegger, John Ferejohn, John
+Huber, Kosuke Imai, Torben Iversen, Nolan McCarty, Gwyneth
+McClendon, Daniel Oesch, Damian Raess, David Rueda, David
+Soskice, and K˚are Vernby, in addition to the anonymous review- ers and APSR editors. We also thank Rafaela Dancygier and Lane
+Kenworthy for sharing their data. Replication data and do-ﬁle are available on Lupu’s Web site. All unreported empirical analyses are available from the authors on request. factors: electoral rules (Persson, Roland, and Tabellini
+2007; Persson and Tabellini 2003), government parti- sanship (Bradley et al. 2003; Iversen and Soskice 2006), national skill proﬁles (Iversen 2005; Iversen and Sos- kice 2001), racial and ethnic diversity (Alesina and
+Glaeser 2004), and religiosity (Scheve and Stasavage
+2006).
+We build on recent studies that treat racial and ethnic diversity as an obstacle to redistributive politics. The core idea of this literature is that social afﬁnity is a critical determinant of preferences for redistribution; when racial or ethnic minorities comprise a signiﬁcant proportion of the poor, members of the majority group are less likely to support redistributive policies. We argue that social afﬁnity should be conceived more broadly and that the common circumstances and so- cial networks associated with income are important constitutive elements of social afﬁnity, in addition to racial or ethnic group membership. Inspired by Kristov,
+Lindert, and McClelland (1992), this perspective sug- gests that what matters to the politics of redistribution is not the level of inequality, but rather the structure of inequality.1 Assuming that the support of middle- income voters is critical to the implementation of r

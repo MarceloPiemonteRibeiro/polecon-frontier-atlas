@@ -1,0 +1,103 @@
+NBER WORKING PAPER SERIES
+PROSOCIAL SPENDING AND WELL-BEING:
+CROSS-CULTURAL EVIDENCE FOR A PSYCHOLOGICAL UNIVERSAL
+Lara B. Aknin
+Christopher P. Barrington-Leigh
+Elizabeth W. Dunn
+John F. Helliwell
+Robert Biswas-Diener
+Imelda Kemeza
+Paul Nyende
+Claire E. Ashton-James
+Michael I. Norton
+Working Paper 16415 http://www.nber.org/papers/w16415
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+September 2010
+The authors thank Michael Gill, Benjamin Bluman, Anthony Harris, Joe Henrich, Ara Norenzayan, and Jason Riis for their help. The authors are also grateful to the Gallup Corporation for providing access to the Gallup World Poll data. The views expressed herein are those of the authors and do not necessarily reflect the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peer- reviewed or been subject to the review by the NBER Board of Directors that accompanies official
+NBER publications.
+© 2010 by Lara B. Aknin, Christopher P. Barrington-Leigh, Elizabeth W. Dunn, John F. Helliwell,
+Robert Biswas-Diener, Imelda Kemeza, Paul Nyende, Claire E. Ashton-James, and Michael I. Norton.
+All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
+
+Prosocial Spending and Well-Being: Cross-Cultural Evidence for a Psychological Universal
+Lara B. Aknin, Christopher P. Barrington-Leigh, Elizabeth W. Dunn, John F. Helliwell, Robert
+Biswas-Diener, Imelda Kemeza, Paul Nyende, Claire E. Ashton-James, and Michael I. Norton
+NBER Working Paper No. 16415
+September 2010
+JEL No. D60,D64,H3,I38
+ABSTRACT
+This research provides the first support for a possible psychological universal: human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending).
+Analyzing survey data from 136 countries, we show that prosocial spending is consistently associated with greater happiness. To test for causality, we conduct experiments within two very different countries
+(Canada and Uganda) and show that spending money on others has a consistent, causal impact on happiness. In contrast to traditional economic thought—which places self-interest as the guiding principle of human motivation—our findings suggest that the reward experienced from helping others may be deeply ingrained in human nature, emerging in diverse cultural and economic contexts.
+ Lara B. Aknin
+Department of Psychology 
+University of British Columbia
+2136 West Mall
+Vancouver, B.C. V6T 1Z4 
+CANADA laknin@psych.ubc.ca
+Christopher P. Barrington-Leigh
+Canadian Institute for Advanced Research
+ and Department of Economics
+University of British Columbia
+997 - 1873 East Mall
+Vancouver, B.C. V6T 1Z1 
+CANADA cpbl@wellbeing.econ.ubc.ca
+Elizabeth W. Dunn
+Department of Psychology
+University of British Columbia
+2136 West Mall 
+Vancouver, B.C. V6T 1Z4 
+CANADA edunn@psych.ubc.ca
+John F. Helliwell
+Canadian Institute for Advanced Research and Department of Economics
+University of British Columbia
+997-1873 East Mall
+Vancouver B.C. V6T 1Z1 CANADA and NBER john.helliwell@ubc.ca
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Robert Biswas-Diener
+Centre for Applied Positive Psychology
+Sir William Lyons Road
+Coventry CV4 7EZ
+UK jayajedi@comcast.net
+ 
+Imelda Kemeza
+Department of Psychology, Faculty of Science
+Mbarara University of Science and Technology
+P.O. Box 1410
+Mbarara, Uganda imeldakemeza@yahoo.com
+Paul Nyende
+Department of Mental Health
+ and Community Psychology
+Makerere University Institute of Psychology
+P.O.Box 7062
+Kampala, Uganda pgnyende@yahoo.com
+Claire E. Ashton-James
+Department of Psychology
+University of Groningen
+P. O. Box 72, 9700 AB 
+Groningen, Netherlands
+C.E.Ashton-James@rug.nl
+Michael I. Norton
+Marketing Unit
+Harvard Business School
+Boston, MA 02163 mnorton@hbs.edu
+
+1 
+ 
+The countless acts of financial generosity that occur around the world every day—from  donating money to the Red Cross to helping a friend pay for medication—suggest that generosity  is a fundamental feature of human life. Indeed, theorists have argued that the evolution of  altruistic behavior was essential in producing the large-scale social cooperation that allowed  early human groups to thrive (Darwin, 1871/1982; Henrich & Henrich, 2006; Tomasello, 2009; 
+Wilson, 1975). If the capacity for generosity favored survival in our evolutionary past, it is  possible that engaging in generous behavior might produce consistent, positive feelings across  diverse cultural contexts—akin to the pleasurable feelings associated with other adaptive  behaviors such as eating and sexual intercourse. Building on this logic, we suggest that using  financial resources to help others may yield similar emotional benefits across diverse cultural  and socioeconomic contexts, such that deriving happiness from prosocial spending is a  psychological universal. 
+Although generosity can assume many forms, giving to others frequently involves  sacrificing money or time (Liu & Aaker, 2008). We focus our investigation specifically on the  impact of prosocial spending on happiness, which has been posited to lead to a “warm glow” on  the part of givers (Andreoni, 1989; 1990). Providing local evidence for the rewarding property of  financial generosity, research conducted with a sample of over 600 North Americans showed that  devoting more money to prosocial spending (on gifts for others and charitable donations) was  correlated with greater well-being, even when controlling for income. Importantly, this link is  causal: North American students who were randomly assigned to spend a small windfall on  others were significantly happier at the end of the day than those assigned to spend money on  themselves (Dunn, Aknin, & Norton, 2008).  
+
+2 
+ 
+But does this relationship between prosocial spending and happiness extend beyond the 
+North American samples used in this

@@ -1,0 +1,80 @@
+U N I V E R S I T Y O F O X F O R D
+Discussion Papers in
+Economic and Social History
+Number 21, December 1997
+TIME AND WORK IN EIGHTEENTH-CENTURY LONDON
+HANS-JOACHIM VOTH
+
+2
+U N I V E R S I T Y O F O X F O R D
+Discussion Papers in Economic and
+Social History
+1
+Hans-Joachim Voth and Tim Leunig, Did Smallpox Reduce Height? Stature and the Standard of Living in
+London, 1770-1873 (Nov. 1995)
+2
+Liam Brunt, Turning Water into Wine - New Methods of Calculating Farm Output and New Insights into
+Rising Crop Yields during the Agricultural Revolution (Dec. 1995)
+3
+Avner Offer, Between the Gift and the Market: the Economy of Regard (Jan. 1996)
+4 
+Philip Grover, The Stroudwater Canal Company and Its Role in the Mechanisation of the Gloucestershire
+Woollen Industry, 1779-1840 (March 1996)
+5
+Paul A. David, Real Income and Economic Welfare Growth in the Early Republic or, Another Try at
+Getting the American Story Straight (March 1996)
+6
+Hans-Joachim Voth, How Long was the Working Day in London in the 1750s? Evidence from the
+Courtroom (April 1996)
+7
+James Foreman-Peck, ‘Technological Lock-in’ and the Power Source for the Motor Car (May 1996)
+8
+Hans-Joachim Voth, Labour Supply Decisions and Consumer Durables During the Industrial Revolution
+(June 1996)
+9
+Charles Feinstein, Conjectures and Contrivances: Economic Growth and the Standard of living in Britain
+During the Industrial Revolution (July 1996)
+10 Wayne Graham, The Randlord’s Bubble: South African Gold Mines and Stock Market Manipulation
+(August 1996)
+11 Avner Offer, The American Automobile Frenzy of the 1950s (Dec. 1996)
+12 David M. Engstrom, The Economic Determinants of Ethnic Segregation in Post-War Britain (Jan. 1997)
+13 Norbert Paddags, The German Railways - The Economic and Political Feasibility of Fiscal Reforms
+During the Inflation of the Early 1920s (Feb. 1997)
+14 Cristiano A. Ristuccia, 1935 Sanctions against Italy: Would Coal and Crude Oil have made a Difference?
+(March 1997)
+15 Tom Nicholas, Businessmen and Land Purchase in Late Nineteenth Century England (April 1997)
+16 Ed Butchart, Unemployment and Non-Employment in Interwar Britain (May 1997)
+17 Ilana Krausman Ben-Amos. Human Bonding: Parents and their Offspring in Early Modern England (June
+1997)
+18 Dan H. Andersen and Hans-Joachim Voth, The Grapes of War: Neutrality and Mediterranean Shipping under the Danish Flag, 1750-1802 (Sept. 1997)
+19 Liam Brunt, Nature or Nurture? Explaining English Wheat Yields in the Agricultural Revolution (Oct.
+1997)
+20 Paul A. David, Path Dependence and the Quest for Historical Economics: One More Chorus of the Ballad
+Of QWERTY (Nov. 1997)
+21 Hans-Joachim Voth, Time and Work in Eighteenth Century London (Dec. 1997)
+
+3
+TIME AND WORK IN EIGHTEENTH CENTURY LONDON
+HANS-JOACHIM VOTH
+DEPT OF ECONOMICS, STANFORD UNIVERSITY
+ABSTRACT
+Witnesses’ accounts are used to analyse changes in working hours between
+1750 and 1800. Two findings stand out. The paper demonstrates that the information contained in witnesses’ accounts allows us to reconstruct historical time-budgets, and provides extensive tests of the new method. It also emerges that the number of annual working hours changed rapidly between the middle and the end of the eighteenth century. Estimates of labour input are presented. These findings have important implications for the issue of total factor productivity during the Industrial Revolution.
+
+4
+TIME AND WORK IN EIGHTEENTH CENTURY LONDON
+Did England work any harder during the Industrial Revolution? Marx said so, and so did E.P.
+Thompson, but until now, we have no way of knowing. Literary sources are difficult to interpret, wage books are few and hardly representative, and clergymen writing about the idleness of their flock did little to validate their complaints. Instead of using these dubious sources, more than 2,000 men and women from eighteenth century London give evidence in this study. They come from all strata of society and all age groups, and appear as witnesses before the Old Bailey to answer a simple question: ‘What did you do at the time of the crime?’
+Each of them gives their name, profession, and main activity - not just at the time of the crime, but often before and after it as well. At all hours of the day, on all days of the year, these testimonies provide snapshots of everyday life - preserved by the scribes in the Old Bailey courtroom who took down verbatim reports of the proceedings in shorthand.
+Sometime between 1750 and 1800, Londoners began to work longer - much longer.
+Annual working hours increased by at least one fifth. Yet dramatic change proceeded alongside considerable stability. The average working day by the end of the eighteenth century was very similar to the one fifty years earlier; there were simply many more of them. Starting and stopping work, and the time taken for break, barely changed at all. At the same time,
+Monday became a regular day of work, and most of the religious and political holidays that reduced the workyear in 1750 disappeared.
+Some puzzles can be resolved if these findings can stand up to further scrutinity. We can explain why consumption was rising at the same time as real wages were falling - a seeming contradiction recently emphasized by De Vries.1 Output growth during the Industrial
+Revolution was driven more by additional labour than by capital accumulation, and there was no increase in the efficiency with which the economy combined factors of production. Also, it becomes clear at what price Georgian Britain succeeded in feeding its rapidly growing population while, at the same time, it was fighting the wars with France and sustaining industrial development - a very considerable increase in work intensity.
+ 
+1
+De Vries 1993, 1994.
+
+5
+WORKING HOURS DURING THE INDUSTRIAL REVOLUTION
+It is part of conventional wisdom about the Industrial Revolution that workers were toiling longer by 1850 than they had done a century earlier.2 The most prominent statement was made by E.P. Thompson in his path breaking

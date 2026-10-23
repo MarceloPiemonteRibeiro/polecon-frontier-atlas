@@ -1,0 +1,41 @@
+# batch_004 — abstracts
+00113|Theory|Book|Formal theory of preference aggregation: when collective choice rules yield well-defined best alternatives.|M_median~|
+00058|Theory|Theory|Corrects the proof of the swing voter's curse: less-informed indifferent voters should abstain.||
+00471|United States|RCT|Voting induced by mobilization raises turnout in the next election: voting is habit-forming.||
+00980|United States|Struct|A group rule-utilitarian turnout model fits Texas liquor referenda better than expressive voting.||
+00472|United States|RCT|About 60% of a canvassed person's increased propensity to vote passes to the other household member.|M_coord+|
+00974|United States|Lab|Laboratory voters behave as the swing voter's curse predicts, abstaining or compensating partisans.||
+00939|United States|Struct|Momentum in the 2004 primaries gave early-state voters up to five times the influence of late voters.||
+01010|Theory|Theory|Pivotal voters under-experiment with reforms because learning may make them non-pivotal; time-dependent voting rules can restore efficiency.|M_commit+|
+00981|United States|Review|Field experiments on voter mobilization and their limits.||
+00293|Switzerland|Panel|Adopting proportional representation shifted cantonal spending from targetable roads to broad goods (education, welfare) via turnout and left representation.|M_probvote+|
+00938|Japan|Struct|Most Japanese voters are strategic, but few cast misaligned votes; earlier studies conflated the two.||
+00780|Theory|Book|Arrow's impossibility theorem founds social choice theory.||
+01436|Theory|Theory|Single-crossing preferences guarantee a majority-voting equilibrium on one-dimensional choices such as income taxation.|M_median+|
+00686|Cross-country|Book|Electoral laws pose coordination problems for parties and voters, studied with a unified game-theoretic model and constituency data.|M_coord+|
+00888|Theory|Theory|Voters also vote to communicate views for future elections; two-round systems ease that communication.||
+00381|Theory|Book|Comprehensive textbook of public choice: voting, federalism, rent seeking, bureaucracy, interest groups, dictatorship.||
+00979|Italy|RD|Runoff elections produce more candidates but less influence of extremists and less policy volatility than single-round plurality.||
+00380|Theory|Book|Handbook covering rational-choice models of elections, interest groups and rent seeking.||
+00389|Theory|Review|Introduces the rational-choice methodology and core results of public choice.||
+00532|Switzerland|Theory|Majoritarian elections in multi-member districts alongside PR mitigate short-termism and polarization in Swiss politics.||
+00150|United States|DiD|Women's suffrage was followed by immediate rises in local public-health spending and 8–15% lower child mortality from infectious diseases.|M_median+,M_probvote+|F3
+00846|United States|DiD|Strict voter-ID laws had no negative effect on registration or turnout overall or for any group, nor on fraud.||
+00672|United States|Panel|Touch-screen voting correlated with Bush's vote share, but the pattern reflects lower Hispanic turnout, not fraud.||
+00156|Argentina|NatExp|Randomly assigned longer legislative terms raise effort, because returns to effort accrue over several periods.|M_moralhazard~|
+00246|United States|Panel|Re-eligible governors deliver higher growth and lower taxes and spending than term-limited ones (accountability); re-elected incumbents also perform better (competence).|M_moralhazard+,M_selection+|
+00328|Theory|Theory|Elections may work more as selection of good types than as sanctioning devices for poor performance.|M_selection+|
+00579|Theory|Theory|Both uninterested and highly interested voters can make elections poor screening devices, because attention and interest differ.|M_selection~|
+00480|United States|Panel|Term-limited Democratic governors raise taxes and spending, creating fiscal cycles: reputation incentives shape policy.|M_moralhazard+|
+00477|Theory|Theory|With moral hazard and adverse selection, voters use cut-off retention rules; retained agents are positively selected though productivity declines.|M_selection+,M_moralhazard+|
+00896|Theory|Theory|Re-election-seeking executives may pander to popular but wrong policies, or show leadership, depending on competence and voter learning.|M_career+|
+00559|Theory|Review|Surveys theory and evidence on electoral accountability: incentives respond to what outcomes reveal about type.|M_selection+|
+00573|Spain|NatExp|Incumbents gain votes in provinces that win the Christmas lottery: voters reward luck.|M_selection-|F2
+01016|Cross-country|RD|National electoral turnovers improve growth, human development and democracy, partly by reducing corruption.|M_selection+|
+00839|United States|DiD|Hurricane-hit representatives become more supportive of climate legislation, but only in safe seats.|M_career+|
+00872|United States|Panel|Senators who deviate from their state party platform are less likely to run and win, more so where voters are informed.|M_selection+|
+00870|Theory|Review|Canonical political agency model and the issues it raises for accountability.|M_selection+,M_moralhazard+|
+00825|Theory|Review|Repeated elections mitigate commitment problems and yield responsive democracy; term limits weaken responsiveness.|M_moralhazard+|
+01721|Theory|Theory|Term limits can increase voters' bargaining power against strong incumbents and curb rent extraction.|M_moralhazard+|
+00268|Theory|Theory|Candidates trade interest-group-friendly policies for funds to persuade uninformed voters; separation grows with the share of uninformed voters.|M_lobby+|
+00402|Mexico|RCT|Flyers revealing municipal corruption lowered incumbent support but also turnout and challengers' votes, eroding party identification.|M_selection~|F2

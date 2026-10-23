@@ -1,0 +1,286 @@
+# Overrides for works expanded from reference lists (10_expand.py)
+#   W… LEAF                          place on another leaf
+#   W… -                             drop (junk record: a journal name, a physics paper…)
+#   W… > W…|C…                       same work as another expanded work or a syllabus paper (becomes a citation alias)
+#   W… LEAF = Authors|Year|Title     the OpenAlex record is a book review: restore the book itself
+# --- junk records
+W1513281941 -
+W4298863114 -
+W566586761 -
+W4401545442 -
+W4299846046 -
+W4238817359 -
+W4298197486 -
+W4290016560 -
+W4238510172 -
+W4213183334 -
+W2130136629 -
+W3126105906 -
+W2012135746 -
+# --- same as a syllabus paper
+W2324656367 > C00061
+W1989246932 > C00088
+W122421597 > C00088
+W4229737049 > C00403
+W1606964474 > C00982
+W3122295862 > C00543
+W1508296537 > C00542
+W4292229879 > C00542
+W2329780223 > C00158
+W614917022 > C01251
+W2322609866 > C00128
+W153593738 > C00128
+W2108614304 > C00012
+W4236348794 > C00408
+W2053381744 > C01053
+W4244992121 > C01499
+# --- duplicates among expanded works
+W51774562 > W4300957408
+W3151307774 > W4300957408
+W2798823399 > W2135409175
+W4235608110 > W2147264455
+W3149086406 > W2147264455
+W1520386898 > W4293229472
+W1952552476 > W1504854090
+W4247932332 > W2117963689
+W2157979842 > W4300170376
+W2797411123 > W2107992979
+W3121147769 > W4298413470
+W2312441521 > W2066979365
+W2797842723 > W2164540423
+W2031340404 > W4246137507
+W4234963003 > W279215054
+W2802407550 > W279215054
+W1984813221 > W4239062145
+W1511129506 > W2798462310
+W3124921250 > W1970113817
+W1532199276 > W2787428229
+W3122531453 > W2165144879
+W3124658416 > W2138290169
+W2066823663 > W2910573377
+W2118144184 > W2781833702
+W14997025 > W4214662720
+W2012275303 > W2912536286
+W611922404 > W3196446224
+W1854379977 > W4211089644
+W421391543 > W4211113828
+W1533204478 > W4241481346
+W2129030851 > W3122016866
+W3123434520 > W2759432548
+W2264769561 > W4300022765
+W2243220957 > W4300022765
+W110429153 > W2127408858
+W2465170261 > W2240202731
+# --- books that resolved to reviews of them
+W2066979365 A4 = Douglass C. North|1981|Structure and Change in Economic History
+W2324440273 J4 = Donald L. Horowitz|1985|Ethnic Groups in Conflict
+W2164540423 C3 = David R. Mayhew|1974|Congress: The Electoral Connection
+W2078646629 C2 = V. O. Key Jr.|1949|Southern Politics in State and Nation
+W2115074743 C4 = Morris P. Fiorina|1981|Retrospective Voting in American National Elections
+W1648937643 K4 = Gary S. Becker|1957|The Economics of Discrimination
+W1985194351 C1 = Duncan Black|1958|The Theory of Committees and Elections
+W2089314759 H3 = Albert O. Hirschman|1970|Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States
+W2037265139 K1 = Edward C. Banfield|1958|The Moral Basis of a Backward Society
+W2083277050 B1 = Robert A. Dahl|1971|Polyarchy: Participation and Opposition
+W1997729400 A3 = Charles Tilly|1975|The Formation of National States in Western Europe
+W1811781384 K1 = Robert Boyd, Peter J. Richerson|1985|Culture and the Evolutionary Process
+W2020694618 C6 = Edward R. Tufte|1978|Political Control of the Economy
+W2140409505 B1 = Joseph A. Schumpeter|1942|Capitalism, Socialism and Democracy
+W2329648039 C1 = Angus Campbell, Philip E. Converse, Warren E. Miller, Donald E. Stokes|1960|The American Voter
+W2137441478 L2 = Richard F. Fenno Jr.|1978|Home Style: House Members in Their Districts
+W2094647264 L2 = Richard F. Fenno Jr.|1973|Congressmen in Committees
+W2175723801 H3 = Elinor Ostrom|1990|Governing the Commons: The Evolution of Institutions for Collective Action
+W2802402771 A1 = Mahmood Mamdani|1996|Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism
+W2163657079 B1 = Seymour Martin Lipset|1960|Political Man: The Social Bases of Politics
+W2316285971 A1 = George Peter Murdock|1959|Africa: Its Peoples and Their Culture History
+W2566856888 A4 = Oliver E. Williamson|1985|The Economic Institutions of Capitalism
+W2001947080 L4 = Douglas W. Rae|1967|The Political Consequences of Electoral Laws
+W1509161467 L4 = Rein Taagepera, Matthew S. Shugart|1989|Seats and Votes: The Effects and Determinants of Electoral Systems
+W2107992979 A3 = Samuel P. Huntington|1968|Political Order in Changing Societies
+W2018924224 A4 = Raquel Fernandez, Dani Rodrik|1991|Resistance to Reform: Status Quo Bias in the Presence of Individual-Specific Uncertainty
+W562301940 A4 = Elhanan Helpman|2008|Institutions and Economic Performance
+W1715038780 L1 = Simon Kuznets|1955|Economic Growth and Income Inequality
+W2147264455 K1 = Robert D. Putnam|2000|Bowling Alone: The Collapse and Revival of American Community
+W2135409175 K1 = Robert D. Putnam, Robert Leonardi, Raffaella Y. Nanetti|1993|Making Democracy Work: Civic Traditions in Modern Italy
+W1533369859 B1 = Samuel P. Huntington|1991|The Third Wave: Democratization in the Late Twentieth Century
+W1559198035 L3 = Nolan McCarty, Keith T. Poole, Howard Rosenthal|2006|Polarized America: The Dance of Ideology and Unequal Riches
+W2114412976 G3 = James Q. Wilson|1989|Bureaucracy: What Government Agencies Do and Why They Do It
+W2160551229 B1 = Dietrich Rueschemeyer, Evelyne Huber Stephens, John D. Stephens|1992|Capitalist Development and Democracy
+W2773187124 G1 = Joel S. Migdal|1988|Strong Societies and Weak States
+W2124825646 A3 = Margaret Levi|1988|Of Rule and Revenue
+W3124340976 F1 = Edward L. Glaeser, Claudia Goldin|2006|Corruption and Reform: Lessons from America's Economic History
+W3127488876 C1 = Gary W. Cox|1997|Making Votes Count: Strategic Coordination in the World's Electoral Systems
+W4233193703 C3 = Peter C. Ordeshook|1989|Models of Strategic Choice in Politics
+W1992503224 L3 = Gary W. Cox, Mathew D. McCubbins|1993|Legislative Leviathan: Party Government in the House
+W1577916257 A4 = Douglass C. North, John Joseph Wallis, Barry R. Weingast|2009|Violence and Social Orders
+W1564803735 C1 = Norman Schofield, Itai Sened|2006|Multiparty Democracy: Elections and Legislative Politics
+W1509383136 B1 = Guillermo O'Donnell, Philippe C. Schmitter|1986|Transitions from Authoritarian Rule: Tentative Conclusions about Uncertain Democracies
+W2038631063 J6 = Charles Tilly|1978|From Mobilization to Revolution
+W1930813282 C1 = Donald P. Green, Alan S. Gerber|2008|Get Out the Vote: How to Increase Voter Turnout
+# --- methods, data and adjacent economics (hidden branch M)
+W1970448118 M1
+W3123265974 M1
+W2096684396 M1
+W3122958054 M1
+W3122178585 M1
+W1537287213 M1
+W2124758339 M1
+W2134246329 M1
+W2025610165 M1
+W2114242548 M1
+W3121492802 M1
+W2134291350 M1
+W2145411167 M1
+W2323752438 M1
+W2979586175 M1
+W2465587637 M1
+W2100673825 M1
+W2099805722 M1
+W3125333792 M1
+W3124259699 M1
+W2034301206 M1
+W2139122730 M1
+W3113269512 M1
+W3125554979 M1
+W2165144879 M1
+W2138290169 M1
+W2890543633 M1
+W430011393 M1
+W2884548321 M1
+W3122812581 M1
+W2791859701 M1
+W2099304543 M1
+W2083620364 M1
+W2138314996 M1
+W2152414118 M1
+W3112066496 M1
+W1581908573 M1
+W2150924432 M1
+W2866690087 M1
+W1531424399 M1
+W2114389382 M1
+W3125057276 M1
+W2105171386 M1
+W3123071216 M1
+W2162147170 M1
+W2900816330 M1
+W2093265904 M1
+W2136655521 M1
+W1500864630 M1
+W1544556248 M1
+W2147920244 M2
+W2910573377 M2
+W1520082828 M2
+W2023509749 M2
+W2011474190 M2
+W3023875755 M2
+W2099268311 M2
+W2168605160 M2
+W2105717288 M2
+W3121565390 M2
+W2113095718 M2
+W2127238399 M2
+W2120422377 M2
+W2806176719 M2
+W2891485059 M2
+W2753335427 M2
+W1677595927 M3
+W2109183455 M3
+W2024810644 M3
+W2165717995 M3
+W2050904362 M3
+W2115747715 M3
+# --- re-placed on the political-economy tree
+W2041692102 K2
+W2133369488 A2
+W2125353502 B1
+W4300957408 B2
+W4232508652 K2
+W4300170376 I3
+W4293229472 H4
+W2040898367 D5
+W2102461236 H4
+W4298413470 A4
+W2189821821 F3
+W2892074714 A2
+W2048838151 L1
+W2110537446 L4
+W4213034237 E1
+W2076316673 L2
+W2163395908 B1
+W2136753600 I3
+W2892139511 B2
+W2031389476 K2
+W2149899514 L4
+W1525367507 L4
+W3121647034 K3
+W2134472446 F3
+W2164642877 B1
+W2090939951 L3
+W1987936802 H1
+W4211113828 C7
+W2753221422 K1
+W2144188763 I5
+W606783974 J3
+W2030172216 L5
+W2117963689 K1
+W2114078650 H2
+W1575812287 J1
+W2131740028 A5
+W1500355875 D4
+W1524911922 A2
+W2494707969 L4
+W2196552246 A2
+W2014689051 C5
+W2329103711 C4
+W2114378037 K3
+W3213155382 C4
+W2060635194 I2
+W2912536286 G1
+W3025132739 I2
+W1480243676 C4
+W3122769774 K3
+W109341979 L2
+W2169278049 C7
+W1978648732 G6
+W2120012324 K3
+W2891965326 L1
+W2080642065 H2
+W2150796138 C4
+W2095714582 G5
+W279215054 L4
+W1978239295 K3
+W2108355281 C1
+W3122718599 L3
+W2080360912 C7
+W2148662853 A2
+W2798462310 A2
+W1502532850 C3
+W3121797019 C3
+W4240592497 A2
+W3124886457 B2
+W2165274688 F3
+W1993045262 C6
+W2101348935 H2
+W2067591184 L2
+W3125190222 C6
+W3122505971 B1
+W1519984423 F3
+W1993330971 B1
+W1531969211 B4
+W3124257343 B2
+W2407856457 A4
+W2046692734 H1
+W2042233114 D5
+W2113982033 D4
+W2148948369 K2
+W2481123866 I1
+W2147703902 B5
+W2061565725 A3
+W60080681 C3
+W1484474409 A4
+W2036965329 L3
+W1539903039 J6
+W2057659248 K4
+W3025525792 K4
+W1537646239 K2

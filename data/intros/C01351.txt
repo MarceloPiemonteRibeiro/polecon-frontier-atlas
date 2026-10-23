@@ -1,0 +1,38 @@
+Gender gaps favoring males—in education, health, personal autonomy, and more—are systematically larger in poor countries than in rich countries.
+This article explores the root causes of gender inequality in poor countries. Is the higher level of gender inequality explained by underdevelopment itself? Or do the countries that are poor today have certain characteristics and cultural beliefs that lead to the larger gender gaps?
+I begin by documenting some basic facts about how gender inequality correlates with the level of economic development. I then discuss several mechanisms through which the process of economic development theoretically could improve the relative outcomes of women and review recent evidence on these mechanisms.
+I argue that while much of the relationship between development and gender inequality can be explained by the process of development, society-speciﬁc factors are also at play. The countries that are poor today, or at least some of them, have cultural features that exacerbate favoritism toward males. Being poor is insuﬃcient to explain parents’ strong desire to have a son in China and India, for example.
+I then discuss in greater detail the problem of the male-skewed sex ratio at birth, which diﬀers from most other manifestations of gender bias in that it has been intensifying, not lessening, with economic development. Finally, I lay out some policy approaches to accelerate the narrowing of gender gaps.
+Note that the article’s focus is the causes rather than eﬀects of gender inequality, and thus I do not review the literature on the reverse direction of causality, that is, how gender inequality hinders economic development.1
+Nonetheless, much of the discussion hints at ineﬃciencies that result from constricted opportunities for women and girls.
+2
+More gender inequality in poor countries: Some facts
+Poor countries by no means have a monopoly on gender inequality. Men earn more than women in essentially all societies. However, disparities in health, education, and bargaining power within marriage tend to be larger in countries with low GDP per capita.
+1See Duﬂo (2012) on the bidirectional relationship between women’s empowerment and development and
+Doepke et al. (2012) on the link between legal rights for women and development.
+1
+
+2.1
+Education and health
+Figure 1(a) shows the ratio of the male and female college enrollment rates plotted against GDP per capita for the several countries included in the World Bank’s World De- velopment Indicators (WDI) data set. The relationship is downward-sloping: The male bias in college-going falls (and in fact evaporates) as GDP increases. Although the correlation cannot be interpreted as a causal relationship, it is strong: In a univariate regression of the college gender ratio on log GDP per capita, the R2 is 0.44, equivalent to a correlation of 0.66.
+A negative relationship between the schooling gender gap and GDP is also seen for primary and secondary school enrollment. (See Appendix Figure 1, available online. The appendix also describes the data in more detail.)
+As with many of the cross-country patterns I show, the college-GDP relationship mirrors the time-series pattern seen within many countries as their economies grow. The male to female ratio of college enrollment in the United States has declined steadily since 1950, falling below parity by 1980 and continuing to decline since then (Goldin et al., 2006).2
+In Figure 1(a), the data points for China and India are labeled. These two countries are given special attention both because they are large—together they are home to over one third of the world population—and because they are infamous for their strong son preference.
+Interestingly, in terms of school enrollment, neither China nor India is an outlier.
+Turning to health, in general women have a longer life expectancy than men, but this female advantage is somewhat smaller in poor countries, as shown in Figure 1(b).
+The pattern is not explained by the disease composition varying with the level of development; even for a given cause of death, women have higher age-adjusted mortality relative to men in poor countries than in rich ones (Anderson and Ray, 2010). Most sub-Saharan African countries are above the best-ﬁt line in Figure 1(b); the HIV/AIDS epidemic has hit Africa hard and decreased female life expectancy disproportionately.
+2.2
+Employment
+Figure 2(a) plots the ratio of the male and female labor force participation rates versus
+GDP per capita. The correlation is essentially zero. India stands out for the underrepresen- tation of women in the labor force; men are three times as likely as women to be working.
+Female labor force participation is also abnormally low in the Middle East and North Africa.
+2In contrast, secondary school enrollment was higher among females than males in the historical U.S.; the U.S. was exceptional in its mass expansion of secondary school in the early twentieth century (Goldin and Katz, 2009).
+2
+
+Even though actual female labor force participation is not systematically higher in rich countries, attitudes about women in the labor force are more progressive in rich countries.
+Figure 2(b) uses the World Values Survey (WVS), a set of nationally representative surveys
+ﬁelded to both men and women; I use Wave 5, conducted between 2004 and 2009, because
+India has not been surveyed in the more recent Wave 6. One of the survey questions asked respondents if they agree or disagree with the statement, “On the whole, men make better business executives than women do.” The poorer the country, the more frequently respon- dents agreed with the statement. Because these are stated attitudes, one caveat is that the pattern could partly reﬂect a greater degree of political correctness in rich countries.
+2.3
+Gender-based violence
+While there are no reliable data on the incidence of gender-based violence to make cross-country comparisons, attitudes toward gender-based violence vary systematically with econo

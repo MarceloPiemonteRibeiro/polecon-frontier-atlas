@@ -1,0 +1,32 @@
+Understanding what makes government responsive to citizens’ needs is a key issue in political economy.
+It is particularly poignant in low-income countries where, in the absence of market opportunities, vulnerable populations rely on state action for their survival. A key issue is then what institutions — economic, social and political — can be built to enhance the eﬀectiveness of the state in social protection. This paper lays out a framework for thinking about the issues and explores its empirical implications in an Indian context.
+Among other things, the approach highlights the importance of information ßows about policy actions in increasing government responsiveness, particularly the role of mass media in creating an incentive for governments to respond to citizens’ needs.
+There is a large literature that emphasizes why the poor and vulnerable may not obtain the full attention of politicians even in a democracy where they have numerical strength.
+These groups are typically poorly informed and are generally less inclined to vote than richer and better educated citizens. A key question then is what institutions and mechanisms enable vulnerable citizens to have their preferences represented in policy. The approach laid out here does not rely on the vulnerable being in a majority for them to obtain political power. What is key is that they have enough electoral power to “swing” outcomes, otherwise politicians will not have an incentive to be responsive to their demands. However, this is not enough. In order to exercise their electoral power they must also perceive diﬀerences between candidates or parties as regards responsiveness. Mass media can play a key role here by enabling vulnerable citizens to monitor the actions of incumbents. This should give them some sense of about which politicians will protect them in the future and can be used as the basis of their voting decisions. Media development can therefore considerably strengthen incentives for incumbents to build reputations for being responsive as an informed electorate will have much greater power to punish unresponsive candidates than an uninformed electorate. Mass media thus capitalizes upon shared vulnerability among poor voters to ensure that they get receive greater policy attention.
+It has long been recognized that the quality of government policy requires the de- velopment of key institutions. There is long tradition among social thinkers including
+Rousseau, Smith, Hobbes, Locke, Madison, Jeﬀerson and Mill who have argued that press freedom is essential for citizens to make intelligent and well-grounded decisions about public aﬀairs. The idea that a key role of the press is to inform the electorate is central to the political science literature on the role of mass media.1 Emphasis on the role of the media is also in tune with the idea that a strong civil society is an important aspect of economic development. The recent resurgence of interest in political economy, however, has paid little attention to the role of news media in inßuencing policy.2 There is also no Þrm empirical evidence in the literature of a link
+1See, for example, Brians and Wattenberg [1996] and Mondak [1995].
+2Stromberg [2000] being a key exception.
+2
+ between media development and public policy.
+In this paper we develop a model where mass media has a role in providing information that mitigates political agency problems. Having a more informed and politically active electorate strengthens incentives for governments to be responsive to the needs of vulnerable citizens. Using panel data for Indian states over the 1958-1992 period we then demonstrate that there is a robust link between media development and government responsiveness.
+India is an interesting and important context for analyzing the political economy of government responsiveness. First, there are measurable shocks, such as droughts and
+ßoods, which hit vulnerable populations and vary over space and time.
+We exploit this variation in a panel of states between 1958 to 1992 to look at the factors that aﬀect how responsive state governments are to these shocks. Second, state level programs allocate relief to populations that experience shocks. The relief measures we study include public food distribution and calamity relief expenditure. The institutions that administer relief are fairly similar across states — what diﬀers is the political will to exploit them. As India is a federal democracy this allows us to study how political variables aﬀect responsiveness.
+Third, India has a relatively free and independent press among countries at a similar level of economic development. Nonetheless, there are diﬀerences in newspaper circulation across the states.
+This variation will allow us to consider the role of news media in promoting government responsiveness.
+We begin by showing that diﬀerences in government responsiveness are only weakly related to economic development of Indian states.
+However, politics does seem to matter.
+States that have higher historical turnout exhibit greater respon- siveness to droughts and ßoods. We also Þnd that the level of political competition and timing of elections exerts some inßuence on responsiveness.
+Finally we show that newspaper circulation is strongly and positively correlated with government re- sponsiveness.
+Moreover, this comes primarily from publications that are not in the dominant languages — Hindi or English. This is consistent with the idea that regional presses play a key role in forcing state governments to respond to shocks.
+The remainder of the paper is organized as follows.
+The next section lays out a theoretical structure through which to view the results.
+Section three describes the institutional context for the empirical test. Section four describes the data and methodology we employ to test the main ideas behind the model and presents the results. Section Þve concludes.
+3
+
+2
+The Model
+2.1
+The Environment
+There is a continuum of citizens of size

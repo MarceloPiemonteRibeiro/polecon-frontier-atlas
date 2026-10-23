@@ -1,0 +1,41 @@
+# round 3, batch_005
+W1975294907|Italy|Theory|The Sicilian mafia arose selling protection where land was fragmented: each landowner buys protection, deflecting thieves onto others.|M_statecap+|
+W1837699578|Italy|Panel|Mafia emerged in 19th-century Sicilian towns with more sulfur, a resource boom under weak property-rights enforcement.|M_statecap+|
+W2105416454|Theory|Theory|Mass protests inform leaders despite free riding; moderates' participation signals information while extremists act to manipulate.|M_coord+,M_cheaptalk+|
+W2119732780|Cross-country|Panel|Democratic transitions do not worsen growth or instability on average; small, poor countries see growth gains.||
+W1539903039|El Salvador|Book|Peasants backed the insurgency for moral and emotional reasons, not contingent material rewards.|M_collective~,M_culture+|
+W2051733957|Theory|Book|Relative deprivation between expectations and capabilities drives political violence and rebellion.|M_war+|
+W2159363815|Cross-country|Panel|After long civil wars economies recover fast, after short ones they keep declining, through capital flight dynamics.||
+00799|Theory|Review|Culturally transmitted values vary widely and shape cooperation and conflict; reviews their past, present and future.|M_culture+|
+01620||Desc|Mislinked record: a dissertation on web history, not on political economy.||
+01632|Africa|XC|African ethnic groups whose pre-colonial religion featured moralizing gods experience more armed conflict.|M_culture+,M_war+|
+01610|Cross-country|Review|Meta-analysis of 90 cohorts: social isolation and loneliness raise all-cause mortality.||
+01617|Cross-country|Review|Collectivist cultures compete as much as individualist ones, through tacit strategies.|M_culture+|
+01981|Theory|Theory|Asymmetric information and distributional concerns make voters wary of policies others support, producing zero-sum thinking against their own interests.|M_median~,M_culture+|
+W2121005211|Theory|Theory|Identity norms in utility explain discrimination, social exclusion and the household division of labour.|M_culture+|
+W2101736928|Cross-country|XC|Trust and civic norms, not group membership, predict growth and are stronger with equal incomes, constrained executives and homogeneity.|M_culture+,M_diversity+|
+W2090766907|Cross-country|Panel|Inherited trust measured from US immigrants' descendants has a large causal effect on growth.|M_culture+|
+W2753221422|United States|Book|Equality of conditions, civic associations and local self-government sustain American democracy.|M_culture+,M_collective+|
+W2117963689|Cross-country|Survey|A participant civic culture balancing activism and deference supports stable democracy across five nations.|M_culture+|
+W3125145917|Theory|Theory|Rewards cast doubt on motives, crowding out prosocial behaviour; reputational concerns produce multiple norms.|M_culture+|
+W2232877996|Europe; United States|Panel|Southern Europeans' later home-leaving reflects culture: second-generation US immigrants replicate origin patterns.|M_culture+|
+W1559355478|United States|Panel|Second-generation American women's work tracks their ancestral country's female participation and attitudes.|M_culture+|
+W1621619283|Cross-country|IV|Growth rises with religious belief but falls with church attendance.|M_culture+|
+W3123344732|Italy|Panel|High social-capital provinces use more formal finance, especially where legal enforcement is weak; movers carry the effect.|M_culture+|
+W2116245304|Pakistan|NatExp|Hajj lottery winners adopt global Islamic practices, more tolerance across groups and religions, and more favourable views of women.|M_culture+|
+W1992232430|United States|IV|Men whose mothers worked marry working women; WWII mobilization shocks propagated female labour supply across generations.|M_culture+|
+W2168966825|Germany|IV|Protestantism, instrumented by distance to Wittenberg, raised prosperity mainly through literacy, not a work ethic.|M_culture~|
+W2128487291|Cross-country|XC|Trust predicts the performance of large organizations, including government; hierarchical religions lower trust.|M_culture+|
+W4252476561|United States|Lab|Survey trust predicts trustworthiness better than trusting behaviour; social distance and race lower trustworthiness.|M_culture+,M_diversity+|
+W1982593017|Cross-country|Lab|Market integration predicts fairness and community size predicts punishment across 15 small-scale societies.|M_culture+|
+W2041692102|Africa|XC|Ethnic fragmentation explains a large part of Africa's poor policies (schooling, finance, deficits, infrastructure) and slow growth.|M_diversity+|
+W2031389476|Cross-country|XC|Variation in land quality and elevation created location-specific human capital and hence ethnolinguistic diversity.|M_diversity+|
+W2005474264|Theory|Theory|Interethnic peace is sustained by spiral or in-group policing equilibria that contain individual disputes.|M_diversity~,M_coord+|
+W3121757876|United States|Panel|US ghettos arose through whites' collective exclusion and declined after 1970 into decentralized, price-based segregation.|M_diversity+,M_collective+|
+W2148948369|Africa|XC|A measure of politically relevant ethnic groups explains policy-mediated growth effects better than standard fractionalization.|M_diversity+|
+W3121647034|Theory|Theory|Motivated beliefs in a just world sustain low redistribution and high effort equilibria, explaining US–Europe differences.|M_culture+,M_median~|
+W2114378037|Cross-country|Survey|Workers with specific skills demand more social protection as insurance; general-skills workers do not.|M_median~|
+W2120012324|Theory|Theory|Beliefs that effort versus luck drive income are self-fulfilling through tax policy, producing multiple redistributive equilibria.|M_culture+,M_median~|
+W1978239295|Argentina|NatExp|Squatters who received land titles by quasi-random allocation adopted more individualist, market-friendly beliefs.|M_culture+|
+02115|Cross-country|Review|Field experiments show pervasive discrimination; taste-based and statistical models imply very different social costs.|M_diversity+|
+W2034328075|Theory|Book|Prejudice arises from normal categorization and in-group formation; equal-status contact reduces it.|M_diversity+|

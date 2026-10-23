@@ -1,0 +1,41 @@
+# round 2, batch_000 — abstracts
+02294|Cross-country|IV|Islands colonized longer (instrumented by wind patterns) are richer today; post-1700 years and British, French, Dutch or US rule helped most.|M_commit+|
+02494|Senegal; Mali; Benin; Côte d'Ivoire; Guinea; Niger; Burkina Faso; Mauritania|RD|Early colonial investments in French West Africa persistently shape schooling and health, mainly because investment kept flowing to the same places.|M_statecap+|
+01949|Colombia; Costa Rica; El Salvador; Guatemala|Hist|Coffee economies diverged according to land laws chosen under different political competition and elite backgrounds: endowments are not fate.|M_commit+|
+01966|India|IV|Areas under direct British rule have fewer schools, health centres and roads than indirectly ruled princely states.|M_statecap+,M_commit+|
+02292|Benin|NatExp|The first colonial-school students and their descendants had higher living standards and political participation, with village and extended-family externalities.||
+02495|China|DiD|Treaty ports grew faster than their neighbours in open phases, through migration and sectoral growth.||
+02487|Indonesia|RD|Areas near Dutch colonial sugar factories in Java are more industrialized, educated and richer today: extractive economic structures can promote development.|M_commit~|
+02291|DR Congo|RD|Former rubber concessions have worse education, wealth and health and hereditary chiefs who provide fewer public goods, but more trust and sharing norms.|M_commit+,M_culture+|
+02293|Rwanda; Burundi|Survey|Hutu with a family history of forced labour under Tutsi chiefs trust Tutsi less and make fewer interethnic insurance agreements.|M_culture+,M_diversity+|
+02523|United States|Hist|The QWERTY lock-in story is a fable: there is no evidence Dvorak was superior, so the standards market did not fail.|M_coord-|
+02520|Theory|Theory|Conventions emerge from accumulated precedents as a stochastic dynamic process that predicts how they form and are displaced.|M_coord+,M_culture+|
+01964|Brazil|Hist|Brazil grew slowly in 1822–1913; Leff traces the lag to high internal transport costs and an export sector too small to transform the economy.||
+02508|United Kingdom|Hist|Witness accounts show annual working hours in London rose sharply between 1750 and 1800.||
+02519|United States|Struct|Illinois crop-share contracts are far more uniform than fundamentals warrant, forming local patches of custom with abrupt boundaries.|M_culture+,M_coord+|
+02274|Europe|Panel|Atlantic trade strengthened merchants where initial institutions checked the monarchy, inducing property-rights reforms that drove Europe's rise.|M_commit+|
+02498|United Kingdom|Hist|English real wages were trendless before 1800; the productivity break came around 1640, before 1689, and skill premia contradict human-capital accounts.|M_commit~|
+02504|Europe|Hist|The Baconian programme and Enlightenment institutions that expanded useful knowledge made sustained growth possible.|M_culture+|
+02150|Latin America|Hist|Latin America's lag stems from Iberian institutions adapted under imperial weakness; colonial inequality mattered through elite resistance to modernization after independence.|M_commit~|
+02505|Europe|Hist|Open science arose as noble patrons competed for savants under common agency, leaving scientists information rents and autonomy.||
+02491|Cross-country|Review|Economic history underweights developing regions; calls for work on their institutions and path dependence.||
+02507|Cross-country|DiD|The potato's introduction explains about a quarter of Old World population and urbanization growth in 1700–1900.||
+02501|United Kingdom|Text|Old Bailey transcripts show violent and nonviolent trials becoming semantically distinct from the late 18th century, a civilizing process.|M_statecap+,M_culture+|
+02496|United Kingdom|DiD|The US Civil War cotton shock directed British innovation toward Indian cotton, consistent with strong induced bias.||
+02499|Europe|Desc|Seven centuries of GDP data show frequent pre-industrial growth spurts and declines; modern economies grow more often and shrink less.||
+02493|United States|IV|Southern whites in counties with more slaves in 1860 are more Republican and racially resentful today, via post-war reinforcement of racist norms.|M_culture+|
+02497|United Kingdom|Hist|Stolen-watch values in Old Bailey trials show real watch prices fell 1.3% a year from 1685 to 1810.||
+02312|France|NatExp|Towns whose regiments served under Pétain at Verdun diverged politically and supplied 7% more Nazi collaborators per capita under Vichy.|M_culture+,M_coord+|
+01982|Russia; Lithuania; Poland|Hist|East Prussian nationalist-conservative legacies persist in the Russian and Lithuanian partitions, depending on incoming settlers' literacy.|M_culture+|
+02521|Theory|Theory|Unequal, inefficient conventions persist when the subordinate group is large and resists intentionally while the elite is cosmopolitan.|M_culture+,M_coord+|
+00218|China; Japan|Theory|Western threats spurred centralization and modernization in smaller Japan but disintegration in larger China.|M_statecap+|
+01957|Europe|Panel|Absolutist princes stunted European city growth between 1000 and 1800.|M_commit+|
+02347|Mexico; Guatemala|Desc|Sediment records link the Maya collapse to an extended dry period punctuated by multiyear droughts.||
+01961|Spain|Hist|American silver financed absolutist imperial policy and channelled talent into the tax-exempt nobility, locking Spain into decline.|M_commit+|
+01959|Europe|Struct|The Black Death, war and urban disease raised death rates and sustained higher European incomes without technical change.||
+02157|Cross-country|Panel|Primary schooling was centralized by left-liberal governments in democracies or right-wing ones in autocracies; subsidies to religious schools resolved denominational conflict.|M_citizencand+|
+01958|Europe|Review|Political innovations (centralization and limited government) built European state capacity, which drove growth and welfare states.|M_statecap+|
+02161|Europe|XC|Areas sending more Holy Land crusaders saw greater political stability, institutional development and urbanization.|M_statecap+|
+02163|Europe|IV|Urban growth kept small independent states alive; war making did not drive territorial consolidation.|M_statecap~|
+01960|China; Europe|Review|Conflict built representative states in fragmented Europe but entrenched autocracy in centralized China.|M_statecap~|
+02164|Mexico|DiD|Commodity shocks that weakened local elites led to expropriation and lasting state-capacity investment in post-revolutionary Mexico.|M_statecap+|

@@ -1,0 +1,40 @@
+While human well-being is a universal goal of public policy, most metrics used for assessing social progress rely on economic performance [1]. Yet, these metrics fail to capture crucial aspects of social and environmental challenges, such as income inequality, the benefits from informal economic activities or the depletion of natural resources [2, 3]. These omissions can lead to policy choices with unintended negative impacts on people’s welfare and encroachment on planetary boundaries [2–4]. In response to these shortcomings, subjective well-being
+(SWB), sometimes referred to as happiness, has risen as a promising alternative indicator for societal progress that is more closely aligned with the living conditions that matter to people
+[3, 5–7]. The quantification of SWB relies on self-reported assessments, and high levels of
+SWB have been associated with a number of desirable individual and societal outcomes [8, 9].
+Given the rising interest, the literature of SWB has expanded dramatically in recent decades.
+PLOS ONE
+PLOS ONE | https://doi.org/10.1371/journal.pone.0244569
+January 13, 2021
+1 / 15 a1111111111 a1111111111 a1111111111 a1111111111 a1111111111
+OPEN ACCESS
+Citation: Miñarro S, Reyes-Garcı´a V, Aswani S,
+Selim S, Barrington-Leigh CP, Galbraith ED (2021)
+Happy without money: Minimally monetized societies can exhibit high subjective well-being.
+PLoS ONE 16(1): e0244569. https://doi.org/
+10.1371/journal.pone.0244569
+Editor: Abid Hussain, International Centre for
+Integrated Mountain Development (ICIMOD),
+NEPAL
+Received: July 31, 2020
+Accepted: December 13, 2020
+Published: January 13, 2021
+Copyright: © 2021 Miñarro et al. This is an open access article distributed under the terms of the
+Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Data Availability Statement: All relevant data are within the paper and its Supporting Information files.
+Funding: This study was funded by the European
+Research Council (ERC) under the European
+Union’s Horizon 2020 Research and Innovation
+Program (BIGSEA, Grant Agreement No 682602).
+Competing interests: The authors have declared that no competing interests exist.
+
+A wealth of SWB data have been collected from countries across the world [10–12] showing that SWB tends to be quite stable over short periods of time and across regions. Importantly,
+SWB displays reproducible relationships with objective variables that are consistent across cul- tures [13–15], providing clues on how changes in personal, social and environmental circum- stances affect SWB. These factors can then be used to guide policy decisions in order to raise
+SWB. Factors that have been associated with SWB include health, age, fulfillment of basic needs, social support and engagement, good governance, civil status, and income [14, 16].
+Many studies have explored the possible role of monetary income in raising SWB. A consis- tent trend has been noted between SWB and the logarithm of the per capita gross domestic product (GDP) [17], which implies that the strongest effect of income on SWB occurs among low-income countries (Fig 1). Household income has also been correlated with the life satisfac- tion of individuals within communities [6, 17], a finding that has been echoed in some low income, non-Western settings [18]. The income-SWB association is consistent with a priori expectations, given that income in monetized societies provides for essential human needs and access to services and amenities.
+However, there are reasons to question a fundamental role of monetary income in deter- mining SWB. A large body of literature has explored the observation that many countries do not appear to become happier as they grow richer, a finding known as the Easterlin Paradox
+[21]. The Easterlin Paradox throws doubt on the strength of the causal relationship between income and SWB. In addition, most of the work on driving factors of SWB has its origins in
+Western, educated, industrialized, rich and democratic (WEIRD) societies [22], which may not be representative of SWB drivers in other contexts. Furthermore, because income is quan- tified with money-denominated market exchange values, studies of the income-SWB relation- ship necessarily exclude non-monetized, subsistence-based societies.
+While it can be argued that purely non-monetized societies no longer exist, a number of minimally-monetized societies do persist. In such societies people produce enough to satisfy their own needs, with only minor trade or barter for non-essential goods and services [23].
+According to the widespread understanding that income matters more for the SWB of people at low income levels, one would expect that people in minimally-monetized economies would show low SWB. Yet, the fact that happiness is a universal feeling [24, 25] suggests that income may be just a substitute for other sources of happiness, an assumption that is easier to notice in settings where money has little or no use. Here we examine how SWB varies in societies with different degrees of monetization through the use of multiple SWB measures.
+We use three independent measures to assess complementary but distinct psychological dimensions of SWB [26]. The three measures were chosen to control against potential issues with regard to cultural differences in understanding the questions, self-reporting, and inter- viewer bias. The first measure, cognitive life evaluation, is the most widely used aspect of SWB, typically assessed using a single question. This question is phrased in a few different forms, of which we use the Satisfaction with Life question (SWL). Emotional well-being, or affect, refers to the mood resulting from a particular experience and can be considered as the momentary experienced emotional state [27]. The second measure, affect balance, was obtained by asking interviewees what emotions they had experienced throughout the prev

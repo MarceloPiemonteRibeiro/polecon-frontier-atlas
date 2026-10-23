@@ -1,0 +1,41 @@
+# batch_010 — abstracts
+00076|Theory|Theory|With convex lobbying costs or partly public prizes, larger groups can be more effective, overturning Olson's group-size paradox.|M_collective~|
+00396|Theory|Review|Reciprocity, reputation and trust let groups do "better than rational" in social dilemmas; calls for behavioural theories of collective action.|M_collective~,M_culture+|
+00392|Theory|Review|Reviews Olson's collective-action theory: small groups with concentrated interests organize, slowing growth until institutional instability resets them.|M_collective+|F5
+00442|France|RD|Politicians grant more funds to ideologically close associations when the allied incumbent won narrowly: organizations trade votes for funding.|M_collective+,M_clientelism+|
+01059|Theory|Theory|Pressure groups compete for influence; deadweight costs discipline subsidies, so efficient and redistributive views of government coincide.|M_lobby+,M_collective+|
+00401|Cross-country|XC|Countries with heavier regulation of firm entry have more corruption and larger unofficial economies but no better quality: regulation serves tollbooth interests.|M_corruption+,M_lobby+|
+00999|United States|Panel|Counties dominated by large landholders had fewer banks and costlier credit in the early 1900s: elites restrict financial development.|M_commit+|
+00700|India|RCT|Doubling random inspections barely raised compliance; the regulator's own discretionary targeting yields three times more abatement per inspection.|M_bureau+|F6
+00011|United States|IV|Where the press covers representatives less (newspaper-district mismatch), voters know less, representatives work less for constituents and federal spending is lower.|M_media+,M_moralhazard+|F2
+00081|United States|Panel|Counties with more radio listeners received more New Deal relief: informed voters get favourable policy.|M_media+,M_probvote+|
+00163|United States|DiD|An additional newspaper raises turnout ~0.3 points; partisan papers do not shift vote shares.|M_media+|
+00239|United States|RCT|Free Washington Post or Washington Times subscriptions both raised Democratic support, with little effect on knowledge or turnout.|M_media~|
+00420|Cross-country|Review|Survey of media political economy: transparency, capture (plurality protects), coverage and accountability, ideological bias.|M_media+|
+00255|United States|Panel|US disaster relief falls when other newsworthy events crowd out coverage: news coverage drives relief decisions.|M_media+,M_visibility+|F1
+00487|Israel|Panel|Israeli attacks are more likely when US news the next day will be dominated by predictable events: timing to minimize coverage.|M_media+|
+00770|Cross-country|XC|Where government controls more media, citizens are less politically knowledgeable and participate less.|M_media+|
+00438|Italy|IV|BBC radio reception (via sunspots) intensified anti-fascist resistance by coordinating activity.|M_media+,M_coord+|
+01013|Uganda|IV|FM radio messages encouraging LRA defections increased defections and reduced violence.|M_media+,M_war+|
+00079|Theory|Theory|Outlets slant toward readers' priors to build a reputation for quality; independent evidence and competition limit bias.|M_media+|
+00071|United States|Struct|Newspaper slant is driven mostly by readers' preferences for like-minded news, not owners.|M_media+|
+00162|Theory|Theory|With confirmation-seeking readers, competition yields slanting toward common biases and segmented extremes on divisive topics.|M_media+|
+00365|United States|Desc|Citations of think tanks place most US news outlets left of the average member of Congress.|M_media~|
+00364|United States|Desc|US newspapers sit near their state's median voter on average, left on social and right on economic issues.|M_media~|
+00492|United States|Panel|Personal-finance magazines recommend funds of their advertisers more often; newspapers do not.|M_media+|
+00767|United States|Panel|Newspaper endorsements influence voters more when they are surprising given the paper's bias.|M_media+,M_cheaptalk+|
+01064|Theory|Review|Competition among independent outlets disciplines supply-side bias but may not cure demand-side bias.|M_media+|
+00050|United States|DiD|Fox News entry raised Republican presidential vote share 0.4–0.7 points, persuading 3–28% of viewers.|M_media+|
+00021|Russia|NatExp|Access to Russia's only independent TV channel cut the government party's vote 8.9 points and raised opposition votes.|M_media+|
+00107|Theory|Theory|Defines and bounds media power — the ability to sway voters away from unbiased decisions — and estimates it for the US.|M_media+|
+00022|Rwanda|IV|RTLM radio broadcasts caused about 10% of genocide violence, directly and through spillovers to neighbouring villages.|M_media+,M_war+|
+00106|Peru|Desc|Montesinos paid TV owners about 100 times more in bribes than judges or politicians: the media were the strongest check.|M_media+,M_corruption+|
+00247|Cross-country|Review|Survey of empirical persuasion of consumers, voters, donors and investors.|M_media+|
+00080|Germany|DiD|Radio slowed Nazi support under Weimar's pro-government news, then helped Nazis after 1933 and incited antisemitism where predisposition was high.|M_media+,M_culture+|
+00219|Theory|Theory|Governments capture media endogenously; the number and independence of outlets determine accountability.|M_media+|
+00590|United States|Struct|Exogenous cable channel positions show Fox News raises Republican vote shares; model shows media-driven polarization.|M_media+|
+00490|Cross-country|Desc|Most large media firms are owned by governments or families; state ownership goes with less freedom, supporting public-choice theory.|M_media+|
+00493|Argentina|Panel|More government advertising in a newspaper goes with less front-page coverage of government corruption.|M_media+,M_corruption+|
+00256|Italy|DiD|When public TV news shifted right under Berlusconi, viewers switched channels and partly offset the change.|M_media~|
+00274|Croatia|NatExp|Serbian nationalist radio reception in Croatia raised extreme-nationalist votes and anti-Serb graffiti.|M_media+,M_diversity+|
+00362|United States|RD|Party control of state government did not change the partisan composition of the press in 1869–1928, except in the Reconstruction South.|M_media-|

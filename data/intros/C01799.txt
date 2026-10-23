@@ -1,0 +1,30 @@
+In his “The Ballot or the Bullet” speech, Malcolm X stated: “If we don’t cast a ballot, it’s going to end up in a situation where we’re going to have to cast a bullet.
+It’s either a ballot or a bullet.”1 A few years before this speech, Martin Luther King, who is known for his nonviolent activism, declared: “Give us the ballot, and we will transform the salient misdeeds of bloodthirsty mobs into the calculated good deeds of orderly citizens.”2 In the absence of equal voting rights, violence might erupt – as a way to intimidate disenfranchised citizens, as a way for these citizens to express their opinions and as a way to counter this expression. In this context, President Lyndon B. Johnson signed the Voting Rights Act (VRA) on August
+6, 1965, to end discrimination in voting. At the end of the 1960s, political violence, however, remained a major issue in the US.3 This casts doubt upon the eﬀect of the VRA on political violence and raises the following questions: Does enfranchisement temper political violence?
+If enfranchisement does do so, what explains this relationship?
+The eﬀect of enfranchisement on political violence remains to be understood (Blattman and Miguel, 2010; Schwarzmantel, 2010).
+On the one hand, enfranchisement suppresses some motives to use political violence. It directly widens the representation of the public in the voting process, thereby addressing the demands of the newly enfranchised population
+(Acemoglu and Robinson, 2001).
+Enfranchisement also translates into redistributive and growth-enhancing policies (Meltzer and Richard, 1981; Lizzeri and Persico, 2004; Cascio and
+Washington, 2013). As a result, the opportunity cost of political violence is higher, grievances of the newly enfranchised population are lower, and political violence decreases (Collier and
+Rohner, 2008).
+On the other hand, the post-enfranchisement political equilibrium may increase elites’ in- centives to compensate for their loss of power with political violence (Acemoglu and Robinson,
+2008; Larcinese, 2017). The newly enfranchised may also turn violent if they do not reap the beneﬁts they expected from enfranchisement (Finkel et al., 2015). These diﬀerent theories emphasize the incentives to spur or temper violence as a result of changing policies due to enfranchisement (Reynal-Querol, 2002). Considering the diﬀerent mechanisms they present, it remains unclear if enfranchisement reduces or, in fact, increases political violence.
+On top of these indirect eﬀects, enfranchisement also directly changes “opportunity struc- tures” (Gleditsch and Ruggeri, 2010; Chacon et al., 2011). In other words, it might shift the equilibrium from a state in which violence is used to intimidate potential voters and to
+1Quote from Malcolm X speech, “The Ballot or the Bullet,” Cleveland, April 3, 1964.
+2Speech before the Lincoln Memorial at the March on Washington, May 17, 1957.
+3Examples include the Long Hot Summer of 1967, the protests of 1968 and the Martin Luther King assassination riots of 1968.
+2
+ voice preferences to a state in which voting rights are guaranteed, and voting is used to voice preferences. Previous works have developed the concept of such a self-enforcing democracy theoretically but have provided little empirical evidence (Fearon, 2011; Przeworski, 2015).
+Two reasons may clarify this lack of empirical evidence. First, enfranchisement is an endoge- nous process likely caused by violence or by structural changes related to violence (Acemoglu and Robinson, 2001; Lizzeri and Persico, 2004; Aidt and Franck, 2015).
+Second, enfran- chisement often parallels the many reforms inherent to democratic transitions. The eﬀect of enfranchisement has never been isolated from any of these related changes (Reynal-Querol,
+2002; Sunde and Cervellati, 2013). As a result, both a possible causal link running from en- franchisement to a decrease in political violence and the mechanisms behind this association remain unknown.
+This paper devotes particular attention to these two elements. First, it takes advantage of both geographic and time local variation in the re-enfranchisement created by the VRA.
+Therefore, it isolates the eﬀect of this re-enfranchisement on violence from any other parallel phenomenon.4 Second, it uses information on instances of political violence to document a direct eﬀect of enfranchisement on violence.
+Documenting this mechanism empirically complements previous studies focusing on redistribution, welfare or electoral results as trans- mission channels of the eﬀect of enfranchisement on political violence (Besley et al., 2010;
+Rohner and Saia, 2020). In comparison, this study does not infer the motivations and dy- namics of political violence from local economic conditions but directly uses this information from an event-level dataset.
+The VRA forbade discrimination in voting, but all jurisdictions were not equally cov- ered. Covered jurisdictions had to suspend any device limiting registration (Section 4.a of the VRA)5, needed federal preclearance before any change in voting practices (Section 5 of the VRA) and could have federal oﬃcials register voters in their county (Section 6 of the
+VRA). Section 4.b of the VRA set up a detailed coverage formula: Political subdivisions with turnout/registration rates below 50 percent and maintaining a device limiting registration were covered by these special provisions. These criteria created a quasi-random assignment of VRA coverage at the local level.6 Using this local variation, it is possible to neatly assess
+4Black citizens were formally enfranchised by the 15th Amendment at the end of 19th century. Access to voting was later restricted. The VRA forbade these restrictions. For simplicity, I will refer to this re- enfranchisement or de facto enfranchisement as enfranchisement in the rest of the paper.
+5The 1970 amendment of the VRA expanded this provision to the whole country.
+6As a result, some counties having a device limiting voters’ registration but r

@@ -1,0 +1,41 @@
+# batch_013 — abstracts
+01066|United States|Panel|Protest frequency, issue legitimacy and issue competition explain congressional attention (hearings) to rights issues.|M_coord+|
+01069|Cross-country|Panel|Autonomous feminist movements, not left parties or women legislators, explain adoption of policies against violence against women in 70 countries.|M_collective+,M_coord+|
+00629|United States|RD|The George Floyd protests lowered police favourability among liberal, low-prejudice Americans but not conservatives: polarizing rather than mobilizing.|M_coord~|
+01067|United States|DiD|Fourteen recent US protest movements generated online attention but precise null effects on opinion and votes, except Black Lives Matter in 2020.|M_coord-|
+00237|Japan|NatExp|Japanese city sizes recovered fully from WWII bombing: locational fundamentals dominate.||
+00229|Spain|DiD|Basque terrorism cut GDP per capita about 10% relative to a synthetic control; the truce raised Basque-exposed stocks.|M_war+|
+00204|Uganda|NatExp|Abducted child soldiers lost nearly a year of schooling, half of skilled employment and a third of earnings.|M_war+|
+00321|Angola|NatExp|The end of Angola's civil war lowered concession-holding diamond firms' returns: conflict had created entry barriers.|M_war~|
+00358|Cross-country|NatExp|Many conflict onsets significantly move stock markets, exchange rates and commodity prices, often positively.||
+00968|Israel|NatExp|Israeli markets fell after assassinations of senior Palestinian political leaders but rose after those of military leaders.||
+00250|United States|IV|The 1960s riots depressed Black-owned property values with little rebound.||
+01095|Uganda|NatExp|Abduction by rebels increased ex-combatants' voting and community leadership, driven by violence witnessed.|M_war~|
+01006|Cross-country|Panel|Footballers from countries with more civil conflict commit more violent fouls in European leagues.|M_culture+|
+01008|Burundi|Lab|Exposure to conflict violence makes people more altruistic to neighbours, more risk-seeking and more impatient.|M_culture+|
+00618|Cross-country|Review|Exposure to war violence tends to raise local, parochial cooperation and civic engagement.|M_culture+|
+01002|Colombia|Panel|High-powered incentives for military body counts produced "false positives" (civilians killed), more where courts were weak and commanders had career concerns.|M_bureau+,M_career+|F6
+00312|United States|Survey|Voters and politicians differ in universalist versus communal moral values; vote shares reflect moral matching and communal values rose in rural areas.|M_culture+|
+00288|Saudi Arabia|RCT|Saudi men underestimate other men's support for women working; correcting beliefs raised wives' job search and outside work.|M_culture+|
+00544|Ghana; Indonesia|DiD|Pension programs weakened matrilocal and patrilocal co-residence traditions and with them parents' incentive to educate the co-residing child.|M_culture+|
+01020|Pakistan|DiD|After the CIA vaccine ruse and Taliban propaganda, vaccination fell 23–39% in strongly Islamist districts.|M_media+,M_culture+|
+00798|Lesotho|Desc|Livestock in Lesotho is a culturally distinct form of property sustained by contemporary gender, age and patronage relations.|M_culture+|
+00086|Theory|Theory|Parents transmit cooperative values responding to enforcement patterns; weak legal enforcement and uncooperative values can persist together.|M_culture+|
+00161|Indonesia|IV|More TV and radio reception reduced participation in social organizations and trust, without affecting village governance.|M_media+,M_culture+|
+00550|Tanzania; India|Lab|Gender gaps in choosing competition reverse in matrilineal Khasi society relative to patriarchal Maasai.|M_culture+|
+00811|Cross-country|Lab|Prosocial spending increases happiness across rich and poor countries.||
+00634|Cross-country|IV|Descendants of plough-using societies hold less equal gender norms, even among immigrants' children.|M_culture+|
+00813|China|Lab|Rice-farming regions of China are more interdependent and holistic than wheat-farming regions.|M_culture+|
+00091|Cross-country|IV|More individualist cultures innovate and grow more, with two-way causality between culture and institutions.|M_culture+|
+00817|Indonesia; Zambia|DiD|School construction raised girls' schooling only among ethnic groups practising bride price.|M_culture+|
+00583|United States|RCT|Trump's rise increased willingness to express xenophobic views publicly and reduced social sanctions for them.|M_culture+|
+00800|Cross-country|Panel|Populations whose ancestors faced less stable environments value tradition less and show less cultural persistence.|M_culture+|
+00810|Cross-country|Review|Social environment predicts health and survival across humans and other social mammals.||
+00814|United States|Desc|Economic connectedness (low-SES people's share of high-SES friends) is among the strongest predictors of upward mobility.|M_culture+|
+00809|Cross-country|Review|People underestimate how positively recipients respond to prosocial acts, which deters prosociality.||
+00812|United States|DiD|State bans on cousin marriage moved families off farms into cities and better jobs, weakening kin support.|M_culture+|
+00549|Kenya; Uganda|NatExp|Cash transfers spill over within age sets in age-based societies and within kin in kin-based ones; pensions help child nutrition only in kin-based societies.|M_culture+|
+01584|Papua New Guinea|Desc|The Kula ring: ceremonial circulating exchange of valuables in eastern New Guinea.|M_culture+|
+01657|Cross-country|Theory|Argues Western religious attitudes toward nature are a root of the ecological crisis.|M_culture+|
+01579|Theory|Theory|Economic action is embedded in ongoing social relations, neither under- nor over-socialized.|M_culture+|
+00625|Theory|Theory|Culture shapes action as a toolkit of habits and strategies rather than ultimate values.|M_culture+|

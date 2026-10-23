@@ -1,0 +1,83 @@
+Emilie M. Hafner‐Burton, Susan D. Hyde, and 
+Ryan S. Jablonski 
+When do governments resort to election  violence? 
+Article (Accepted version) 
+(Refereed) 
+Original citation: 
+Hafner-Burton, Emilie M., Hyde, Susan D. and Jablonski, Ryan S. (2014) When do governments  resort to election violence? British Journal of Political Science, 44 (1). pp. 149-179. ISSN 1469-
+2112 
+ 
+DOI: 10.1017/S0007123412000671 
+ 
+© 2013 Cambridge University Press 
+ 
+This version available at: http://eprints.lse.ac.uk/53268/ 
+ 
+Available in LSE Research Online: March 2016 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+ 
+This document is the author’s final accepted version of the journal article. There may be  differences between this version and the published version. You are advised to consult the  publisher’s version if you wish to cite from it. 
+ 
+
+ 
+ 
+1 
+ 
+When Do Governments Resort to Election Violence? 
+ 
+ 
+ 
+ 
+Emilie M. Hafner‐Burton 
+Associate Professor 
+School of International Relations and Pacific Studies 
+ University of California, San Diego  ehafner@ucsd.edu 
+ 
+Susan D. Hyde 
+Associate Professor 
+Department of Political Science 
+Yale University  susan.hyde@yale.edu 
+ 
+Ryan S. Jablonski 
+PhD Candidate 
+Department of Political Science 
+University of California, San Diego  rjablonski@ucsd.edu 
+ 
+ 
+ 
+Conditionally accepted at the British Journal of Political Science, author‐final  version: September 6, 2012. 
+ 
+ 
+Abstract: When are governments most likely to use election violence, and what  factors can mitigate government incentives to resort to violence? How do the  dynamics of election violence differ in the pre‐ and post‐election periods? Our  central argument is that an incumbent’s fear of losing power as the result of an  election, as well as institutionalized constraints on the incumbent’s decision‐ making powers, are pivotal in her decision to use election violence. While it may  seem obvious to suggest that incumbents use election violence in an effort to  fend off threats to their power, it is not obvious how to gauge these threats, and a  central purpose of our research is to identify sources of information about the  incumbent’s popularity that can help predict the likelihood of election violence. 
+The observable implications of our argument are tested using newly available  cross‐national evidence on elections, government use of pre‐ and post‐election  violence, and post‐election protests from 1981 to 2004. 
+ 
+ 
+
+ 
+ 
+2 
+When Do Governments Resort to Election Violence?1 
+On paper, Azerbaijan is a multiparty democracy, and has held periodic  multi‐party presidential and parliamentary elections since the country regained  independence in 1991. Despite the nominal existence of democratic institutions,  tactics of electoral manipulation used by the government include overt election  fraud, violence, and intimidation. Opposition supporters, opposition candidates,  and journalists risk torture, arbitrary arrest, and political imprisonment—all  strategies the government uses to “win” elections.2 For example, in the run up to  the 2005 parliamentary elections in Azerbaijan, facing the possibility that the 
+“colour revolutions” of Georgia and Ukraine would spread, the government  arrested journalists and attempted to prevent the opposition from campaigning. 
+The police detained over a thousand activists before the election, and jailed  hundreds without cause.3 After the election, amid accusations of fraud, the  government announced that the ruling party won an overwhelming majority, 
+ 
+1 Support for this research was provided by the Laboratory on International Law and Regulation  at the University of California, San Diego, the Woodrow Wilson School of Public and International 
+Affairs at Princeton University, and the MacMillan Center for International and Area Studies at 
+Yale University. Replication data and Online Appendix are available at http://__________. For  helpful comments, we would like to thank participants at workshops at UCSD, George 
+Washington University, Yale University, and panel participants at the 2010 ISA annual meeting,  as well as Jason Brownlee, Sarah Bush, Gary Cox, David Cingranelli, Daniela Donno, Christian 
+Davenport, Thad Dunning,, Christopher Fariss, Tom Flores, David Lake, Ellen Lust, Irfan 
+Nooruddin, Philip Roeder, Ken Scheve, and Susan Stokes. We also thank Sarah Knoesen and 
+Michael Plouffe for valuable research assistance. Any errors or omissions are our own. 
+2 U.S. Department of State 2006a. 
+3 Osborn 2005. 
+
+ 
+ 
+3  with the next largest opposition coalition winning only eight parliamentary  seats. Reputable international observers, who documented fraud in more than 
+43 per cent of observed precincts, condemned the elections.4 Opposition  supporters began to protest the results, assembling more than 7,000 people. Riot  police and military forces disbursed the protesters using clubs and water  cannons, and several opposition politicians were beaten.5 In the end, despite  international and domestic backlash, the incumbent remained in power.6 
+Government‐sponsored election violence—events in which incumbent  leaders and ruling party agents employ or threaten violence against the political  opposition or potential voters before, during, or after elections—is common. 
+Figure 1 depicts the yearly number of elections in our sample characterized by  pre‐ or post‐election violence from 1960 to 2010. The prevalence of election  v

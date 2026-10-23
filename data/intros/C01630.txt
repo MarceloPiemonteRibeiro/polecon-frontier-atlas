@@ -1,0 +1,31 @@
+It is clear that religion can matter for economic outcomes (Barro and McCleary, 2006, Iyer,
+2016).
+While advances in the past decades have led to a vastly improved understanding of the consequences of religion, our understanding remains limited in two dimensions; namely
+(i) how an individual’s religious beliefs affect how they are treated by others and (ii) the almost exclusive focus on the major world religions, particularly the Abrahamic religions. We aim to make progress by examining the social consequences of holding traditional African religious beliefs in the contemporary Democratic Republic of the Congo (DRC).
+While we have significantly improved our understanding of how religion affects the behaviors of those holding the beliefs,1 we know much less about how a person’s beliefs affect how they are perceived and treated by others. This gap in our understanding stands in contrast to the dominant theoretical framework for thinking about religion in economics – the club goods model
+– which has interpersonal relationships at its core (Iannaccone, 1992). Despite the theoretical link between religious beliefs and the social benefits one receives from others, we have a limited empirical understanding of exactly how a person’s religious beliefs affect how they are perceived and treated by others.
+Within economics, the focus of research has been primarily on either Christianity, Judaism, or Islam, with a smaller literature on Confucianism.2 The study of other traditional religions – notably African traditional religions, the focus of our study – is limited despite their importance in reality. When African religions are considered, they tend to be viewed as different from the
+‘major world religions’ – e.g., Christianity, Judaism, and Islam. This is most clearly indicated by the terminology used when discussing African traditional religions.
+Non-religious terms such as ‘witchcraft,’ ‘sorcery,’ or ‘black magic’ are used to describe the religions, and terms like
+‘enchantment’ and ‘spells’ are used rather than religious terms like ‘prayer’ or ‘blessings.’
+The association of African traditional religions with the devil, and their resulting stigmatiza- tion, is punctuated by the recent and near-universal conversion to Christianity within the parts
+1 See, for example, Barro and McCleary (2003), Gruber and Hungerman (2008), Clingingsmith, Khwaja and Kremer
+(2009), Campante and Yanagizawa-Drott (2015), Fruehwirth, Iyer and Zhang (2019), Bryan, Choi and Karlan (2021).
+2 On Christianity, see Barro and McCleary (2003), Becker and Woessmann (2009), Benjamin, Choi and Fisher (2016),
+Caicedo (2019), Auriol, Lassébie, Panin, Raiber and Seabright (2020), Squicciarini (2020), Bryan et al. (2021), Montero and Yang (2022), Espin-Sanchez, Gil-Guirado and Ryan (2023); on Judaism, see Pascali (2016), Koyama and Johnson
+(2017); on Islam, see Clingingsmith et al. (2009), Campante and Yanagizawa-Drott (2015), Bazzi, Koehler-Derrick and
+Marx (2020), Mehmood, Seror and Chen (2023); and on Confucianism, see Kung and Ma (2014), Chen, Ma and Sinclair
+(2022).
+1
+ of Africa that were not already Islamic. Today, over 97% of the continent’s population report believing in either Islam or Christianity. (The most rapid conversions have been to born-again
+Evangelical denominations, whose teachings recognize traditional religious beliefs and make efforts to condemn and demonize them.)
+Despite this, belief in African traditional religions has not declined and remains fairly stable at well above 50% for most countries in sub-Saharan
+Africa. People often have a dual belief system where they continue to hold traditional religious beliefs and Christian beliefs at the same time.
+It is understandable that traditional religions are not abandoned because doing so would mean casting aside ancestral connections and relinquishing a belief system that forms the foundation of political, social, and cultural life, particularly in rural villages. In addition, research has docu- mented that traditional beliefs have benefits at both the societal and individual levels. Traditional religion has been shown to be an important source of political authority and legitimacy (Lowes,
+Montero, Nunn and Robinson, 2023); to support sustainable resource management (Stoop, Ver- poorten and Deconinck, 2019, Deopa, 2022); to aid collective action (Nunn and Sanchez de la
+Sierra, 2017); and to facilitate entrepreneurship and investment (Butinda, Lameke, Nunn, Posch and Sanchez de la Sierra, 2023).
+Within this context, this study intends to fill an important gap in our understanding of the consequences of traditional religion within a developing country context by studying the social consequences of African traditional religions in the northern DRC. An important motivation for our analysis is accounts of the social stigmatization of African traditional religions despite their importance in daily life. While one can find many sensational examples of traditional beliefs resulting in mistreatment by others, such as the mistreatment of individuals believed to be
+‘witches’ (Owusu, 2020, Miguel, 2005), it is unclear how representative these examples are and whether less-extreme but more-frequent occurrences are common. The aim of our study is to add to our understanding of the social consequences for those who hold African traditional beliefs within sub-Saharan Africa by estimating the effect that holding traditional religious beliefs has on how one is treated and perceived by others.
+Our analysis uses lab-in-the-field experiments implemented in DRC, a country where tra- ditional religious beliefs are commonplace. We randomize the known presence or absence of traditional religious beliefs of the person that a participant is paired with in various experimental tasks. This is done by randomly matching a participant to another player while providing basic
+2
+ information about that other player that would typically be known in day-to-day interactions in the real world. This info

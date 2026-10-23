@@ -1,0 +1,43 @@
+Montagnes, B. Pablo & Wolton, Stephane (2019) Mass purges: top-down accountability in autocracy. American Political Science Review, 113(4), 1045 -
+1059. https://doi.org/10.1017/S0003055419000455 https://researchonline.lse.ac.uk/id/eprint/101131/
+Version: Accepted Version
+This document is the author’s accepted version of the journal article. There may be differences between this version and the published version.
+Items deposited in LSE Research Online are protected by copyright, with all rights reserved unless indicated otherwise. They may be downloaded and/or printed for private study, or other acts as permitted by national copyright laws.
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+Mass Purges: Top-down Accountability in Autocracy
+B. Pablo Montagnes
+Assistant Professor
+Department of Political Science, Emory University
+Email: pablo.montagnes@emory.edu
+Stephane Wolton
+Associate Professor
+Department of Government, London School of Economics
+Email: S.Wolton@lse.ac.uk
+Acknowledgement: We thank Scott Ashworth, Brett Benson, Dan Bernhardt, Alessandra Casella,
+Ali Cirone, Torun Dewan, Tiberiu Dragu, Scott Gehlbach, Thomas Groll, Haifeng Huang, Ken- neth Janda, Navin Kartik, Roger Myerson, Salvatore Nunnari, Carlo Prato, Arturas Rozenas,
+Milan Svolik, Scott Tyson, four anonymous reviewers, the editor and many conference and semi- nar participants for their helpful comments and suggestions. All remaining errors are the authors’ responsibility.
+1
+
+Abstract
+This paper proposes a novel theoretical framework to study the features of mass purges in authoritarian regimes. We contend that mass purges are an instrument of top-down account- ability meant to motivate and screen a multitude of agents (e.g., single-party members, state bureaucrats). We show that the set of purged agents is well delineated in mild purges, whereas no performance indicator is a guarantee of safety in violent purges. The proportion of purged agents is non-monotonic in the intensity of violence. For the autocrat, increasing the intensity of violence always raises performance, but it improves the selection of subordinates only if violence is low to begin with. Hence, even absent de jure checks, the autocrat is de facto constrained by her subordinates’ strategic behavior. We use historical (including the Soviet purges and the Cultural Revolution) and recent (the Erdogan purge) events to illustrate our key theoretical ﬁndings.
+Word count: approx. 11,815 words
+2
+
+Party struggles lend a party strength and vitality; the greatest proof of a party’s weakness is its diﬀuseness and the blurring of clear demarcations; a party becomes stronger by purging itself
+From a letter of Lassalle to Marx, June 24, 1852
+In 1901, when writing his revolutionary agenda What is to be done?, Vladimir Ilyich Ulyanov
+(alias Lenin) chose one particular sentence as an epigraph. This sentence, reproduced above, calls for the use of purges to shape the membership of communist parties. Often repeated (e.g., Josef
+Stalin at the 13th Party Congress), it was used to justify the many purges of rank-and-ﬁle party members experienced by the Communist Party of the Soviet Union (CPSU). Purges were judged so essential to the good functioning of communist parties that they became the thirteenth condition of admission to the Communist International: “[t]he communist parties (...) must from time to time undertake purges (re-registration) of the membership of their party organizations in order to cleanse the party systematically of the petty-bourgeois elements within it.” Far from being limited to the Union of Soviet Socialist Republics (USSR), purges occurred in various forms in Communist
+China, Nazi Germany, Fascist Italy, and other authoritarian or would-be authoritarian regimes
+(e.g., Iraq in 1979, Syria in 1980-84, Turkey in 2016-17).
+What are these purges that Lenin advocates? What is their purpose? What are their common features? This paper contends that these purges are an instrument of ‘top-down accountability,’ a response to the autocrat’s political problem of motivating her agents and selecting the most suitable subordinates within the single party or state bureaucracy. Aﬀecting thousands, if not millions of individuals, these mass purges, furthermore, are a case of many accountable to one.
+This paper provides a theoretical framework to study mass purges, and, by extension, many-to- one accountability problems, when the autocrat can only screen her agents using coarse information
+(e.g., success or failure in meeting a target). Our modeling approach incorporates various motives for the purge—screening opportunists, saboteurs, or opponents—and applies to diverse settings reviewed in the next section.
+As a caveat, however, it does not cover an autocrat’s selection problem when she purges her subordinates based on observable traits such as religion or ethnicity
+(e.g., the Law for the Restoration of the Professional Civil Service passed in 1933 in Germany).
+We focus on three characteristics of purges and study how they correlate with each other.
+First, we consider the intensity of violence, deﬁned as the direct cost of being purged. Second, we look at the link between agents’ performance and their risk of being purged. Third, we analyze the proportion of subordinates purged, referred to as the ‘purge breadth.’ We only ﬁnd a clear
+3
+ relationship between violence and the risk of being purged. For low intensity of violence, the purge solely targets bad performers; for high intensity, under some conditions, no performance indicator is a guarantee of safety. Breadth, in contrast, does not vary monotonically with the intensity of violence.
+We also consider the impact of violence on two key indicators for the autocrat: average perfor- mance of subordinates and the selection of suitable agents. A higher intensit

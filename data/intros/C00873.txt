@@ -1,0 +1,51 @@
+Timothy Besley and Marta Reynal-Querol 
+Do democracies select more educated  leaders? 
+ 
+Article (Published version) 
+(Refereed) 
+ 
+Original citation: 
+Besley, Timothy and Reynal-Querol, Marta (2011) Do democracies select more educated  leaders? American political science review, 105 (03). pp. 552-566. ISSN 1537-5943 
+DOI: 10.1017/S0003055411000281 
+ 
+© 2011 American Political Science Association 
+ 
+This version available at: http://eprints.lse.ac.uk/40799/ 
+Available in LSE Research Online: August 2012 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+
+American Political Science Review
+Vol. 105, No. 3
+August 2011 doi:10.1017/S0003055411000281
+Do Democracies Select More Educated Leaders?
+TIMOTHY BESLEY
+London School of Economics and Political Science
+MARTA REYNAL-QUEROL
+Universitat Pompeu Fabra
+T his paper uses a unique data set on over 1,400 world leaders between 1848 and 2004 to investigate differences in educational qualiﬁcations between leaders who are selected in democracies and autocracies. After including country and year ﬁxed effects, we ﬁnd that democracies are around
+20% more likely to select highly educated leaders. This ﬁnding is robust to a wide range of speciﬁcations, choices of subsamples, controls, and ways of measuring education and democracy.
+T his paper takes a novel perspective on the com- parison of democratic and autocratic systems by looking at the educational attainment of the leaders who are selected. It investigates this using a unique data set that we have assembled on a core sam- ple of 1,468 leaders in 197 countries who held ofﬁce between 1848 and 2004. The paper’s main ﬁnding is that democratic systems are around 20% more likely to select highly educated leaders.
+Figure 1 previews our core ﬁnding by showing the proportion of highly educated leaders (measured by whether the leader has a graduate qualiﬁcation) in the world, beginning in 1874, differentiated by whether a country is classiﬁed as autocratic or democratic accord- ing to the Polity IV data set.1 This ﬁgure shows that the proportion of highly educated leaders is consis- tently higher in democracies than in autocracies over the entire sample period. We will demonstrate in the paper that this ﬁnding is robust to a wide range of empirical methods, speciﬁcations, choices of subsam- ples, controls, and ways of measuring education and democracy.
+The paper contributes to a growing empirical lit- erature on political selection—examining how politi- cal systems determine the characteristics of politicians
+Timothy Besley is Kuwait Professor of Economics and Politi- cal Science, London School of Economics and Political Science; also Program Member, Canadian Institute for Advanced Research
+(CIFAR); Houghton Street, London WC2A 2AE, United Kingdom
+(t.besley@lse.ac.uk).
+Marta Reynal-Querol is ICREA Research Professor of Eco- nomics, Universitat Pompeu Fabra; also, Research Fellow, Cen- tre for Economic Policy Research (CEPR) and Research Afﬁli- ate CESifo; C/ Ramon Trias Fargas 25-27, Barcelona 08005, Spain
+(marta.reynal@upf.edu).
+We are grateful to seminar participants at Oxford and CIFAR,
+UPF, LSE-UCL, the Paris School of Economics, and the Toulouse
+School of Economics for helpful feedback. We are also very grateful to Florencia Abiuso for excellent research assistance and to Anne
+Brockmeyer and Rohini Pande for helpful comments. We thank
+Arnold Ludwig and Gregory Gunthner for generously agreeing to make the data in Ludwig (2002) available to us. Besley is grateful for funding from the ESRC and CIFAR. Reynal-Querol is grateful for funding from the European Research Council under the Eu- ropean Community’s Seventh Framework Programme (FP7/2007-
+2013)/ERC Grant Agreement 203576 and acknowledges the ﬁnan- cial support of Grant SEJ2007-64340 from the Spanish Ministerio de Educaci´on. Reynal-Querol also acknowledges the support of the
+Barcelona GSE Research Network and the Government of Catalo- nia.
+1 We discuss the deﬁnitions of these variables and sources in greater detail later. who are chosen.2 Education is a particularly interest- ing aspect of political selection in view of the strong correlation found between educational attainment and earnings, which is consistent with education either en- hancing skills or signaling ability. Education is also strongly correlated with civic engagement. Education is thus a compelling indicator of a leader’s quality.
+This paper also adds to the large cross-country empir- ical literature comparing democracies and autocracies.
+The focus of that literature has mainly been on whether being a democracy enhances a country’s economic per- formance, particularly growth. Early contributions to the cross-country literature include Przeworski and
+Limongi (1993) and Barro (1996), who conclude that the correlation between democracy and growth is weak and not robust. However, a recent panel data analy- sis by Papaioannou and Siourounis (2008) based on within-country estimates of permanent transitions, i.e., those where democracy is consolidated, ﬁnds that, on average, democratization is associated with a 0.5 to 1 percentage point increase in the annual growth rate.
+This ﬁnding is broadly consistent with Persson and
+Tabellini (2009)’s novel econometric approach, which also ﬁnds support for the proposition that persistent democracy is associated with an improvement in eco- nomic performance. In a similar vein, Aghion, Alesina, and Trebbi (2008) sh

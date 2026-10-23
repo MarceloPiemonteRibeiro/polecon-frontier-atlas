@@ -1,0 +1,43 @@
+NBER WORKING PAPER SERIES
+TOWARDS A POLITICAL THEORY OF THE FIRM
+Luigi Zingales
+Working Paper 23593 http://www.nber.org/papers/w23593
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+July 2017
+I thank Mark Gertler, Gordon Hanson, Enrico Moretti, Tim Taylor for very useful comments and 
+Steve Haber for educating me on the multiple ways in which Google lobbies. Financial support  from the Stigler Center and from the George Rinder Research fund at the University of Chicago  is gratefully acknowledged. The views expressed herein are those of the author and do not  necessarily reflect the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been  peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies  official NBER publications.
+© 2017 by Luigi Zingales. All rights reserved. Short sections of text, not to exceed two  paragraphs, may be quoted without explicit permission provided that full credit, including ©  notice, is given to the source.
+
+Towards a Political Theory of the Firm
+Luigi Zingales
+NBER Working Paper No. 23593
+July 2017
+JEL No. G3
+ABSTRACT
+Neoclassical theory assumes that firms have no power of fiat any different from ordinary market  contracting, thus a fortiori no power to influence the rules of the game. In the real world, firms  have such power. I argue that the more firms have market power, the more they have both the  ability and the need to gain political power. Thus, market concentration can easily lead to a 
+“Medici vicious circle,” where money is used to get political power and political power is used to  make money.
+Luigi Zingales
+Booth School of Business
+The University of Chicago
+5807 S. Woodlawn Avenue
+Chicago, IL 60637 and NBER luigi.zingales@ChicagoBooth.edu
+
+2 
+ 
+ 
+The revenues of large companies often rival those of national governments. In a list combining  both corporation and government revenues for 2015, ten companies appear in the largest 30 entities in the  world: Walmart (#9), State Grid Corporation of China (#15), China National Petroleum (#15), Sinopec 
+Group (#16), Royal Dutch Shell (#18), Exxon Mobil (#21), Volkswagen (#22), Toyota Motor (#23), 
+Apple (#25), and BP (#27) (Global Justice Now 2016). All ten of these companies had annual revenue in  higher than the governments of Switzerland, Norway, and Russia in 2015. Indeed, 69 of the largest 100  corporate and government entities ranked by revenues were corporations. In some cases, these large  corporations had private security forces that rivaled the best secret services, public relations offices that  dwarfed a US presidential campaign headquarters, more lawyers than the US Justice Department, and  enough money to capture (through campaign donations, lobbying, and even explicit bribes) a majority of  the elected representatives. The only powers these large corporations missed were the power to wage war  and the legal power of detaining people, although their political influence was sufficiently large that many  would argue that, at least in certain settings, large corporations can exercise those powers by proxy. 
+Yet in contemporary economics, the commonly prevailing view of the firm ignores all these  elements of politics and power. According to this view, the firm is a simple “nexus of contracts” (Jensen  and Meckling 1976), with no objectives or life separate from those of its contracting parties, a veil or –  better-- a handy tool for individuals to achieve their personal goals. This view might be a reasonable  approximation for small or closely-held private corporations, but certainly it does not accurately describe  the giant global corporations. 
+The largest modern corporations facilitated a massive concentration of economic (and political)  power in the hands of a few people, who are hardly accountable to anyone. 
+ 
+The reason is not simply that many of those giants (like State Grid, China National Petroleum,  and Sinopec) are overseen by a member of the Chinese Communist party. In the United States, hostile  takeovers of large corporations have (unfortunately) all but disappeared, and corporate board members 
+
+3 
+  are accountable to none. Rarely are they not reelected, and even when they do not get a plurality of votes,  they are coopted back to the very same board (Committee on Capital Market Regulation, 2014). The  primary way for board members to lose their jobs is to criticize the incumbent CEO (see the Bob Monks  experience in Tyco described in Zingales, 2012). The only pressure on large US corporations from the  marketplace is exercised by activist investors, who operate under strong political opposition and not  always with the interest all shareholders in mind. 
+In this essay, I will argue that the interaction of concentrated corporate power and politics it a  threat to the functioning of the free market economy and to economic prosperity it can generate, and a  threat to democracy as well. I begin with a discussion of how these concerns were present in Adam 
+Smith’s (1776) work, how they were neutralized in the neoclassical theory of the firm, and then how they  were reborn, at least to a certain extent, in the “incomplete contracts view” of the firm. However, even the  incomplete contracts view is designed for an environment in which the rules of the game are exogenously  specified and enforced. Once we recognize, however, that large firms have considerable power in  influencing the rules of the game, important questions arise: To what extent can the power firms have in  the marketplace be transformed into political power? To what extent can the political power achieved by  firms be used to protect but also enhance the market power firms have? 
+The phenomenon of corporation becoming large enough to influence and in some cases to  dominate politics is not new. In their 1932 classic, The Modern Corporation and Private Property, B

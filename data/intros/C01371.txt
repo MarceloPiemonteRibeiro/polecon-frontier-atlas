@@ -1,0 +1,39 @@
+Naritomi, Joana (2019) Consumers as tax auditors. American Economic Review,
+109(9), 3031 - 3072. https://doi.org/10.1257/aer.20160658 https://researchonline.lse.ac.uk/id/eprint/101538/
+Version: Published Version
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+American Economic Review 2019, 109(9): 3031–3072  https://doi.org/10.1257/aer.20160658
+3031
+Consumers as Tax Auditors†
+By Joana Naritomi*
+To investigate the enforcement value of ­third-party information on  potentially collusive taxpayers, I study an ­anti-tax evasion program  that rewards consumers for ensuring that firms report sales and estab- lishes a verification system to aid ­whistle-blowing consumers in São 
+Paulo, Brazil (Nota Fiscal Paulista). Firms reported sales increased  by at least 21 percent over 4 years. The results are consistent with fixed  costs of concealing collusion, increased detection probability from  whistle-blower threats, and with behavioral biases associated with lot- teries amplifying the enforcement value of the program. Although firms  increased reported expenses, tax revenue net of rewards increased by 
+9.3 percent. (JEL D22, H25, H26, L25, O14, O17)
+Tax revenue as a share of GDP is substantially higher in modern advanced econ- omies than in the early twentieth century or in ­present-day developing countries 
+(Besley and  Persson 2014). A key source of the variation in tax revenue is the  enforcement capacity of governments.1 In particular, a growing literature empha- sizes that information on taxable transactions shared with ­third-parties can be lever- aged by governments to ensure more accurate ­self-reporting,2 and that the increased  availability of ­third-party information trails as countries develop could help explain 
+1 Musgrave (1969) emphasized the historical relevance of tax administration for tax collection. In the policy  debate, tax administration and the enforcement capacity of developing country governments are central issues 
+(Slemrod and Gillitzer 2013, Bird and Gendron 2007, International Monetary Fund 2011).
+2 Audit experiments typically detect near zero evasion in income subject to ­third-party reporting (Kleven  et al. 2011, Pomeranz 2015). For instance, wage earners would face a much higher risk of audit relative to the 
+­self-employed if they ­under-report income, as firms typically also report wages paid to the government (Slemrod 
+2007). More generally, information trails shared with ­third-parties such as employees, suppliers, banks, or custom- ers could have a deterrence effect even if they are not systematically reported to the government. Evidence from 
+* Naritomi: International Development, London School of Economics, Houghton Street, London WC2A 2AE 
+(email: J.Naritomi@lse.ac.uk). Marianne Bertrand was the coeditor for this article. I am very grateful to my advisors 
+Alberto Alesina, Raj Chetty, Michael Kremer, and Andrei Shleifer. I thank Laura Abramovsky, Tim Besley, Michael 
+Best, Ciro Biderman, Raluca Dragusanu, Itzik Fadlon, François Gerard, Nathan Hendren, Nate Hilger, Martin 
+Kanz, Asim Khwaja, Henrik Kleven, Camille Landais, Anders Jensen, Olivia S. Mitchell, Sendhil Mullainathan, 
+Arash Nekoei, Dina Pomeranz, Francisco Queiro, Tristan Reed, Heather Schofield, Edson Severnini, Joel Slemrod, 
+Sandra Sequeira, Ian Tomb, Matthew Weinzierl, and Danny Yagan for invaluable comments and advice. I also thank  seminar and conference participants. I am extremely grateful to Adrea Calabi, André Luis Grotti Clemente, Igor 
+Baremboin, and Euripedes De Oliveira for the opportunity to work with the Department of Finance of Sao Paulo 
+(SEFAZ/SP). I am very thankful to Paulo Yamada and to the SEFAZ/SP staff for outstanding collaboration. I thank 
+Sabrina Naritomi and Tiffany Blackman for legal advice, and SOX Consult for assistance with the Brazilian tax  law. Research support from the Lab for Economic Applications and Policy—LEAP (Harvard University), Lemann 
+Fellowship, Taubman Fellowship (Harvard Kennedy School of Government), David Rockefeller Center for Latin 
+American Studies (Harvard University) is gratefully acknowledged. This work uses anonymized data, and does  not necessarily reflect the views of SEFAZ/SP. The authors declare that they have no relevant or material financial  interests that relate to the research described in this paper.
+† Go to https://doi.org/10.1257/aer.20160658 to visit the article page for additional materials and author  disclosure statement.
+
+3032
+THE AMERICAN ECONOMIC REVIEW
+SEPTEMBER 2019 the dynamics of government revenue among advanced economies during the last  century (Gordon and Li 2009; Kleven, Kreiner, and Saez 2016).
+Despite the empirical literature on the deterrence effect of ­third-party reporting,  there is little direct evidence on whether changes in availability of information trails  can improve compliance and on the mechanisms through which ­third-party reporting  deters evasion, as it hinges on avoiding collusion opportunities among the informed  parties.3 This paper exploits ­quasi-experimental variation and unique administra- tive data on firms and consumers from an ­anti-tax evasion program in São Paulo, 
+Brazil (Nota Fiscal Paulista, or NFP) that created monetary rewards for consumers  to ensure that firms report final sales transactions. The program provides tax rebates  and monthly lottery prizes for consumers who ask for receipts, and establishes a  direct communication channel between the tax authority and consumers through an  online account system, where consumers can verify receipts reported by firms and  can act as ­whistle-blowers by filing complaints.
+The program was designed to address the “last mile” problem of the ­self-enforcing  mechanism of the value added tax (VAT). Along the supply chain, the tax credit  and debit system of the VAT generates

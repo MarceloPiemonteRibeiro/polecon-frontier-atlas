@@ -1,0 +1,44 @@
+Emeriau, Mathilde (2022) Learning to be unbiased: evidence from the French
+Asylum Office. American Journal of Political Science, https://doi.org/10.1111/ajps.12720 https://researchonline.lse.ac.uk/id/eprint/114949/
+Version: Published Version
+Licence: Creative Commons: Attribution 4.0
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+Learning to be Unbiased: Evidence from the French
+Asylum Ofﬁce
+Mathilde Emeriau
+London School of Economics and Political Science
+Abstract: What determines whether some asylum seekers are granted refugee status while others are rejected? I draw upon archival records from a representative sample of 4,141 asylum applications filed in France between 1976 and 2016 to provide new evidence on the determinants of asylum decisions. I find that applicants who are Christian (rather than Muslim) are more likely to be granted refugee status, controlling for all other individual characteristics available to the asylum officers making the decisions. However, linking archival records to detailed administrative data, I also show that bureaucrats at the
+French Asylum Office stop discriminating after about a year on the job. These findings have implications for strategies to curtail discrimination in courtrooms and administrations.
+Verification Materials: The materials required to verify the computational reproducibility of the results, procedures, and analyses in this article are available on the American Journal of Political Science Dataverse within the Harvard
+Dataverse Network, at: https://doi.org/10.7910/DVN/HNVBZG.
+T he arrival of over three million refugees in Europe between 2015 and 20191 triggered an unprece- dented political crisis in the European Union
+(EU). Anti-immigrant parties campaigning on exclu- sionary policies are gaining ground across Europe. Sev- eral European countries reintroduced border controls, leading to the de facto suspension of the open-border
+Schengen area. The conflict among countries over the distribution and processing of the influx of asylum seek- ers is at the root of this crisis. All EU member states are bound by the Convention Relating to the Status of
+Refugees (hereafter the Geneva Convention), but despite decades of efforts to harmonize the European asylum sys- tem, member states continue to handle asylum applica- tions very differently (European Commission, 2016).
+At the center of the asylum process, decision-makers in asylum courts and offices face the difficult task of de- termining whether asylum seekers are providing truthful and substantiated claims of persecution for reasons of
+“race, religion, nationality, membership of a particu- lar group or political opinion.”2 For asylum seekers, these decisions are very consequential: those granted refugee status will be able to stay in Europe, while those who are not have to return to their country of origin.
+However, the subjectivity of the definition of persecution and the possibility that applicants are falsifying claims
+Mathilde Emeriau, Department of Government, London School of Economics and Political Science, Houghton Street, London WC2A
+2AE, UK (m.emeriau@lse.ac.uk).
+I would like to thank Jens Hainmueller, Dominik Hangartner, David Laitin, and Stephane Wolton for their invaluable guidance in design- ing and implementing this study. I am also grateful to Pascal Brice, Aline Angoustures, members of OFPRA’s scientific committee, and the
+French National Archives for granting me access to the archives of the French Asylum Office. Adélaïde Choisnet, Marie Gonzalez, Duncan
+Lawrence, Jean-Paul Levi, and Corinne Pallastrelli provided the technical support that made the data collection possible. Catherine Ander- son, Astrig Atamian, Guillaume Beaud, Diane Belkheraz, Charles Bena, Lucie Benaiteau, Cécile Bénoliel, Sonia Bilon, Lisa Cavalieri, Em- manuel Charreau, Thomas Emeriau, Elyne Etienne, Jeanne Huybrechts, Anna Kauffmann, Shushan Kerovpyan, Maxime Krumholz, Alice
+Ledoux, Marion Lotin, Mathilda Loussert, Charles Maillard, Camille Urvoy, and Alice Zivohlava all provided excellent research assistance.
+This research is based upon work supported by National Science Foundation Grants No. 1624048 and 1627339 (Principal Investigator:
+David D. Laitin) the French National Research Agency (ANR) and the French government under the “Investissements d’Avenir” program
+LABEX LIEPP (ANR-11-LABX-0091, ANR-11-IDEX-0005-02) and the IdEx Université Paris Cité (ANR-18-IDEX-0001), the Stanford
+Immigration Policy Lab, The Europe Center, and the France Stanford Center for Interdisciplinary Research. Kirk Bansak, Sarah Brierley,
+Darin Christensen, Jennifer Cryer, Jane Esberg, Vicky Fouka, Saad Gulzar, Justin Grimmer, Jeremy Weinstein, and Yang-Yang Zhou all provided valuable comments.
+1Eurostat. “Asylum applications (non-EU) in the EU-27 Member States, 2008−2019.”
+2Article 1(A)2 of the Geneva Convention.
+American Journal of Political Science, Vol. 00, No. 00, April 2022, Pp. 1–17
+© 2022 The Authors. American Journal of Political Science published by Wiley Periodicals LLC on behalf of Midwest Political Science
+Association.
+DOI: 10.1111/ajps.12720
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and repro- duction in any medium, provided the original work is properly cited.
+1
+
+2
+MATHILDE EMERIAU gives judges and bureaucrats significant discretion to determine the veracity of their claims. On what basis do asylum officers decide? Is asylum granted based on the credibility of the claims of persecution, or do bureaucrats discriminate in the attribution of refugee status?
+The lack of microlevel data has thus far limited re- searchers’ ability to analyze the determinants of asylum decisions. In this study, I overcome previous data lim- itations by taking advantage of an unprecedented ef

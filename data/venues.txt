@@ -1,0 +1,221 @@
+249
+351	(none)
+213	American Economic Review
+161	The Quarterly Journal of Economics
+160	American Political Science Review
+94	American Journal of Political Science
+92	Journal of Political Economy
+75	The Review of Economic Studies
+64	Journal of Public Economics
+61	Econometrica
+58	Journal of the European Economic Association
+57	National Bureau of Economic Research
+49	Cambridge University Press eBooks
+49	SSRN Electronic Journal
+47	International Organization
+44	The Economic Journal
+43	American Economic Journal Applied Economics
+43	The Journal of Politics
+42	The Journal of Economic Perspectives
+36	Journal of Development Economics
+29	The Review of Economics and Statistics
+26	Annual Review of Political Science
+20	Public Choice
+19	American Economic Journal Economic Policy
+18	Annual Review of Economics
+18	The Journal of Law Economics and Organization
+18	Quarterly Journal of Political Science
+17	Princeton University Press eBooks
+16	The Journal of Law and Economics
+15	World Politics
+15	Science
+14	Journal of Economic Literature
+14	Journal of Economic Growth
+14	Oxford University Press eBooks
+12	International Studies Quarterly
+11	The Journal of Economic History
+11	Journal of Economic Theory
+11	Economics and Politics
+11	Comparative Political Studies
+10	British Journal of Political Science
+9	Proceedings of the National Academy of Sciences
+8	Journal of Peace Research
+8	European Economic Review
+8	Games and Economic Behavior
+8	American Economic Review Insights
+7	Harvard University Press eBooks
+7	American Economic Journal Macroeconomics
+6	Explorations in Economic History
+6	The Journal of Finance
+6	World Bank, Washington, DC eBooks
+6	Electoral Studies
+5	Palgrave Macmillan UK eBooks
+5	Journal of Comparative Economics
+5	The MIT Press eBooks
+5	Journal of Monetary Economics
+5	University of Chicago Press eBooks
+5	Journal of International Economics
+5	American Sociological Review
+5	Choice Reviews Online
+5	Perspectives on Politics
+5	World Development
+5	Medical Entomology and Zoology
+4	Southern Economic Journal
+4	Handbook of development economics
+4	Journal of Economic Behavior & Organization
+4	Journal of Conflict Resolution
+4	Oxford Economic Papers
+4	Economic Theory
+4	Brookings Papers on Economic Activity
+4	Oxford University PressNew York
+4	Evolution and Human Behavior
+4	Political Science Research and Methods
+4	Journal of Financial Economics
+3	Springer eBooks
+3	Scandinavian Journal of Economics
+3	Foreign Affairs
+3	European Journal of Political Economy
+3	The World Bank Research Observer
+3	Journal of Personality and Social Psychology
+3	Legislative Studies Quarterly
+3	AEA Papers and Proceedings
+3	Nature
+3	Economica
+3	University of California Press eBooks
+3	The Bell Journal of Economics
+3	Political Studies
+3	Contemporary Sociology A Journal of Reviews
+3	Stanford University Press eBooks
+3	Cornell University Press eBooks
+3	Psychological Science
+3	PLoS ONE
+3	Management Science
+3	Center for Open Science
+3	The World Bank Economic Review
+3	Digital Access to Scholarship at Harvard (DASH) (Harvard University)
+2	Elsevier eBooks
+2	The Journal of Legal Studies
+2	The B E Journal of Economic Analysis & Policy
+2	Edward Elgar Publishing eBooks
+2	The Journal of Development Studies
+2	Man
+2	Economic Policy
+2	Voprosy Ekonomiki
+2	Review of Financial Studies
+2	American Journal of Sociology
+2	The Annals of the American Academy of Political and Social Science
+2	The RAND Journal of Economics
+2	International Migration Review
+2	Economic Inquiry
+2	Political Analysis
+2	Journal of Economics & Management Strategy
+2	Studies in Comparative International Development
+2	The Review of International Organizations
+2	Columbia University Press eBooks
+2	Behavioral and Brain Sciences
+2	Revista de Historia Económica / Journal of Iberian and Latin American Economic History
+2	Economic History of Developing Regions
+2	Journal of Theoretical Politics
+2	American Economic Journal Microeconomics
+2	Quantitative Economics
+2	Handbook of economic field experiments
+2	The Oxford Handbook of Public Choice, Volume 1
+2	Journal of Institutional Economics
+2	Science Advances
+2	Research on Improving Systems of Education (RISE)
+2	Journal of Political Economy Microeconomics
+2	American Behavioral Scientist
+2	Public Opinion Quarterly
+2	CaltechAUTHORS (California Institute of Technology)
+1	Journal of International Business Policy
+1	BANKPEDIA REVIEW
+1	Past & Present
+1	African Economic History
+1	University of Michigan Press eBooks
+1	British Journal of Sociology
+1	Current Directions in Psychological Science
+1	Journal of the Association of Environmental and Resource Economists
+1	American Anthropologist
+1	The Slavic and East European Journal
+1	Theory and Decision
+1	Asian Survey
+1	Anthropologica
+1	Sociological Forum
+1	The Economic History Review
+1	Ethnohistory
+1	Lynne Rienner Publishers eBooks
+1	The William and Mary Quarterly
+1	Harvard Law Review
+1	Journal of Economic Surveys
+1	Varieties of Capitalism
+1	The Journal of Human Resources
+1	IMF Staff Papers
+1	West European Politics
+1	Business and Politics
+1	Public Finance Review
+1	Oxford University PressOxford
+1	Trends in Cognitive Sciences
+1	European Journal of Sociology
+1	International Tax and Public Finance
+1	Oxford University PressNew York, NY
+1	European Review of Economic History
+1	Studies in choice and welfare
+1	European Journal of Political Research
+1	National Tax Journal
+1	The Journal of Asian Studies
+1	SAGE Publications Ltd eBooks
+1	Rationality and Society
+1	Journal of Econometrics
+1	Annual Review of Sociology
+1	Journal of Latin American Studies
+1	European Union Politics
+1	Capitalism and Society
+1	Cambridge Archaeological Journal
+1	PLoS Medicine
+1	Philosophy &amp Public Affairs
+1	IMF Working Paper
+1	Review of Environmental Economics and Policy
+1	Banco de México
+1	Nature reviews. Neuroscience
+1	Journal of International Money and Finance
+1	Neuroscience & Biobehavioral Reviews
+1	Hau Journal of Ethnographic Theory
+1	European Political Science Review
+1	Handbook of public economics
+1	Journal of Classical Sociology
+1	Critique of Anthropology
+1	Industrial and Labor Relations Review
+1	Ecological Economics
+1	Research in Economics
+1	Studies in political economy
+1	Studies in economic history
+1	Columbia Global Reports
+1	Federal Reserve Bank of Chicago
+1	Quantitative Marketing and Economics
+1	Open Economies Review
+1	Handbook of macroeconomics
+1	Cognition
+1	Journal of Economic Psychology
+1	Review of International Political Economy
+1	Journal for Labour Market Research
+1	The Journal of Economic Inequality
+1	Academy of Management Journal
+1	The Oxford Handbook of Public Choice, Volume 2
+1	Cuadernos de Economía
+1	Journal of Experimental Social Psychology
+1	Fish and Fisheries
+1	Precision manufacturing
+1	Oxford Research Encyclopedia of Politics
+1	Political Behavior
+1	Economic Development and Cultural Change
+1	Combating Inequality
+1	Organization & Environment
+1	Proceedings of the Royal Society B Biological Sciences
+1	WORLD SCIENTIFIC eBooks
+1	Journal of Political Institutions and Political Economy
+1	Public Administration Review
+1	International Monetary Fund (IMF)
+1	Academy of Management Proceedings
+1	Journal of Experimental Psychology General
+1	Representation
+1	Journal of Economic Geography

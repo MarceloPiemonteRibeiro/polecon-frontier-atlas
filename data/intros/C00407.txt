@@ -1,0 +1,45 @@
+1 
+ 
+H i C N 
+Households in Conflict Network 
+The Institute of Development Studies - at the University of Sussex - Falmer - Brighton - BN1 9RE  www.hicn.org 
+ 
+ 
+ 
+The Origins of Violence in Rwanda 
+Leander Heldring* 
+ 
+HiCN Working Paper 299 
+March 2019 
+ 
+Abstract: This paper shows that the intensity of violence in Rwanda’s recent past can be traced  back to the initial establishment of its precolonial state. Villages that were brought under centralized  rule one century earlier experience a doubling of violence during the state-organized 1994 genocide. 
+Instrumental variable estimates exploiting differences in proximity to Nyanza – an early capital –  suggest these effects are causal. In other periods, when the state faced rebel attacks, with longer  state presence, violence is lower. Using data from several sources, including a lab-in-the-field  experiment across an abandoned historical boundary, I show that the effect of the historical state is  primarily sustained by culturally transmitted norms of obedience. The persistent effect of the  precolonial state interacts with government policy: Where the state developed earlier, there is more  violence when the Rwandan government mobilized for mass killing and less violence when the  government pursued peace. 
+ Keywords: Violence, States, Rwanda 
+JEL Codes: D73, D74, H70, N4 
+ 
+ 
+ 
+ 
+Acknowledgement: This paper was previously titled “Violence and the State: Evidence from Rwanda’s ‘Decade of Atrocities”’. I  would like to thank Melissa Dell, James Fenske, Nathan Nunn and James A. Robinson for helpful suggestions and conversations  throughout this project. I would like to thank Daron Acemoglu, Martin Abel, Faisal Ahmed, Robert Allen, Robert Bates, Paul 
+Collier, Simon Franklin, Ed Glaeser, Maximilian Kasy, Akos Lada, Horacio Larreguy, Karlijn Morsink, Suresh Naidu, Jean-Philippe 
+Platteau, Kirsten Pontalti, Simon Quinn, Gautam Rao, Dan Rogger, Valeria Rueda, Andrei Shleifer, Philip Verwimp, Jonathan 
+Weigel and David Yanagizawa-Drott for helpful conversations as well as seminar participants at Bonn, Goettingen, Groningen, 
+Harvard, MIT, Munich, NYU Abu Dhabi, Oxford, Pittsburgh, Tilburg, Utrecht, Warwick, the 2013 CSAE conference, the 2013, 
+2015 NEUDC conference and the 2013 HiCN Annual Workshop for helpful comments. I would like to thank Sophie Mukatizoni, 
+Theogene Nkurunziza, Ömer Özak, Philip Verwimp and David Yanagizawa- Drott for kindly sharing their data. I would also like to  thank Christian Iradukunda, Fidele Munezero, Christophe Ndahimana, Manasse Twagiramungu, Tim van der Maarel as well as  several Rwandan enumerators for excellent research assistance. Funding is gratefully acknowledged from the International Growth 
+Centre, the Economic History Society and the International Peace Research Association Foundation. 
+ 
+* Tilburg University, Department of Economics, Warandelaan 2, 5037 AB Tilburg, The Netherlands and Kensho Technologies, 
+Cambridge, MA, USA; e-mail: l.a.heldring@uvt.nl. Website: www.leanderheldring.com. 
+
+Several recent studies examine the long-run impact of precolonial states in Africa (Gennaioli and
+Rainer, 2007; Michalopoulos and Papaioannou, 2013). The authors ﬁnd that achieving greater bureau- cratic complexity before colonization has a signiﬁcant positive effect on contemporary economic develop- ment despite most precolonial states being absorbed into larger countries during the Scramble for Africa
+(Michalopoulos and Papaioannou, 2016), despite European colonial powers radically changing political institutions (Acemoglu et al., 2001) and despite post-independence governments frequently failing to rep- resent the interests of inhabitants of these former states (Easterly and Levine, 1997). Although the effect of precolonial states on development is arguably causal, previous studies do not focus on identifying exact causal mechanisms.
+In this paper, I use village level data on violence, individual level data on rule following behavior from a lab-in-the-ﬁeld experiment, data on attitudes towards rule following from surveys, and extensive observational data on local government to study the effects of exposure to state institutions. I test the hypothesis that one of the effects of the establishment of a centralized state is the development of norms of obedience to political authority to develop (Putnam et al., 1994; Guiso et al., 2014). Because the precolo- nial Rwandan state was a ‘feudal’ patron-client state, exposure to the state changed social norms about loyalty and obedience towards patrons and - ultimately - the state (Vansina, 2004; Des Forges, 2011). If such norms persist over time, historical differences in their presence or ‘strength’ may be measurable to- day.1
+Rwanda is an attractive laboratory for studying the impact of the state for three main reasons. First,
+I can exploit the fact that the precolonial Rwandan state - the Nyiginya kingdom - expanded slowly between 1700 and colonization in 1897, introducing local variation in exposure to the state.2 Second,
+Rwanda is the only African country whose current borders are largely coincidental with the borders of its
+(only) precolonial state. This fact allows me to study the Rwandan precolonial state in isolation. Third,
+Rwanda’s recent history provides an elegant natural experiment to test the idea that the historical state affects norms of obedience to authority today. Between 1990 and 1993, the Rwandan government fought
+1I understand a ‘norm’ in this paper as a belief about the ‘right’ course of action. Norms may optimally arise as a heuristic for decision making when information processing is costly (see the evidence summarized in Nunn (2012)).
+2The focus in this paper is therefore on the intensive margin of the presence of the state, comparing villages in precolonial districts that were incorporated earlier to those incorporated later. Because the authority of the state at a local level takes time to form, I expect the effect of state on rule followin

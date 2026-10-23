@@ -1,0 +1,40 @@
+Collective Action and Representation in Autocracies:
+Evidence from Russia’s Great Reforms∗
+Paul Castañeda Dower
+University of Wisconsin-Madison
+Evgeny Finkel
+George Washington University
+Scott Gehlbach
+University of Wisconsin–Madison
+Steven Nafziger
+Williams College
+September 6, 2017
+Abstract
+We explore the relationship between capacity for collective action and representation in autocracies with data from Imperial Russia. Our primary empirical exercise relates peasant representation in new institutions of local self-government to the frequency of peasant unrest in the decade prior to reform. To correct for measurement error in the unrest data and other sources of endogeneity, we exploit idiosyncratic variation in two determinants of peasant unrest: the historical incidence of serfdom and religious polarization. We ﬁnd that peasants were granted less representation in districts with more frequent unrest in preceding years—a relationship consistent with the Acemoglu-
+Robinson model of political transitions and inconsistent with numerous other theories of institutional change.
+At the same time, we observe patterns of redistribution in subsequent years that are inconsistent with the commitment mechanism central to the
+Acemoglu-Robinson model. Building on these results, we discuss possible directions for future theoretical work.
+Forthcoming, American Political Science Review
+∗Dower acknowledges the support of the Ministry of Education and Science of the Russian Federation,
+Grant No. 14.U04.31.0002. Gehlbach acknowledges the ﬁnancial support of the Graduate School and the
+Oﬃce of the Vice Chancellor for Research and Graduate Education at UW Madison. For helpful comments, we thank Ingo Rohlﬁng and three anonymous referees, Onur Bakiner, Chris Carter, Jasper Cooper, Oeindrila
+Dube, Jon Eguia, Calvin Garner, Gunes Gokmen, Dmitrii Kofanov, Andrei Markevich, Marc Meredith, Jack
+Paine, Bob Powell, John Reuter, Jim Robinson, Bryn Rosenfeld, Jason Seawright, Emily Sellars, Georgiy
+Syunyaev, Henry Thomson, Christian Welzel, Galina Zudenkova, participants in seminars at Columbia,
+Emory, Harvard, the Higher School of Economics, LSE, the New Economic School, Penn, Penn State,
+Rochester, the Ronald Coase Institute Workshop on Institutional Analysis in Tallinn, UC Berkeley, UC
+Irvine, Washington, Washington University, Williams, Wisconsin, and the annual meetings of the Association for Slavic, East European, and Eurasian Studies, the Economic History Association, the Midwest Political
+Science Association, and the Society for Institutional and Organizational Economics.
+
+When do autocratic elites transfer power to excluded groups?
+Numerous theories of regime change and liberalization suggest that representation is granted in response to fears of social unrest. Yet among such theories, there is disagreement as to whether the ability to produce such unrest—the disenfranchised group’s capacity for collective action—is more or less likely to produce institutional change.
+The predominant view in the literature, expressed in various contributions that we dis- cuss below, is that regime change and liberalization are more likely when excluded groups
+ﬁnd it easier to overcome their collective-action problems. Intuitively, autocratic elites are vulnerable to social disturbances, so frequent unrest that poses a threat to regime stability should encourage institutional change. Yet in a series of inﬂuential contributions, Acemoglu and Robinson (2000, 2001, 2006) argue precisely the opposite. In their theory, representa- tion (democratization) is a commitment mechanism that is exploited only when the elite is otherwise unable to credibly commit to future redistribution—that is, when the majority poses an infrequent threat of unrest.
+Existing empirical work on regime change does little to adjudicate this debate. To the extent that such work examines the relationship between unrest and representation, it typi- cally focuses on whether democratization and other forms of regime change are more likely during periods of popular mobilization (Przeworski 2009; Aidt and Jensen 2010; Aidt and
+Franck 2015; Aidt and Leon 2016) or in the presence of adverse economic shocks (Brückner and Ciccone 2011).1 Yet if liberalization is more likely during such periods, so are redistri- bution, repression, and various other regime responses. The pertinent question is whether,
+1Although economic shocks may heighten distributive conﬂict, thus promoting unrest, many regime transitions are driven by non-distributive concerns (Haggard and Kaufman
+2012; see Dorsch et al. 2015 and Dorsch and Maarek 2015 for models of unrest driven by distortionary regulatory policy). The research design that we describe below considers unrest motivated by a variety of grievances. For related work on the eﬀect of reform on rebellion, rather than vice versa, see Alston, Libecap, and Mueller (1999) and Albertus (2015).
+1
+ at such moments, representation is more or less likely to be granted when an excluded group poses a more constant threat of unrest.2 Answering this question requires that we have data on unrest before, not just when, institutional change occurs.
+In this paper, we exploit unique data and a novel empirical setting to explore the rela- tionship between capacity for collective action and representation in autocracies. We focus on Russia during the period of the Great Reforms under Tsar Alexander II—an era in which the autocratic state emancipated the serfs and devolved substantial authority to previously excluded actors.3 Key among these reforms was the creation (over most of European Rus- sia) in 1864 of the zemstvo, an institution of local self-government with the authority to assess taxes and allocate revenues to local public goods, including healthcare and education.
+This authority was exercised by an elected assembly, with statutory allotments of seats for the gentry, urban property owners, and peasantry that varied greatly across 365 districts in which

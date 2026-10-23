@@ -1,0 +1,74 @@
+9487 
+2021 
+December 2021 
+ 
+Does Identity Affect Labor 
+Supply? 
+Suanna Oh 
+
+Impressum: 
+ 
+CESifo Working Papers 
+ISSN 2364-1428 (electronic version) 
+Publisher and distributor: Munich Society for the Promotion of Economic Research - CESifo 
+GmbH 
+The international platform of Ludwigs-Maximilians University’s Center for Economic Studies  and the ifo Institute 
+Poschingerstr. 5, 81679 Munich, Germany 
+Telephone +49 (0)89 2180-2740, Telefax +49 (0)89 2180-17845, email office@cesifo.de 
+Editor: Clemens Fuest  https://www.cesifo.org/en/wp 
+An electronic version of the paper may be downloaded 
+· from the SSRN website:  www.SSRN.com 
+· from the RePEc website:  www.RePEc.org 
+· from the CESifo website:  https://www.cesifo.org/en/wp 
+
+CESifo Working Paper No. 9487 
+ 
+ 
+ 
+Does Identity Affect Labor Supply? 
+ 
+ 
+Abstract 
+ 
+Does identity influence economic behavior in the labor market? I investigate this question in rural 
+India, focusing on the effect of caste identity on job-specific labor supply. In a field experiment,  laborers choose whether to take up various job offers, which differ in associations with specific  castes. Workers are less willing to accept offers that are linked to castes other than their own,  especially when those castes rank lower in the social hierarchy. Workers forego large payments  to avoid job offers that conflict with their caste identity, regardless of whether these decisions are  made in private. 
+JEL-Codes: D910, J240, O100. 
+Keywords: identity, labor supply, caste, occupational choice. 
+ 
+ 
+ 
+Suanna Oh 
+Paris School of Economics 
+48 boulevard Jourdan 
+France – 75014 Paris  suanna.oh@psemail.eu 
+ 
+ 
+ 
+ 
+ 
+ 
+December 14, 2021 
+I gratefully acknowledge guidance and support from Eric Verhoogen, Supreet Kaur, Jonas Hjort, 
+Jack Willis, and Suresh Naidu. I thank Michael Best, Leonardo Bursztyn, Ernesto Dal Bó, Stefano 
+DellaVigna, Alejandro Favela Nava, Evan Friedman, Florian Grosset, Simon Haenni, Seema 
+Jayachandran, Yoon Jo, Matt Lowe, Karen Macours, Edward Miguel, Cristian Pop-Eleches, 
+Martin Rotemberg, Yogita Shamdasani, Rodrigo Soares, Mahesh Srinivasan, Christopher 
+Walters, David Yanagizawa-Drott, Yue Yu, and various seminar participants for helpful  comments. Sneha Subramanian, Manvi Govil, Arnesh Chowdhury, and Santosh Kumar Sahoo  provided excellent research assistance. I am grateful to the Center for Development Economics  and Policy, the Program for Economic Research at Columbia University, and the National Science 
+Foundation (SES-1919139) for generous funding, and to J-PAL South Asia and IFMR for  operational support. This research was reviewed by the Columbia University IRB and the IFMR 
+Human Subjects Committee. The experiment was registered on the AEA RCT registry, ref. 
+AEARCTR-0003493. All errors are my own. I declare that I have no relevant or material financial  interests that relate to the research described in this paper. 
+
+Identity refers to individuals’ concepts of “who they are.” These concepts are typ- ically oriented around social categories (e.g. woman, parent, worker), which people use to process and organize information about the world. The social categories may be associated with behavioral prescriptions, dictating how the members of the social category ought to think and act. Violating such prescriptions could lead to emotional or psychological costs (Akerlof and Kranton 2000). This way, concerns about protect- ing identity may compel someone to follow her internal rules of behavior, even when no one can observe her or when it is economically costly to do so. A nascent literature in economics, as well as long-standing ones in other social sciences, investigates how identity concerns inﬂuence individual behavior as well as market outcomes.1
+Theories of identity postulate that in the labor market, people may avoid otherwise desirable job opportunities which conﬂict with their identity.2
+If people failed to pursue certain careers despite their potential aptitude due to concerns about identity, it would result in ineﬃcient allocation of talent in the economy (Hsieh et al. 2019;
+Cassan, Keniston, and Kleineberg (2021). Furthermore, identity-based occupational preferences could interact with other channels of misallocation, such as discrimination, with ampliﬁed consequences for occupational distribution and aggregate productivity.
+However, there exists limited empirical evidence on the extent to which—and how—identity concerns aﬀect how people choose jobs. A social group that dislikes some occupations tends to diﬀer from other groups along many dimensions, such as training and outside options. Moreover, engaging in certain jobs could inﬂuence how others perceive the group, i.e. social image, in addition to any internal feelings. For these reasons, it is challenging to establish the eﬀect of identity using observational or survey data alone. Isolating the impact using an experiment is also complicated, because it is diﬃcult for researchers to randomly assign deeply-ingrained identities or radically alter existing perceptions about occupations.
+I address these challenges by drawing on unique features of the Indian caste system and provide the ﬁrst experimental test of how identity aﬀects job-speciﬁc labor supply.
+Casual daily-wage laborers in rural Odisha, India, evaluate various real job oﬀers,
+1For overviews of identity theories from social psychology, see Stryker ([1982] 2002), Burke and
+Stets (2009), and Stets and Serpe (2013). For reviews in economics, see Hoﬀand Stiglitz (2016) and
+Shayo (2020).
+2For inﬂuential early theories on the links between self-concept, occupational images and prefer- ences, see Super et al. (1963) and Gottfredson (1981). For more recent reviews, see Skorikov and
+Vondracek (2011) and Patton and McMahon (2014).
+1
+ which diﬀer in caste associations. I show that workers are less willing to take up oﬀers that are linked to castes other than their own, especially when those caste rank lower in the social hierarchy

@@ -1,0 +1,496 @@
+W1970448118 A1 68 arti Conley 1999 | GMM estimation with cross sectional dependence | A1,K1,I3
+W2041692102 K2 63 arti Easterly +1 1997 | Africa's Growth Tragedy: Policies and Ethnic Divisions | K2,A1,J2
+W1513281941 K1 55 arti Filders 1992 | American economic review | K1,L1,A2
+W3123265974 D1 51 arti McCrary 2007 | Manipulation of the running variable in the regression discontinuity design: A densit | D1,C6,C1
+W4298863114 J7 49 arti ? 2012 | The American Economic Review | J7,K1,I3
+W2133369488 A1 47 arti Porta 1999 | The quality of government | A1,A4,F1
+W1535643370 B4 47 book Mesquita +3 2003 | The Logic of Political Survival | B4,B3,L6
+W3122705141 A4 46 arti Hall +1 1999 | Why do Some Countries Produce So Much More Output Per Worker than Others? | A4,A1,G1
+W2096684396 C1 44 arti Bertrand +2 2004 | How Much Should We Trust Differences-In-Differences Estimates? | C1,L6,C2
+W3122958054 C1 43 arti Imbens +1 2007 | Regression discontinuity designs: A guide to practice | C1,D1,D2
+W2147920244 G5 43 arti Kling +2 2007 | Experimental Analysis of Neighborhood Effects | G5,K1,E4
+W3122178585 B4 41 arti Cameron +2 2008 | Bootstrap-Based Improvements for Inference with Clustered Errors | B4,J5,I3
+W1537287213 C1 41 arti Calónico +2 2014 | Robust Nonparametric Confidence Intervals for Regression-Discontinuity Designs | C1,H2,L3
+W2125353502 B2 39 arti Lipset 1959 | Some Social Requisites of Democracy: Economic Development and Political Legitimacy | B2,B1,K1
+W2124758339 L6 38 prep Wooldridge 2001 | Econometric Analysis of Cross Section and Panel Data | L6,A1,J2
+W4244992121 F1 37 arti Shleifer +1 1993 | Corruption | F1,G3,F3
+W2100673825 I3 37 arti Altonji +2 2005 | Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Cathol | I3,A1,I4
+W566586761 C1 36 arti Duflo 2019 | American Economic Review | C1,A2,C3
+W2165166613 C6 34 arti Cox +1 1986 | Electoral Politics as a Redistributive Game | C6,E1,C5
+W1580899010 L3 34 book Poole +1 2000 | Congress: A Political-Economic History of Roll Call Voting | L3,H2,C3
+W2066979365 A4 34 arti George +1 1983 | Structure and Change in Economic History | A4,B4,K1
+W4300957408 B3 33 book Przeworski +3 2000 | Democracy and Development | B3,B2,L6
+W3121147769 A4 32 arti Munger +1 1991 | Institutions, Institutional Change and Economic Performance | A4,A2,L6
+W2154831215 C6 32 repo Rogoff 1987 | Equilibrium Political Budget Cycles | C6,C3,C5
+W2134246329 B2 31 arti Nickell 1981 | Biases in Dynamic Models with Fixed Effects | B2,C6,L6
+W2189821821 F1 31 arti Becker 1968 | Crime and Punishment: An Economic Approach | F1,J2,G2
+W2025610165 C6 30 arti Arellano +1 1991 | Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application t | C6,B2,L4
+W4232508652 A1 30 arti Alesina +4 2003 | Fractionalization | A1,J4,C7
+W2010235856 A4 29 arti Knack +1 1995 | INSTITUTIONS AND ECONOMIC PERFORMANCE: CROSS‐COUNTRY TESTS USING ALTERNATIVE INSTITUT | A4,A1,L6
+W2121005211 K1 29 arti Akerlof +1 2000 | Economics and Identity* | K1,K4,B5
+W4300170376 H2 28 book Zaller 1992 | The Nature and Origins of Mass Opinion | H2,C4,I4
+W2114242548 D1 27 arti Hahn +2 2001 | Identification and Estimation of Treatment Effects with a Regression-Discontinuity De | D1,C1,L3
+W3121492802 L3 27 arti Lee +1 2010 | Regression Discontinuity Designs in Economics | L3,E2,H2
+W2134291350 A1 27 arti Cameron +2 2011 | Robust Inference With Multiway Clustering | A1,J5,K1
+W2324656367 H1 27 arti Sufrin +1 1966 | The Logic of Collective Action: Public Goods and the Theory of Groups. | H1,L1,J6
+W4401545442 I3 26 book Kuznets 2024 | The Quarterly Journal of Economics | I3,C1,F1
+W1537646239 J4 26 arti Fearon 2003 | Ethnic and Cultural Diversity by Country* | J4,A1,K1
+W2324440273 J4 26 arti Kuper +1 1986 | Ethnic Groups in Conflict. | J4,C7,K2
+W2465587637 K1 26 arti Oster 2016 | Unobservable Selection and Coefficient Stability: Theory and Evidence | K1,B4,I4
+W2024358613 F1 25 arti Reinikka +1 2005 | Fighting Corruption to Improve Schooling: Evidence from a Newspaper Campaign in Ugand | F1,C4,G5
+W2164540423 L2 25 arti Page 1975 | Congress: The Electoral Connection, by David R. Mayhew | L2,C3,C5
+W4293229472 H1 25 arti Stigler 1971 | The Theory of Economic Regulation | H1,H4,G3
+W2040898367 L3 25 arti Wittman 1983 | Candidate Motivation: A Synthesis of Alternative Theories | L3,L1,C3
+W1978796178 L1 25 arti Cameron 1978 | The Expansion of the Public Economy: A Comparative Analysis | L1,K5,L4
+W2102461236 L2 25 arti Peltzman 1976 | Toward a More General Theory of Regulation | L2,H4,L4
+W2108548811 G3 25 arti Holmstrom 1999 | Managerial Incentive Problems: A Dynamic Perspective | G3,B4,F1
+W4298413470 A4 25 book North 1990 | Institutions, Institutional Change and Economic Performance | A4,L6,A3
+W1989246932 G1 24 arti Gerhart +1 2001 | States and Power in Africa: Comparative Lessons in Authority and Control | G1,A1,C7
+W2147264455 K1 24 book ? 2000 | Bowling alone: the collapse and revival of American community | K1,I1,C1
+W3126105906 J4 24 prep Al +42 1997 | Measurement of τ polarization | J4,J2,K2
+W1520386898 H4 24 book Stigler 2021 | The Theory of Economic Regulation | H4,L2,J5
+W2068869385 J1 24 arti Schelling 1960 | The Strategy of Conflict | J1,L6,A2
+W2107992979 F1 24 arti Huntington 1970 | Political Order in Changing Societies | F1,E1,F3
+W2892074714 K1 24 arti Guiso +2 2008 | LONG-TERM PERSISTENCE | K1,A1,A2
+W2145411167 C1 23 arti Imbens +1 2011 | Optimal Bandwidth Choice for the Regression Discontinuity Estimator | C1,C6,J5
+W3021199726 B2 23 arti Persson +1 2009 | Democratic Capital: The Nexus of Political and Economic Change | B2,B5,A4
+W2099805722 J6 23 arti Anderson 2008 | Multiple Inference and Gender Differences in the Effects of Early Intervention: A Ree | J6,I4,G3
+W4229737049 A1 23 book Angrist +1 2008 | Mostly Harmless Econometrics | A1,J2,J5
+W2009710863 C4 23 arti Chong +3 2014 | Does Corruption Information Inspire the Fight or Quash the Hope? A Field Experiment i | C4,C5,I4
+W2044948141 C6 22 arti Nordhaus 1975 | The Political Business Cycle | C6,C3,L6
+W2101736928 K1 22 arti Knack +1 1997 | Does Social Capital Have an Economic Payoff? A Cross-Country Investigation | K1,A4,A1
+W2097916756 K5 22 arti Autor +2 2013 | The China Syndrome: Local Labor Market Effects of Import Competition in the United St | K5,L6,B5
+W2891903900 L1 22 arti Rodrik 1996 | Why Do More Open Economies Have Bigger Governments? | L1,L4,K5
+W2048838151 A4 22 arti Bénabou 2000 | Unequal Societies: Income Distribution and the Social Contract | A4,L1,B1
+W2110537446 B3 22 arti Beck 2001 | New Tools in Comparative Political Economy: The Database of Political Institutions | B3,L6,B4
+W4213034237 C6 22 revi Hicken 2011 | Clientelism | C6,E4,E1
+W51774562 B3 22 book Przeworski +3 2000 | Democracy and Development: List of Tables and Figures | B3,B2,L6
+W3125333792 J7 22 arti Henderson +2 2012 | Measuring Economic Growth from Outer Space | J7,I4,A1
+W2979586175 J5 22 arti Chaisemartin +1 2020 | Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects | J5,I4,L6
+W1533369859 B1 21 book ? 1992 | The third wave: democratization in the late twentieth century | B1,B2,K1
+W2135409175 K1 21 book Putnam +2 1994 | Making Democracy Work | K1,A4,F1
+W122421597 A1 21 book Herbst +1 2017 | States and Power in Africa | A1,A3,J2
+W2014602527 L2 21 arti Gilligan +1 1987 | Collective Decisionmaking and Standing Committees: An Informational Rationale for Res | L2,H1,C3
+W2076316673 L1 21 arti Weingast +2 1981 | The Political Economy of Benefits and Costs: A Neoclassical Approach to Distributive  | L1,C1,L4
+W2323752438 C1 21 arti Eggers +4 2014 | On the Validity of the Regression Discontinuity Design for Estimating Electoral Effec | C1,L3,C6
+W1508130583 A4 20 arti Besley +1 1996 | Sources of Inefficiency in a Representative Democracy: A Dynamic Analysis | A4,J1,D1
+W1606964474 A4 20 prep Persson +1 1993 | Is Inequality Harmful for Growth | A4,L1,B2
+W2163395908 A4 20 arti Bourguignon +1 2000 | Oligarchy, democracy, inequality and growth | A4,B1,L4
+W2136753600 H2 20 arti Gerber +3 2011 | How Large and Long-lasting Are the Persuasive Effects of Televised Campaign Ads? Resu | H2,I4,C4
+W2078646629 D1 20 arti Sydnor 1950 | Southern Politics in State and Nation, by V. O. Key, Jr., Alexander Heard | D1,L3,K5
+W4246137507 C1 20 book Verba +2 1995 | Voice and Equality | C1,L1,I1
+W2115074743 C4 19 book Katz 1982 | Retrospective Voting in American National Elections. By Morris P. Fiorina. (New Haven | C4,C3,C5
+W2892139511 A4 19 arti Rodrik 1999 | Democracies Pay Higher Wages | A4,B2,B1
+W2034328075 K4 19 book Allport 1954 | Nature of Prejudice | K4,K5,B5
+W2031389476 A1 19 arti Michalopoulos 2012 | The Origins of Ethnolinguistic Diversity | A1,A3,A2
+W3122295862 A1 19 book Engerman +1 1997 | 10. Factor Endowments, Institutions, and Differential Paths of Growth Among New World | A1,A4,L1
+W2133339157 L6 19 book Garrett 1998 | Partisan Politics in the Global Economy | L6,L1,K5
+W1504854090 C1 19 arti Lijphart 1996 | Unequal Participation: Democracy's Unresolved Dilemma | C1,L1,I4
+W1971301429 L5 19 arti Persson +1 1989 | Why a Stubborn Conservative would Run a Deficit: Policy with Time- Inconsistent Prefe | L5,A4,J1
+W3124259699 K1 19 book Stock +1 2005 | Testing for Weak Instruments in Linear IV Regression | K1,B4,L6
+W1508296537 J6 19 book Acemoğlu +1 2012 | Why nations fail: the origins of power, prosperity, and poverty | J6,A1,A3
+W2090766907 K1 19 arti Algan +1 2010 | Inherited Trust and Growth | K1,A1,E1
+W2149899514 G5 19 arti Alesina +1 1997 | On the Number and Size of Nations | G5,K2,L4
+W2523617811 G3 19 book Finan +2 2016 | The Personnel Economics of the Developing State | G3,E2,C4
+W2148501506 L1 19 arti Piketty +1 2003 | Income Inequality in the United States, 1913-1998 | L1,L3,K3
+W2046764142 L6 19 arti Frieden 1991 | Invested interests: the politics of national economic policies in a world of global f | L6,K5,L5
+W562301940 J2 18 book ? 2008 | Institutions and Economic Performance | J2,A1,C3
+W3121647034 K1 18 arti Bénabou +1 2006 | Belief in a Just World and Redistributive Politics | K1,L1,C4
+W3021924681 I3 18 arti Gentzkow +1 2004 | Media, Education and Anti-Americanism in the Muslim World | I3,I2,K1
+W2134472446 F1 18 arti Leff 1964 | Economic Development Through Bureaucratic Corruption | F1,F2,F3
+W1952552476 C1 18 arti Lijphart 1997 | Unequal Participation: Democracy's Unresolved Dilemma Presidential Address, American  | C1,L1,I4
+W2021515572 C3 18 arti Ashworth 2005 | Reputational Dynamics and Political Careers | C3,C4,H2
+W2164642877 B3 18 arti Glaeser +2 2007 | Why does democracy need education? | B3,K1,B1
+W2120303470 G3 18 arti Rauch +1 2000 | Bureaucratic structure and bureaucratic performance in less developed countries | G3,E2,F1
+W2034301206 L6 18 arti Beck +1 1995 | What To Do (and Not to Do) with Time-Series Cross-Section Data | L6,L1,B1
+W3196446224 E1 18 book Stokes +3 2013 | Brokers, Voters, and Clientelism | E1,E4,C5
+W2135804127 L3 18 arti Groseclose 2001 | A Model of Candidate Location When One Candidate Has a Valence Advantage | L3,D1,C4
+W4299846046 H1 18 arti ? 2012 | The American Economic Review | H1,L3,J5
+W2090939951 L6 18 book Alesina +1 1995 | Partisan Politics, Divided Government, and the Economy | L6,C6,A4
+W2149039282 G5 18 arti Seabright 1996 | Accountability and decentralisation in government: An incomplete contracts model | G5,C3,G1
+W2116559484 J2 18 arti Fearon 2004 | Why Do Some Civil Wars Last So Much Longer than Others? | J2,J1,J3
+W3123223998 K4 18 arti Bertrand +1 2004 | Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labo | K4,G4,L3
+W2107729441 F1 17 arti Treisman 2000 | The causes of corruption: a cross-national study | F1,F2,C3
+W1511129506 A3 17 arti Hardin +1 1997 | Guns, Germs, and Steel: The Fates of Human Societies. | A3,A1,K1
+W2139122730 L6 17 arti Heckman 1979 | Sample Selection Bias as a Specification Error | L6,H1,F1
+W1987936802 L2 17 arti Denzau +1 1986 | Legislators and Interest Groups: How Unorganized Interests Get Represented | L2,H1,H2
+W421391543 C7 17 arti Walle +1 2005 | Institutions and Ethnic Politics in Africa | C7,A1,C4
+W2019856397 L1 17 arti Perotti 1996 | Growth, income distribution, and democracy: What the data say | L1,B1,K3
+W2753221422 I1 17 book Tocqueville +2 2000 | Democracy in America | I1,B2,B1
+W2144188763 I4 17 arti King +2 2013 | How Censorship in China Allows Government Criticism but Silences Collective Expressio | I4,J6,I5
+W2121820235 G3 17 arti Ashraf +2 2014 | No Margin, No Mission? A Field Experiment on Incentives for Public Services Delivery | G3,G1,E2
+W2787428229 L4 17 repo Persson +1 1998 | The Size and Scope of Government: Comparative Politics with Rational Politicians | L4,L1,C6
+W2329780223 A4 17 arti Beckerman +1 1983 | The Rise and Decline of Nations. | A4,B4,G5
+W2798823399 K1 17 book Putnam +2 1994 | Making Democracy Work | K1,G5,K2
+W606783974 J7 17 book Kalyvas 2006 | The Logic of Violence in Civil War | J7,J3,J2
+W1559198035 L3 17 book ? 2007 | Polarized America: the dance of ideology and unequal riches | L3,K5,L5
+W2114412976 G3 17 book ? 1990 | Bureaucracy: what government agencies do and why they do it | G3,L1,F3
+W2030172216 L6 17 arti Hibbs 1977 | Political Parties and Macroeconomic Policy | L6,C6,L1
+W2003350916 C1 17 book Duverger 1964 | Political Parties Their Organization and Activity in the Modern State | C1,L4,L6
+W1677595927 G3 17 arti Bertrand +1 2003 | Managing with Style: The Effect of Managers on Firm Policies | G3,D1,F2
+W1969519191 A2 17 arti PORTA +3 1997 | Legal Determinants of External Finance | A2,A1,L6
+W4247932332 B5 17 book Almond +1 1963 | The Civic Culture | B5,K1,B2
+W2269381202 C3 16 arti Smart +1 2013 | Term limits and electoral accountability | C3,D1,B5
+W2129260435 B2 16 arti Boix +2 2012 | A Complete Data Set of Political Regimes, 1800–2007 | B2,B1,K5
+W2073493950 B2 16 arti Cheibub +2 2009 | Democracy and dictatorship revisited | B2,K5,L6
+W2114078650 H1 16 arti Snyder 1990 | Campaign Contributions as Investments: The U.S. House of Representatives, 1980-1986 | H1,H2,L3
+W4235608110 C1 16 conf Putnam 2000 | Bowling alone | C1,K1,B5
+W4238817359 L1 16 arti Moffitt 2009 | American Economic Review | L1,K2,F2
+W1575812287 J2 16 arti Grossman 1991 | A General Equilibrium Model of Insurrections | J2,J1,J3
+W2157979842 I3 16 arti Kenski +1 1993 | The Nature and Origins of Mass Opinion. | I3,J6,I4
+W1648937643 D2 16 arti Collard +1 1972 | The Economics of Discrimination. | D2,K4,K2
+W2117963689 B5 16 arti Almond +1 1963 | The Civic Culture: Political Attitudes and Democracy in Five Nations | B5,K1,B2
+W2076668105 I3 16 arti Milgrom +1 1986 | Relying on the Information of Interested Parties | I3,H1,I2
+W3125145917 K1 16 arti Bénabou +1 2006 | Incentives and Prosocial Behavior | K1,C1,G4
+W2105416454 J6 16 arti Lohmann 1993 | A Signaling Model of Informative and Manipulative Political Action | J6,I4,C1
+W1970113817 C1 16 arti Palfrey +1 1983 | A strategic calculus of voting | C1,K1
+W2240202731 L6 16 arti Rodrik 1997 | Has Globalization Gone Too Far? | L6,K5,L1
+W1985194351 C1 16 arti Alan +1 1959 | The Theory of Committees and Elections. | C1,L2,L3
+W4298197486 L1 16 arti ? 2013 | The American Economic Review | L1,A4,L6
+W2089314759 K5 16 arti Tullock +1 1970 | Exit, Voice and Loyalty: Responses to Decline in Firms, Organizations, and States. | K5,J6,G4
+W2005343548 J7 16 arti Bellows +1 2009 | War and local collective action in Sierra Leone | J7,A1,I3
+W3121335362 F2 16 arti Faccio +2 2006 | Political Connections and Corporate Bailouts | F2,H1,F1
+W2797411123 F1 16 arti Zolberg +1 1969 | Political Order in Changing Societies. | F1,B2,G6
+W4290016560 L2 16 arti ? 2013 | The American Economic Review | L2,I3,G3
+W3113269512 L6 16 arti Callaway +1 2020 | Difference-in-Differences with multiple time periods | L6,I4,K1
+W3125554979 L6 16 arti King +2 2000 | Making the Most of Statistical Analyses: Improving Interpretation and Presentation | L6,C1,K5
+W2031712905 I1 15 arti Brunetti +1 2002 | A free press is bad news for corruption | I1,I3,F1
+W2165144879 L6 15 arti Staiger +1 1997 | Instrumental Variables Regression with Weak Instruments | L6,F1,J2
+W2131740028 A4 15 book Coase 1960 | The Problem of Social Cost | A4,A5,L6
+W2037265139 K1 15 arti Banfield 1959 | The Moral Basis of a Backward Society. | K1,B4,A4
+W2035534527 C1 15 book Rosenstone +1 1993 | Mobilization, participation, and democracy in America | C1,H2,G5
+W2910573377 J7 15 arti Barro 1991 | Economic Growth in a Cross Section of Countries | J7,A2,L1
+W2005474264 K2 15 arti Fearon +1 1996 | Explaining Interethnic Cooperation | K2,C7,J2
+W2802807550 L4 15 arti Riker +2 1962 | The Calculus of Consent. | L4,C1,F1
+W2083277050 B1 15 arti Ericson +1 1972 | Polyarchy: Participation and Opposition. | B1,B5,B2
+W2124203762 G3 15 arti Bénabou +1 2003 | Intrinsic and Extrinsic Motivation | G3,K1,C1
+W2037668165 C1 15 arti Aldrich 1993 | Rational Choice and Turnout | C1,C4,L1
+W2109719716 C4 15 arti Fair 1978 | The Effect of Economic Events on Votes for President | C4,K5,C6
+W2127409878 B3 15 arti Lake +1 2001 | The Invisible Hand of Democracy | B3,C6,L1
+W1997729400 A3 15 arti Lebrun +1 1976 | The Formation of National States in Western Europe | A3,J7,K5
+W2232877996 K1 15 arti Giuliano 2007 | Living Arrangements in Western Europe: Does Cultural Origin Matter? | K1,A1
+W2011474190 L6 15 arti Frankel +1 1999 | Does Trade Cause Growth? | L6,A4,K5
+W1811781384 K1 15 arti Griesemer +2 1986 | Culture and the Evolutionary Process | K1,A1,A2
+W2046642512 C6 15 arti Rogoff +1 1988 | Elections and Macroeconomic Policy Cycles | C6,C3,L6
+W1500355875 C4 15 arti Besley +2 2011 | Just Rewards? Local Politics and Public Resource Allocation in South India | C4,G5,G3
+W1524911922 K1 15 book Greif 2006 | Institutions and the Path to the Modern Economy | K1,A3,A2
+W2124751389 L3 15 arti Iyengar +2 2012 | Affect, Not Ideology | L3,I3,I4
+W1559355478 K1 15 arti Fernández 2007 | Women, Work, and Culture | K1,K4
+W2494707969 C1 15 book Lijphart 1994 | Electoral Systems and Party Systems | C1,L4,B5
+W3121321214 G5 15 arti Besley +1 2002 | Centralized versus decentralized provision of local public goods: a political economy | G5,L2,C4
+W2196552246 K1 15 arti Putterman +1 2010 | Post-1500 Population Flows and The Long-Run Determinants of Economic Growth and Inequ | K1,A2,G1
+W2170291011 C4 15 revi Healy +1 2013 | Retrospective Voting Reconsidered | C4,C6,C5
+W614917022 L1 15 book ? 2008 | Unequal democracy: the political economy of the new gilded age | L1,C4,C5
+W4241481346 B4 15 book Magaloni 2006 | Voting for Autocracy | B4,E1,E3
+W1535803599 B3 14 book Sen 2009 | Development as Freedom | B3,C4,B4
+W3123434520 C3 14 repo List +1 2004 | How Elections Matter: Theory and Evidence from Environmental Policy | C3,C4,B4
+W1522991516 C3 14 book Banks +1 1993 | Adverse Selection and Moral Hazard in a Repeated Elections Model | C3,D1,C4
+W2759432548 C3 14 arti List +1 2006 | How Elections Matter: Theory and Evidence from Environmental Policy* | C3,C4,F1
+W1972223156 D2 14 arti Edlund +1 2002 | Why Have Women Become Left-Wing? The Political Gender Gap and the Decline in Marriage | D2,C2,L2
+W3151307774 A4 14 book ? 2006 | Democracy and Development | A4,B2,C2
+W2135256695 B2 14 arti Barro 1996 | Democracy and growth | B2,D1,L6
+W3122531453 L6 14 repo Staiger +1 1994 | Instrumental Variables Regression with Weak Instruments | L6,F1,J2
+W2154862029 L3 14 arti Canes‐Wrone +2 2002 | Out of Step, Out of Office: Electoral Accountability and House Members' Voting | L3,H2,C3
+W1520082828 A4 14 book Aghion +1 2005 | Handbook of Economic Growth | A4,J5,L4
+W2312441521 A4 14 arti Goldstone +1 1982 | Structure and Change in Economic History. | A4,G1,B4
+W2322609866 B1 14 arti Ness +1 1967 | Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making of the M | B1,A4,B2
+W2023509749 A4 14 book ? 1990 | The lever of riches: technological creativity and economic progress | A4,A3,A2
+W2890543633 C1 14 arti Lee 2009 | Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment Effects | C1,G3,I4
+W2066823663 J2 14 repo Barro 1989 | Economic Growth in a Cross Section of Countries | J2,J7,L1
+W2007352806 J2 14 arti Gleditsch +4 2002 | Armed Conflict 1946-2001: A New Dataset | J2,J4,L6
+W4211113828 C7 14 book Posner 2005 | Institutions and Ethnic Politics in Africa | C7,C4,J4
+W3023420463 F1 14 arti Svensson 2005 | Eight Questions about Corruption | F1,I3,L4
+W2088663850 G2 14 arti Kleven +4 2011 | Unwilling or Unable to Cheat? Evidence From a Tax Audit Experiment in Denmark | G2,F1,G1
+W1532199276 L4 14 arti Persson +1 1999 | The size and scope of government: | L4,L1,J5
+W2118144184 B2 14 book Przeworski +2 1995 | Political Regimes and Economic Growth | B2,B4,J6
+W2014689051 C6 14 arti Peltzman 1992 | Voters as Fiscal Conservatives | C6,C3,L4
+W2029167274 L6 14 arti Stolper +1 1941 | Protection and Real Wages | L6,B5,J5
+W430011393 H2 14 repo GREEN 2024 | Field Experiments: Design, Analysis, and Interpretation | H2,G3,G2
+W2906886681 G3 14 arti Deserranno 2017 | Financial Incentives as Signals: Experimental Evidence from the Recruitment of Villag | G3,E2,F1
+W2130136629 F1 14 arti Armstrong 1996 | Journal of economic literature | F1,L4,L6
+W2018924224 A4 14 arti Ciccone 2004 | Resistance to Reform: Status Quo Bias in the Presence of Individual-Specific Uncertai | A4,L6,L1
+W3122922095 K1 14 arti Alesina +1 2002 | Who trusts others? | K1,K2,A1
+W2065190337 G3 14 arti Alesina +1 2007 | Bureaucrats or Politicians? Part I: A Single Policy Task | G3,G5,B5
+W2239471341 C1 14 arti Shachar +1 1999 | Follow the Leader: Theory and Evidence on Political Participation | C1,J7,H2
+W2051733957 J7 14 book Gurr 1970 | Why men rebel | J7,J6,J2
+W2043285762 G5 14 book Niskanen 1971 | Bureaucracy and Representative Government | G5,L2,G3
+W2113358058 A2 14 revi Nunn 2009 | The Importance of History for Economic Development | A2,A1,K1
+W2120938061 C5 14 arti Brender +1 2008 | How Do Budget Deficits and Economic Growth Affect Reelection Prospects? Evidence from | C5,C6,L5
+W1815167514 A4 14 arti Bénabou +1 1996 | Inequality and Growth | A4,L1,C5
+W1525367507 A3 14 book Alesina +1 2003 | The Size of Nations | A3,A1,K2
+W2109183455 H2 14 arti Cho +1 1987 | Signaling Games and Stable Equilibria | H2,H1,C4
+W1506056549 G2 14 arti Best +4 2015 | Production versus Revenue Efficiency with Limited Tax Capacity: Theory and Evidence f | G2,G3,G1
+W4213331037 B5 14 book Przeworski 1991 | Democracy and the Market | B5,E3,G6
+W2031340404 C1 14 book ? 1996 | Voice and equality: civic voluntarism in American politics | C1,K2,G5
+W2329103711 L6 14 arti Powell +1 1993 | A Cross-National Analysis of Economic Voting: Taking Account of the Political Context | L6,C5,K5
+W2114378037 L1 14 arti Iversen +1 2001 | An Asset Theory of Social Policy Preferences | L1,K3,A2
+W1690251713 C2 13 repo Naidu 2012 | Suffrage, Schooling, and Sorting in the Post-Bellum U.S. South | C2,D1,B2
+W2781833702 B2 13 arti Przeworski +1 1993 | Political Regimes and Economic Growth | B2,L6,J6
+W3122513589 F2 13 arti Johnson +1 2002 | Cronyism and capital controls: evidence from Malaysia | F2,H1,D4
+W3213155382 C3 13 book Key 1966 | The Responsible Electorate | C3,C4,C1
+W2020694618 C6 13 arti Grand +1 1979 | Political Control of the Economy. | C6,C4,L6
+W1969028417 H1 13 arti Bernheim +1 1986 | Menu Auctions, Resource Allocation, and Economic Influence | H1,H2,J5
+W2138290169 C1 13 arti Angrist +2 1996 | Identification of Causal Effects Using Instrumental Variables | C1,L3,L4
+W2028211630 I3 13 arti Lord +2 1979 | Biased assimilation and attitude polarization: The effects of prior theories on subse | I3,I2,K1
+W2060635194 I3 13 arti George +1 2006 | The New York Times and the Market for Local Newspapers | I3,I1,I2
+W2170222801 A1 13 repo Engerman +1 2002 | Factor Endowments, Inequality, and Paths of Development Among New World Economics | A1,L1,A5
+W2912536286 G3 13 book Evans 1995 | Embedded Autonomy | G3,A4,L6
+W3025132739 I3 13 arti Baron 2005 | Persistent media bias | I3,I2,I1
+W2756230309 I4 13 arti Boxell +2 2017 | Greater Internet use is not associated with faster growth in political polarization a | I4,L3,B5
+W2140409505 B1 13 arti Fukuyama +1 1997 | Capitalism, Socialism and Democracy | B1,L1,H4
+W3121177697 F2 13 arti Jayachandran 2006 | The Jeffords Effect | F2,H1,L6
+W3149086406 K1 13 arti Putnam +1 2000 | Bowling Alone: The Collapse And Revival Of American Community | K1,I1,C1
+W2332251037 C1 13 arti Palfrey +1 1987 | The Relationship between Information, Ideology, and Voting Behavior | C1,C4,I1
+W2100746853 G3 13 arti Hart +2 1997 | The Proper Scope of Government: Theory and an Application to Prisons | G3,F1,G1
+W2044739107 J4 13 arti Esteban +1 1999 | Conflict and Distribution | J4,J2,H3
+W2041157860 J6 13 arti Granovetter 1978 | Threshold Models of Collective Behavior | J6,I4,I3
+W2160551229 B1 13 book Sanderson 2013 | Capitalist Development and Democracy | B1,A4,L1
+W1930813282 H2 13 book ? 2016 | Get out the vote: how to increase voter turnout | H2,C1,C4
+W2011373323 G3 13 arti Dewatripont +2 1999 | The Economics of Career Concerns, Part II: Application to Missions and Accountability | G3,C3,E2
+W1480243676 C3 13 prep Wolfers 2002 | Are Voters Rational? Evidence from Gubernatorial Elections | C3,C1,C5
+W3122769774 D2 13 arti Alesina +1 2005 | Preferences for redistribution in the land of opportunities | D2,K3,B1
+W1854379977 C7 13 arti Chandra 2004 | Why Ethnic Parties Succeed, Patronage and Ethnic Head Counts in India | C7,E1,G5
+W2884548321 E2 13 arti Calónico +3 2018 | Regression Discontinuity Designs Using Covariates | E2,C1,H2
+W109341979 L1 13 arti Austen‐Smith +1 1988 | Elections, Coalitions, and Legislative Outcomes | L1,L2,L4
+W2088435028 G2 13 arti Allingham +1 1972 | Income tax evasion: a theoretical analysis | G2,F1,G1
+W4238510172 C1 13 arti ? 1983 | American journal of political science | C1,D3,K5
+W3123344732 K1 13 arti Guiso +2 2004 | The Role of Social Capital in Financial Development | K1,A1,F2
+W2116245304 K1 13 arti Clingingsmith +2 2009 | Estimating the Impact of the Hajj: Religion and Tolerance in Islam's Global Gathering | K1,J6,K4
+W2773187124 G1 13 book ? 1989 | Strong societies and weak states: state-society relations and state capabilities in t | G1,A3,G3
+W2119732780 J6 13 arti Rodrik +1 2005 | Do Democratic Transitions Produce Bad Economic Outcomes? | J6,B2,B1
+W3122812581 I4 13 arti Hainmueller 2011 | Entropy Balancing for Causal Effects: A Multivariate Reweighting Method to Produce Ba | I4,H2,B5
+W3121757876 K2 13 arti Vigdor +2 1999 | The Rise and Decline of the American Ghetto | K2,L3,K3
+W1978648732 L2 13 arti Weingast +1 1983 | Bureaucratic Discretion or Congressional Control? Regulatory Policymaking by the Fede | L2,G6,G3
+W1986451067 G5 13 arti Galasso +1 2004 | Decentralized targeting of an antipoverty program | G5,G4,G1
+W2160889518 A2 13 arti Spolaore +1 2009 | The Diffusion of Development* | A2,K1,K2
+W2481448239 L1 13 book Flora +6 1983 | State, Economy and Society in Western Europe, 1815–1975 | L1,G2,L5
+W2329648039 C4 13 arti Eulau 1960 | The American Voter. By A. Campbell, P. Converse, W. Miller, and D. Stokes. (New York: | C4,C1,L3
+W2791859701 J5 13 arti Goodman-Bacon 2021 | Difference-in-differences with variation in treatment timing | J5,C2,B2
+W2169223645 L1 13 arti Deininger +1 1996 | A New Data Set Measuring Income Inequality | L1,J2,K3
+W2124825646 A3 13 book Levi 2019 | Of Rule and Revenue | A3,G1,G2
+W2169278049 K2 13 arti Posner 2004 | The Political Salience of Cultural Difference: Why Chewas and Tumbukas Are Allies in  | K2,C7,J2
+W2099304543 L6 13 arti Brambor +2 2005 | Understanding Interaction Models: Improving Empirical Analyses | L6,C1,K5
+W1621619283 K1 13 arti Barro +1 2003 | Religion and Economic Growth across Countries | K1,J6
+W1533204478 B4 13 book ? 2007 | Voting for autocracy: hegemonic party survival and its demise in Mexico | B4,E3,K5
+W296931085 B4 13 book Svolik 2012 | The Politics of Authoritarian Rule | B4,B1,J6
+W3023875755 L6 13 arti Melitz 2003 | The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivi | L6,K5,H1
+W2752384816 L1 13 book Piketty 2014 | Capital in the Twenty-First Century | L1,K3,H3
+W3124340976 C4 12 book Gentzkow +2 None | Corruption and Reform: Lessons from America's Economic History | C4,I2,I1
+W2120012324 K1 12 arti Alesina +1 2005 | Fairness and Redistribution | K1,K3,C2
+W2016319068 B3 12 arti Besley +1 2006 | Health and Democracy | B3,B2,C2
+W2060637692 J6 12 arti Kuran 1989 | Sparks and prairie fires: A theory of unanticipated political revolution | J6,B1,E3
+W2797842723 C3 12 arti Ross +1 1975 | Congress, The Electoral Connection | C3,C5,L2
+W2034293871 H2 12 arti GREEN +1 1988 | Salvation for the Spendthrift Incumbent: Reestimating the Effects of Campaign Spendin | H2,E1,H1
+W2099268311 A4 12 arti Lucas 1988 | On the mechanics of economic development | A4,L6,K2
+W2891965326 J7 12 repo Alesina +1 1993 | Income Distribution, Political Instability, and Investment | J7,A4,B1
+W2012135746 A4 12 diss 1948-2015 1975 | Clausulas comparativas do portugues | A4,B1,A1
+W1500864630 A4 12 book ? 2001 | The world economy: a millennial perspective | A4,A3,A2
+W4214662720 I4 12 book Prior 2007 | Post-Broadcast Democracy | I4,C4,I1
+W1479997380 I2 12 arti Hamilton 2003 | All the News That's Fit to Sell: How the Market Transforms Information into News | I2,I1,I3
+W1972065210 F2 12 arti Ferguson +1 2008 | Betting on Hitler—The Value of Political Connections in Nazi Germany* | F2,B4,H1
+W2107986666 G3 12 arti Evans +1 1999 | Bureaucracy and Growth: A Cross-National Analysis of the Effects of "Weberian" State  | G3,G1,E2
+W2010050173 H1 12 arti Snyder 1991 | ON BUYING LEGISLATURES* | H1,L2,L3
+W2080642065 H1 12 arti Baron 1989 | Service-Induced Campaign Contributions and the Electoral Equilibrium | H1,H2,C4
+W2150796138 B5 12 revi Lewis‐Beck +1 2000 | Economic Determinants of Electoral Outcomes | B5,K5,L6
+W1715038780 L1 12 book Kuznets 2019 | Economic Growth and Income Inequality | L1,B1,K5
+W2095714582 L6 12 arti Chubb 1985 | The Political Economy of Federalism | L6,H1,H2
+W1964242754 H1 12 arti Hall +1 1990 | Buying Time: Moneyed Interests and the Mobilization of Bias in Congressional Committe | H1,H2,L6
+W1971398141 C1 12 arti Lassen 2004 | The Effect of Information on Voter Turnout: Evidence from a Natural Experiment | C1,I1,H2
+W279215054 A4 12 book Buchanan 1962 | The Calculus of Consent | A4,L4,F1
+W3024840714 D1 12 arti Mattozzi +1 2007 | Political careers or career politicians? | D1,D4,H1
+W2138314996 L3 12 arti Caughey +1 2011 | Elections and the Regression Discontinuity Design: Lessons from Close U.S. House Race | L3,D2,D1
+W4234963003 L4 12 book Buchanan +1 1960 | The Calculus of Consent | L4,C1,C3
+W1969355781 D2 12 arti Besley +3 2004 | The Politics of Public Good Provision: Evidence from Indian Local Governments | D2,G5,B4
+W1978239295 I3 12 arti Tella +2 2007 | The Formation of Beliefs: Evidence from the Allocation of Land Titles to Squatters | I3,K1,C5
+W2108355281 C1 12 arti Geys 2005 | Explaining voter turnout: A review of aggregate-level research | C1,I3,I1
+W2112953648 L1 12 arti Roemer 1998 | Why the poor do not expropriate the rich: an old argument in new garb | L1,B2,E1
+W2128671787 B1 12 arti Engerman +1 2001 | The Evolution of Suffrage Institutions in the New World | B1,B2,A4
+W1978469792 H2 12 arti Gerber 1998 | Estimating the Effect of Campaign Spending on Senate Election Outcomes Using Instrume | H2,E1,L3
+W3124658416 C1 12 arti Angrist +2 1996 | Identification of Causal Effects Using Instrumental Variables | C1,L4,D1
+W2033555993 H2 12 arti Snyder 1989 | Election Goals and the Allocation of Campaign Resources | H2,H1,C4
+W2127238399 G4 12 arti Mirrlees 1971 | An Exploration in the Theory of Optimum Income Taxation | G4,L1,G2
+W153593738 B1 12 book Moore 1984 | On the Social Origins of Dictatorship and Democracy | B1,A2,E1
+W2152414118 A1 12 arti Kiszewski +5 2004 | A GLOBAL INDEX REPRESENTING THE STABILITY OF MALARIA TRANSMISSION | A1,A2,A4
+W2150679261 G5 12 arti Oates 1999 | An Essay on Fiscal Federalism | G5,G1,K3
+W3125907121 F2 12 arti Acemoğlu +4 2016 | The value of connections in turbulent times: Evidence from the United States | F2,H1,B5
+W2083620364 L6 12 arti Beck +2 1998 | Taking Time Seriously: Time-Series-Cross-Section Analysis with a Binary Dependent Var | L6,K5,B3
+W2122014785 F3 12 arti Besley +1 1993 | Taxes and Bribery: The Role of Wage Incentives | F3,G2,F1
+W2153438855 B1 12 arti Przeworski 2008 | Conquered or Granted? A History of Suffrage Extensions | B1,L1,J6
+W3122718599 D1 12 arti Aragonès +1 2002 | Mixed Equilibrium in a Downsian Model with a Favored Candidate | D1,D5,L2
+W2080360912 A1 12 arti Eifert +2 2010 | Political Competition and Ethnic Identification in Africa | A1,C4,D1
+W2144450384 K5 12 arti Hainmueller +1 2010 | Attitudes toward Highly Skilled and Low-skilled Immigration: Evidence from a Survey E | K5,G3,B5
+W3112066496 I4 12 arti Sun +1 2020 | Estimating dynamic treatment effects in event studies with heterogeneous treatment ef | I4,K1,C2
+W1542183466 I3 12 arti Milgrom 1981 | Good News and Bad News: Representation Theorems and Applications | I3,C3,H1
+W2079694060 L4 12 arti Cox 1990 | Centripetal and Centrifugal Incentives in Electoral Systems | L4,C1,C4
+W1515771701 L3 12 book Rohde 1991 | Parties and Leaders in the Postreform House | L3,L2
+W1581908573 L6 12 book ? 2015 | Cross-National Time-Series Data Archive | L6,B1,J1
+W2148662853 K1 12 arti Ashraf +1 2013 | The “Out of Africa” Hypothesis, Human Genetic Diversity, and Comparative Economic Dev | K1,A2,L1
+W2165717995 G3 12 arti Aghion +1 1997 | Formal and Real Authority in Organizations | G3,B4,E2
+W4213183334 J4 12 arti ? 2013 | The American Economic Review | J4,F1,L2
+W1992232430 K1 12 arti Fernández +2 2004 | Mothers and Sons: Preference Formation and Female Labor Force Dynamics | K1,L2,K4
+W2168966825 K1 12 arti Becker +1 2009 | Was Weber Wrong? A Human Capital Theory of Protestant Economic History * | K1,J4,A2
+W2303924600 I4 12 arti Flaxman +2 2016 | Filter Bubbles, Echo Chambers, and Online News Consumption | I4,L3,I2
+W3122016866 B4 12 arti Boix +1 2013 | The Foundations of Limited Authoritarian Government: Institutions, Commitment, and Po | B4,I5,D1
+W2891485059 L6 12 arti Rauch 1999 | Networks versus markets in international trade | L6,K1,G3
+W1509161467 L4 12 arti Berg 1990 | Seats and votes. The effects and determinants of electoral systems | L4,C1,B5
+W1544556248 L6 12 book ? 2004 | The world economy: historical statistics | L6,D1,A4
+W2105085862 A5 12 arti Galor +2 2008 | Inequality in Landownership, the Emergence of Human-Capital Promoting Institutions, a | A5,A3,A4
+W2798462310 A4 12 arti Diamond 1997 | Guns, Germs, and Steel | A4,A1,A2
+W4300022765 B4 12 book Levitsky +1 2010 | Competitive Authoritarianism | B4,B5,K5
+W4242163572 L1 12 book Huber +1 2001 | Development and Crisis of the Welfare State | L1,A2,K3
+W1531424399 A1 12 arti Gelman +1 2017 | Why High-Order Polynomials Should Not Be Used in Regression Discontinuity Designs | A1,D1,C5
+W1502532850 C4 11 book Przeworski 1999 | Democracy, Accountability, and Representation | C4,L4,C6
+W2170674684 L4 11 arti Persson +2 2001 | Electoral Rules and Corruption | L4,C3,I3
+W3127488876 C1 11 book Dunleavy 1997 | Making Votes Count | C1,L4,C2
+W1993302203 I1 11 arti Ansolabehere +2 2006 | Television and the Incumbency Advantage in U.S. Elections | I1,I3,H2
+W3121797019 L3 11 arti King +1 1990 | Estimating Incumbency Advantage Without Bias | L3,C1,H2
+W2097908050 C4 11 arti Kramer 1971 | Short-Term Fluctuations in U.S. Voting Behavior, 1896–1964 | C4,C3,C5
+W1963974629 A4 11 arti Acemoğlu +1 2000 | Political Losers as a Barrier to Economic Development | A4,B4,I3
+W4240592497 A4 11 arti Glaeser +1 2002 | Legal Origins | A4,F1,D3
+W2168605160 A4 11 arti Romer 1986 | Increasing Returns and Long-Run Growth | A4,L1,A1
+W2093265904 A2 11 arti J.-N. +2 1978 | Atlas of World Population History | A2,A3,A4
+W1984813221 A3 11 arti Strom-Olsen 1998 | :Birth of the Leviathan: Building States and Regimes in Medieval and Early Modern Eur | A3,B1,A4
+W2159251310 L3 11 arti Glaeser +2 2005 | Strategic Extremism: Why Republicans and Democrats Divide on Religious Values | L3,I2,K5
+W3124886457 B4 11 arti Alesina +3 1996 | Political instability and economic growth | B4,B1,J7
+W2165274688 D1 11 arti Bó +1 2003 | Capture by Threat | D1,G3,J5
+W1993045262 H2 11 arti Strömberg 2008 | How the Electoral College Influences Campaigns and Policy: The Probability of Being F | H2,C4,C6
+W1686065478 I4 11 arti Bakshy +2 2015 | Exposure to ideologically diverse news and opinion on Facebook | I4,B5,L3
+W4292229879 K1 11 arti Acemoğlu +1 2012 | Why Nations Fail: The Origins of Power, Prosperity and Poverty | K1,B5,A1
+W4233193703 C3 11 book ? 1990 | Models of strategic choice in politics | C3,L2,C4
+W2101348935 H1 11 arti Snyder 1992 | Long-Term Investing in Politicians; Or, Give Early, Give Often | H1,H2,L6
+W2067591184 H2 11 arti Peltzman 1984 | Constituent Interest and Congressional Voting | H2,L2,L3
+W2059218518 E1 11 arti Keefer 2007 | Clientelism, Credibility, and the Policy Choices of Young Democracies | E1,E4,I1
+W3125190222 A4 11 arti Ansolabehere +1 2006 | Party Control of State Government and the Distribution of Public Expenditures* | A4,C6,I1
+W1975294907 J5 11 arti Bandiera 2003 | Land Reform, the Market for Protection, and the Origins of the Sicilian Mafia: Theory | J5
+W2086651280 B4 11 arti Gandhi +1 2006 | COOPERATION, COOPTATION, AND REBELLION UNDER DICTATORSHIPS | B4,I5,J6
+W1509383136 B1 11 arti O'Donnell +1 2013 | Transitions from Authoritarian Rule: Tentative Conclusions about Uncertain Democracie | B1,B4,G6
+W2105717288 A2 11 arti Lewis 1954 | Economic Development with Unlimited Supplies of Labour | A2,B1,A1
+W3122513675 A1 11 arti Easterly +1 2003 | Tropics, germs, and crops: how endowments influence economic development | A1,A4,A5
+W2058433447 H2 11 arti Gerber 2004 | Does Campaign Spending Work? | H2,C1,E1
+W3122778615 A4 11 arti Rajan +1 2003 | The great reversals: the politics of financial development in the twentieth century | A4,G1,A3
+W2137441478 L2 11 arti Leuthold 1979 | Home Style: House Members in Their Districts, by Richard F. Fenno, Jr. | L2,D2,K5
+W2124298601 E1 11 arti Calvo +1 2004 | Who Delivers? Partisan Clients in the Argentine Electoral Market | E1,C5,L3
+W2128748095 B3 11 arti Baum +1 2003 | ThePoliticalEconomy of Growth: Democracy and Human Capital | B3,B2,A5
+W3122505971 B3 11 arti Acemoğlu +3 2005 | From Education to Democracy? | B3,B2,K1
+W3121164501 L5 11 arti Battaglini +1 2008 | A Dynamic Theory of Public Spending, Taxation, and Debt | L5,B2,A4
+W4242581278 C7 11 arti Hodler +1 2014 | Regional Favoritism * | C7,B4,C6
+W2465170261 L6 11 arti Rodrik 1998 | Has Globalization Gone Too Far? | L6,L1,B5
+W2082517482 A3 11 arti Bates +1 1985 | A Note on Taxation, Development, and Representative Government | A3,G2,B1
+W3124833360 B4 11 arti Gehlbach +1 2011 | Investment without democracy: Ruling-party institutionalization and credible commitme | B4,B1,I5
+W1985356778 E1 11 arti Brusco +2 2004 | Vote Buying in Argentina | E1,E4,C4
+W3124514489 G1 11 arti Dincecco +1 2014 | State Capacity and Long‐Run Economic Performance | G1,A3,G3
+W3121774280 K5 11 arti Mayda 2006 | Who Is Against Immigration? A Cross-Country Investigation of Individual Attitudes tow | K5,B5
+W2171740630 L6 11 book ? 2002 | Commerce and Coalitions: How Trade Affects Domestic Political Alignments | L6,K5,C7
+W2120422377 I4 11 arti Hsiang 2010 | Temperatures and cyclones strongly associated with economic production in the Caribbe | I4,J2,I1
+W2108614304 A5 11 repo Acemoğlu +2 2004 | Institutions as the Fundamental Cause of Long-Run Growth | A5,A1,B2
+W1992503224 L3 11 book ? 1993 | Legislative leviathan: party government in the House | L3,L2,A3
+W1519984423 A4 11 book Shleifer +1 1999 | The Grabbing Hand: Government Pathologies and Their Cures | A4,H4,F2
+W2024810644 B4 11 book Shapiro +1 1986 | Equilibrium Unemployment as a Worker Discipline Device | B4,G3,F1
+W1993330971 L6 11 book Haggard +1 1999 | 4. The Political Economy of Democratic Transitions | L6,B1,B2
+W2237164683 A3 11 book Dincecco 2011 | Political Transformations and Public Finances | A3,G1,L5
+W2806176719 C5 11 arti Asher +1 2020 | Rural Roads and Local Economic Development | C5,G3,J5
+W2128487291 K1 11 repo Porta +3 1996 | Trust in Large Organizations | K1,K2,G5
+W2175723801 G5 11 arti Field +1 1992 | Governing the Commons: The Evolution of Institutions for Collective Action | G5,K1,K2
+W2165819037 L6 11 arti Mansfield +2 2002 | Why Democracies Cooperate More: Electoral Control and International Trade Agreements | L6
+W1982508871 L6 11 arti Greenaway +3 1990 | Black Hole Tariffs and Endogenous Policy Theory: Political Economy in General Equilib | L6,H1,J5
+W1531969211 E3 11 book Blaydes 2010 | Elections and Distributive Politics in Mubarak’s Egypt | E3,B4,C6
+W1558484812 K5 11 arti Hainmueller +1 2007 | Educated Preferences: Explaining Attitudes Toward Immigration in Europe | K5,G3
+W4239062145 A3 11 book Ertman 1997 | Birth of the Leviathan | A3,G2,G3
+W1531575577 A3 11 book Fukuyama 2011 | The origins of political order: from prehuman times to the French Revolution | A3,A2,G1
+W3121565390 A3 11 arti Galor +1 2000 | Population, Technology, and Growth: From Malthusian Stagnation to the Demographic Tra | A3,A2,K1
+W1577916257 A3 11 book ? 2010 | Violence and social orders: a conceptual framework for interpreting recorded human hi | A3,G1,B1
+W2113095718 K4 11 arti Fryer +1 2004 | The Causes and Consequences of Distinctively Black Names | K4,K5,J7
+W4298297617 K4 11 book Weber 1976 | Peasants into Frenchmen | K4,A3,L3
+W2150924432 L6 11 arti King +3 2001 | Analyzing Incomplete Political Science Data: An Alternative Algorithm for Multiple Im | L6,E1,K5
+W2866690087 H2 11 arti Cattaneo +2 2018 | Manipulation Testing Based on Density Discontinuity | H2,C3,F1
+W2153031274 L6 11 arti Putnam 1988 | Diplomacy and domestic politics: the logic of two-level games | L6,K5,L1
+W1552956615 L6 11 arti Hainmueller +1 2006 | Learning to Love Globalization: Education and Individual Attitudes Toward Internation | L6,K5,K3
+W1531142403 C4 11 arti Healy +1 2013 | Substituting the End for the Whole: Why Voters Respond Primarily to the Election‐Year | C4,C6,C5
+W1564803735 C2 10 book Shepsle 2012 | Models of Multiparty Electoral Competition | C2,L1,D5
+W3124257343 J6 10 arti Persson +1 2006 | Democracy and Development: The Devil in the Details | J6,B5,C2
+W3123123937 B2 10 arti Acemoğlu +3 2009 | Reevaluating the modernization hypothesis | B2,B1,B4
+W2041827300 I1 10 arti Oberholzer‐Gee +1 2009 | Media Markets and Localism: Does Local News en Español Boost Hispanic Voter Turnout? | I1,I4,I3
+W2094647264 L2 10 arti Price 1977 | Congressmen in Committees. By Richard F. FennoJr. (Boston, Mass.: Little, Brown and C | L2,H1,I1
+W2159244471 A5 10 arti Besley 1995 | Property Rights and Investment Incentives: Theory and Evidence from Ghana | A5,A1,A4
+W3124631225 L3 10 arti McCarty +2 2001 | The Hunt for Party Discipline in Congress | L3,L2
+W2046782908 L3 10 arti Miller +1 1963 | Constituency Influence in Congress | L3,D2,H1
+W2053381744 A4 10 book Dixit 1996 | The Making of Economic Policy | A4,G3,L4
+W2136655521 A1 10 book CHANDLER 1987 | Four Thousand Years of Urban Growth: An Historical Census | A1,A2,A3
+W4236348794 A4 10 book Bates 2014 | Markets and States in Tropical Africa | A4,C6,E1
+W2407856457 F1 10 arti Murphy +2 1991 | The Allocation of Talent: Implications for Growth | F1,A1,A4
+W14997025 I4 10 book ? 2007 | Post-broadcast democracy: how media choice increases inequality in political involvem | I4,I1,C4
+W2012275303 G3 10 book ? 1995 | Embedded autonomy: states and industrial transformation | G3,A4,B4
+W3125672505 H1 10 arti Figueiredo +1 2006 | Academic Earmarks and the Returns to Lobbying | H1,H2,F1
+W3125057276 B5 10 arti Abadie +2 2010 | Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of Cali | B5,C1,F2
+W2133060337 L1 10 arti Peltzman 1980 | The Growth of Government | L1,G2,G1
+W2046692734 L1 10 arti Becker 1985 | Public policies, pressure groups, and dead weight costs | L1,D5,A4
+W2042233114 L3 10 arti Palfrey 1984 | Spatial Equilibrium with Entry | L3,C1,D5
+W2160232843 J2 10 arti Ross 2004 | What Do We Know about Natural Resources and Civil War? | J2,J3,J7
+W2050904362 G3 10 arti Lazear +1 1981 | Rank-Order Tournaments as Optimum Labor Contracts | G3,B4,D4
+W2113982033 D1 10 arti Eggers +1 2009 | MPs for Sale? Returns to Office in Postwar British Politics | D1,D4,D3
+W1837699578 J5 10 arti Buonanno +3 2015 | Poor Institutions, Rich Mines: Resource Curse in the Origins of the Sicilian Mafia | J5,A3,J2
+W2114389382 I4 10 arti Manski 1993 | Identification of Endogenous Social Effects: The Reflection Problem | I4,J5,G1
+W1484634968 B4 10 book Gandhi 2008 | Political Institutions under Dictatorship | B4,I5,K5
+W110429153 B4 10 arti Munger +1 1998 | The Political Economy of Dictatorship | B4,B3,C7
+W2148948369 C7 10 arti Posner 2004 | Measuring Ethnic Fractionalization in Africa | C7,K2,J2
+W2055804518 L6 10 arti Quinn 1997 | The Correlates of Change in International Financial Regulation | L6,B1,B5
+W2137942277 C3 10 arti Ashworth +1 2008 | Electoral Selection, Strategic Challenger Entry, and the Incumbency Advantage | C3,I1,D1
+W2481123866 I3 10 book Gentzkow +2 2006 | The Rise of the Fourth Estate | I3,C4,I1
+W2132802938 C3 10 arti Gordon +1 2007 | The Effect of Electoral Competitiveness on Incumbent Behavior | C3,C4,G3
+W2151544484 C1 10 arti Brady +2 1995 | Beyond SES: A Resource Model of Political Participation | C1,C5,G5
+W2802402771 A1 10 arti Tignor +1 1997 | Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism. | A1,A4,C7
+W3124921250 C1 10 prep Palfrey +1 2001 | A Strategic Calculus of Voting | C1
+W1980207324 K5 10 arti Hays +2 2005 | Government Spending and Public Support for Trade in the OECD: An Empirical Test of th | K5,L6,B5
+W2147703902 K5 10 arti Golder 2003 | Explaining Variation In The Success Of Extreme Right Parties In Western Europe | K5,B5
+W2043483056 A3 10 arti Carneiro 1970 | A Theory of the Origin of the State | A3,B4,K1
+W2804625995 G3 10 revi Ashraf +1 2018 | Social Incentives in Organizations | G3,E2,G2
+W2163657079 B1 10 arti Morris +1 1960 | Political Man. The Social Bases of Politics | B1,L6,C7
+W2138772657 B4 10 revi Gandhi +1 2009 | Elections Under Authoritarianism | B4,B1,E3
+W2061565725 A3 10 arti Greif +2 1994 | Coordination, Commitment, and Enforcement: The Case of the Merchant Guild | A3,B1,A2
+W2316285971 A1 10 arti Robin +1 1960 | Africa-Its Peoples and Their Culture History | A1,A3,A2
+W60080681 H1 10 book Austen‐Smith +1 1989 | Electoral accountability and incumbency | H1,B5,C4
+W3024358929 F1 10 arti Olken 2009 | Corruption perceptions vs. corruption reality | F1,G5,K1
+W1484474409 E1 10 arti A +2 2006 | Institutions and the Resource Curse | E1,J5,B4
+W3125701855 A4 10 repo Sachs +1 1995 | Natural Resource Abundance and Economic Growth | A4,L6,E1
+W611922404 C5 10 arti Stokes +3 2013 | Brokers, Voters, and Clientelism: The Puzzle of Distributive Politics | C5,E1,D3
+W2105171386 D3 10 arti Belloni +2 2014 | High-Dimensional Methods and Inference on Structural and Treatment Effects | D3,D1,A1
+W2036965329 D1 10 arti Caillaud +1 2002 | Parties as Political Intermediaries | D1,L3,B5
+W2167015548 L3 10 arti Ashworth +1 2008 | Elections with platform and valence competition | L3,C3,B5
+W2134511983 K5 10 revi Hainmueller +1 2014 | Public Attitudes Toward Immigration | K5,B5
+W2043803602 K5 10 arti Abramitzky +2 2012 | Europe's Tired, Poor, Huddled Masses: Self-Selection and Economic Outcomes in the Age | K5,J5,L1
+W1982593017 K1 10 arti Henrich +13 2010 | Markets, Religion, Community Size, and the Evolution of Fairness and Punishment | K1
+W2008477779 C1 10 arti Riker 1982 | The Two-party System and Duverger's Law: An Essay on the History of Political Science | C1,L4,B5
+W2140897975 C1 10 arti Young 1988 | Condorcet's Theory of Voting | C1,C4,J6
+W2566856888 A4 10 arti Dugger 1987 | The Economic Institutions of Capitalism | A4,L6,G6
+W2117318745 C1 10 arti Powell 1986 | American Voter Turnout in Comparative Perspective | C1,J6,C2
+W3123071216 B2 10 arti Barro 2001 | International data on educational attainment: updates and implications | B2,K1,L6
+W1488792619 L6 10 arti Mayer 1984 | Endogenous Tariff Formation. | L6,K5
+W1995964689 B5 10 arti Goemans +2 2009 | Introducing Archigos: A Dataset of Political Leaders | B5,B2,D3
+W4211089644 C7 10 book Chandra 2004 | Why Ethnic Parties Succeed | C7,C5,G3
+W2159363815 J7 10 arti Collier 1999 | On the economic consequences of civil war | J7,J2,J3
+W2127408858 B4 10 book Wintrobe 1998 | The Political Economy of Dictatorship | B4,L1,B3
+W2118200461 J2 10 revi Ross 2006 | A Closer Look at Oil, Diamonds, and Civil War | J2,J4,D1
+W2115747715 C3 10 arti Spence 1973 | Job Market Signaling | C3,C4,J6
+W2018678655 L3 10 arti Bafumi +1 2010 | Leapfrog Representation and Extremism: A Study of American Voters and Their Members i | L3,I3,K5
+W3122199437 F2 10 arti Goldman +2 2013 | Politically Connected Boards of Directors and The Allocation of Procurement Contracts | F2,H1,L6
+W1981357072 L3 10 book Aldrich 1995 | Why Parties? | L3,L2,B5
+W2162147170 K1 10 arti Ramankutty +3 2002 | The global distribution of cultivable lands: current patterns and sensitivity to poss | K1,A1,A3
+W2753335427 F2 10 arti Hsieh +1 2009 | Misallocation and Manufacturing TFP in China and India * | F2,F1,H1
+W1539903039 J7 10 book Wood 2003 | Insurgent Collective Action and Civil War in El Salvador | J7,J5,J2
+W2030576955 B4 10 arti Li +1 2004 | Political turnover and economic performance: the incentive role of personnel control  | B4,G3,F2
+W4252476561 K1 10 arti Glaeser +3 2000 | Measuring Trust* | K1,K2,K3
+W2001947080 L4 10 arti Groennings +1 1968 | The Political Consequences of Electoral Laws | L4,C1,B5
+W2038631063 J6 10 book Tilly 2017 | From Mobilization to Revolution | J6,B1,J2
+W2156625419 B4 10 arti Ross 2001 | Does Oil Hinder Democracy? | B4,K5,G2
+W1995643388 L4 10 arti Carey +1 1995 | Incentives to cultivate a personal vote: A rank ordering of electoral formulas | L4,C1,L2
+W2048306071 J4 10 arti Weidmann +2 2010 | Representing ethnic groups in space: A new dataset | J4,J2,K1
+W2129030851 B4 10 prep Boix +1 2009 | The Foundations of Limited Authoritarian Government: Institutions and Power-Sharing i | B4,I5,E3
+W3121522673 A2 10 arti Porta +2 2008 | The Economic Consequences of Legal Origins | A2,K1,G1
+W2047606409 L6 10 arti Rogowski 1987 | Trade and the variety of democratic institutions | L6,K5,C1
+W2057659248 K5 10 arti Pettigrew +1 2006 | A meta-analytic test of intergroup contact theory. | K5,K4,I3
+W2264769561 B4 10 book Levitsky +1 2010 | Competitive Authoritarianism: Introduction and Theory | B4,K5,B5
+W2243220957 B4 10 book Levitsky +1 2010 | Competitive Authoritarianism: Acronyms and Abbreviations | B4,K5,B5
+W381582087 B4 10 arti Levitsky +1 2001 | Competitive Authoritarianism: Hybrid Regimes after the Cold War | B4,K5,B5
+W3025525792 D1 10 arti Dee 2004 | Are there civic returns to education? | D1,K4,B3
+W2900816330 G3 10 arti Young 2018 | Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingl | G3,G6,I1
+W2323830812 E1 10 arti Lawson +1 2014 | Making Clientelism Work: How Norms of Reciprocity Increase Voter Compliance | E1,G1,J2

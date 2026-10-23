@@ -1,0 +1,55 @@
+http://wrap.warwick.ac.uk 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Original citation: 
+Shadmehr, Mehdi and Bernhardt, Daniel . (2015) State censorship. American Economic 
+Journal : Microeconomics , Volume 7 (Number 2). pp. 280-307. 
+ 
+Permanent WRAP url:  http://wrap.warwick.ac.uk/68350 
+ 
+Copyright and reuse: 
+The Warwick Research Archive Portal (WRAP) makes this work by researchers of the 
+University of Warwick available open access under the following conditions. Copyright ©  and all moral rights to the version of the paper presented here belong to the individual  author(s) and/or other copyright owners. To the extent reasonable and practicable the  material made available in WRAP has been checked for eligibility before being made  available. 
+ 
+Copies of full items can be used for personal research or study, educational, or not-for  profit purposes without prior permission or charge. Provided that the authors, title and  full bibliographic details are credited, a hyperlink and/or URL is given for the original  metadata page and the content is not changed in any way. 
+ 
+Publisher’s statement: 
+Copyright © 2015 by American Economic Association. 
+Citation: Shadmehr, Mehdi, and Dan Bernhardt. 2015. "State Censorship." American 
+Economic Journal: Microeconomics, 7(2): 280-307. 
+Published version: http://dx.doi.org/10.1257/mic.20130221 
+ 
+A note on versions: 
+The version presented here may differ from the published version or, version of record, if  you wish to cite this item you are advised to consult the publisher’s version. Please see  the ‘permanent WRAP url’ above for details on accessing the published version and note  that access may require a subscription. 
+ 
+For more information, please contact the WRAP Team at: publications@warwick.ac.uk 
+
+American Economic Journal: Microeconomics 2015, 7(2): 1–29  http://dx.doi.org/10.1257/mic.20130221
+State Censorship †
+By Mehdi Shadmehr and Dan Bernhardt *
+We characterize a ruler’s decision of whether to censor media reports  that convey information to citizens who decide whether to revolt. 
+We find: (i) a ruler gains (his ex ante expected payoff increases) by  committing to censoring slightly less than he does in equilibrium: his  equilibrium calculations ignore that censoring less causes citizens  to update more positively following no news; (ii) a ruler gains from  higher censorship costs if and only if censorship costs exceed a crit- ical threshold; (iii) a bad ruler prefers a very strong media to a very  weak one, but a good ruler prefers the opposite. (JEL D72, D74, D83)
+W e analyze the strategic choices by a ruler (an authoritarian state) of when to  censor the information available to citizens to avoid revolution. In particular,  we investigate how a ruler’s expected payoffs are influenced by his ability to commit  to a censorship law (censorship strategy); communication technologies that raise cen- sorship costs; and the media’s ability to uncover news about the regime.
+The ruler tries to manage information transmission by preventing dissemination  of unfavorable news by the media to citizens to mitigate the likelihood of revolt. In  practice, most censorship takes this simple form. For example, Tai’s (2014, 195)  analysis of the Chinese government’s directives to the media from March 2007  to April 2013 shows that most of these directives were outright bans on reporting  particular news events. Censoring a news event can benefit a ruler whenever the  likelihood of revolt following that news exceeds that following no news. Citizens  understand a ruler’s incentives to conceal bad news, so they update negatively about  a regime when they see no news, inferring that there might have been bad news that  was censored. In equilibrium, provided that the direct censorship cost is not too  high, there exists a unique threshold level of news such that the ruler censors a news  event if and only if it is worse than that threshold. At the threshold, the gains from  the reduced probability of revolution just equal the direct cost of censorship.
+Moreover, when the media is more likely to uncover politically-relevant news,  the news must be worse for a ruler to censor, as citizens update to conclude that  an absence of news was more likely due to censorship. Thus, in a country with a 
+AQ 1
+* Shadmehr: Department of Economics, University of Miami, 5250 University Drive, Coral Gables, FL 33146 
+(e-mail: shad@miami.edu); Bernhardt: Department of Economics, University of Illinois, 1407 W. Gregory Drive, 
+Urbana, IL 61801 (e-mail: danber@illinois.edu). We thank Raphael Boleslavsky, Ethan Bueno de Mesquita, Odilon 
+Camara, Georgy Egorov, Soroush Ghazi, John Londregan, Paulina Marek, Aya Kachi, Patrick Kuhn, Arturas 
+Rozenas, and participants at the 2010 and 2011 MPSA conferences, and seminars at Caltech, UIUC departments of  economics and political science, University of Miami finance department, University of Kansas economics depart- ment, and Berkeley Haas School of Business for helpful suggestions and comments.
+† Go to http://dx.doi.org/10.1257/mic.20130221 to visit the article page for additional materials and author  disclosure statement(s) or to comment in the online discussion forum.
+AQ 2
+11_MIC20130221_72.indd 1
+3/10/15 6:42 AM
+
+2 
+AMERICAN ECONOMIC JOURNAL: MICROECONOMICS
+MAY 2015 strong media that often uncovers news, a ruler censors only very bad news; while  in a country with a weak media, a ruler censors even modestly bad news. So, too,  when there is more uncertainty about the possible news, a ruler ceases to censor  marginally bad news in order to prevent citizens from drawing inferences that the  news could have been far worse.
+This initial analysis presumes that a ruler cannot commit to a censorship cutoff,  and hence only weighs the direct consequences of censorship decisions. In partic- ular, a ruler does not internalize that even though a freer media is risky because it  raises the probability of revolt following bad news, the gains from improving citi- zens

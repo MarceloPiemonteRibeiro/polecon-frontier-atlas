@@ -1,0 +1,28 @@
+"""Canonical model papers for each mechanism, as (surname, year, title fragment); resolved to atlas ids at build time."""
+
+MODEL_REFS = {
+    "M_median": [("Meltzer", 1981, "Size of Government"), ("Romer", 1975, "Individual Welfare"), ("Roberts", 1977, "Income Tax")],
+    "M_probvote": [("Lindbeck", 1987, "Balanced-Budget Redistribution"), ("Dixit", 1996, "determinants of success"), ("Persson", 2000, "Political Economics")],
+    "M_moralhazard": [("Barro", 1973, "Control of Politicians"), ("Ferejohn", 1986, "Incumbent Performance"), ("Persson", 1997, "Separation of Powers")],
+    "M_selection": [("Fearon", 1999, "Electoral Accountability and the Control"), ("Besley", 2006, "Principled Agents"), ("Banks", 1998, "Optimal Retention")],
+    "M_career": [("Maskin", 2004, "Politician and the Judge"), ("Canes-Wrone", 2001, "Leadership and Pandering"), ("Rogoff", 1990, "Political Budget Cycles")],
+    "M_visibility": [("Mani", 2007, "visibility"), ("Keefer", 2005, "Democracy, Public Expenditures"), ("Harding", 2015, "Attribution and accountability")],
+    "M_citizencand": [("Osborne", 1996, "Citizen-Candidates"), ("Besley", 1997, "Representative Democracy")],
+    "M_commit": [("Acemoglu", 2000, "Extend the Franchise"), ("Acemoglu", 2001, "Theory of Political Transitions"), ("Acemoglu", 2006, "De facto political power"), ("Acemoglu", 2003, "Political Coase")],
+    "M_legbargain": [("Baron", 1989, "Bargaining in Legislatures"), ("Romer", 1978, "Controlled Agendas"), ("Weingast", 1988, "Industrial Organization of Congress")],
+    "M_contest": [("Tullock", 1980, "Efficient Rent Seeking"), ("Skaperdas", 1996, "Contest success")],
+    "M_lobby": [("Grossman", 1994, "Protection for Sale"), ("Becker", 1983, "Pressure Groups"), ("Grossman", 2001, "Special Interest Politics")],
+    "M_collective": [("Olson", 1965, "Logic of Collective Action"), ("Esteban", 2001, "Group Size Paradox")],
+    "M_clientelism": [("Stokes", 2005, "Perverse accountability"), ("Robinson", 2013, "Political Economy of Clientelism"), ("Keefer", 2008, "Democracy, Credibility")],
+    "M_fear": [("Miquel", 2007, "Politics of Fear")],
+    "M_coord": [("Weingast", 1997, "Political Foundations of Democracy"), ("Fearon", 2011, "Self-Enforcing Democracy")],
+    "M_cheaptalk": [("Crawford", 1982, "Strategic Information Transmission"), ("Kamenica", 2011, "Bayesian Persuasion")],
+    "M_media": [("Stromberg", 2004, "Radio's Impact"), ("Besley", 2006, "Handcuffs"), ("Gentzkow", 2006, "Media Bias and Reputation"), ("Mullainathan", 2005, "Market for News"), ("Prat", 2018, "Media Power")],
+    "M_statecap": [("Besley", 2009, "Origins of State Capacity"), ("Besley", 2010, "State Capacity, Conflict"), ("Besley", 2011, "Pillars of Prosperity"), ("Besley", 2020, "reciprocity")],
+    "M_bureau": [("Holmstrom", 1991, "Multitask"), ("Besley", 2005, "motivated agents"), ("Dal B", 2013, "Strengthening State Capabilities")],
+    "M_capture": [("Tiebout", 1956, "local expenditures"), ("Oates", 1972, "Fiscal federalism"), ("Bardhan", 2000, "Capture and Governance")],
+    "M_corruption": [("Shleifer", 1993, "Corruption"), ("Becker", 1974, "Law Enforcement, Malfeasance"), ("Banerjee", 1997, "Theory of Misgovernance"), ("Olken", 2009, "Simple Economics of Extortion")],
+    "M_war": [("Fearon", 1995, "Rationalist Explanations"), ("Powell", 2006, "War as a Commitment"), ("Dal B", 2011, "Workers, Warriors"), ("Chassang", 2010, "Conflict and Deterrence"), ("Collier", 2004, "Greed and Grievance")],
+    "M_culture": [("Bisin", 2001, "Cultural Transmission"), ("Tabellini", 2008, "Scope of Cooperation")],
+    "M_diversity": [("Alesina", 1999, "Public Goods and Ethnic Divisions"), ("Esteban", 2011, "Linking Conflict"), ("Habyarimana", 2007, "Ethnic Diversity Undermine")],
+}

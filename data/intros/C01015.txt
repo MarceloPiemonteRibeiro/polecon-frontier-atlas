@@ -1,0 +1,35 @@
+Bursztyn, Leonardo, Cantoni, Davide, Yang, David Y., Yuchtman, Noam & Zhang, Y.
+Jane (2021) Persistent political engagement: social interactions and the dynamics of protest movements. American Economic Review: Insights, 3(2), 233 - 250. https://doi.org/10.1257/aeri.20200261 https://researchonline.lse.ac.uk/id/eprint/107087/
+Version: Published Version
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+Persistent Political Engagement:
+Social Interactions and the Dynamics of Protest Movements
+Leonardo Bursztyn
+Davide Cantoni
+David Y. Yang
+Noam Yuchtman
+Y. Jane Zhang*
+September 2020
+Abstract
+We study the causes of sustained participation in political movements. To identify the per- sistent effect of protest participation, we randomly, indirectly incentivize Hong Kong univer- sity students into participation in an antiauthoritarian protest. To identify the role of social networks, we randomize this treatment’s intensity across major-cohort cells. We ﬁnd that in- centives to attend one protest within a political movement increase subsequent protest atten- dance, but only when a sufﬁcient fraction of an individual’s social network is also incentivized to attend the initial protest. One-time mobilization shocks have dynamic consequences, with mobilization at the social network level important for sustained political engagement.
+Keywords: Political movements, social interactions
+JEL Classiﬁcation: D74, P0
+*Bursztyn: University of Chicago and NBER. Email: bursztyn@uchicago.edu. Cantoni: Ludwig-Maximilians-
+Universit¨at Munich, CEPR, and CESifo.
+Email: cantoni@lmu.de.
+Yang: Harvard University and NBER. Email: davidyang@fas.harvard.edu. Yuchtman: LSE, NBER, CEPR, and CESifo. Email: n.yuchtman@lse.ac.uk. Zhang:
+University of New South Wales. Email: jane.zhang@unsw.edu.au. Helpful and much appreciated suggestions, cri- tiques and encouragement were provided by Dan Berkowitz, Andrei Shleifer, seminar participants at Amsterdam,
+Cambridge, Columbia, Harvard, Heidelberg, IIES, Imperial, INSEAD, Mannheim, Northeastern, NUS, Oxford, Pom- peu Fabra, Sussex, UC Berkeley, Yale, Zurich, and conference participants (ASSA, NBER SI, SITE, Bruneck, Munich).
+Raymond Han, Moritz Leitner, Jackson Li, Glen Ng, Aakaash Rao, Vanessa Sticher, and Meggy Wan provided excel- lent research assistance. Cantoni acknowledges ﬁnancial support from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement n. 716837). The research described in this article was approved by the University of Munich IRB, protocol 2017-04; by the Stanford University
+Institutional Review Board, Protocol 38481; and, by the University of California-Berkeley Committee for Protection of
+Human Subjects, Protocol ID 2015-05-7571. For further details on IRB approvals please refer to Online Appendix B. The experiment is registered on the AEA RCT registry with ID AEARCTR-0002301.
+1
+
+Protests demanding political rights have been a critical driver of economic, social, and political change for centuries (e.g., Acemoglu and Robinson, 2012, 2019; Aidt and Franck, 2015). While dramatic, one-shot events capture public attention (e.g., the Hungarian Revolution of 1956, or
+Tiananmen Square in 1989), political rights have historically often arisen from successful, long- running movements: sequences of events in which sustained political engagement is important.
+Historically important instances include the women’s suffrage movements, the US Civil Rights movement, or the anti-Apartheid movement in South Africa.
+Political movements have received an enormous amount of attention from across the social sciences (e.g., Tilly, 1978; Skocpol, 1979; McAdam, 1982; Goldstone, 1991; Kuran, 1997). Exist- ing work has argued for the importance of individuals’ sustained engagement, working through social structures (Hirschman, 1984; McAdam, 1986; Tarrow, 2005).1 Up to now, however, there does not exist well-identiﬁed, i.e., experimental or quasi-experimental, evidence on the causes of individuals’ sustained participation in political movements.
+Our paper provides the ﬁrst such evidence. First, we identify the persistent effect of one’s own protest participation by randomly, indirectly incentivizing Hong Kong university students into participation in an antiauthoritarian protest. We do so by paying subjects for providing us with information about protest crowd size; we thus do not pay for protest turnout per se, but behavior conditional on turnout. This allows us to distinguish state dependence — the possibility that participation in one protest causally affects subsequent participation — from serial correlation in preferences.
+We next test whether participation by one’s social network plays a causal role in shaping one’s own persistent protest participation by randomizing the intensity of this treatment across major- cohort cells. Finally, we explore mechanisms through which changed social interactions may gen- erate persistent participation. Given that protests are inherently group events (see, e.g., Passarelli and Tabellini, 2017), we consider changes in friendships, which among other things can affect the social utility arising from protest participation, or reduce coordination costs. We also examine changes in preferences and beliefs (beliefs about the world or beliefs about others), as these are central in many models of protest participation.2
+Our context is Hong Kong’s ongoing antiauthoritarian movement, demanding political rights from the Chinese Communist Party (CCP).3 We study participation in the July 1 marches, yearly protests that represent an important component of Hong Kong’s ongoing antiauthoritarian move- ment. We study the 2017 and 2018 marches: these were peaceful, modestly-sized protests of around 50,000 citizens, aiming both to achieve poli

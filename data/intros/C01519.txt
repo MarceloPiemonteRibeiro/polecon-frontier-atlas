@@ -1,0 +1,38 @@
+http://www.jstor.org
+In Search of Homo Economicus: Behavioral Experiments in 15 Small-Scale Societies
+Author(s): Joseph Henrich, Robert Boyd, Samuel Bowles, Colin Camerer, Ernst Fehr, Herbert
+Gintis, Richard McElreath
+Source: The American Economic Review, Vol. 91, No. 2, Papers and Proceedings of the
+Hundred Thirteenth Annual Meeting of the American Economic Association (May, 2001), pp.
+73-78
+Published by: American Economic Association
+Stable URL: http://www.jstor.org/stable/2677736
+Accessed: 28/08/2008 19:20
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at http://www.jstor.org/action/showPublisher?publisherCode=aea.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed page of such transmission.
+JSTOR is a not-for-profit organization founded in 1995 to build trusted digital archives for scholarship. We work with the scholarly community to preserve their work and the materials they rely upon, and to build a common research platform that promotes the discovery and use of these resources. For more information about JSTOR, please contact support@jstor.org.
+
+In Search of Homo Economicus: Behavioral Experiments  in 15 Small-Scale Societies 
+By JOSEPH HENRICH, ROBERT BOYD, SAMUEL BOWLES, COLIN CAMERER, ERNST FEHR, 
+HERBERT GINTIS, AND RICHARD MCELREATH* 
+Recent investigations have uncovered large,  consistent deviations from the predictions of the  textbook representation of Homo economicus 
+(Alvin E. Roth et al., 1991; Ernst Fehr and 
+Simon Gachter, 2000; Colin Camerer, 2001). 
+One problem appears to lie in economists' ca-  nonical assumption that individuals are entirely  self-interested: in addition to their own material  payoffs, many experimental subjects appear to  care about fairness and reciprocity, are willing  to change the distribution of material outcomes  at personal cost, and are willing to reward those  who act in a cooperative manner while punish-  ing those who do not even when these actions  are costly to the individual. These deviations  from what we will term the canonical model  have important consequences for a wide range  of economic phenomena, including the optimal  design of institutions and contracts, the alloca-  tion of property rights, the conditions for suc-  cessful collective action, the analysis of  incomplete contracts, and the persistence of  noncompetitive wage premia. 
+Fundamental questions remain unanswered. 
+Are the deviations from the canonical model  evidence of universal patterns of behavior, or do  the individual's economic and social environ-  ments shape behavior? If the latter, which eco-  nomic and social conditions are involved? Is  reciprocal behavior better explained statistically  by individuals' attributes such as their sex, age,  or relative wealth, or by the attributes of the  group to which the individuals belong? Are  there cultures that approximate the canonical  account of self-regarding behavior? 
+Existing research cannot answer such ques-  tions because virtually all subjects have been  university students, and while there are cultural  differences among student populations through-  out the world, these differences are small com-  pared to the range of all social and cultural  environments. To address the above questions,  we and our collaborators undertook a large  cross-cultural study of behavior in ultimatum,  public good, and dictator games. Twelve expe-  rienced field researchers, working in 12 coun-  tries on five continents, recruited subjects from 
+15 small-scale societies exhibiting a wide vari-  ety of economic and cultural conditions. Our  sample consists of three foraging societies, six  that practice slash-and-burn horticulture, four  nomadic herding groups, and three sedentary,  small-scale agriculturalist societies. Our results  are described in detail, with extensive ethno-  graphic accounts of the cultures we studied and  citations to the relevant literature, in Henrich et  al. (2001); an extended overview paper is avail-  able online.1 
+We can summarize our results as follows. 
+First, the canonical model is not supported in  any society studied. Second, there is consider-  ably more behavioral variability across groups  than had been found in previous cross-cultural  research, and the canonical model fails in a  wider variety of ways than in previous experi-  ments. Third, group-level differences in eco-  nomic organization and the degree of market 
+* Henrich: School of Business Administration, Univer-  sity of Michigan, Ann Arbor, MI 48109; Boyd and McEl-  reath: Department of Anthropology, University of 
+California at Los Angeles, Los Angeles, CA 90095; 
+Bowles: Department of Economics, University of Massa-  chusetts, Amherst, MA 01003, and Santa Fe Institute; Cam-  erer: Department of Economics, California Institute of 
+Technology, Pasadena, CA 91125; Fehr: Institute for Em-  pilical Research in Economics, University of Ztiiich, Bltim-  lisalpstrasse 10, CH-8006, Zurich, Switzerland; Gintis: 
+University of Massachusetts, Amherst, MA 01003. The  research described in this paper was funded by the 
+MacArthur Foundation's Research Group on the Nature and 
+Origin of Norms and Preferences, directed by Robert Boyd  and Herbert Gintis. The field experiments were calTied out  by Henrich, McElreath, Michael Alvard, Abigail Barr, Jean 
+Ensminger, Francisco Gil-Vhite, Michael Gurven, Kim Hill, 
+Frank Marlowe, John Patton, Natalie Smith, and David Tracer. 
+1

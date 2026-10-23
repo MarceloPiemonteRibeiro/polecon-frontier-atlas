@@ -1,0 +1,55 @@
+UCLA
+UCLA Previously Published Works
+Title
+Immigration and International Law
+Permalink https://escholarship.org/uc/item/5xk4d4mc
+Journal
+International Studies Quarterly, 63(2)
+ISSN
+0020-8833
+Author
+Peters, Margaret E
+Publication Date
+2019-06-01
+DOI
+10.1093/isq/sqy063
+ 
+Peer reviewed eScholarship.org
+Powered by the California Digital Library
+University of California
+
+Immigration and International Law
+Margaret E. Peters∗
+Accepted Version
+July 10, 2019
+Abstract
+At a time when many states are increasing restrictions on immigration, others are using formal agreements on international economic migration to open their borders.
+The use of international agreements on migration is surprising as most states can open their borders to migrants unilaterally. Yet, I argue that when states cannot generate large enough ﬂows of migrants or the right type of migrants to ﬁll open positions in the labor market, they turn to the sending state to help them. States that need migrants can negotiate a bilateral labor agreement with a sending state, which then acts as a recruiter, helping to channel labor to the receiving state. This paper details the conditions under which immigrant receiving countries use these treaties and tests the implications of the argument on a new dataset on migration treaties. This paper increases our understanding of an emerging phenomenon in international law.
+∗Department of Political Science, UCLA. I would like to thank Anna Oltman for her invaluable research assistance. I would also like to thank Allison Carnegie, JeﬀColgan, Luke Condra, Judith Goldstein, Ashley
+Jester, Leslie Johns, Kristina Johnson, Tana Johnson, Andrew Kerner, David Lake, David Leblang, James
+Morrison, Lant Pritchett, Molly Roberts, Adrian Shin, David Steinberg, Paul Poast, Dustin Tingley, Michael
+Tomz, Felicity Vabulas, and audiences at the International Political Economy Society Annual Meeting, the
+Southern Political Science Association Annual Meeting, and at American University for their invaluable comments and suggestions. All errors remain my own.
+
+In recent years, politicians on the right have decried states’ inability to control immi- gration, arguing that immigration is “completely out of control;”1 that countries are under attack from immigrants as “Africa wants to kick down our door;”2 and that the borders need to be secured by the military.3 Immigration, in this view, is a shock that countries must deal with. Much of the International Political Economy scholarship on immigration too has focused on how the public perceives this shock.4
+Yet, this belies the fact that states — and the politicians who run them — not only control migrant ﬂows but also shape them.5
+This paper focuses on how governments have sought to both increase and shape economic migration through the use of international law, much like states have done in trade and in foreign direct investment. While we do not often think of migration as a policy domain that has been heavily legalized, international treaties on migration have been increasingly used by states to manage migration ﬂows.
+One of the most surprising areas of cooperation on migration is in the area of bilateral labor agreements (BLAs) that provide for the movement of workers from one state to another.
+While cooperation on refugee resettlement — a global public good6 — or on preventing and repatriating undocumented immigrants — an area in which wealthy countries pay “hush
+1Boris
+Johnson, https://www.theguardian.com/politics/2016/jun/27/ eu-referendum-reality-check-leave-campaign-promises.
+2Victor Orban, http://www.dw.com/en/hungarys-pm-viktor-orban-warns-of-immigration-threat-at-na a-42999604.
+3Donald
+Trump https://www.cnn.com/2018/04/03/politics/ trump-border-wall-military/index.html.
+4For a review see Hainmueller and Hopkins (2014).
+5For a similar analysis of trade, see Farrell and Newman (2016).
+6E.g. Thielemann and Armstrong (2013).
+2
+ money” to developing states for their cooperation7 — seem like natural areas for cooperation, labor migration may not.8 As Krugman (1997) notes about trade, states should usually be able to open unilaterally and obtain the labor they want, especially in today’s world in which the demand to migrate is high (Gallup 2017) while the supply of legal opportunities to migrate is declining (Peters 2017). Yet, countries have signed 779 BLAs since World War
+II, suggesting that these agreements serve an important function for states.
+I argue that BLAs help ﬁll the gap when a state’s unilateral policy does not bring either the number or kind of workers that it needs. When unilateral policy fails, it opens up space for cooperation. Now, sending states have something — a pool of labor — that receiving states want. Receiving states, then, are willing to give up some control over migration to the sending state and ensure that sending state citizens have greater protections than they may have had without a treaty.
+BLAs help solve two problems that receiving states may face when they open their borders to labor unilaterally. First, there are the opportunity costs of a position going unﬁlled, known as vacancy costs. Vacancy costs increase when a state needs a lot of labor quickly. They can also increase due to the lack of migrant networks from sending states to the receiving state. Because migrants choose their destination based on both economic opportunity and established networks,9 states that may be attractive locations given their wealth may still lack the networks that make migration happen. For example, even though Australia and
+Canada have had similar GDPs per capita, Canada has attracted more migrants because of its proximity to Europe and the Americas. The vacancy problem may be due to the attractiveness of the industry rather than the state. The Bracero program between the US and Mexico, for instance, helped to ensure workers went into agriculture instead of higher
+7E.g. Money (2013).
+8See Betts (2011) for an overview of cooperation on migration.
+9For a

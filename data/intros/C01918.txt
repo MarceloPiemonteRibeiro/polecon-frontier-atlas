@@ -1,0 +1,36 @@
+In this paper we study how transparency, a key feature of central bank design, aﬀects the deliberation of monetary policymakers on the Federal Open Market Committee (FOMC).
+In other words, we ask: what are the eﬀects on internal deliberation of greater external communication? Deliberation takes up the vast majority of the FOMC’s time and is seen by former members as important for the ultimate decision (see Meyer 2004, for example), but yet it remains little studied beyond anecdotal accounts. Determining how monetary policy committees deliberate, and how this depends on central bank design, is therefore important for understanding monetary policy decision making.1 These issues have likely become even more important with the growing establishment of ﬁnancial policy committees and the potential need to share information across central bank committees with diﬀerent objectives.
+As table 1 shows, there is heterogeneity across three major central banks in terms of how detailed are the descriptions of policy meetings that are put on the public record.2
+Current ECB president Mario Draghi has said that “It would be wise to have a richer communication about the rationale behind the decisions that the governing council takes”
+(Financial Times 2013). It is unclear, though, whether a central bank wishing to increase transparency should move to only release minutes, or whether there would be an addi- tional beneﬁt from disclosing full transcripts, as occurs with FOMC meetings. This is precisely the question currently facing the Bank of England, which has just announced a review of its policy to not release transcript information.
+Table 1: Information made available by diﬀerent central banks
+Federal Reserve
+Bank of England
+European Central Bank
+Release Minutes?
+✓
+✓
+X
+Release Transcripts?
+✓
+X
+X
+What is the optimal disclosure policy? Policymakers and academics have identiﬁed potential positive and negative eﬀects of an increase in how much information about the internal workings of a central bank is revealed to the public.
+On the positive side, there is a broad argument that transparency increases the ac- countability of policymakers, and induces them to work harder and behave better. This argument has been explicitly applied to central banking (Transparency International
+1Of course, policy makers’ decisions remain an output of interest, and a growing complementary literature takes observed policy choices in both experimental (e.g. Blinder and Morgan 2005, Lombardelli,
+Proudman, and Talbot 2005) and actual committees (e.g. Hansen, McMahon, and Velasco 2012) and uses them to address central bank design questions.
+2Minutes of the ECB’s governing council meetings are not published, though the monetary policy decision is explained at a press conference led by the ECB President after the meeting. The minutes are supposed to be released eventually after a 30-year lag.
+1
+
+2012), and even the ECB, the least open of the large central banks, states that: “Facili- tating public scrutiny of monetary policy actions enhances the incentives for the decision- making bodies to fulﬁll their mandates in the best possible manner.”3 This eﬀect is often labeled as discipline in agency theory and it arises in the Holmstr¨om (1999) career con- cerns model. The more precise the signal the principal observes about the agent, the higher the equilibrium eﬀort of the agent.
+On the negative side, many observers argue that too much transparency about delib- eration will stiﬂe committee discussion. In fact, before the Fed had released transcripts,
+Alan Greenspan expressed his views to the Senate Banking Committee (our emphasis):
+“A considerable amount of free discussion and probing question- ing by the participants of each other and of key FOMC staﬀmem- bers takes place. In the wide-ranging debate, new ideas are often tested, many of which are rejected ... The prevailing views of many participants change as evidence and insights emerge. This process has proven to be a very eﬀective procedure for gaining a consensus ... It could not function ef- fectively if participants had to be concerned that their half-thought-through, but nonetheless potentially valuable, notions would soon be made public. I fear in such a situation the public record would be a sterile set of bland pronouncements scarcely capturing the necessary debates which are required of monetary policymaking.” Greenspan (1993), as reported in Meade and Stasavage (2008).
+The view that more transparency may lead to more conformity and hence less infor- mation revelation is formalized in the career concerns literature. Greater disclosure can induce experts who are concerned with their professional reputation to pool on actions that are optimal given available public signals even when their private signals would sug- gest that other actions are optimal (Prat 2005). In such circumstances, the principal beneﬁts from committing to a policy of limited transparency.4
+Of course, it is possible that both eﬀects—discipline and conformity—operate simul- taneously, in which case one should ask whether on balance more disclosure improves or worsens information aggregation. We are able to explore these issues by exploiting the natural experiment that led to the release of the FOMC transcripts. Since the 1970s,
+FOMC meetings were tape recorded to help prepare minutes.
+Unknown to commit- tee members, though, these tapes were transcribed and stored in archives before being
+3From http://www.ecb.europa.eu/ecb/orga/transparency/html/index.en.html.
+4Conformity arises when agents wish to signal expertise. Another potential cost of transparency is that policymakers may start pandering to their local constituencies in order to signal their preferences.
+While this may be a concern for the ECB, in the US there is much less regional heterogeneity than in the euro area. In any case, models of preference signalling do not make any clear predictions about the communication measures we study in this paper.
+2

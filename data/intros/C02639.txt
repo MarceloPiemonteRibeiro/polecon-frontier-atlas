@@ -1,0 +1,30 @@
+We demonstrate that voting is rational even in large elections if individ- uals have ‘social’ preferences and are concerned about social welfare. In a large election, the probability that a vote is decisive is small, but the social benefits at stake in the election are large, and so the expected util- ity benefit of voting to an individual with social preferences can be sig- nificant. What is perhaps surprising is that the expected value of the social benefit does not approach zero or even diminish as the number of voters grows large. 
+The key way in which we go beyond a circular argument (of the form
+‘people vote because it gives them positive utility’) is that we consider
+Rationality and Society Copyright © 2007 Sage Publications. Vol. 19(3): 293–314. http://rss.sagepub.com DOI: 10.1177/1043463107077384
+  distribution.
+© 2007 SAGE Publications. All rights reserved. Not for commercial use or unauthorized
+ at CALIFORNIA DIGITAL LIBRARY on September 17, 2007  http://rss.sagepub.com
+Downloaded from 
+ the perceived social benefit not simply as a psychological feature of the individual but as a utility that is proportional to the probability of being pivotal (itself endogenous) and to the number of persons affected by the election under consideration. We believe that this calculation is roughly consistent with the way citizens perceive voting and participation – not simply as a (possibly) enjoyable act or as a discrete duty, but as a poten- tial contribution to the general good. The larger the jurisdiction in which the election applies, the larger the potential effect of the election out- come on the general welfare. 
+Agents in rational-choice models are typically assumed to have ‘self- ish’ preferences. We argue that separating the rationality assumption from the selfishness assumption reveals that (a) the act of voting can be ratio- nal, and (b) a rational voter will decide which candidate or option to vote for based on the voter’s judgment of the expected social consequences of the election outcome as distinct from the direct consequences to that voter.
+We show this for a simple model in which voters decide whether to vote, and how to vote, based on maximizing an expected utility with both self- ish and social terms. 
+More important than explaining that it is rational for people to vote (if they have social preferences) is our observation that, for the very reasons it is rational to vote in a large election, even a mostly selfish person who votes should as a descriptive matter vote for what he or she perceives to be the common good, or at least the good of a large affinity group, but not for direct individual gain. Thus our model explains not just why but also how rational people vote. This voting theory suggests that models of the vote choices of rational individuals should work with social rather than selfish utility functions. Survey findings on voters’motivations are, in fact, broadly consistent with rational models of voting (see Section 4.3). The predictions regarding how people vote may at times be similar for selfish and sociotropic models, of course, to the extent that individuals bias their views of what will help others by what will help themselves. 
+It is well known that voting in large elections cannot be explained in terms of the selfish benefits of voting to the individual: the probability that a vote is decisive is too low for voting to be ‘worth it’in an expected utility sense (see Downs 1957; Riker and Ordeshook 1968; Ferejohn  and Fiorina 1974; Meehl 1977; Aldrich 1993; Green and Shapiro 1994;
+Gelman, King, and Boscardin 1998). Intrinsic theories of voting under- stand voting as an experience that provides psychological benefits, but such explanations do not help us predict variations in voter turnout, such as high turnout in close elections and presidential elections. Nor do they provide guidance in understanding which candidates a voter will prefer. 
+294
+RATIONALITY AND SOCIETY 19(2)
+  distribution.
+© 2007 SAGE Publications. All rights reserved. Not for commercial use or unauthorized
+ at CALIFORNIA DIGITAL LIBRARY on September 17, 2007  http://rss.sagepub.com
+Downloaded from 
+
+We claim that one reason a voter would support George Bush for US
+President in 2000, for example, was because the voter thought that Bush would be better for the country as a whole, even if most Americans did not see that. The voter is not updating based upon the opinions of the other voters in order to judge the quality or social utility of Bush. Instead, we model the voter’s subjective social benefits as proportional to the number of citizens, and independent of the way other citizens vote.1
+As the probability of being pivotal shrinks, people will be less apt  to vote (though there is a feedback here, because as fewer people vote, the chance of being pivotal increases; see Section 2.2). As the stakes and importance of the election increase (say, because candidates are farther apart on the issues or because it is a presidential election), more will vote.
+Likewise, as the cost of voting declines, more people, and importantly more people who are poorly informed, will find it rational to vote.
+Finally, our model predicts that, holding constant these other factors, election size will not substantially influence turnout rates,2 except among very small elections where selfish concerns may play a role. 
+We present our model in Section 2 of this paper and review broadly supporting evidence in Sections 3 and 4. We conclude in Section 5 with a discussion of the implications of our results for vote choices as well as voter turnout, and with a discussion of various possible empirical tests and implications of our model. 
+2. A Social-Benefit Model of Rational Voter Turnout
+2.1. If One Cares about Others, It Can Be Rational to Vote
+We shall develop the following argument: suppose n persons vote in an election that affects a jurisdiction with a population of N; then the ben- efit of having the preferred candi

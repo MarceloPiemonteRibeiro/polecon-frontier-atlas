@@ -1,0 +1,67 @@
+UCLA
+UCLA Previously Published Works
+Title
+Why does ethnic diversity undermine public goods provision?
+Permalink https://escholarship.org/uc/item/2km4r4dn
+Journal
+American Political Science Review, 101(4)
+ISSN
+0003-0554
+Authors
+Habyarimana, James
+Humphreys, Macartan
+Posner, Daniel N. et al.
+Publication Date
+2007-11-01
+ 
+Peer reviewed eScholarship.org
+Powered by the California Digital Library
+University of California
+
+American Political Science Review
+Vol. 101, No. 4
+November 2007
+DOI: 10.1017.S0003055407070499
+Why Does Ethnic Diversity Undermine Public Goods Provision?
+JAMES HABYARIMANA
+Georgetown University
+MACARTAN HUMPHREYS
+Columbia University
+DANIEL N. POSNER
+University of California, Los Angeles
+JEREMY M. WEINSTEIN
+Stanford University
+A large and growing literature links high levels of ethnic diversity to low levels of public goods provi- sion. Yet although the empirical connection between ethnic heterogeneity and the underprovision of public goods is widely accepted, there is little consensus on the speciﬁc mechanisms through which this relationship operates. We identify three families of mechanisms that link diversity to public goods provision—–what we term “preferences,” “technology,” and “strategy selection” mechanisms—–and run a series of experimental games that permit us to compare the explanatory power of distinct mecha- nisms within each of these three families. Results from games conducted with a random sample of 300 subjects from a slum neighborhood of Kampala, Uganda, suggest that successful public goods provision in homogenous ethnic communities can be attributed to a strategy selection mechanism: in similar settings, co-ethnics play cooperative equilibria, whereas non-co-ethnics do not. In addition, we ﬁnd evidence for a technology mechanism: co-ethnics are more closely linked on social networks and thus plausibly better able to support cooperation through the threat of social sanction. We ﬁnd no evidence for prominent preference mechanisms that emphasize the commonality of tastes within ethnic groups or a greater degree of altruism toward co-ethnics, and only weak evidence for technology mechanisms that focus on the impact of shared ethnicity on the productivity of teams.
+A central question in political science is why some communities are able to generate high lev- els of public goods—–low crime, good schools and health care, adequate sanitation, and clean drink- ing water—–whereas others are not. A wave of recent scholarship, undertaken in both developed and de- veloping countries, has identiﬁed ethnic diversity as an important source of variation in these outcomes
+(e.g., Alesina, Baqir, and Easterly 1999; Khwaja 2002;
+Miguel and Gugerty 2005). Yet although the negative association between ethnic heterogeneity and public
+James Habyarimana is Assistant Professor, Georgetown Public Poli- cy Institute, Georgetown University, 3520 Prospect St., Suite 308A,
+Washington, DC 20007 (jph35@georgetown.edu)
+Macartan Humphreys is Assistant Professor, Department of Po- litical Science, Columbia University, 420 West 118th St., #701, New
+York, NY 10027 (mh2245@columbia.edu)
+Daniel N. Posner is Associate Professor, Department of Political
+Science, University of California, Los Angeles, Los Angeles, CA
+90095 (dposner@polisci.ucla.edu)
+Jeremy M. Weinstein is Assistant Professor, Department of Po- litical Science, Stanford University, Encina Hall West, Room 100,
+Stanford, CA 94305 (jweinst@stanford.edu)
+The authors thank
+Claire
+Adida,
+Bernd
+Beber,
+Pepine
+Bulambo, Deo Byabagambi, Elizabeth Carlson, Chris Crabbe,
+Kenneth Ekode, Nathan Falck, Alex Kunobwa, Sylvester Mubiru,
+Douglas Musonga, Winfred Nabulo, Ruth Nagawa, Susan Najjuuko,
+Brenda Nakkazi, Harriet Nambi, Winfred Naziwa, Livingstone
+Ntensibe, Alex Odwong, Alexandra Scacco, Geoff Sentongo, Simon
+Ssenyimba, Elizabeth Suubi, Alex Tindyebwa, Sheila Watuwa and
+Daniel Young for their extraordinary contributions to this project; the Harvard Academy for International and Area Studies, the
+Russell Sage Foundation, and the Harry Frank Guggenheim Foun- dation for ﬁnancial support; Abigail Barr, Robert Bates, Rick
+Wilson, David Laitin, Kanchan Chandra, Alan Gerber, Don Green,
+Elisabeth Wood, Sam Bowles, members of the Laboratory for Com- parative Ethnic Processes, seminar participants at the University of
+Michigan, UCLA, UC Berkeley, UC Davis, MIT, Wharton, North- western, Oxford, Stanford, Caltech, the EPRC (Kampala), and Yale, and three anonymous reviewers for helpful comments on previous versions of this paper. goods provision is widely accepted—–Banerjee et al.
+(2005) go so far as to describe it as “one of the most powerful hypotheses in political economy” (639)—–the speciﬁc channel(s) through which this relationship op- erates remains poorly understood. The literature to date provides a number of plausible hypotheses about the mechanisms that might be at work but little or no research that might permit us to adjudicate among them.
+To address the question of why ethnic diversity un- dermines public goods provision, we identify three ana- lytically distinct families of mechanisms, which we term
+“preferences,” “technology,” and “strategy selection” mechanisms. Various authors have accounted for the relationship between diversity and the underprovision of public goods by invoking one or more mechanisms from these three families (although without using the labels we introduce here). To identify which of these mechanisms is (are) “doing the work” in linking di- versity with the failure of public goods provision, we employ experimental games. We recruit 300 subjects from an area of Kampala, Uganda, characterized by high levels of ethnic diversity and low levels of public goods provision and have these subjects play a series of games, each designed to isolate a different mechanism.
+Subjects play multiple rounds of each game with ran- domized matching—–sometimes with co-ethnics, some- times with non-co-ethnics. We then compare patterns of play am

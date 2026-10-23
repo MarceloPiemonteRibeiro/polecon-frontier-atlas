@@ -1,0 +1,15 @@
+# Large binary/generated data
+pdfs/
+text/
+data/pdfs/
+data/cache/
+
+# Download automation artifacts
+__pycache__/
+*.pyc
+download_run.log
+NUL
+
+# Zotero import helpers
+zotero_bulk_import.ris
+zotero_dois.txt

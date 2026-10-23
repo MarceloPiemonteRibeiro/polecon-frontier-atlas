@@ -1,0 +1,42 @@
+Understanding the causes and consequences of con‡ict is now a major issue in study- ing economic development.1
+However, the relative importance of di¤erent factors in generating con‡ict remains open to debate.
+Perhaps the most robust observation is that con‡icts are most prevalent in poor and weakly institutionalized countries. Many factors which make a country susceptible to con‡ict are, however, slow moving and the two-way causation between con‡ict and development creates a Gordian knot which is hard to unpick.
+Given the weakness of its economic performance in the post-independence period, determinants of con‡ict in Africa are of particular interest.2 Moreover, con‡ict preva- lence in Africa is comparatively high; the Armed Con‡ict Database (ACD) measure of civil con‡ict based on a threshold of 1000 battle deaths suggests that around 8.5% of country years in Africa since 1950 are con‡ict years compared to around 5% of country-years in the rest of the world over the same period.
+But Africa’s history does not begin with colonialism and its legacy. The quote at the start of this paper was an assessment made in 1940 by two leading anthropologists venturing into a comparative analysis of African political organization. As emphasized in Nunn (2008) among many others, slavery and its aftermath was a cornerstone of organized political violence in Africa.
+But standard e¤orts to secure and maintain territory and people also provided incentives for con‡ict, particularly among and within
+Africa’s historical kingdoms.
+Historical research on Africa between 1400 and 1700, summarized in Brecke (1999) and based on written sources, con…rms that con‡ict between its peoples is far from new.3
+Prior to being carved up by colonial powers, Africa was divided into a patchwork of tribal structures and proto-states (historical kingdoms) with heterogeneous political systems.
+Some areas were under forms of territorial control which resembled states.
+1See Blattman and Miguel (2009) for a comprehensive review.
+2See Acemoglu and Robinson (2010), Bates (2008a,b), Collier and Gunning (1999) and Easterly and Levine (1997) for discussions of African economic and political development.
+3See also Reid (2012).
+2
+
+However, other areas were closer to being stateless, some with acephalous forms of political organization.4
+The mantra of colonialism in Africa was “indirect rule”, an attempt to control the hinterland by coopting traditional power structures into colonial administration (see, for example, Lugard, 1922).
+This ensured a degree of continuity between the pre-colonial and post-colonial eras.
+That said, some traditional power structures were weakened by colonialism while others were strengthened.5 The biggest impact on political geography was in the form of well-de…ned borders, initially between the colonial powers and latterly between newly created independent states.
+This paper investigates to what extent the post-colonial period saw a legacy from con‡icts that are documented to have occurred in pre-colonial times.
+We use data from Brecke (1999) to locate 91 con‡icts in Africa between 1400 and 1700. We focus on the data in the period before 1700 since we are interested in con‡icts which predate major European interest in colonizing Africa. We …nd robust evidence that patterns of con‡ict after countries in Africa gained independence are correlated with having had more historical con‡icts within their borders. We also …nd some evidence supporting the view that the mechanism at work may be a diminution in trust, and a weaker sense of national identity.
+Persistent con‡ict may also be due to the interaction between geography, natural resources and patterns of settlement which spawn particular insti- tutional arrangements although we …nd no evidence of a link with weak institutions at a country level.
+All of these factors are likely to make it more di¢ cult to estab- lish cohesive governance arrangements which resolve con‡icts of interest in a peaceful manner.
+We also use data at the sub-national level on con‡icts between 1997 and
+2010 to show that having had an historical con‡ict close by is positively correlated with more recent con‡ict.
+We also show that it is correlated with a lower level of economic development.
+These results are robust to controlling for a wide variety of other historical and geographical features of con‡ict locations.
+This paper belongs to an emerging body of research which traces the historical roots of contemporary economic and political outcomes.6
+Acemoglu, Johnson and
+Robinson (2001) is the landmark contribution which brought to researchers’attention the correlation between historical settler mortality and contemporary income levels and institutions around the world.
+This paper is particularly related to a number of recent studies which have looked
+4See Murdock (1967) who measures state structures above the local level for di¤erent ethnic groups.
+5See Herbst (2000, Chapter 2) for discussion.
+6See Nunn (2009) for an overview of such …ndings.
+3
+ at persistent e¤ects of African history.
+Nunn (2008) …nds a link between patterns of contemporary development in Africa and the location of slave extraction.
+Nunn and
+Wantchekon (2011) trace this to modern day attitudes towards trust in the Afro- barometer survey.
+And Nunn (2010) …nds a correlation between the location of
+Christian missions and modern day outcomes.
+Exploiting historical data on polit- ical geography, Michalopoulos and Papaioannou (2011) examine the consequences of how Africa was partitioned between colonial powers and …nd that partitioned ethnic groups su¤ered greater con‡ict compared to those which have not been impacted by the border partition. Gennaioli and Rainer (2007) …nd a link between the nature of the pre-colonial regime and modern day provision of public goods. Michalopoulos and Pa- paioannou (2013) …nd a link between pre-colonial political centralization and regional economic development. In common with this paper, they emphasize

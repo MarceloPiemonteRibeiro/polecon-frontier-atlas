@@ -1,0 +1,52 @@
+In many growth models based on the discovery of new ideas, the size of the population plays a crucial role. Other things equal, a larger population means more researchers which in turns leads to more new ideas and to higher living standards. This basic fea- ture is shared by the original endogenous growth models of Romer (1990), Aghion and
+Howitt (1992), and Grossman and Helpman (1991) as well as by the semi-endogenous growth models of Jones (1995), Kortum (1997), and Segerstrom (1998) in which stan- dard policies have level effects instead of growth effects. It is a feature of numerous other models.1
+In a recent book entitled Empty Planet, Bricker and Ibbitson (2019) make the case based on a rich body of demographic research that global population growth in the future may not only fall to zero but may actually be negative. For example, the natural rate of population growth (i.e. births minus deaths, ignoring immigation) is already negative in Japan and in many European countries such as Germany, Italy, and Spain
+(United Nations, 2019).
+Figure 1 shows historical data on the total fertility rate for various regions. This measure is the average number of live births a cohort of women would have over their reproductive life if they were subject to the fertility rates of a given ﬁve-year period.
+To sustain a constant population requires a total fertility rate slightly greater than 2 in order to compensate for mortality. The graph shows that high income countries as a whole, as well as the U.S. and China individually, have been substantially below
+2 in recent years. According to the U.N.’s World Population Prospects 2019, the total fertility rate in the most recent data is 1.8 for the United States, 1.7 for China and for
+High Income Countries on average, 1.6 for Germany, 1.4 for Japan, and 1.3 for Italy and Spain. In other words, fertility rates in the rich countries of the world are already consistent with negative long-run population growth: women are having fewer than two children throughout much of the developed world.
+A sharp downward trend in India and for the world as a whole is also evident in the
+ﬁgure. As countries get richer, fertility rates appear to decline to levels consistent, not with a constant population, but actually with a declining population.
+1Examples include Kremer (1993), Acemoglu (1998), Ngai and Samaniego (2011), Doepke and Zilibotti
+(2014), Acemoglu and Restrepo (2018), Akcigit and Kerr (2018), Atkeson and Burstein (2019), and Buera and Oberﬁeld (2019).
+
+2
+CHARLES I. JONES
+Figure 1: The Total Fertility Rate (Live Births per Woman)
+1950
+1960
+1970
+1980
+1990
+2000
+2010
+2020
+2
+3
+4
+5
+6
+World
+India
+China
+U.S.
+High income
+ countries
+LIVE BIRTHS PER WOMAN
+Note: The total fertility rate is the average number of live births a hypothetical cohort of women would have over their reproductive life if they were subject during their whole lives to the fertility rates of a given period and if they were not subject to mortality. Each data point corresponds to a
+ﬁve-year period. Source: United Nations (2019).
+Conventional wisdom holds that in the future, global population will stabilize at something like 8 or 10 billion people. But maybe that is not correct. We surely do not know for certain what will happen in the future. The fact that so many rich countries al- ready have fertility below replacement indicates that a future with negative population growth is a possibility that deserves further consideration.
+The models of economic growth cited above assume a constant or growing popu- lation, and for understanding economic growth historically, that is clearly the relevant case. The demographic evidence, however, suggests that this may not be the case in the future. Hence the focus of this paper: what happens to economic growth if population growth is negative?
+We show below — ﬁrst in models with exogenous population growth and then later in a model with endogenous fertility — that negative population growth can be par- ticularly harmful. When population growth is negative, both endogenous and semi- endogenous growth models produce what we call an Empty Planet result: knowledge and living standards stagnate for a population that gradually vanishes. In a model with endogenous fertility, a surprising result emerges: even the social planner can get stuck in this trap if society delays implementing the optimal allocation and suffers from
+
+THE END OF ECONOMIC GROWTH?
+3 inefﬁcient negative population growth for a sufﬁciently long period. In contrast, if the economy switches to the optimal allocation soon enough, it can converge to a balanced growth path with sustained exponential growth: an ever-increasing population beneﬁts from ever-rising living standards. Policies related to fertility may therefore determine whether we converge to an “empty planet” or to an “expanding cosmos”; they may be much more important than we have appreciated.
+1.1
+Literature Review
+Many models feature endogenous fertility, modeled in a variety of ways. Becker and
+Barro (1988) and Barro and Becker (1989) take an altruistic approach in which the utility of children enters the utility function for parents, giving rise to a dynastic utility function. Papers that follow this approach include Doepke and Zilibotti (2005) and
+Manuelli and Seshadri (2009). Other papers emphasize a “warm-glow” effect in which parents care about the number of their offspring; for example, see De La Croix and
+Doepke (2003), Hock and Weil (2012), and Doepke and Tertilt (2016). Finally, many papers feature a quantity-quality tradeoff and assign a key role to education, often in the context of explaining the demographic transition and the emergence of modern economic growth. These include Becker, Murphy and Tamura (1990), Galor and Weil
+(1996, 2000), Greenwood and Seshadri (2002), and Kalemli-Ozcan (2002).
+On the empirical side, Jones and Tertilt (2008) provide a detailed account of the decline in U.S. fertility using Census data, while Delventh

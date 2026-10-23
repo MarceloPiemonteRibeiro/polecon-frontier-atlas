@@ -1,0 +1,210 @@
+# cid|country|design|finding|mechanisms (+ supports, ~ conditional, - contradicts)|VoxDev finding(s)
+# Source: my reading of the full VoxDevLit text (Ferraz et al. 2026) and slides. Findings paraphrased.
+00000|Brazil|NatExp|Randomly timed release of municipal audit reports before the 2004 election cut re-election of mayors found corrupt; effect larger where local radio exists.|M_selection+,M_media+|F2
+00003|Brazil|RD|Mayors eligible for re-election misappropriate ~27% less than term-limited mayors and attract more discretionary grants before elections.|M_moralhazard+|F1,F2
+00005|Brazil|RD|Electronic voting enfranchised less-educated (mostly illiterate) voters; state health spending rose and infant health improved.|M_median+|F3
+00008|India|Panel|States with higher newspaper circulation and electoral turnover respond more to floods and food shortfalls (public food distribution, calamity relief).|M_media+,M_selection+|F2
+00010|Pakistan|Panel|Politically connected firms borrow more and default more, entirely at government banks; rents rise with the politician's power.|M_corruption+|
+00013|India|NatExp|Randomly reserved female village heads invest more in goods women prioritize (drinking water) and less in those men prioritize.|M_citizencand+|F3
+00015|Paraguay|Survey|Vote buyers target reciprocal voters; reciprocity measured in trust games predicts who receives offers, sustaining vote buying under a secret ballot.|M_clientelism+|F4
+00024|Cross-country|Theory|Elites block growth-enhancing innovation and institutions when change threatens their political power (political replacement effect).|M_commit+|F5
+00025|Chile|NatExp|The 1958 secret-ballot reform reduced landowners' control of rural workers' votes; land prices and left votes shifted, showing votes had been a landholding rent.|M_clientelism+,M_commit+|F4
+00026|Indonesia|Panel|District proliferation and pre-election periods raise illegal logging; more jurisdictions behave like Cournot competitors in extraction.|M_corruption+,M_capture+|F1
+00045|Colombia|Panel|Paramilitaries delivered votes to allied politicians who then supported legislation favorable to paramilitaries; armed actors persist when they help win elections.|M_clientelism+,M_statecap+|F3
+00046|Cross-country|Panel|Democratizations raise GDP per capita by ~20% in the long run, through reforms, schooling, health and lower unrest.|M_median+|
+00052|Theory|Theory|Retrospective voting rules discipline office-holders: voters re-elect if performance clears a threshold.|M_moralhazard+|F2
+00053|India|Survey|Landed elites run clientelist networks that obstruct centrally mandated anti-poverty programs and suppress village wages.|M_clientelism+,M_capture+|F4,F5
+00075|Theory|Theory|With a decisive median voter and linear taxation, redistribution rises with the gap between mean and median income.|M_median+|
+00098|Brazil|Panel|Political connections strongly predict public employment; patronage hires are less competent than non-connected peers.|M_clientelism+,M_bureau+|F6
+00099|Uruguay|RD|Households barely eligible for a cash transfer were markedly more supportive of the incumbent government.|M_visibility+,M_probvote+|F1
+00101|Pakistan|RCT|Performance pay for property-tax collectors raised revenue ~10 log points but also raised bribes for many taxpayers.|M_bureau+,M_corruption+|F6
+00146|Theory|Book|Political agency combines selection and incentives; good government requires institutions that select principled agents and discipline the rest.|M_selection+,M_moralhazard+|F3
+00147|Kenya|Panel|Districts sharing the president's ethnicity got ~2x road spending and ~5x paved roads; favoritism disappears during democratic periods.|M_fear+,M_probvote+|F1
+00148|Brazil|RD|Higher salaries for local legislators attracted more educated, experienced candidates and raised legislative productivity and public goods.|M_citizencand+|F3
+00191|India|Panel|Mandated SC/ST legislative reservation shifted policy toward the group: more ST welfare spending and SC job quotas.|M_citizencand+|F3
+00192|Philippines|Panel|Candidates with larger family networks win more votes; networks are used to target transfers and mobilize voters.|M_clientelism+|F4
+00193|Cross-country|Review|Politician quality depends on returns to office, costs of running and the incentive environment; reviews evidence on selection.|M_citizencand+|F3
+00194|Africa|XC|Democracy raised access to primary schooling (fee abolition) without improving school inputs or quality.|M_visibility+,M_median+|F1
+00223|Sierra Leone|RCT|Letting voters weigh in on primaries made parties pick voters' preferred candidates, with stronger public-goods records.|M_selection+,M_citizencand+|F3
+00224|United States|DiD|The Voting Rights Act raised state education transfers to counties with more newly enfranchised Black voters.|M_median+,M_probvote+|F3
+00225|Cross-country|XC|Young democracies with non-credible politicians rely on clientelism and targeted goods, under-providing public goods.|M_clientelism+|F4
+00262|Russia|Panel|Regional budgets show opportunistic pre-electoral cycles in visible spending in a young democracy.|M_career+|F1
+00263|Brazil|RCT|Randomly assigned water cisterns lowered requests for private favors and support for clientelist incumbents.|M_clientelism+|F4
+00264|Nigeria|Panel|Management autonomy for civil servants is associated with higher project completion; incentives/monitoring practices are not.|M_bureau+|F6
+00325|Pakistan|RCT|Giving procurement officers autonomy from auditors cut prices ~9% with no quality loss; incentives alone did not.|M_bureau+|F6
+00326|Theory|Theory|Elites extend the suffrage when broad public goods benefit them more than targeted transfers they could secure under restricted franchise.|M_median~,M_commit~|
+00329|Brazil|RD|When the ruling party loses, school staff turnover spikes and test scores fall 0.05-0.08 SD.|M_clientelism+,M_bureau+|F6
+00330|India|RD|Electing women to state assemblies lowered neonatal mortality and raised facilities, antenatal care and immunization.|M_citizencand+|F3
+00331|Cross-country|Panel|Political budget cycles are concentrated in new democracies and fade as democracy matures.|M_career+|F1
+00332|Brazil|Survey|Low-income voters prefer cash transfers over education spending, a demand-side reason for low education quality.|M_visibility+|F1
+00333|India|RD|Female legislators raise primary education; gains concentrated in seats reserved for SC/ST.|M_citizencand+|F3
+00334|Cross-country|Review|Reviews distributive politics: targeting of swing vs core voters, clientelism, and pork across countries.|M_probvote+,M_clientelism+|
+00335|Cross-country|Review|Political incentives explain under-provision of quality services to the poor: limited information, identity voting and weak credibility.|M_visibility+|F1
+00336|Africa|DiD|Infant mortality fell after democratization only where elections changed the leader.|M_selection+|
+00337|Indonesia|DiD|Suharto-era appointed mayors kept under democracy provided fewer education and health goods — elite capture persists.|M_commit+,M_capture+|F5
+00338|Theory|Theory|Separation of powers with checks and balances limits rents and strengthens accountability.|M_moralhazard+|F6
+00339|Theory|Book|Unifying treatment of policy under majority voting, probabilistic voting, lobbying and agency.|M_median+,M_probvote+,M_lobby+|
+00340|Theory|Theory|Clientelism persists because politicians can credibly promise only targetable private benefits, often inefficient public jobs.|M_clientelism+|F4
+00443|Brazil|Panel|Bureaucratic quality explains much of mayors' heterogeneous responses to electoral incentives.|M_bureau+,M_moralhazard~|F6
+00447|Afghanistan|RCT|Photographing and posting polling-station tallies reduced theft of materials and vote inflation for connected candidates.|M_corruption+|
+00451|Cross-country|Theory|Policy advice that ignores politics can backfire by shifting power to groups who then block future reform.|M_commit+|F5
+00452|Theory|Theory|Decentralization trades local information against greater vulnerability to capture by local elites.|M_capture+|
+00453|Cross-country|Review|The state is central to development; reappraises the political economy of state capacity and elite capture.|M_statecap+|
+00454|Ecuador|Panel|Firms connected to bureaucrats win more contracts and charge more; welfare losses of 2-6% of procurement.|M_corruption+|F6
+00455|Sierra Leone|NatExp|Radio coverage of candidates increased cross-ethnic voting and induced parties to spread campaign spending more equitably.|M_media+,M_fear~|F2
+00456|Cross-country|Desc|Medical advice quality in low-income countries is poor and varies by provider competence and effort.||F1
+00457|Benin|RCT|Programmatic town-hall campaigns weakened dominant candidates' strongholds and were competitive for non-dominant ones.|M_clientelism~|F4
+00458|India|RD|ST reservation in Scheduled Areas improved NREGS delivery for STs across ~217,000 villages.|M_citizencand+|F3
+00459|Colombia|RD|Mayors financed by campaign donors preside over more deforestation via weaker enforcement against illegal clearing.|M_lobby+,M_corruption+|F5
+00460|Mexico|RCT|Large randomized programmatic programs (Progresa, Seguro Popular) had no electoral returns for the incumbent.|M_visibility-|F1
+00461|Philippines|RCT|Municipalities with full CCT coverage gave the incumbent mayor higher vote shares.|M_visibility+|F1
+00462|Cross-country|Review|Survey of corruption measurement and anti-corruption evidence in developing countries.|M_corruption+|
+00463|Benin|RCT|Clientelist campaign messages won more votes than programmatic ones, especially for incumbents and regional candidates.|M_clientelism+|F4
+00631|Turkey|DiD|Family-medicine reform that brought clinics closer raised incumbent votes where doctor-to-population ratios improved.|M_visibility+|F1
+00637|Nigeria; Sierra Leone; Tanzania|DiD|Water points built just before elections are more likely to work today; pre-election contractors are better.|M_moralhazard+,M_visibility+|F1
+00638|Cross-country|Review|Handbook chapter: accountability failures in developing countries — violence, fraud, clientelism, information.|M_selection+,M_clientelism+|F2,F4
+00650|Theory|Theory|De facto power lets elites offset de jure democratization, producing institutional persistence (captured democracy).|M_commit+|F5
+00651|Cross-country|Review|Reviews determinants of state effectiveness: individuals (bureaucrats) and organizations.|M_bureau+,M_statecap+|F6
+00652|Theory|Theory|Accountability norms can emerge as a sequence of honest leaders shifts beliefs about what voters tolerate.|M_coord+|F5
+00653|Sierra Leone|RCT|Screening candidate debates raised political knowledge, changed votes and later spending by elected MPs.|M_selection+,M_media+|F2
+00654|Puerto Rico|NatExp|Timing of municipal audit disclosure: pre-election audits reduce corruption in the short run but effects vary with re-election prospects.|M_moralhazard~,M_selection+|F2
+00655|Brazil|NatExp|Anti-corruption audits reduced clientelism, especially where audits revealed corruption.|M_clientelism+|F4
+00656|India|RD|Villages receiving a rural road gave the implementing coalition a higher vote share.|M_visibility+|F1
+00657|Theory|Theory|Inefficient transfer forms (projects) are chosen because they disguise transfers to special interests from voters.|M_lobby+|F1
+00658|Africa|Survey|Incumbents and challengers mix intimidation, vote buying and fraud depending on relative strength.|M_clientelism+|
+00659|Nigeria|RCT|A community anti-violence campaign reduced intimidation and raised turnout.|M_coord+|
+00660|United States|DiD|Removing wealth qualifications for office (not suffrage alone) raised spending and elected less elite senators.|M_citizencand+,M_median~|F3
+00661|Indonesia|RCT|Doubling teacher salaries unconditionally raised satisfaction but not effort or learning.|M_bureau~|F1
+00662|India; Pakistan|DiD|Officials tolerate more crop burning when smoke blows across their jurisdiction's border; incentives aligned with residents reduce burning and child mortality.|M_bureau+|F6
+00663|India|RD|Constituencies receiving more rural roads saw no change in incumbent vote share — attribution is very local.|M_visibility~|F1
+00664|Cross-country|Review|Democracy can work for the poor if voters are informed and institutions credible; reviews evidence on information and representation.|M_selection+|F2
+00665|Africa|Panel|Multiparty competition raised primary education spending in 1990s Africa.|M_median+|
+00666|Sao Tome and Principe|RCT|A voter-education campaign against vote buying lowered perceived vote buying and turnout and raised the incumbent's vote share, implying vote buying had helped challengers.|M_clientelism~|F4
+01110|Cross-country|Review|The leading reference: politicians favor visible goods, voters punish more than reward, who governs matters, dependence fuels clientelism, organized providers block reform, bureaucracy mediates.|M_visibility+,M_clientelism+,M_collective+,M_bureau+|F1,F2,F3,F4,F5,F6
+01116|Cross-country|Theory|Development policy has general-equilibrium political effects: reforms change the balance of power and can be reversed.|M_commit+|F5
+01117|Cross-country|Panel|Support for democracy grows where democracy has delivered growth, public goods and stability.|M_coord+|
+01118|Argentina|NatExp|Voters assigned to vote in schools with poor infrastructure punished the education-focused former mayor.|M_visibility+|F1,F2
+01119|Turkey|DiD|Expressway expansion raised the ruling party's vote share as a visible signal of competence.|M_visibility+,M_career+|F1
+01120|Brazil|DiD|Rural electrification (Luz para Todos) was rewarded with a lag, once benefits were tangible.|M_visibility+|F1
+01121|India|RD|Politicians' influence shows up as regulatory favors to firms rather than better delivery or growth.|M_corruption+|F1
+01122|Brazil|NatExp|Being audited reduces future corruption and raises legal penalties; audits deter beyond the electoral channel.|M_corruption+|F2,F5
+01123|India|RCT|Pre-election newspaper report cards made Delhi councillors in slum-heavy wards shift spending toward the poor; private information had no effect.|M_selection+,M_media+|F2
+01124|Cross-country|Review|Decentralization trades local information against elite capture and weak local capacity.|M_capture+|
+01125|India|Panel|West Bengal anti-poverty programs were allocated by local politics; the poorest villages got less.|M_capture+,M_probvote+|F1
+01126|Cross-country|Review|Accountability and capture in decentralized infrastructure delivery.|M_capture+|
+01127|Theory|Theory|Clientelism stabilizes incumbents by tying vulnerable voters to private benefits.|M_clientelism+|F4
+01128|India|NatExp|Private benefits received in the past three years raised incumbent support; a local road program did not.|M_visibility+|F1
+01129|India|NatExp|States raise electricity supply in constituencies holding special elections, more so in contested seats.|M_probvote+|F1
+01130|Pakistan|Panel|Certified civil-service teachers and uncertified contract teachers have similar value added; credentials do not predict quality.|M_bureau+|F5,F6
+01131|Indonesia|DiD|Village election turnover improved local bureaucratic performance by disrupting corruption networks.|M_corruption+,M_selection+|F6
+01132|Pakistan|Panel|Canal water favors districts aligned with the ruling party; downstream flood risk rises with upstream ruling-party seats.|M_probvote+|F1
+01133|Brazil|RD|Female mayors in close races cut Amazon forest loss by about a third without lowering economic activity.|M_citizencand+|F3
+01134|Cross-country|Review|Reforming service delivery requires aligning incentives of providers, politicians and users.|M_bureau+|F6
+01135|Cross-country|Panel|Experiences of growth shape trust in government; erosion of trust follows poor performance.|M_culture+|
+01136|Senegal|RCT|Information on incumbent performance raised support among voters who prioritize local projects; voters are able and mostly willing to use it.|M_selection+|F2
+01137|Cross-country|Book|Typology and causes of electoral malpractice.|M_clientelism+|
+01138|Uganda|RCT|An unconditional cash transfer from the incumbent raised recipients' support for the opposition.|M_clientelism-|F4
+01139|Uganda|RCT|An anti-vote-buying campaign helped opposition challengers defeat incumbents partly by buying more votes themselves.|M_clientelism~|F4
+01140|Brazil|DiD|Voters punished mayors whose schools beat quality targets, seeing it as misplaced effort better spent on health.|M_visibility~|F1,F2
+01141|Ecuador|RD|Ties to the mayor's running mate raise access to public jobs: politically connected hiring.|M_clientelism+|F6
+01142|Ghana|Panel|Electrification targeting depends on the party in power: one targets its base, the other swing voters.|M_probvote+|F1
+01143|Brazil|RD|Municipalities aligned with the president's coalition receive more discretionary infrastructure transfers before elections.|M_probvote+|F1
+01144|Brazil|RD|Bolsa Família conditionality is enforced selectively when it serves aligned mayors; enforcement costs aligned candidates votes.|M_clientelism+,M_visibility+|F1,F4
+01145|Cross-country|Panel|Democratization shifts electricity from industrial to residential users in poor countries.|M_median+|F1
+01146|Cross-country|Review|Accountability reforms in education (information, school-based management, teacher incentives) improve outcomes in specific settings.|M_bureau+|F6
+01147|Brazil|DiD|Presidential and mayoral candidates did better where the Minha Casa Minha Vida housing program was implemented.|M_visibility+|F1
+01148|China|RCT|Public citizen complaints on social media substantially reduced firms' environmental violations.|M_media+|F2
+01149|India|Panel|A norm that electricity is a right sustains non-payment and theft; utilities ration quality, eroding willingness to pay.|M_clientelism+,M_visibility+|F1
+01150|Peru|DiD|Mayors put sanitation investment near polling stations; the pattern vanished when re-election was banned.|M_visibility+,M_moralhazard+|F1
+01151|Pakistan|RD|Governing-party areas get more doctors assigned to rural clinics but no more doctors present.|M_probvote+,M_bureau+|F1,F6
+01152|Pakistan|Panel|Doctors connected to politicians, and those in safe constituencies, are absent more and shielded from sanctions.|M_clientelism+,M_bureau+|F5,F6
+01153|Colombia|Panel|Local politicians manipulate poverty scores to enroll supporters in social programs, most in competitive municipalities.|M_clientelism+,M_probvote+|F4
+01154|Mexico|Desc|Forensic evidence of tally manipulation after counting was centralized in the 1988 presidential election.|M_corruption+|
+01155|Colombia|NatExp|Fiscal-rule austerity cut wasteful spending and raised incumbents' re-election — voters reward less-visible good governance.|M_visibility-|F2
+01156|Cross-country|Review|Politics and policy where state capacity is low: implementation constraints shape what governments can do.|M_statecap+|F6
+01157|India|Panel|ST reservation reduced poverty; SC reservation did not, as SC job quotas benefit the better-off.|M_citizencand~|F3
+01158|Indonesia|DiD|Deforestation rises ~4% in the year before direct mayoral elections; palm oil fuels electoral finance.|M_corruption+,M_career+|F1
+01159|India|RD|Female legislators pass more pro-women legislation; effects depend on caste reservation.|M_citizencand+|F3
+01160|India|Panel|Disaster relief is targeted to election years and contested districts, and voters reward its delivery.|M_probvote+,M_visibility+|F1
+01161|Afghanistan|Panel|Insurgent attacks near polling stations depress turnout.|M_war+|
+01162|Chile|RCT|Letters on poor school test scores cut incumbent votes; letters on good scores brought no matching gain.|M_selection~|F2
+01163|Philippines|RCT|Mayors successfully claimed credit for foreign-aid projects they did not provide.|M_visibility+|F1
+01164|Philippines|Survey|Vote buying is targeted through social networks: central, connected voters receive more offers.|M_clientelism+|F4
+01165|Philippines|RCT|Informing voters of what municipalities could deliver lowered incumbent support, but incumbents bought more votes in response.|M_clientelism+,M_selection~|F4
+01166|Cross-country|Review|Political polarization in developing countries and its consequences for accountability.|M_fear+|
+01167|Brazil|DiD|Municipal splits improved service delivery and long-run activity, especially in neglected peripheries.|M_capture~|
+01168|Cross-country|Panel|Democracies do not outperform autocracies on student test scores across 128 countries.|M_visibility+|F1
+01169|Brazil|RD|A training program for new candidates (RenovaBR) doubled candidacy and improved trained winners' infrastructure delivery and legislating.|M_citizencand+|F3
+01170|Cross-country|Review|Primary care quality in low-income countries is low; the know-do gap reflects effort and incentives.|M_bureau+|F1
+01171|Brazil|Panel|Mayors facing re-election implemented Bolsa Escola so that dropout fell more than under lame ducks.|M_moralhazard+|F2
+01172|South Africa|Panel|Better water and sanitation access is associated with declining incumbent support (pace and completeness matter).|M_visibility~|F2
+01173|Cross-country|Panel|Night lights rise in the national leader's ethnic homeland, partly for electoral reasons.|M_fear+,M_probvote+|
+01174|India|RCT|Biometric monitoring cut health-worker absence and improved infant health, then was abandoned when administrators would not enforce pay deductions.|M_bureau+,M_collective+|F5,F6
+01175|Brazil|DiD|Release of school quality scores raised votes for incumbents with top schools; mayors then invested in the worst schools.|M_selection+|F2
+01176|Colombia|Panel|Municipalities shift spending toward visible capital investment before elections.|M_career+,M_visibility+|F1
+01177|India|RCT|Third-party environmental auditors paid by firms underreported pollution; randomized auditor assignment and pay restored truth-telling.|M_bureau+,M_corruption+|F6
+01178|Malawi|Panel|Politicians target co-ethnics only where groups are residentially segregated enough to make targeting feasible.|M_fear~,M_probvote+|
+01179|Italy|Panel|High-performing public-sector managers raise office productivity, partly by inducing low performers to retire.|M_bureau+|F6
+01180|Brazil|Panel|Municipalities where audits found diverted education funds have lower test scores.|M_corruption+|F1
+01181|Cross-country|Review|Health spending does not translate into outcomes because of weak links in the delivery chain.|M_bureau+|F1
+01182|Brazil|Struct|Electoral incentives explain a large share of how legislators allocate budget amendments across municipalities.|M_probvote+|F1
+01183|Brazil|Panel|Federal legislators direct budget amendments to the municipalities central to their victories.|M_probvote+|F1
+01184|Africa|Panel|Co-ethnics of the national leader get more primary schooling and lower infant mortality.|M_fear+|
+01185|Brazil|DiD|Where Bolsa Família coverage expanded, incumbent support fell, competition rose and fewer clientelist candidates ran.|M_clientelism+|F4
+01186|Brazil|Panel|States allocate water cisterns by mayoral alignment and mayors' capacity to mobilize voters.|M_probvote+,M_clientelism+|F4
+01187|Cross-country|Review|Decentralization in developing economies: theory and evidence on information, capture and capacity.|M_capture+|
+01188|Argentina|DiD|Transferring secondary schools to provinces raised test scores on average but not in poor areas.|M_capture~|F6
+01189|Cross-country|XC|Democracy and political decentralization were historical drivers of schooling expansion.|M_median+|
+01190|Nicaragua|Survey|List experiments reveal far more vote buying than direct questions (social desirability bias).|M_clientelism+|F4
+01191|Senegal|Panel|Incumbents create costly new administrative units as credible signals of future targeted redistribution.|M_probvote+|
+01192|China|DiD|Automating air-quality monitors raised reported pollution ~35%, revealing local manipulation.|M_bureau+|F6
+01193|Uganda|Panel|District proliferation driven by patronage and weakening rival subnational power.|M_clientelism+|
+01194|Cross-country|Review|Reviews government responsiveness in developing countries: information, participation, elections.|M_selection+|F2
+01195|India|RD|NREGS implementation is better where bureaucrats answer to a single politician who monitors more.|M_bureau+,M_moralhazard+|F6
+01196|India|RD|Mandated ST representation in Scheduled Areas slowed deforestation by ~30%.|M_citizencand+|F3
+01197|Cross-country|Panel|Governments resort to election violence when their hold on power is threatened and constraints are weak.|M_commit+|
+01198|Ghana|Panel|Road improvements raise incumbent votes; gains in educational quality do not.|M_visibility+|F1,F2
+01199|Africa|Panel|Democratic elections reduce infant mortality and expand schooling, with gains concentrated in rural majorities.|M_median+,M_probvote+|
+01200|China|RD|Promotion-relevant water monitors at borders produce tight enforcement upstream and lax enforcement downstream.|M_bureau+|F6
+01201|Brazil|NatExp|Politically appointed audit-court judges are more lenient to co-partisan mayors than career judges.|M_corruption+|F6
+01202|Latin America|Book|Forbearance — deliberate non-enforcement against favored groups — works as informal redistribution.|M_probvote+,M_clientelism+|F1
+01203|India|RD|Electing women reduced crop fires and particulate emissions; women leaders weigh child-health costs.|M_citizencand+|F3
+01204|India|Panel|Three decades of SC quotas brought no detectable constituency-level development gains for SCs.|M_citizencand-|F3
+01205|China|Panel|Governors' political connections shift effort toward growth at the expense of pollution control.|M_bureau+|F6
+01206|China|DiD|Adding environmental criteria to cadre evaluation reduced pollution at borders.|M_bureau+|F6
+01207|Pakistan|RCT|Reminding health workers of their services' benefits improved delivery and health outcomes (mission motivation).|M_bureau+|F6
+01208|India|Panel|State governments raise visible spending and lower taxes before elections.|M_career+|F1
+01209|Philippines|Panel|Where vote buying is prevalent, there are fewer health workers and projects and more underweight children.|M_clientelism+|F1,F4
+01210|Cross-country|Review|World Bank report on transparency, citizen engagement and political incentives for development.|M_selection+|
+01211|Cross-country|Book|Comparative framework on clientelist versus programmatic accountability.|M_clientelism+|F4
+01212|South Africa|DiD|Municipalities with more newly enfranchised voters saw faster household electrification after 1994.|M_median+|F3
+01213|Philippines|Panel|Public employment rises before elections and falls after, where incumbents have discretion and competition is intense.|M_clientelism+,M_career+|F1
+01214|Mexico|Panel|Brokers' turnout buying depends on parties' capacity to monitor them with polling-station data.|M_clientelism+|F4
+01215|Mexico|DiD|Audit reports of malfeasance reduce incumbent votes where local media cover them.|M_media+,M_selection+|F2
+01216|Cross-country|Panel|Democracies deliver modestly more water access but fall behind on safe water quality.|M_visibility+|F1
+01217|Brazil|Desc|Case study of Sobral: merit selection of principals, outcome-based resources and patience produced world-class learning.|M_bureau+|F5,F6
+01218|Liberia|Panel|Ebola response resources were allocated by electoral incentives as senatorial elections approached.|M_probvote+|F1
+01219|India|Panel|Village councils channel water aid to aligned, water-stressed villages and reap electoral payoffs.|M_probvote+|F1
+01220|India|Panel|Ruling-party politicians manipulate electricity billing to subsidize their constituencies, causing efficiency losses.|M_corruption+,M_probvote+|F1
+01221|Theory|Theory|Democracy favors visible, targetable goods over less visible public goods whose provision voters cannot observe.|M_visibility+|F1
+01222|Theory|Book|Elections create mandate and accountability representation, both imperfect.|M_selection+,M_moralhazard+|
+01223|Africa|Survey|Nearly half of Afrobarometer respondents fear electoral violence; typology of vote buying, expropriation and stealing.|M_clientelism+|
+01224|China|DiD|Village elections shifted public goods and policy implementation toward villagers' preferences.|M_selection+|
+01225|Africa|IV|Incumbents are rewarded for completing projects in visible sectors but not in others.|M_visibility+|F1
+01226|India|Panel|Electricity line losses rise before state elections and incumbents fare better when they do.|M_clientelism+,M_probvote+|F1
+01227|Cross-country|Book|Democracies deliver more electricity to poor and rural citizens; night lights make delivery visible.|M_visibility+,M_median+|F1
+01228|Ghana|Panel|During the power crisis, supply was restored first to hard-hit, electorally pivotal constituencies.|M_probvote+|F1
+01229|Cross-country|Review|Political decentralization: theory and evidence on accountability and capture.|M_capture+|
+01230|India|RD|Smaller village councils deliver better access to infrastructure and welfare via engagement and selection.|M_capture~,M_selection+|
+01231|Theory|Book|Decentralization theorem: local provision matches heterogeneous preferences.|M_capture~|
+01232|Cross-country|Review|Informed voters can enforce better governance; reviews experiments in low-income democracies.|M_selection+|F2
+01233|Theory|Theory|Inefficient projects (white elephants) serve as credible redistribution to supporters.|M_clientelism+|F1
+01234|Theory|Theory|Democratic decisions over public education shape growth and inequality.|M_median+|
+01235|Liberia|RCT|An education reform that measurably improved schools cost the incumbent party ~3 pp, driven by teachers' discontent.|M_collective+|F5
+01236|Cross-country|Panel|Political budget cycles are larger in developing countries and where voters are less informed.|M_career+|F1
+01237|Cross-country|Review|Clientelism as conditional exchange enforced by brokers and monitoring.|M_clientelism+|F4
+01238|India|Panel|Drought declarations deviate from rainfall rules toward competitive areas; rule-based relief is twice as effective.|M_probvote+|F1
+01239|Theory|Theory|Mobile citizens sort across jurisdictions, revealing preferences for local public goods.|M_capture~|
+01240|Brazil|RD|Politically appointed principals who barely meet targets are less likely to be replaced; patronage can deliver via accountability.|M_clientelism~,M_bureau+|F6
+01241|India|RD|Longer NREGS exposure lowered incumbent vote share, reflecting poor implementation.|M_visibility-|F1
+01242|Brazil|Panel|Bolsa Família raised incumbent presidential votes.|M_visibility+|F1

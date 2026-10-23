@@ -1,0 +1,47 @@
+NBER WORKING PAPER SERIES
+DOES FINANCE BENEFIT SOCIETY?
+Luigi Zingales
+Working Paper 20894 http://www.nber.org/papers/w20894
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+January 2015
+Prepared for the 2015 AFA Presidential Address. While a consultant to the PCAOB, the opinions expressed in this paper are my own and do not necessarily reflect those of the Board or the PCAOB as a whole.
+I wish to thank Sarah Niemann for research assistantship and Nava Ashraf, Luigi Guiso, Oliver Hart,
+Adair Morse, Donatella Picarelli, Raghu Rajan, Guy Rolnick, Paola Sapienza, Amit Seru, Andrei Shleifer,
+Amir Sufi, and Paul Tucker for very valuable comments. The views expressed herein are those of the author and do not necessarily reflect the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peer- reviewed or been subject to the review by the NBER Board of Directors that accompanies official
+NBER publications.
+© 2015 by Luigi Zingales. All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
+
+Does Finance Benefit Society?
+Luigi Zingales
+NBER Working Paper No. 20894
+January 2015
+JEL No. G00,O43
+ABSTRACT
+Academics’ view of the benefits of finance vastly exceeds societal perception. This dissonance is at least partly explained by an under-appreciation by academia of how, without proper rules, finance can easily degenerate into a rent-seeking activity. I outline what finance academics can do, from a research point of view and from an educational point of view, to promote good finance and minimize the bad.
+Luigi Zingales
+Booth School of Business
+The University of Chicago
+5807 S. Woodlawn Avenue
+Chicago, IL 60637 and NBER luigi.zingales@ChicagoBooth.edu
+
+2 
+ 
+For an academic economist the answer to the question raised in the title seems obvious. After all, there are  plenty of theories that explain the crucial role played by finance: from managing risk (Froote et al., 1993)  to providing valuable price signals (Hayek, 1945), from curbing agency problems (Jensen and Meckling, 
+1976) to alleviating informational asymmetries (Myers and Majluf, 1984). Furthermore, there is plenty of  evidence that finance fosters growth (e.g., Levine 2005), promotes entrepreneurship (Guiso et al, 2004; 
+Mollica and Zingales, 2008), favors education (Flug et al., 2008; and Levine and Rubinstein, 2014),  alleviates poverty and reduces inequality (Beck et al., 2007). 
+Yet, this feeling is not shared by society at large. 57% of readers of The Economist (not a  particularly unsympathetic crowd) disagree with the statement that “financial innovation boosts economic  growth.” When asked “Overall, how much, if at all, do you think the US financial system benefits or hurts  the US economy?”, 48% of a representative sample of adult Americans respond that finance hurts the US  economy, only 34% say that it benefits it.1 
+This sentiment is not just the result of the crisis: throughout history finance has been perceived as  a rent-seeking activity. Prohibitions against finance date as far back as the Old Testament.2 The aftermath  of the 2007-08 financial crisis has only worsened this view. From Libor fixing to exchange rate  manipulation, from gold price rigging to outright financial fraud in subprime mortgages, not a day passes  without a news of a fresh financial scandal. After the financial crisis, Americans’ trust towards bankers  has dropped tremendously (Sapienza and Zingales, 2012) and has not yet fully recovered. 
+It is very tempting for us academics to dismiss all these feelings as the expression of ignorant  populism (Sapienza and Zingales, 2013). After all, we are the priests of an esoteric religion, only we  understand the academic scriptures and can appreciate the truths therein revealed. For this reason, we  almost wallow in public disdain and refuse to engage, rather than wonder whether there is any reason for  these feelings. 
+ 
+1 Chicago Booth-Kellogg School Financial Trust Index survey December 2014. The survey, conducted by Social 
+Science Research Solutions, collects information on a representative sample of roughly 1,000 American households. 
+2 "If you lend money to any of my people with you who is poor, you shall not be to him as a creditor, and you shall  not exact interest from him." Exodus 22:24 (22:25 in English trans). 
+
+3 
+ 
+This is a huge mistake. As finance academics, we should care deeply about the way the financial  industry is perceived by society. Not so much because this affects our own reputation, but because there  might be some truth in all these criticisms, truths we cannot see because we are too embedded in our own  world. And even if we thought there was no truth, we should care about the effects that this reputation has  in shaping regulation and government intervention in the financial industry. Last but not least, we should  care because the positive role finance can play in society is very much dependent upon the public  perception of our industry. 
+When the anti-finance sentiment becomes rage, it is difficult to maintain a prompt and unbiased  enforcement of contracts, the necessary condition for competitive arm’s length financing. Without public  support, financiers need a political protection to operate, but only those financiers who enjoy rents can  afford to pay for the heavy lobbying. Thus, in the face of public resentment only the noncompetitive and  clubbish finance can survive. The more prevalent this bad type of finance is, the stronger the anti-finance  sentiment will become. Hence, a deterioration of the public perception of finance risks triggering a  vicious circle, all too common around the world (Zingales, 2012). The United States experienced it after  the 1929 stock market crash and it faces this risk again today. 
+What can we do

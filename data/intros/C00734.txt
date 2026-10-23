@@ -1,0 +1,42 @@
+Immunisation is a highly cost effective way of improv- ing survival in children in developing countries.1 2
+Every year throughout the world, however, an esti- mated 27 million children and 40 million pregnant women do not receive the basic package of immunisa- tions(asdefinedby WHO andUnicef), and twotothree million people die from diseases that can be prevented with vaccines.1 3 Immunisation rates are in part based on official statistics and might be over-reported.4 5 In
+India, immunisation services are offered free in public health facilities, but, despite rapid increases, the immu- nisation rate remains low in some areas. According to the National Family Health survey (NFHS-3), in India only 44% of children aged 1-2 years have received the basic package.6 That drops to 22% in rural Rajasthan, the setting of the present study, and was less than 2% in our study area (a disadvantaged population in rural
+Udaipur) at baseline (according to a more detailed sur- vey instrument than the NFHS-3, that was less likely to overestimate full immunisation rates). Understanding how to improve the uptake of immunisation is impor- tant, not only for existing vaccines but also to maximise the uptake of any new vaccine.
+Reliable supply of free immunisation services and incentives to improve the demand for these services could improve immunisation rates. Previous studies have assessed the effectiveness of financial and non- financial incentives to encourage immunisation and other preventive health behaviours. Non-randomised studies of the measles campaign in Africa suggest that coupling the distribution of vaccines and bed nets increases ownership of bed nets by more than 40 per- centage points,7 8 but the studies did not estimate the programme’s impact on measles vaccination rates. In
+Nicaragua, attendance at an immunisation campaign increased from 77% to 94% when food incentives equivalent to about three to five days of wages were introduced to encourage vaccination in 1985.9 That study, however, was an observational study in which the treatments were sequential rather than contem- poraneous. Conditional cash transfer programmes,
+1Department of Economics,
+Massachusetts Institute of
+Technology, 50 Memorial Drive,
+E52-391, Cambridge, MA 02142,
+USA
+2Abdul Latif Jameel Poverty Action
+Lab, Massachusetts Institute of
+Technology, Cambridge, MA
+3630 West 168th Street,
+Columbia University Physicians and Surgeons Mailbox #67, New
+York, NY 10032, USA
+Correspondence to: E Duflo eduflo@mit.edu
+Cite this as: BMJ 2010;340:c2220 doi:10.1136/bmj.c2220
+BMJ | ONLINE FIRST | bmj.com page 1 of 9
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest
+  on 20 October 2026
+  https://www.bmj.com/
+Downloaded from 
+17 May 2010. 
+10.1136/bmj.c2220 on 
+BMJ: first published as 
+ popular in Latin American countries, have been effec- tive in promoting the use of certain preventive health- care services and have also had a positive impact on health outcomes for women and children.10-13 These programmes, however, did not have a large impact on immunisation rates.14 The lack of impact might be because of high initial immunisation rates in the areas where the programmes were carried out. Most condi- tional cash transfer programmes have been implemen- ted in countries with existing adequate local health infrastructure so evaluations of their impact cannot shed light on the relative cost effectiveness of establish- ing incentive based interventions (versus improving quality of health infrastructure only) in more resource poor settings.10
+We assessed the relative efficacy and cost effectiveness of improving the supply of infrastructure for immunisa- tion only compared with improving supply and simulta- neouslyincreasingdemandthroughtheuseofincentives.
+The study was a partnership between the Abdul Latif
+Jameel Poverty Action Lab (J-Pal) at the Massachusetts
+Institute of Technology and Seva Mandir, a non-govern- mental organisation in Udaipur district.
+METHODS
+We used a clustered randomised controlled trial to evaluate two interventions in rural Rajasthan, India.
+In one intervention (A), regular, well publicised immu- nisation clinics (referred to as “camps”) were held, while in the second intervention (B), similar camps were held and parents were also offered small incen- tives to immunise their children. A third set of villages formed the control group. We used a cluster level design because individual level randomisation could have generated resentment against the non-govern- mental organisation.
+Selection and description of sample
+The main sample comprised 134 villages randomly selected from a Seva Mandir catchment area in Udai- pur by using a computer generated random variable and over-sampling villages far away from a road. We also randomly selected one village within 6 km of each intervention village to measure potential spillover of the interventions.
+Within each village, a household census was con- ducted, and 30 households containing children aged
+0-5 years were randomly selected with a random num- ber generatorto be partof the sample. Thesame house- holds were surveyed again at the end point. The criterion for inclusion of a child in this study was to belong to a sampled household and to be aged 1-3 at the end point of the study (main sample) or to have been aged 0-6 months at baseline (baseline cohort).
+As Seva Mandir works in poorer and more tribal villages, the villages selected are not representative of
+Udaipur in general but are representative of Seva Man- dir’s catchment area, an impoverished area where health status is poor.15 The public facilities serving these areas are characterised by high absenteeism: weekly visits during the year preceding the intervention showed that 45% of the health staff in charge of immunisations (auxiliary nurse midwives) were absent from their village level health centre (and could not be found anywhere in the village) on any

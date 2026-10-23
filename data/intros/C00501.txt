@@ -1,0 +1,72 @@
+NBER WORKING PAPER SERIES
+THE LIMITS OF MERITOCRACY:
+SCREENING BUREAUCRATS UNDER IMPERFECT VERIFIABILITY
+Juan Carlos Suárez Serrato
+Xiao Yu Wang
+Shuang Zhang
+Working Paper 21963 http://www.nber.org/papers/w21963
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+February 2016, Revised May 2019
+Previously circulated as "The Limits of Political Meritocracy: Screening Mayors in China Under 
+Imperfect Verifiability." We thank the editor and two anonymous referees for very useful  suggestions. We are also grateful to Douglas Almond, Kehinde Ajayi, Attila Ambrus, Abhijit 
+Banerjee, Pat Bayer, Charlie Becker, Prashant Bharadwaj, Allan Collard-Wexler, Julie Cullen, Esther 
+Duflo, Pascaline Dupas, Erica Field, Raquel Fernandez, Fred Finan, Rob Garlick, Bob Gibbons, Gopi 
+Goda, Cynthia Kinnan, David Lam, Danielle Li, Hugh Macartney, Matt Masten, Michael Powell, 
+Nancy Qian, Debraj Ray, John van Reenen, Orie Shelef, Erik Snowberg, Duncan Thomas, Chris 
+Udry, Daniel Xu, Xiaoxue Zhao, and participants in the NBER/BREAD Fall Development 
+Meetings, the Duke Labor/Development seminar, the Colegio de Mexico seminar, the 2015 World 
+Congress of the Econometric Society, the 2015 Society for the Advancement of Economic Theory, 
+NEUDC Brown, the Stanford GSB PE seminar, the NYU Development seminar, and the MIT Sloan 
+Organizational Economics seminar for helpful comments. This paper was previously circulated  under the title “The One Child Policy and Promotion of Mayors in China.” Suárez Serrato and Zhang  thank the Stanford Institute for Economic Policy Research (SIEPR) for financial support. Suárez 
+Serrato gratefully acknowledges support from the Kauffman Foundation. We thank Pawel Charasz, 
+Stephanie Karol, Han Gao, Matt Panhans, and Victor Ye for providing excellent research  assistance. The views expressed herein are those of the authors and do not necessarily reflect the  views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peer- reviewed or been subject to the review by the NBER Board of Directors that accompanies official 
+NBER publications.
+© 2016 by Juan Carlos Suárez Serrato, Xiao Yu Wang, and Shuang Zhang. All rights reserved. Short  sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided  that full credit, including © notice, is given to the source.
+
+The Limits of Meritocracy: Screening Bureaucrats Under Imperfect Verifiability 
+Juan Carlos Suárez Serrato, Xiao Yu Wang, and Shuang Zhang
+NBER Working Paper No. 21963
+February 2016, Revised May 2019
+JEL No. D23,D73,D86,M12,M51,O12,O15,O53,P23,P26,P48
+ABSTRACT
+Does bureaucratic ability predict promotion in governments? We show that self-reported  performance in enforcing the One Child Policy predicts mayoral promotion in China. However,  misreporting handicaps screening—a non-manipulated performance measure does not predict  promotion. We show that this is consistent with a model where a government has a meritocratic  objective but underestimates the imperfect verifiability of performance, rather than a model  where a government is only interested in the illusion of meritocracy. Thus, despite meritocratic  intentions, we challenge the notion that a successful promotion system effectively substituted for  democratic institutions in explaining Chinese growth.
+Juan Carlos Suárez Serrato
+Department of Economics
+Duke University
+213 Social Sciences Building
+Box 90097
+Durham, NC 27708 and NBER jc@jcsuarez.com
+Xiao Yu Wang
+Department of Economics
+Duke University
+213 Social Sciences Building
+Box 90097
+Durham, NC 27708 and NBER xy.wang@duke.edu
+Shuang Zhang
+Department of Economics
+University of Colorado Boulder
+UCB 256
+Boulder, CO 80302 shuang.zhang@colorado.edu
+
+The Limits of Meritocracy:
+Screening Bureaucrats Under Imperfect Veriﬁability∗
+Juan Carlos Suárez Serrato
+Xiao Yu Wang
+Duke University & NBER
+Duke University & NBER
+Shuang Zhang†
+University of Colorado Boulder
+May 22, 2019
+Abstract
+Does bureaucratic ability predict promotion in governments? We show that self-reported performance in enforcing the One Child Policy predicts mayoral promotion in China. However, misreporting handicaps screening—a non-manipulated performance measure does not predict promotion. We show that this is consistent with a model where a government has a meritocratic objective but underestimates the imperfect veriﬁability of performance, rather than a model where a government is only interested in the illusion of meritocracy. Thus, despite meritocratic intentions, we challenge the notion that a successful promotion system eﬀectively substituted for democratic institutions in explaining Chinese growth.
+JEL Codes: D23, D73, D86, M12, M51, O12, O15, O53, P23, P26, P48.
+∗We thank the editor and two anonymous referees for very useful suggestions. We are also grateful to Douglas
+Almond, Kehinde Ajayi, Attila Ambrus, Abhijit Banerjee, Pat Bayer, Charlie Becker, Prashant Bharadwaj, Allan
+Collard-Wexler, Julie Cullen, Esther Duﬂo, Pascaline Dupas, Erica Field, Raquel Fernandez, Fred Finan, Rob Garlick,
+Bob Gibbons, Gopi Goda, Cynthia Kinnan, David Lam, Danielle Li, Hugh Macartney, Matt Masten, Michael Powell,
+Nancy Qian, Debraj Ray, John van Reenen, Orie Shelef, Erik Snowberg, Duncan Thomas, Chris Udry, Daniel Xu,
+Xiaoxue Zhao, and participants in the NBER/BREAD Fall Development Meetings, the Duke Labor/Development seminar, the Colegio de Mexico seminar, the 2015 World Congress of the Econometric Society, the 2015 Society for the Advancement of Economic Theory, NEUDC Brown, the Stanford GSB PE seminar, the NYU Development seminar, and the MIT Sloan Organizational Economics seminar for helpful comments. This paper was previously circulated under the title “The One Child Policy and Promotion of Mayors in China.”
+Suárez Serrato and Zhang thank the Stanford Institute for Economic Policy Research (SIEPR) for ﬁnancial support. Suárez S

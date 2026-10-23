@@ -1,0 +1,31 @@
+With nearly half of the world’s extreme poor, fragile states pose many of the greatest development challenges.1 The origins of state capacity have thus become a focus of recent theoretical and empirical work.2 The ability to tax, the “hallmark of the state,” is deemed especially important for development (Kaldor 1963;
+Besley and Persson 2013). Taxation enables the state to provide public goods, and it is thought to create a participation dividend by stimulating political engagement among citizens in states with a broken social compact. This article tests if taxation increases par- ticipation in fragile states by examining the randomized rollout of the ﬁrst large-scale citizen tax campaign in Kananga, Democratic
+Republic of Congo (DRC).
+The supposedly catalytic role of tax collection on political par- ticipation is a centerpiece in many accounts of state development in early modern Europe. When rulers began systematically solic- iting their subjects for taxes, it triggered new demands for public goods and representation (Schumpeter 1918; Tilly 1985).3 Citizens resisted paying taxes until rulers made concessions. This process of “tax bargaining” between citizens and the state is thought to un- derlie the joint emergence of participation in politics, tax compli- ance, and accountable governance.4 “In exchange for the greater say in government... [citizens] agreed to provide sufﬁcient tax rev- enue” (North and Weingast 1989, 817). The slogan “no taxation without representation” captures the intuition.
+Given this potential for taxation to promote inclusive gover- nance, donors and policy makers increasingly support domestic revenue mobilization in poor countries with weak and unaccount- able states, which collect around 10% of GDP in tax compared with 40% in developed countries.5 However, we lack rigorous
+1. See, for example, the 2011 World Development Report (World Bank 2011).
+2. On theory, see Besley and Persson (2009), Fukuyama (2011), Acemoglu and Robinson (2019); on empirics, see Sanchez de la Sierra (2020), Dittmar and
+Meisenzahl (2020), Cantoni, Mohr, and Weigand (2019).
+3. Faced with rising costs of war, rulers could no longer rely on traditional revenue sources (land rents, sales of venal ofﬁces, seignorage), so most began broadening the tax base and systematizing collection in this period (Brewer 1990;
+Gennaioli and Voth 2015; Cantoni, Mohr, and Weigand 2019).
+4. Bates and Lien (1985), Hoffman and Rosenthal (1997), Moore (2004), and
+Prichard (2015) theorize tax bargaining, and Brautigam, Fjeldstad, and Moore
+(2008) discuss a broader governance dividend of taxation.
+5. For instance, the Organisation for Economic Co-operation and Develop- ment noted “Tax reforms can ... enhance accountability between citizens and the
+Downloaded from https://academic.oup.com/qje/article-abstract/doi/10.1093/qje/qjaa019/5851770 by London School of Economics user on 22 July 2020
+
+THE PARTICIPATION DIVIDEND OF TAXATION
+3 evidence on the causal link between tax collection and partici- pation because it is seldom random who is inside and outside the tax net. It is also not obvious that citizens would choose to engage more with a state seeking to tax them. Citizens might prefer to evade quietly, or move elsewhere (Tiebout 1956; Scott 2017).
+I investigate the supposed participation dividend of tax col- lection in a weak state seeking to register and tax the majority of its citizens for the ﬁrst time. In 2016, the Provincial Government of Kasa¨ı Central launched the ﬁrst citywide citizen tax campaign in the city of Kananga in an effort to raise property tax revenues.
+To facilitate evaluation, the government randomized the rollout of the campaign across the city’s 356 neighborhoods (covering more than 27,000 properties). In treated neighborhoods, tax collectors went door to door (i) registering property owners and assigning unique tax ID numbers (written on a house wall); and (ii) mak- ing in-person appeals for the property tax, which they collected on the spot, issuing printed receipts to payers. Control neighbor- hoods remained in the old “declarative” system: property owners were in theory meant to go to the tax ministry to pay, but com- pliance was near zero because the government had never before tried to enforce the tax beyond a handful of commercial properties downtown.6
+I estimate the reduced-form impact of this campaign—that is, of being registered by the state and asked to pay the property tax. Given that states invariably need to collect information about potential taxpayers before they can try to tax them, the campaign is a treatment bundle of theoretical and policy interest.7 state” (OECD 2010, 3). Similarly, the International Monetary Fund wrote “Bring- ing small businesses into the tax net can help secure their participation in the political process and improve government accountability” (IMF 2011, 40). The UK
+Department for International Development (DFID) (2016) shows expanding donor support in this area. Pomeranz and Vila-Belda (2019) review key lessons from recent work on domestic revenue mobilization.
+6. Before the campaign, every ﬁfth property in control (and treatment) received
+ﬂiers providing information about property tax collection. The control group is thus not a “pure” control but the relevant control because the ﬂiers hold constant information about the campaign and thus help isolate the effect of being registered and solicited for taxes by the state for the ﬁrst time.
+7. The importance of information as a precondition of tax enforcement is emphasized in accounts of historical state building (Brewer 1990; Ertman 1997;
+Scott 1998) as well as recent literature in public ﬁnance and development (Kleven et al. 2011; Pomeranz 2015).
+Downloaded from https://academic.oup.com/qje/article-abstract/doi/10.1093/qje/qjaa019/5851770 by London School of Economics user on 22 July 2020
+
+4
+THE QUARTERLY JOURNAL OF ECONOMICS
+I ﬁrst examine if the campaign achieved the government’s goal of registering t

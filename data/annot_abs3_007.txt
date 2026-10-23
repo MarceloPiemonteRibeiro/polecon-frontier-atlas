@@ -1,0 +1,25 @@
+# round 3, batch_007
+W2018678655|United States|Survey|Members of Congress are more extreme than their constituents, and party turnover replaces one extremist with another: leapfrog representation.|M_median-|
+W2110537446|Cross-country|Desc|The Database of Political Institutions codes checks and balances, tenure, party affiliation and fragmentation for 177 countries.||
+W2149899514|Theory|Theory|Nation size trades scale benefits against heterogeneity costs; democratization brings secession and too many countries.|M_diversity+,M_median+|
+W2787428229|Theory|Theory|Electoral rules and regime type shape the size and composition of government through targeting and accountability.|M_probvote+,M_moralhazard+|
+W2494707969|Cross-country|Book|Electoral formula, district magnitude and thresholds determine proportionality, multipartism and manufactured majorities in 27 democracies.||
+W1525367507|Theory|Book|Country size reflects a trade-off between economies of scale and heterogeneous preferences, explaining state formation under globalization.|M_diversity+|
+W2079694060|Theory|Theory|Electoral laws differ in centripetal versus centrifugal incentives, extending the median-voter result to many systems.|M_median~|
+W2170674684|Cross-country|XC|Larger districts lower corruption while voting over party lists raises it; PR overall goes with more corruption.|M_moralhazard+,M_selection+|
+W1995643388|Theory|Theory|Ballot control, intra-party vote pooling and vote type rank electoral formulas by incentives to cultivate a personal vote.|M_moralhazard~|
+02241|Cross-country|Review|Political economy explains debt through fiscal illusion, strategic debt, distributional conflict, wars of attrition and rent-seeking.|M_commit+,M_collective+|
+W1971301429|Theory|Theory|A stubborn conservative government that expects replacement borrows more to constrain its free-spending successor.|M_commit+|
+W2030172216|Cross-country|Panel|Left governments deliver lower unemployment and higher inflation than right governments, serving their core constituencies.|M_citizencand+|
+W3121164501|Theory|Theory|Legislatures cycle between pork-barrel bargaining and responsible policymaking; taxes and debt are too high and public goods too low.|M_legbargain+|
+W2046764142|Theory|Theory|Capital mobility favours capital owners and shifts political conflict toward exchange-rate stability versus monetary autonomy.|M_lobby+|
+W2133339157|Cross-country|Panel|Globalization strengthened, rather than eroded, the link between left–labour power and redistributive policy.|M_collective+,M_citizencand+|
+W2029167274|Theory|Theory|Protection raises the real return of the scarce factor (labour in capital-rich countries).|M_lobby+|
+W2153031274|Theory|Theory|International agreements must be ratified domestically, so negotiators play two-level games constrained by domestic coalitions.|M_legbargain+|
+W1982508871|Theory|Theory|In endogenous-tariff models, lobbying and electoral competition over tariffs absorb resources in general equilibrium.|M_lobby+,M_contest+|
+W2171740630|Cross-country|Book|Changes in trade exposure drive class versus urban–rural cleavages depending on factor endowments.|M_lobby+|
+W2165819037|Cross-country|Panel|Democracies are twice as likely as autocracies to form trade agreements, and democratic pairs four times as likely.|M_commit+|
+W1552956615|Cross-country|Survey|The education–free trade link reflects exposure to economic ideas in college, not skill-based self-interest.|M_culture+,M_median-|
+W1488792619|Theory|Theory|Majority voting by factor owners determines endogenous tariffs, which reflect ownership distributions and voting costs.|M_median+,M_lobby+|
+W2047606409|Theory|Theory|Trade-dependent democracies adopt PR, parliamentarism, strong parties and large districts because they insulate policy from protectionist pressure.|M_lobby+,M_commit+|
+W2055804518|Cross-country|Panel|Liberalizing international financial regulation correlates with faster growth, higher corporate taxes and spending, and inequality.||

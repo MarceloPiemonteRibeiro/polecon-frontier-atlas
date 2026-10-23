@@ -1,0 +1,63 @@
+MORAL HAZARD, FINANCIAL CONSTRAINTS 
+AND SHARECROPPING IN EL OULJA 
+Jean-Jacques Laffont and Mohamed Salah Matoussi 
+California Institute of Technology 
+Pasadena, California 91125 
+Following A. Smith, all the economists until G. Johnson (1950) have considered  sharecropping as a "practice which is hurtful to the whole society," an unexplained failure of the  invisible hand that should be either discouraged by taxation (A. Smith) or slightly improved by  appropriate sharing of variable factors (Schickele (1941) and Heady (1947)). 
+G. Johnson (1950) starts from the empirical observation that "the deviations from optimum 
+(induced by crop share contracts) are not immediately obvious from a cursory examination of 
+American farms operating under different types of tenure arrangements." He then argues that the  landlord can approach the desired intensity of cultivation  by detailed contracting and monitoring,  by providing other inputs and keeping the size of the individual unit small to decrease (by an  income effect) the farmer's marginal disutility of labor,  by the use of short term leases (game theory has only recently formalized this idea in repeated  moral hazard models). 
+However, he admits that theory does not quite explain why sharecropping contracts can do  as well as rental contracts. 
+The next step1 in the understanding of sharecropping was achieved by stressing the risk  aversion of tenants. The rental contract does not provide an appropriate sharing of risk. 
+Sharecropping results from the trade-off between incentives and risk sharing (Stiglitz (1974), see  also Newbery (1977)). A positive role for sharecropping was finally found as a second best way of  inducing effort by risk averse tenants. Braverman and Stiglitz (1982) extended this insight by  showing, as second best theory suggests, that the landlord should intervene in all the markets (credit  market or input market) in which the tenant transacts to mitigate the inefficiency resulting from the  above trade-off. 
+In this paper we would like to argue that too much emphasis has been put on risk aversion as  an explanation of sharecropping. Instead, we would like to stress the combination of moral hazard  and financial constraints as an explanation of sharecropping. 
+Section 2 describes the data we will be using to support our theory. Section 3 provides a  model with financial constraints only, which is confronted with data. A more satisfactory model  with moral hazard and financial constraints is constructed in Section 4. Production functions 
+
+2  including an effort variable are estimated. Risk aversion is discussed in Section 5. Section 6  extends the analysis and the estimations to the case where the landlord's financial constraint may be  binding. Section 7 provides some comments on the historical increase of sharecropping since 1970. 
+Our findings are summarized in section 8. 
+2. The Data 
+The survey carried out with the help of the Tunisian National Institute for Statistics has been  conducted in September-October 1986 in a rural area known as El Oulja, 40 miles west of Tunis. 
+One hundred families have been concerned with the survey which includes three types of data. 
+(i) 
+General information about the families with, in particular, the number of days worked in  agriculture. 
+(ii) 
+Information for each plot of land defined as a piece of land where only one type of crop is  carried out each season. Data include size of plot, type of crop, type of labor contract used 
+(either wage contract, fix rent contract or sharecropping contract), production levels, precise  amounts of labor inputs as well as precise amounts of other inputs. 
+(iii) 
+Wealth and income data for each family. 
+3. Contracting with Financial Constraints 
+The production function of an elementary piece of land, called a plot, is written:  y = ! (le , x) + e  f increasing and concave 
+(1)  where y is output, l is the amount of labor input, e is the average level of effort applied to these  units of labor (le = f is labor in efficiency units), x is the amount of other material inputs, and e is a  zero mean random variable. 
+Land is owned by landlords who contract with tenants to organize production. A general  contract is defined by three numbers (a, Å. r) which are, respectively, the share of the product kept  by the tenant, the share of material inputs paid by the tenant and the sure payment made by the  tenant to the landlord. This general form of contract encompasses all types of contracts used. 
+A pure rental contract (RC) is associated with a = 1, Å = 1, and r > 0. 
+A pure wage contract (WC) is associated with a= 0, Å = 0, and r < 0. 
+A pure sharecropping contract (SC, a;Å) is associated with a e (0, 1), Å e (0, 1) and r = 0.2 
+If we denote 'Jf(le ), 'JI
+, > 0, 'JI
+,, > 0 the disutility of labor for the tenant, his utility level for a  contract (a, Å. r) is, assuming risk neutrality:  af (le , x) -Åx -'Jf(le ) -r. 
+Assuming also risk neutrality for the landlord, the efficient contracts are the solution of the  program: 
+Max (1-a)/ (f,x)-(1-Å)x + r 
+(2) 
+
+3 
+S.T.  af (l,x)-13x -\jl(l) - r = u 
+(/..)  where u is the alternative level of utility that the tenant can achieve. The interior first order  conditions of this program are  or  a1 
+A 
+[ a1 
+A 
+' Al 
+(1-a) -A (l,x)+/.. a -A (l,x)-\jl (l) = 0  az  az 
+(I - a)  (f,x)-(1-Å)+A[ a (f,x)-Ål = O 
+1-/..= 0  a1 
+A 
+' A  a1 
+A 
+-A (l ,x) = \jl (l) and - (l ,x) = 1  az  ax  i.e., the efficient allocation of resources.  i.e., 
+If f *, x * denote the efficient allocation of resources (a, 13, r) must be chosen so that:  af (l*,x*)-j3x* - \jl(l*)-r = u  a= l,13= 1  a= 0,13= 0  r = f (l*,x*)-13x* -v(f*) - u  r = -u - \jl(l*)  for a RC  for a WC  any combination a, 13 satisfying (8) with r = 0 for a SC. Any type of contract can therefore fulfill  these conditions. 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+Let us assume that because of imperfections in the credit market, the working capital R of  the tenant is limited. In def

@@ -1,0 +1,30 @@
+American Economic Review 2012, 102(1): 202–237 http://dx.doi.org/10.1257/aer.102.1.202
+202
+One should always subordinate his own personal views, whether they be  economic, social, political, or whatever they may be, because when you  are talking about your own views you are only one of millions of individu- als in the country. When you are interpreting the law, perhaps you have  a special skill and special training that does give you the right to pass  on these questions. I have to confess that in this open area, sometimes  inevitably, a man is the product of his own background, and he may be  somewhat influenced. But I will do my very best to subordinate those con- siderations because I think that is the duty of any judge.
+—
+— Justice John Stevens, in his Senate confirmation hearing
+It is a commonplace, in the press and popular discussions, to characterize the 
+Supreme Court in terms of the ideological divisions among its members. In the Roberts 
+2006–2009 court, for example, Chief Justice Roberts and Justices Scalia, Thomas,  and Alito are typically thought of as the Court’s conservative wing, while Justices 
+Kennedy and O’Connor are depicted as moderates, and Justices Stevens, Ginsburg,  and Breyer as part of the Court’s liberal wing.
+This ideological characterization of the court can be a useful starting point in ana- lyzing the behavior of Supreme Court justices. But a purely ideological account is 
+The Value of Information in the Court: 
+Get it Right, Keep it Tight†
+By Matias Iaryczower and Matthew Shum*
+We estimate an equilibrium model of decision making in the US 
+Supreme Court that takes into account both private information  and ideological differences between justices. We measure the value  of information in the court by the probability that a justice votes  differently from how she would have voted without case-specific  information. Our results suggest a sizable value of information: in 
+44 percent of cases, justices’ initial leanings are changed by their  personal assessments of the case. Our results also confirm the  increased politicization of the Supreme Court in the last quarter  century. Counterfactual simulations provide implications for institu- tional design. (JEL D72, D82, D83, K10)
+* Iaryczower: Department of Politics, Princeton University, 037 Corwin Hall, Princeton, NJ 08544 (e-mail:  miaryc@princeton.edu); Shum: Division of Humanities and Social Sciences, California Institute of Technology, 301D 
+Baxter Hall, Pasadena, CA 91125 (e-mail: mshum@caltech.edu). We thank anonymous referees for their insight- ful comments and suggestions. We also thank Ernesto Dal Bo, Joshua Fischman, John Matsusaka, Jean-Laurent 
+Rosenthal, and participants at the 21st Stony Brook Game Theory Festival and the Empirical-Micro Workshops at 
+Claremont-McKenna College, UPenn, USC, and Vanderbilt University for useful comments to previous versions of the  paper. NSF grants SES-1061326 (Iaryczower) and SES-1061266 (Shum) are gratefully acknowledged.
+† To view additional materials, visit the article page at http://dx.doi.org/10.1257/aer.102.1.202. The title follows  words from Justice Ruth Ginsburg, “If confirmed, I will take the counsel to heart and strive to write opinions that  both ‘get it right’ and ‘keep it tight’ ” (statement submitted to the Senate Committee on the Judiciary).
+
+203
+Iaryczower and Shum: The Value of Information in the Court
+VOL. 102 NO. 1 incomplete at best. Judging entails deciding what was decided; it requires understand- ing the case under consideration, understanding the body of the law, and interpret- ing the meaning of the law as it applies to the case. As Justice Ruth Ginsburg put it, 
+“[E]ach case is based on particular facts and its decision should turn on those facts and  the governing law, stated and explained in light of the particular arguments the parties  or their representatives choose to present.’’1 This particular decision-making process  is the reason why the qualifications of candidates to the Supreme Court receive close  scrutiny in the press, and why the competence of candidates is a significant factor  explaining whether senators vote to confirm a nominee (Segal, Cameron, and Cover 
+1990; Segal, Cameron, and Cover 1992; Epstein et al. 2006). Qualifications matter  because the decision-making process in the court is not only ideological.2
+In this paper, we build on the existing literature to incorporate the value of infor- mation into the purely ideological framework of the spatial model. We provide an  analysis of decision-making in the court taking into account not only the possible  bias or ideology of justices, but also the information available to the justices in each  case, as well as their ability—or skill, as Justice Stevens puts it—to map the law  and the specifics of the case to an outcome. In this context, we ask: does the case  information have enough power to overturn the prior biases and ideological consid- erations of the justices? Our analysis allows us to quantify precisely the degree to  which justices “subordinated’’ their personal views and “interpreted’’ the law.
+To tackle this question, we consider a model in which ideology interacts with  common values in an incomplete information context.3 We then estimate the param- eters of the model from Supreme Court voting outcomes. In order to do this, we  introduce a new estimation approach that allows us to handle our model of voting  with common values and strategic agents.
+In the model, we assume that the goal of any justice i in any given case t is that  she (in the expressive voting model) or the court (in the strategic voting model) rules  according to i ’s own best understanding of how the law applies to the particulars of  the case. We maintain that it is the residual uncertainty in the meaning of the law  which allows justices to differ in their opinions about a case. With anything less  than complete certainty, opinions can differ among justices because of idiosyncratic

@@ -1,0 +1,41 @@
+# round 2, batch_008 — abstracts
+02609|Afghanistan|Panel|IED detonation and casualty rates did not fall despite heavy US protective investment, consistent with insurgents learning and adapting.|M_war+|
+01830|Afghanistan; Iraq; Pakistan|NatExp|Harvest onset cuts insurgent attacks by 6–21%: higher returns to work lower fighting (opportunity cost).|M_war+|
+02297|DR Congo|Panel|Household victimization by foreign armed groups raises later joining of Congolese militias, via parochial altruism, especially where the state is absent.|M_war~,M_culture+|
+02330|Colombia|IV|US military aid to Colombian bases raised paramilitary attacks and election-year paramilitary homicides, but not guerrilla attacks.|M_war+,M_statecap-|
+02298|Germany|NatExp|Public honours for a fighter pilot raised former peers' victory and death rates: rivalry and non-financial rewards crowd in effort and risk.||
+02331|Africa|NatExp|Better World Bank project management, driven by project-leader ability, reduces conflict; poorly managed projects raise it.|M_war+,M_bureau+|
+02386|Afghanistan|RCT|The National Solidarity Program reduced violence and raised government support in the interior but raised violence near the Pakistani border.|M_war+|
+02310|Theory|Theory|Politicians supply stories of outgroup crimes to discredit opponents; hatred targets groups that gain or lose most from platforms, and contact reduces demand.|M_diversity+,M_media+|
+02758|Cross-country|XC|Ethnic polarization, not fractionalization, predicts civil-war incidence.|M_diversity+,M_war+|
+02299|DR Congo|Survey|Congolese soldiers explain wartime rape through frustrated, unattainable masculinities that normalize it.|M_culture+|
+02542|Theory|Theory|Equilibrium conflict is proxied by a linear combination of the Gini, fractionalization and polarization indices.|M_diversity+,M_contest+|
+01829|Cross-country|Panel|Polarization, fractionalization and the Gini-Greenberg index of ethnic distribution jointly predict conflict as theory says.|M_diversity+,M_war+|
+01811|Cross-country|Panel|Mass killings are likelier with large resource rents, polarization, constraints on rent sharing and low labour productivity.|M_war+,M_diversity+|
+02754|Rwanda|IV|Each additional armed-group member drew 7.3 civilian perpetrators into the Rwandan genocide, invoking obedience.|M_war+,M_culture+|
+02296|Cross-country|Panel|Armed groups from more male-dominant ethnicities commit more sexual violence, especially against less male-dominant groups.|M_culture+|
+01977|Cross-country|Panel|Ethnic groups linguistically distant from the group in power fight more over government, through preferences over public goods.|M_diversity+,M_war+|
+02307|Brazil|Panel|Gang gunfights in Rio's favelas lower students' math scores via teacher absence, principal turnover and school closures.||
+01779|Italy|DiD|Municipalities captured by the mafia spend more on construction and waste management and collect waste taxes less effectively.|M_capture+,M_corruption+|
+02306|Italy|Panel|Mafia infiltration of firms in northern Italy raises revenues without inputs, then worsens finances and leads to exit: money laundering or rent extraction.|M_corruption+|
+02303|Brazil|DiD|Rio's slum pacification cut murders and robberies but raised assaults and threats as gang-provided order weakened.|M_statecap~|
+02584|China|Desc|Since 2008 Chinese strikes became offensive demands, cued by labour shortages, new labour laws and media openness.|M_coord+|
+01827|Russia|DiD|Emancipation of the serfs raised peasant unrest, driven by disappointment with elite-captured implementation and heightened expectations.|M_commit-,M_coord+|
+01754|Theory|Theory|Petitions and protests aggregate dispersed information only under conditions on conflict and signal precision; social media can help.|M_coord+,M_cheaptalk+|
+02271|China|RCT|Learning that others will protest lowers Hong Kong students' own participation: protest decisions are strategic substitutes.|M_coord~|
+02554|Theory|Theory|Protest as an emotional reaction to unfairness makes radical, homogeneous groups more influential and pushes governments to delay choices and borrow.|M_coord+,M_collective+|
+02384|United States|IV|The 1873–74 Temperance Crusade spread through rail and telegraph links and local newspaper coverage of neighbouring protests.|M_coord+,M_media+|
+02383|Germany|Panel|Nazi marches in 1932 Hamburg persuaded some precincts and repelled others, polarizing votes through social-network spillovers.|M_coord~,M_media+|
+02143|Cross-country|Panel|Antiterrorism measures shift attacks across modes (metal detectors cut skyjackings but raised kidnappings); Reagan's crackdown had no lasting effect.|M_war~|
+02144|Theory|Theory|Terrorist groups screen low-opportunity volunteers for quality; crackdowns can raise or lower mobilization.|M_war+|
+02133|Theory|Theory|Electoral pressure pushes governments to over-invest in observable counterterror relative to unobservable measures.|M_visibility+,M_moralhazard+|
+02145|Theory|Theory|Extremists attack to provoke counterterror that radicalizes the population; this works only under some conditions.|M_war+|
+02138|Israel|Panel|Local terror attacks made Israelis more willing to make territorial concessions, up to a threshold, and moved right-wing parties left.|M_war~,M_median+|
+02136|Cross-country|Desc|Western democracies all tightened counterterror law after 2001, but the US and UK cut civil rights far more than Scandinavia, Canada or Switzerland.||
+02140|Palestine|Panel|High unemployment lets terror groups recruit better-educated, more experienced suicide bombers who attack more important targets.|M_war+|
+02388|Iraq|DiD|Price dispersion across Iraqi cities fell by a third where the 2007 US surge deployed, little elsewhere.|M_statecap+|
+02139|Israel|NatExp|Being within rocket range from Gaza raised right-wing vote share by 2–6 points: threat alone shifts votes.|M_war~|
+02141|Palestine|Panel|Punitive house demolitions cut suicide attacks, while curfews and precautionary demolitions raised them: selective violence works, indiscriminate violence backfires.|M_war+|
+01810|Ukraine|IV|Communities with more Stalin-era deportations vote less for pro-Russian parties today: indiscriminate violence erodes support for the perpetrator.|M_fear-,M_culture+|
+01815|Poland|NatExp|Communities near Treblinka saw a real-estate boom from victims' assets but no lasting development, and more support for an anti-Semitic party.|M_culture+|
+02387|Afghanistan|Panel|Mobile phone data show firms leave districts for up to six months after spikes in violence, larger firms most.||

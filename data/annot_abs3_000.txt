@@ -1,0 +1,41 @@
+# round 3, batch_000 — S2 abstracts, introductions and works expanded from reference lists
+01556|United Kingdom|IV|Slavery wealth, instrumented by weather-driven slave mortality, accelerated British industrialization; without it Britain would have been poorer and more agricultural.||
+W2170222801|United States; Latin America|Hist|Initial factor endowments created extreme inequality that elites locked in through suffrage, land and schooling institutions across the Americas.|M_commit+|
+02506|United Kingdom|Text|Darwin's reading moved from exploiting familiar topics to exploring new ones, more exploratory than his culture's output.||
+W2133369488|Cross-country|XC|Poor, tropical, ethnically heterogeneous, French-law and socialist-law countries have worse government performance.|M_diversity+,M_culture+|
+W2892074714|Italy|IV|Northern Italian towns that were free medieval city-states have more social capital today, explaining about half the North–South gap.|M_culture+|
+W1969519191|Cross-country|XC|Weaker investor protection, especially in French civil-law countries, goes with smaller capital markets.|M_commit+|
+W1524911922|Europe|Book|Institutions are self-enforcing systems of rules, beliefs and norms whose history shapes how they persist and change.|M_culture+,M_commit+|
+W2196552246|Cross-country|XC|Adjusting early-development indicators for population ancestry since 1500 greatly improves prediction of current income and inequality.|M_culture+|
+W2113358058|Cross-country|Review|History affects development through institutions, culture, knowledge and multiple equilibria.|M_culture+,M_commit+|
+W2160889518|Cross-country|XC|Genetic distance from the technological frontier predicts income differences, consistent with barriers to diffusion.|M_culture+|
+W2798462310|Cross-country|Book|Geography and early food production shaped which societies developed germs, weapons and states and conquered others.||
+W2148662853|Cross-country|XC|Genetic diversity has a hump-shaped effect on development, past and present.|M_diversity~|
+W4240592497|United Kingdom; France|Theory|Violent France relied on state judges and peaceful England on independent juries, explaining civil- versus common-law traditions.|M_commit+|
+W3121522673|Cross-country|Review|Legal origins correlate with regulation and outcomes; the authors defend a causal interpretation.|M_commit+|
+W2082517482|Theory|Theory|Revenue-seeking rulers bargain with holders of mobile assets, deferring to their preferences in exchange for taxes.|M_commit+,M_statecap+|
+W4239062145|Europe|Book|Local government at state formation and the timing of geopolitical competition explain absolutist versus constitutional and patrimonial versus bureaucratic states.|M_statecap+|
+W2237164683|Europe|Panel|Fiscal centralization and parliamentary limits produced efficient fiscal systems and higher revenue in Europe.|M_statecap+,M_commit+|
+W1531575577|Cross-country|Book|Political order rests on a strong state, rule of law and accountability, which emerged along different historical paths.|M_statecap+|
+W2043483056|Theory|Theory|States arise where environmental or social circumscription lets war turn into conquest and subordination.|M_war+,M_statecap+|
+W2061565725|Europe|Theory|Merchant guilds let rulers commit to protecting foreign merchants' property, supporting medieval trade expansion.|M_commit+,M_collective+|
+W3122705141|Cross-country|IV|Differences in social infrastructure (institutions and policies) drive cross-country output per worker.|M_commit+|
+W2010235856|Cross-country|XC|Property-rights indicators from risk ratings predict investment and growth more strongly than political-freedom measures.|M_commit+|
+W4298413470|Theory|Book|Institutions reduce uncertainty and shape incentives; organizations formed within them drive path-dependent institutional change.|M_commit+|
+W1508130583|Theory|Theory|In a dynamic citizen-candidate model, efficient policies can fail because they alter future political outcomes: a political failure.|M_citizencand+,M_commit+|
+W1815167514|Cross-country|Review|Inequality reduces growth through politics, capital markets and social conflict, depending on the gap in political power.|M_median~,M_contest+|
+W1963974629|Theory|Theory|Elites block technologies that threaten their political power, not only their rents: political losers stall development.|M_commit+|
+W2407856457|Cross-country|XC|Talent drawn into rent-seeking rather than entrepreneurship slows growth; more engineering majors predict faster growth.|M_contest+|
+W1484474409|Cross-country|XC|Natural resources hurt growth only under grabber-friendly institutions.|M_commit+,M_contest+|
+W2131740028|Theory|Theory|With low transaction costs bargaining reaches efficiency whatever the liability rule; with costs, legal rights matter.|M_commit~|
+W2105085862|United States|Panel|Concentrated landownership delayed human-capital-promoting institutions; US land inequality predicts lower education spending.|M_commit+|
+W2159244471|Ghana|Panel|Stronger land rights raise investment in Ghana, partly because investment itself strengthens rights.|M_commit+|
+W2125353502|Cross-country|XC|Economic development, education and urbanization are social requisites of stable democracy.||
+W2128671787|United States; Latin America|Hist|Labour-scarce, more equal New World polities extended suffrage earlier and had higher participation.|M_commit+|
+W2153438855|Cross-country|Panel|Suffrage was mostly conquered by excluded classes threatening revolution; female suffrage then became a tool of party competition.|M_commit+,M_coord+|
+W1993330971|Cross-country|Book|Economic crises drive authoritarian withdrawal and shape how new democracies reform.|M_commit~|
+W3122505971|Cross-country|Panel|The education–democracy correlation disappears within countries.||
+02131|France|RD|Introducing union elections in French firms raised union coverage, membership and employers' trust in unions.|M_collective+|
+02128|United States|Lab|A weights-based estimator finds a democracy effect (policies work better when chosen by vote) in one experiment but not another.||
+W4300957408|Cross-country|Panel|Development does not cause democratization, but democracies survive in rich countries; regime type does not affect total income growth.||
+W3021199726|Cross-country|Panel|Democratic capital lowers exits from democracy and raises growth through stability.|M_commit+|

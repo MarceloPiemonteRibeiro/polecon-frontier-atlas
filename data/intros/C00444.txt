@@ -1,0 +1,30 @@
+Khan, Adnan Q., Khwaja, Asim Ijaz & Olken, Benjamin A. (2019) Making moves matter: experimental evidence on incentivizing bureaucrats through performance-based postings. American Economic Review, 109(1), 237-270. https://doi.org/10.1257/aer.20180277 https://researchonline.lse.ac.uk/id/eprint/100339/
+Version: Published Version
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+American Economic Review 2019, 109(1): 237–270  https://doi.org/10.1257/aer.20180277
+237
+Making Moves Matter: Experimental Evidence on 
+Incentivizing Bureaucrats through 
+Performance-Based Postings†
+By Adnan Q. Khan, Asim Ijaz Khwaja, and Benjamin A. Olken*
+Bureaucracies often post staff to better or worse locations, ostensibly  to provide incentives. Yet we know little about whether this works,  with heterogeneity in preferences over postings impacting effective- ness. We propose a performance-ranked serial dictatorship mecha- nism, whereby bureaucrats sequentially choose desired locations in  order of performance. We evaluate this using a two-year field exper- iment with 525 property tax inspectors in Pakistan. The mechanism  increases annual tax revenue growth by 30–41 percent. Inspectors  whom our model predicts face high equilibrium incentives under the  scheme indeed increase performance more. Our results highlight the  potential of periodic merit-based postings in enhancing bureaucratic  performance. (JEL C93, D73, H71, H83, J45, M54, O17)
+Governments face many constraints in providing incentives to workers. Pay is  often subject to strict civil service regulations that make it a mechanical function of  tenure and education, with little room for rewarding performance. Scope for promo- tion can also be limited and mechanical, often restricted by legally protected senior- ity-based promotion systems, limiting the potential of career concerns (à la Gibbons  and Murphy 1992 and Holmström 1999) to provide incentives as well.
+In such rigid bureaucratic environments, one way in which managers can pro- vide incentives is through their control of where people are posted. One often hears 
+* Khan: International Growth Centre, London School of Economics and Political Science, Houghton Street, 
+London WC2A 2AE (email: a.q.khan@lse.ac.uk); Khwaja: Harvard Kennedy School, 79 John F. Kennedy Street, 
+Cambridge, MA 02138 (email: akhwaja@hks.harvard.edu); Olken: Department of Economics, Massachusetts 
+Institute of Technology, 77 Massachusetts Avenue E52-542, Cambridge, MA 02142 (email: bolken@mit.edu). 
+This paper was accepted to the AER under the guidance of Stefano DellaVigna, Coeditor. This project is the result of  collaboration among many people. We thank Robert Gibbons, Parag Pathak, and numerous seminar participants  for helpful comments. We thank Gabriel Kreindler, Alyssa Lawther, Ismail Khan, Kunal Mangal, Guillermo 
+Palacios Diaz, Wayne Sandholtz, Garima Sharma, and Mahvish Shaukat for outstanding research assistance in 
+Cambridge and Zahir Ali, Osman Haq, Turab Hassan, Obeid Rahman, Ali Abbas, Adeel Shafqat, Omer Qasim, 
+Mehak Siddiquei, Shahan Shahid, and the late Sadaqat Shah for outstanding research assistance in Lahore. We  thank all the Secretaries, Director Generals, Directors, the two Project Directors from the Punjab Department  of Excise and Taxation, the Punjab Finance, Planning and Development departments and the Chief Secretary  and Chief Minister’s offices for their support over the many years of this project. This RCT was registered in the 
+American Economic Association Registry for randomized control trials under trial number AEARCTR-0002753. 
+Financial support for the project came from 3ie, the IGC, and the NSF (under grant SES-1124134). The views  expressed here are those of the authors and do not necessarily reflect those of the many individuals or organiza- tions acknowledged here.
+† Go to https://doi.org/10.1257/aer.20180277 to visit the article page for additional materials and author  disclosure statement(s).
+
+238
+THE AMERICAN ECONOMIC REVIEW
+JANUARY 2019 anecdotal stories of bad performers in a tax or police bureaucracy being sent to  remote and unattractive locations as a punishment, or good performers being sent  to an attractive location as a reward for exemplary performance. And indeed, in  many bureaucracies, transfers occur quite frequently. Yet despite the potential for  postings to be used as an incentive device, in practice, in most bureaucracies, many  other factors other than performance, such as personal or political connections, or  idiosyncratic preferences of managers, or simply bureaucratic arbitrariness, are used  to assign positions (Iyer and Mani 2012). And even to the extent that performance  matters for postings, the ambiguity of assignment rules in most contexts limits the  degree to which they provide ex ante incentives to improve performance.
+Even if one wanted to use postings to provide incentives, doing so in practice  is complicated as workers may have heterogeneous preferences: what is a desir- able posting for one person may be a terrible posting for another. Therefore, to  use postings as an incentive, managers need to take these diverse preferences into  account. An additional challenge that arises in doing so is the problem of preference  revelation: the manager must get the workers to truthfully reveal their preferences,  knowing that those preferences will be used to provide them with incentives. And  even if the incentive aspects of such a system can be worked out, the allocation of  people to tasks induced by such a system, and the disruption caused by moving  people around, may cost the organization more than the performance gains induced  by the incentive effects.
+These challenges aside, such mechanisms can be extremely attractive both  because they impose a lower fiscal burden on the state, and a

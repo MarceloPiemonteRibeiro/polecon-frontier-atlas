@@ -1,0 +1,41 @@
+# batch_012 — abstracts
+01044|Africa|Panel|Mineral price rises increase local conflict around mines and explain 15–25% of country-level violence in Africa.|M_war+|
+01424|Africa|Panel|Growing-season weather shocks persistently raise conflict in African grid cells, with spillovers to neighbours.|M_war+|
+01004|Colombia|Review|Conflict persists in Colombia through a public-goods trap, rents to vested interests and a clientelism–weak-state vicious circle.|M_commit+,M_clientelism+|
+01012|Africa|Panel|Low rainfall in pastoralist territory raises conflict in neighbouring farming areas in the wet season; political representation of pastoralists dampens it.|M_war+,M_citizencand+|
+00275|Iraq|Panel|Reconstruction spending, especially small projects, reduced insurgent violence by winning civilian information.|M_war+|
+00357|Philippines|RD|Barely eligible municipalities for a CDD program saw more insurgent-initiated violence as rebels sought to sabotage it.|M_war+|
+00342|Afghanistan|RCT|The National Solidarity Program improved well-being, government support and reduced violence, except where violence was already high.|M_war+|
+00236|Vietnam|RD|US bombing increased communist insurgent activity and weakened local governance; firepower-heavy strategy worsened attitudes relative to hearts-and-minds.|M_war+|
+00489|Iraq|Panel|Tips to Coalition forces fall after government forces kill civilians and rise after insurgents do.|M_war+|
+00407|Rwanda|IV|Villages under the pre-colonial centralized state earlier saw twice the genocide violence, sustained by norms of obedience.|M_culture+,M_statecap~|
+00353|Theory|Theory|Ethnicity enforces coalition membership in conflicts over resources; homogeneous societies can avoid conflict through cheap defection.|M_diversity+|
+00483|Theory|Theory|Within-group economic inequality makes ethnic rather than class conflict focal.|M_diversity+|
+01550|Rwanda|Book|Colonial political identities and failed nationalist transcendence made mass participation in the Rwandan genocide possible.|M_culture+|
+01090|Theory|Theory|Ethnic mobilization responds to perceived government responsiveness; heterogeneity in radicalism and income within groups drives conflict.|M_diversity+|
+01011|Africa|RD|Segmentary-lineage societies experience more, longer and larger retaliatory conflicts.|M_culture+,M_war+|
+00032|Mexico|RD|Close PAN mayoral victories increase drug violence as rivals contest territory after crackdowns; traffic diverts along routes.|M_war+|
+00421|Italy|Panel|The Sicilian mafia backed Christian Democrats when Communist competition rose, receiving construction-sector favours.|M_clientelism+|
+00422|Italy|Hist|The Sicilian mafia arose where citrus exports were highly profitable and the rule of law weak, providing protection.|M_statecap+|
+00215|Italy|Panel|Organized crime raises violence against politicians before uncertain elections, cutting votes for anti-mafia parties and their anti-mafia efforts.|M_war+,M_selection~|
+00406|El Salvador|RD|Residents of gang-controlled neighbourhoods have lower income and education because gangs restrict mobility.|M_statecap~|
+00547|El Salvador|DiD|US criminal deportations spread gangs to El Salvador, raising homicides, recruitment and child migration.|M_war+|
+00502|United States|NatExp|Police officers who lose final-offer arbitration make fewer arrests and crime reports rise: reference points affect performance.|M_bureau+|
+00203|Theory|Theory|Positive shocks to labour-intensive sectors reduce conflict while shocks to capital-intensive sectors raise it.|M_war+|
+00635|Liberia|RCT|Cognitive behavioural therapy followed by cash dramatically reduced crime and violence among high-risk men for at least a year.||
+00913|United States|Theory|Police administrative records mask racial bias because the decision to stop is itself selected; bias correction and bounds are proposed.||
+00805|Peru|DiD|Children exposed to coca-farming child labour when illegal returns rose are 30% more likely to be incarcerated as adults; CCTs mitigate this.||
+00546|Colombia|RD|Gangs closer to state security develop more governance, especially where drug rents are high: state and gang rule are complements.|M_statecap~|
+00622|Mexico; Colombia; Brazil|Theory|Cartels fight states to constrain them (violent lobbying and corruption), not to conquer; free riding makes violent corruption more common.|M_corruption+,M_lobby+|
+01014|Mexico|DiD|Trade-induced manufacturing job losses increased cocaine trafficking and violence where cartels operate.|M_war+|
+00082|United States|IV|Good weather at the 2009 Tea Party rallies raised later movement strength, conservative votes by incumbents and Republican vote shares.|M_coord+|
+00258|China|RCT|In Hong Kong, learning that others will protest lowers one's own participation: protest decisions are strategic substitutes.|M_coord~|
+00220|United States|IV|Nonviolent 1960s civil-rights protests raised Democratic votes; violent protests shifted whites to Republicans in 1968.|M_coord+,M_media+|
+00309|Egypt|Panel|Larger Tahrir protests lowered stock values of firms connected to the group in power: protests check rent-seeking.|M_coord+,M_corruption+|
+00280|Theory|Theory|Learning from neighbours and mass protests shapes revolutionary coordination; homophily undercuts learning.|M_coord+|
+00607|Theory|Theory|Revolution as a game between Lenin and the Tsar explains apparently ideological strategies as optimizing behaviour.|M_coord+|
+00605|Germany|Hist|Leipzig's Monday demonstrations formed an informational cascade that revealed the East German regime's weakness.|M_coord+|
+00435|Theory|Theory|Vanguards use violence to signal anti-government sentiment, but active vanguards emerge only where society is already coordinated.|M_coord+|
+00604|Egypt|Panel|Deviant Nile floods increased the head judge's tenure and religious construction: economic shocks raised religious leaders' political power.|M_coord+|
+00615|United Kingdom|Panel|Overseas shareholding during the English Civil War pushed moderate MPs to support parliamentary reform.|M_commit+|
+01015|China|RCT|Inducing one protest raised later attendance only if enough of one's social network was also induced.|M_coord+|

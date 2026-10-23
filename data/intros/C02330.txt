@@ -1,0 +1,54 @@
+NBER WORKING PAPER SERIES
+BASES, BULLETS AND BALLOTS:
+THE EFFECT OF U.S. MILITARY AID ON POLITICAL CONFLICT IN COLOMBIA
+Oeindrila Dube
+Suresh Naidu
+Working Paper 20213 http://www.nber.org/papers/w20213
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+June 2014
+The views expressed herein are those of the authors and do not necessarily reflect the views of the
+National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peer- reviewed or been subject to the review by the NBER Board of Directors that accompanies official
+NBER publications.
+© 2014 by Oeindrila Dube and Suresh Naidu. All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
+
+Bases, Bullets and Ballots: the Effect of U.S. Military Aid on Political Conflict in Colombia
+Oeindrila Dube and Suresh Naidu
+NBER Working Paper No. 20213
+June 2014
+JEL No. H56,O54
+ABSTRACT
+Does foreign military assistance strengthen or further weaken fragile states facing internal conflict?
+Aid may strengthen the state by bolstering its repressive capacity vis-à-vis armed non-state actors, or weaken it if resources are diverted to these very groups. We examine how U.S. military aid affects political violence in Colombia. We exploit the allocation of U.S. military aid to Colombian military bases, and compare how aid affects municipalities with and without bases. We use an instrument based on worldwide increases in U.S. military aid (excluding Latin America). We find that U.S. military assistance leads to differential increases in attacks by paramilitaries, but has no effect on guerrilla attacks. Aid also results in more paramilitary (but not guerrilla) homicides during election years, particularly in politically competitive municipalities. The findings suggest that foreign military assistance may strengthen armed non-state actors, undermining domestic political institutions.
+Oeindrila Dube
+Assistant Professor of Politics and Economics
+New York University
+19 West 4th Street
+New York, NY 10012-1119 odube@nyu.edu
+Suresh Naidu
+Columbia University
+Assistant Professor of Economics & Public Affairs
+Columbia University
+420 West 118th Street
+New York, NY 10027 and NBER sn2430@columbia.edu
+An online appendix is available at: http://www.nber.org/data-appendix/w20213
+
+Each year, the world’s most powerful nations expend substantial resources on weak states with the putative aim of shoring up governments facing internal strife.1 From Colombia to Iraq to the
+Philippines, military aid is deployed with the view that it strengthens states against insurgents, drug cartels and other armed, non-state actors. While weak states may beneﬁt from foreign military assis- tance if it strengthens the state’s repressive capacity (Fearon and Laitin 2003), that same weakness may also enable substantial capture or diversion of external resources by illicit armed groups (Besley and Persson 2010). Yet, little attention has been devoted to how military aid can exacerbate conﬂict when diverted to non-state armed actors.
+Inﬂuential examinations of military aid in the international relations literature have focused pri- marily on the behavior of sovereign states (e.g., Carleton and Stohl 1985; Cingranelli and Pasquarello
+1985; Carleton and Stohl 1987; McCormick and Mitchell 1988; Poe 1991; Poe and Meernik 1995).
+However, a singular focus on the state may overlook an important link in the aid-conﬂict chain, given the marked rise in armed non-state actors in the post-Cold War era (Pearlman and Cunningham
+2011). Indeed, these very actors may beneﬁt from external resources if they are able to siphon aid or if it is funneled toward them via collusive governments. Thus, to complement existing work, the role of armed, non-state actors should be considered in evaluating how military aid aﬀects political violence.
+Our paper uses this approach in examining the impact of U.S. military aid on political conﬂict in Colombia between 1988 and 2005.
+Colombia serves as the ideal laboratory for this study as it has been embroiled in a decades-old civil war enmeshed with the international drug trade, and the
+United States has provided nearly $5 billion in military aid with the stated aim of supporting the nation’s counter-narcotics and counter-insurgency eﬀorts. The key actors in the conﬂict are left-wing guerrillas, the state, and right-wing paramilitary groups, which have unoﬃcially been allied with the government in countering the guerrillas.2 We use rich conﬂict data disaggregated across these three
+1Military aid from the advanced nations exceeds all other forms of aid. For example, in 2008, the United States allocation for development aid, including oﬃcial development assistance, USAID administrative expenses and the State
+Department Economic Support Fund, totalled $4.7 billion.
+In contrast, $5.2 billion was allocated for military aid to other countries, including Foreign Military Financing, International Military Education and Training and the Andean
+Counter-Drug Initiative (Congressional Budget Justiﬁcation 2008).
+2Realist scholars suggest aid operates in the interest of donors (e.g. Waltz 1979 pg. 159, Morgenthau 1962). Since the paramilitaries and guerrillas do not directly threaten the U.S., from the realist view, we would expect aid to primarily reduce narcotics activities and only secondarily suppress the guerrillas and paramilitaries (to the extent that the U.S. would actually like to eliminate the latter group). Since idealists posit that aid may be given in the interest of the receiving country, the emphasis here would be on suppressing both illegal armed groups, and only
+2
+ actors to trace the role of armed non-state groups.
+An important feature of U.S. military aid is that it is disbursed to brigades of the Colombian military, which operate out of bases located in part

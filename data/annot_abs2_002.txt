@@ -1,0 +1,41 @@
+# round 2, batch_002 — abstracts
+01980|China|Survey|Abolishing school fees raised awareness and trust in the central but not local government, because decentralization and state media shift credit upward.|M_visibility+,M_media+|
+02509|China|Panel|Areas with more food per capita in 1959 had higher famine mortality, because rigid central procurement could not respond to the aggregate shock.|M_bureau+|
+02751|Theory|Theory|Dictators survive by convincing citizens of their competence through propaganda, censorship and co-optation of informed elites rather than violence.|M_media+,M_fear~|
+01813|Theory|Theory|A leader's coercive capacity aids coordination under dispersed information and heterogeneous preferences and makes her policy more informative.|M_coord+|
+01824|Russia|IV|Districts with more prior peasant unrest gave peasants less zemstvo representation, and later redistribution does not fit the commitment mechanism.|M_commit~|
+01814|Theory|Theory|Leaders must compensate the repressive apparatus; institutions that reduce instability can raise repression, which targets concentrated groups.|M_fear+,M_bureau+|
+02757|Cross-country|Desc|Modern autocrats replaced mass repression with information manipulation: less violence, concealed repression, imitation of democracy and performance rhetoric.|M_media+,M_fear~|
+01808|Theory|Theory|Mass purges are top-down accountability: more violence raises agents' effort but improves selection only when violence starts low.|M_fear+,M_selection~|
+01809|Ukraine|NatExp|Communities hit by Stalin's famine were more loyal when Moscow could credibly retaliate and more oppositional when that threat abated.|M_fear+|
+01906|Chile|Panel|Firms privatized under Pinochet cheaply to connected buyers later financed campaigns and connected to democratic governments.|M_corruption+,M_lobby+|
+02155|Cross-country|DiD|Democratization had little effect on primary enrollment because in three-quarters of cases most people already had schooling beforehand.|M_median~|
+01902|Chile|IV|Counties near pre-coup military bases suffered more repression yet registered and voted "No" more in the 1988 plebiscite: repression backfired.|M_fear-|
+02313|Haiti|Panel|Central elite families were more likely to back the 1991 coup, and prices of goods they import rose under the following nondemocracy.|M_commit+,M_collective+|
+02314|China|DiD|Zeng Guofan's elite networks supplied soldiers against the Taiping and shifted postwar national power toward their home counties.|M_statecap+|
+02611|China|Struct|The Chinese Communist Party balances factions across levels of the hierarchy and grants faction premia in promotions.|M_career+,M_commit+|
+01987|Theory|Theory|Authoritarian social control punishes poorer and dissident citizens harder; low-capacity regimes split society into wealthy lackeys and destitute proles.|M_fear+|
+01903|Latin America|Panel|Exposure to dictatorship in youth lowers later support for democracy and confidence in institutions and shifts identification to the left.|M_culture+|
+02716|Europe|Panel|Cumulative contraction in the Depression raised far-right votes, most in young democracies with low entry thresholds and WWI losers.||
+02102|Cross-country|Book|Populism is a thin ideology pitting a pure people against a corrupt elite and privileging popular sovereignty.||
+02109|Europe|IV|Crisis-driven unemployment raised votes for populist parties and distrust of national and European institutions.||
+02720|Cross-country|Survey|Cultural backlash explains who supports populist authoritarians; declining existential security explains why support has grown.|M_culture+|
+01745|Cross-country|Book|Handbook on radical-right parties and movements across countries.||
+01800|United States|Survey|Only a small share of Americans punish candidates who violate democratic principles, fewer as partisanship and polarization rise.|M_moralhazard~,M_culture+|
+02046|United States; Europe|Panel|Populist support is strongest in communities with long-term decline from trade, offshoring and automation.||
+02718|Latin America|Review|Populist episodes move from euphoria to collapse and usually leave the poor worse off.||
+01801|Theory|Theory|Incumbents refrain from abuse when credible opposition protest deters them; low partisanship, accurate media and non-winner-take-all rules help.|M_coord+,M_media+|
+02132|Europe|Survey|Citizens of consolidated democracies still endorse self-government, though "democrats in name only" grow among the young in some countries.|M_culture~|
+02555|Theory|Theory|Elite–majority settlements protect property and political rights but not civil rights; liberal democracy needs low inequality and weak identity cleavages.|M_commit+,M_diversity+|
+01803|Theory|Theory|An incumbent can gain support by challenging democratic norms to lower expectations and then not doubling down: reference-dependent backsliding.|M_moralhazard~|
+01802|Theory|Theory|Backsliding occurs when citizens find the incumbent very appealing or oppose him unconditionally; democracy is safe when opponents are neither.|M_moralhazard~|
+00346|Germany|NatExp|German split-ticket incentives show neither pivotal nor expressive voting explains the data; voters are not neatly sincere or strategic.||
+00468|Theory|Theory|Vote-maximizing parties converge toward the median voter, while rational ignorance limits voters' information.|M_median+|
+02642|United States|Theory|A civic-duty term in the calculus of voting makes turnout rational; survey evidence fits.||
+02053|Theory|Book|Textbook integrating game theory with models of elections, committees and public goods.||
+01947|Theory|Theory|Plurality multicandidate equilibria are non-centrist, while Condorcet procedures make the median a dominant position.|M_median~|
+01752|Theory|Theory|Sincere voting is generally not an equilibrium in Condorcet jury settings, so majorities' informational advantage lacks a rational foundation.||
+02056|Europe|Panel|Ruling parties switched from plurality to PR when strong new parties entered and no old party dominated.||
+02247|Theory|Theory|With asymmetric information, uninformed voters abstain, yet elections still aggregate information effectively.||
+02249|United States|RCT|Door-to-door nonpartisan canvassing raised turnout in local elections in six cities.||
+02451|Theory|Theory|With costly voting, voluntary majority voting Pareto-dominates compulsory voting.||

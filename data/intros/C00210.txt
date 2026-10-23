@@ -1,0 +1,44 @@
+ECONOMIC GROWTH CENTER
+YALE UNIVERSITY
+P.O. Box 208629
+New Haven, CT 06520-8269 http://www.econ.yale.edu/~egcenter/
+CENTER DISCUSSION PAPER NO. 913
+Social Connections and Group Banking 
+Dean S. Karlan
+Princeton University and
+Yale University
+June 2005
+Notes: Center Discussion Papers are preliminary materials circulated to stimulate discussions and critical comments.
+I thank my advisors Abhijit Banerjee, Dora Costa, Esther Duflo, and Sendhil Mullainathan for their guidance throughout this research. I also thank Alexander Aganine, Beatriz Armendariz de Aghion,
+Robin Burgess, Ben Jones, Leigh Linden, Norman Loayza, Cade Massey, Jonathan Morduch, Ashok Rai,
+Laura Schechter, Richard Thaler, Ashley Timmer, Chris Udry, Justin Wolfers and Eric Zitzewitz, and participants at the 2001 NEUDC, the 2001 LACEA PEG/NIP Conference, and 2004 ASSA, and at seminars at Harvard/M.I.T., Princeton, Yale, Maryland, Texas, Williams, Johns Hopkins, UC-Irvine,
+Berkeley, UCLA, University of Washington, Michigan, Georgetown, Miami, and the Univeristy of Natal,
+South Africa. Last, but not least, thanks to Iris Lanao, Aquiles Lanao, and Morena Lanao from FINCA and my field team, particularly Alcides Medina, Fatima Oriundo, and Jeny Yucra. The research reported herein was supported by the SSRC, the Russell Sage Foundation, the M.I.T. George Shultz Fund, and the
+Center for Retirement Research at Boston College pursuant to a grant from the Social Security
+Administration. All views and errors are mine.
+This paper can be downloaded without charge from the Social Science Research Network electronic library at: http://ssrn.com/abstract=739212
+An index to papers in the Economic Growth Center Discussion Paper Series is located at:  http://www.econ.yale.edu/~egcenter/research.htm
+
+Social Connections and Group Banking
+Dean S. Karlan
+Abstract
+Lending to the poor is expensive due to high screening, monitoring, and enforcement costs. 
+Group lending advocates believe lenders overcome this by harnessing social connections. Using data from FINCA-Peru, I exploit a quasi-random group formation process to find evidence of peers successfully monitoring and enforcing joint-liability loans. Individuals with stronger social connections to their fellow group members (i.e., either living closer or being of a similar culture) have higher repayment and higher savings. Furthermore, I observe direct evidence that relationships deteriorate after default, and that through successful monitoring, individuals know who to punish and who not to punish after default.
+Keywords:
+Microfinance, Group lending, Informal savings, social capital
+JEL Codes: O12, O16, O17, Z13
+
+ 
+2
+Lending to the poor is a difficult task throughout the world, as attested to by the  many projects that experience high default rates. Starting with the Grameen Bank in 
+Bangladesh and FINCA village banking in Latin America, development policymakers  have embraced group lending as a possible alternative for lenders to provide credit to the  poor. Group lending typically links the fate of borrowers by stipulating that if one  borrower within a group fails to repay her loan, the others in her group must repay it for  her. This potentially works for a few reasons (which all rely on social connections):  individuals are able to select creditworthy peers, are able to monitor each others’ use of  funds and ability to repay, are able to enforce repayment, or perhaps are more likely to  repay merely because of altruism towards those in their group. 
+ 
+I test whether groups that are more connected socially perform better, and  specifically whether this is a causal relationship from ex-post contract monitoring and/or  enforcement. The empirical tests employed rule out selection or unobserved dimensions,  such as economic opportunities, that coincide with social connections. FINCA-Peru has  a group formation process that generates a natural experiment in which some groups are  endowed with stronger social connections than others. I find that stronger social  connections of the group lead to improved ex-post repayment and savings behavior by the  clients. 
+ 
+While theoretical models have described the potential of group lending, little  empirical evidence has been found to understand if and how group lending actually  improves repayment rates [see Banerjee, Besley and Guinnane (1994), Besley and Coate 
+(1995), Ghatak (2000), Stiglitz (1990) and Varian (1990)]. Advocates of group lending  not only argue that it does, but offer an explanation as to how this is accomplished: by  taking advantage of the social networks and relationships. As Varian writes in a 2001 
+New York Times article, "Peer pressure can be an immensely strong force, and the 
+Grameen Bank has figured out how to make it work in the cause of economic  development." 
+ 
+Group lending uses the borrower's personal reputation in much the same way as  physical collateral is used under ordinary lending: to raise the borrower's cost of  defaulting [see van Bastelaer (1999)]. Furthermore, the more valuable the social  connections are, the larger the stakes, and thus the higher the repayment rate is.1 
+Individuals with stronger or more extensive social connections also can collect better  information about other group members. With this information advantage, they are in an  even better position to determine who is creditworthy, to monitor ability to repay, and to  punish in the case of default without cause. Rai and Sjostrom (2004) develops a model  that highlights how group lending can create incentives to observe negative shocks, and  hence know who to punish and who to forgive. I find empirical support for this particular  model. Lastly, groups with stronger social connections may simply have stronger feelings  of altruism towards each other. Group liability may embrace pre-existing social  relationships, or might create incentives for borrowers to form such relationships in order  to have a successful group. Either way, social connections a

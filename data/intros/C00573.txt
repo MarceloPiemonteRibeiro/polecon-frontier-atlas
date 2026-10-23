@@ -1,0 +1,31 @@
+There is substantial evidence showing a robust correlation between eco- nomic outcomes and the reelection of incumbent politicians in elec-
+1269
+We are grateful for the useful comments and suggestions provided by George Akerlof,
+Tim Besley, Gustavo Bobonis, Stéphane Bonhomme, Antonio Cabrales, Guillermo Caruana,
+Abel Fernández, Nicole Fortin, Javier Gardeazábal, Roberto Garvía, Alex Haslam, John
+Helliwell, Andrea Ichino, Nic Morgan, Torsten Persson, Aloysius Siow, Ernesto Villanueva,
+Natalia Zinovyeva, as well as the editor and three anonymous referees, whose suggestions greatly improved the paper. We also thank seminar participants at the Helsinki Center of
+Economic Research, Centro de Estudios Monetarios y Financieros, Universita’ di Bologna,
+University of Toronto, Institut d’Economia de Barcelona, International Meeting on Exper-
+Electronically published August 31, 2016
+[ Journal of Political Economy, 2016, vol. 124, no. 5]
+© 2016 by The University of Chicago. All rights reserved. 0022-3808/2016/12405-0002$10.00
+This content downloaded from 137.205.202.005 on January 21, 2020 03:37:34 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+ tions.1 While the existence of economic voting seems to be a stylized fact, its causes are not yet well understood. In a context of asymmetric in- formation, voters may interpret economic conditions as a signal of an in- cumbent’s ability or effort and thus apply a simple retrospective voting rule
+(Nordhaus 1989). Economic voting may also be partly due to voters’ sys- tematic attribution errors. There is experimental evidencein social psychol- ogy ﬁnding that subjects aiming to assess competence systematically fail to take sufﬁcient account of background or environmental factors (Ross and Nisbett 1991).
+It is difﬁcult to disentangle empirically why economic outcomes affect voting behavior. There are at least two challenges that are common to most empirical studies tackling this issue. The ﬁrst problem is how to identify variations in economic conditions that are independent from incumbents’ actions.2
+Second, even in the case of seemingly exogenous events in which in- cumbents may not have direct control over the event itself, the incum- bents may be plausibly held responsible by voters for either (lack of) prep- aration or response.3 If voters hold positive priors about the incumbent, the additional information will tend, on average, to decrease support for the incumbent (Asworth and Bueno de Mesquita 2014).
+In this paper, we try to overcome these issues by exploiting the excep- tional evidence provided by a unique randomized natural experiment: the
+Spanish Christmas Lottery. This lottery, held every Christmas, offers sev-
+1 According to Lewis-Beck and Stegmaier (2007), approximately 400 books and articles on economic voting have been published. The earlier studies focused on the relationship between US voting behavior and a number of measures that capture the macroeconomic situation (Gosnell and Coleman 1940; Kramer 1971; Fair 1978). Lewis-Beck (1988) provides similar ﬁndings using data from national elections in OECD countries. More recently, Bren- der and Drazen (2008) examine a large panel of countries and ﬁnd a correlation between eco- nomic growth and incumbents’ reelection in less developed countries and new democracies, but not in developed countries, with the exception of the United States.
+2 Wolfers (2007) ﬁnds that, in the United States, voters in oil-producing states tend to re- elect incumbent governors during oil price rises and attributes it to voters’ attribution errors.
+Brunner, Ross, and Washington (2011) exploit exogenous shifts to labor demand to identify the impact of economic conditions on policy preferences. They ﬁnd that positive economic shocks reduce the support for redistributive policies.
+3 There is a body of research that exploits evidence from either natural disasters (Healy and Malhotra 2010) or terrorist attacks (Gardeazábal 2010; Montalvo 2011). imental and Behavioral Economics, Consejo Superior de Investigaciones Cientíﬁcas, He- brew University, Universidad Carlos III de Madrid, BI Norwegian Business School, Cana- dian Institute for Advanced Research Social Interactions, Identity, and Well-Being Program fall
+2012 meetings, Queen Mary, University of Edinburgh, University of Bristol, Allied Social Sci- ence Associations meetings, University of Essex, University of Warwick, University of Water- loo, and Queen’s University. We are also particularly grateful to Alberto Lafuente and
+Sistemas Técnicos de Loterías for granting us access to the lottery data. Celia Martín pro- vided excellent research assistance. Any remaining errors are our own. We acknowledge the ﬁnancial support of the Social Sciences and Humanities Research Council of Canada and the Spanish Ministry of Science and Technology (research grants ECO2008-06395-
+C05-05 and ECO2008-01116). Data are provided as supplementary material online.
+1270 journal of political economy
+This content downloaded from 137.205.202.005 on January 21, 2020 03:37:34 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+ eral convenient features. First, the Christmas Lottery is a syndicate lot- tery: around 75 percent of Spaniards participate in the lottery, and they typically share tickets with family, friends, and coworkers. In other words, the Spanish Christmas Lottery is more of a social event than a gamblers’ lottery (Garvía 2007). Second, its economic impact is very large: Spaniards spend approximately €3 billion on the Christmas Lottery, amounting to about 0.3 percent of the Spanish GDP (in 2008, the average Spaniard spent €70 on the Christmas Lottery). Third, instead of awarding one big prize to a few individuals, as is the case in most lottery systems, the top prize, known as “the Fatty” (el Gordo), is awarded to several thousand individuals sharing the sa

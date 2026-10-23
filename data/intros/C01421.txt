@@ -1,0 +1,49 @@
+NBER WORKING PAPER SERIES
+THE COLONIAL ORIGINS OF COMPARATIVE DEVELOPMENT:
+AN INVESTIGATION OF THE SETTLER MORTALITY DATA
+David Y. Albouy
+Working Paper 14130 http://www.nber.org/papers/w14130
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+June 2008
+I thank Raj Arunachalam, Raphael Auer, Pranab Bardhan, Christina Berkley, Chris Blattman, David
+Card, Brad DeLong, Gregory Clark, William Easterly, Rob Gillezeau, Tarek Hassan, Jim Hines, Chang-Tai
+Hsieh, Michael Jansson, Chad Jones, Annalisa Leibold, Ian McLean, Ted Miguel, Kris Mitchener,
+Robert Moffitt, Marcelo Moreira, Maurice Obstfeld, Rohini Pande, Gerard Roland, Christina Romer,
+David Romer, Emmanuel Saez, Andrei Shleifer, Francesco Trebbi, and four anonymous referees, and the participants at the Berkeley Development Lunch and the Economic History and Macroeconomics
+Seminars for their help, input, and advice. I am particularly grateful to Daron Acemoglu, Simon Johnson, and James Robinson for providing me with data, and for sharing with me a preliminary response and later formal responses to my work. Any mistakes are my own. Please e-mail any comments to albouy@umich.edu.
+The views expressed herein are those of the author(s) and do not necessarily reflect the views of the
+National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peer- reviewed or been subject to the review by the NBER Board of Directors that accompanies official
+NBER publications.
+© 2008 by David Y. Albouy. All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
+
+The Colonial Origins of Comparative Development: An Investigation of the Settler Mortality
+Data
+David Y. Albouy
+NBER Working Paper No. 14130
+June 2008
+JEL No. I12,N10,O11,O57,P16,P51
+ABSTRACT
+In a seminal contribution, Acemoglu, Johnson, and Robinson (2001) argue property-rights institutions powerfully affect national income, using estimated mortality rates of early European settlers to instrument capital expropriation risk. However 36 of the 64 countries in their sample are assigned mortality rates from other countries, typically based on mistaken or conflicting evidence. Also, incomparable mortality rates from populations of laborers, bishops, and soldiers - often on campaign - are combined in a manner favoring their hypothesis. When these data issues are controlled for, the relationship between mortality and expropriation risk lacks robustness, and instrumental-variable estimates become unreliable, often with infinite confidence intervals.
+David Y. Albouy
+Department of Economics
+University of Michigan
+611 Tappan Street
+351C Lorch Hall
+Ann Arbor, MI 48109-1220 and NBER albouy@umich.edu
+
+ 
+1
+Acemoglu, Johnson, and Robinson’s seminal paper (2001) – henceforth AJR – has  reinvigorated debate over the relationship between property rights and economic growth. 
+Following research by Knack and Keefer (1995), Mauro (1995), La Porta et al. (1998), 
+Hall and Jones (1999), Rodrik (1999) and others, AJR endeavor to determine the causal  effect of institutions that protect property rights, measured by risk of capital  expropriation, on economic performance. This endeavor is complicated by the fact that  the correlation between institutional and economic measures may reflect the reverse  influence of economic growth on institutions or the simultaneous influence of omitted  variables on both economic output and institutions. To circumvent these problems, AJR  use an instrumental variable (IV) for expropriation risk in an equation determining GDP  per capita across previously colonized countries. 
+AJR argue that during the colonial era, Europeans were more likely to settle in  places where they had a lower risk of dying from disease. Colonies in which Europeans  settled developed institutions that protect property better than colonies where Europeans  did not settle. The authors argue that, in the long run, the direct effects of mortality and 
+European settlement on national income faded, while the indirect effect through property- rights institutions persisted. Their argument motivates the use of potential European  settler mortality rates as an instrument for the risk of capital expropriation. AJR’s IV  estimates of the effect of expropriation risk on GDP per capita are large, explaining much  of the variation in income across countries. 
+The historical sources containing information on mortality rates during colonial  times are thin, which makes constructing a series of potential European settler mortality  rates challenging. AJR construct their series by combining the mortality rates of soldiers 
+(Curtin 1989, 1998), laborers (Curtin 1995), and bishops (Gutierrez 1986). Researchers  have been eager to use this new series, particularly given its promise as an instrumental  variable for institutions. Currently, over twenty published articles, and many more  working papers, use AJR’s settler mortality data. 
+This paper argues that despite AJR’s ingenuity and diligence, there are a number  of reasons to doubt the reliability and comparability of their European settler mortality 
+
+ 
+2 rates and the conclusions which depend on them. First, out of 64 countries in their  sample, only 28 countries have mortality rates that originate from within their own  borders. The other 36 countries in the sample are assigned rates based on AJR’s  conjectures as to which countries have similar disease environments. These assignments  are based on weak and sometimes inaccurate foundations. Six assignments are based  upon AJR’s misunderstanding of former names of countries in Africa. Another sixteen  assignments are based on a questionable use of bishop mortality data in Latin America  from Gutierrez (1986), which are based on 19 deaths. Additionally, AJR use the bishop  rates multiplied by a factor of 4.25, a

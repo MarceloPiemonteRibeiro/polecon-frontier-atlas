@@ -1,0 +1,41 @@
+# batch_011 — abstracts
+00934|Venezuela|Struct|Opposition viewers tune out unannounced government propaganda broadcasts, limiting their influence.|M_media~|
+00496|Italy|DiD|Early access to Berlusconi's entertainment TV raised later votes for his party, via less cognitively sophisticated, less civic viewers.|M_media+,M_culture+|
+00997|Rwanda|RCT|A radio drama encouraging independent thought increased willingness to express dissent and changed communal problem-solving, though not many beliefs.|M_media+,M_culture+|
+01033|Brazil|DiD|Access to Globo soap operas portraying small families lowered fertility, especially among poorer women.|M_media+,M_culture+|
+01021|United States|Panel|US news coverage of foreign human-rights abuses tracked UN Security Council membership and US alliances, especially under Reagan and Bush Sr.|M_media+|
+00827|Hungary|Struct|Government advertising flows to connected media in exchange for softer corruption coverage; favour exchange and owner ideology both matter.|M_media+,M_corruption+|
+01722|Turkey|RCT|Information campaigns before a referendum on executive power increased polarization and changed party affiliation for two years.|M_media+|
+00100|Italy|IV|Broadband initially lowered turnout but fostered online grassroots movements that later entered elections as the Five Star Movement.|M_media+,M_coord+|
+00108|Africa|Panel|Mobile phone coverage raises protest during economic downturns by improving information and coordination.|M_coord+|
+00588|United States|RCT|Random Facebook subscriptions to outlets changed news diets; counter-attitudinal news reduced affective polarization; the algorithm limits such exposure.|M_media+|
+00566|Germany|IV|Broadband Internet lowered turnout by crowding out TV news, with no partisan advantage.|M_media+|
+00495|United States|Survey|Fake news was widely shared in 2016, favoured Trump, but was seen only a few times by the average adult; belief was partisan.|M_media~|
+00568|United Kingdom|IV|Broadband displaced news-rich media, lowered turnout among less-educated and young voters, and was followed by lower spending targeted at them.|M_media+,M_probvote+|
+00567|United States|IV|Twitter (instrumented by 2007 SXSW adoption) lowered Republican vote shares in 2016 and 2020 by persuading moderates.|M_media+|
+00828|Cross-country|Review|Reviews effects of the Internet and social media on voting, protest, polarization, xenophobia, fake news and autocratic control.|M_media+|
+01724|Cross-country|Review|Reviews evidence on social media, echo chambers and polarization; the consensus is weaker than often assumed.|M_media~|
+01727|United States|Review|Political misinformation is confidently held and hard to correct; partisan cheerleading complicates measurement.|M_media+|
+01650|United States|DiD|Facebook's rollout at US colleges worsened student mental health via social comparison.||
+01725|Theory|Theory|With selective sharing and minor misperceptions, abundant shared news can polarize Bayesian agents.|M_media+|
+00491|Cross-country|Panel|Resource-poor dictators allow freer media to discipline bureaucrats; oil-rich autocracies have less free media.|M_media+,M_bureau+|
+00612|China|Desc|Millions of Weibo posts discuss protests and corruption; they predict events and later charges, suggesting the regime uses social media for surveillance.|M_media+|
+00636|China|RCT|Free VPN access alone did not raise demand for uncensored news; encouragement did, with persistent changes in beliefs, so censorship stays robust.|M_media+|
+00151|Theory|Theory|Rational states fight only because of private information with incentives to misrepresent or commitment problems.|M_war+|
+00152|Theory|Theory|Politically biased leaders make war harder to avoid by transfers; countries may choose biased leaders for bargaining power.|M_war+|
+00273|Theory|Theory|Large, rapid shifts in relative power create commitment problems that make all equilibria inefficient.|M_war+,M_commit+|
+00354|Theory|Theory|Under strategic risk, more weapons can undermine cooperation, while asymmetry and peacekeeping can promote peace.|M_war+|
+00439|Cross-country|Panel|A unified model ranks peace, repression and civil war; shocks to wages and aid drive violence only where institutions are non-cohesive.|M_war+,M_statecap+|
+01423|Theory|Theory|Preventive war, preemption and bargaining over future power share one mechanism: large shifts in power.|M_war+|
+00189|Theory|Theory|Misperceptions generate conflict spirals that eventually end as agents infer the spiral began by mistake.|M_war+|
+01003|Colombia|Panel|After big military victories against FARC, the government reduced counterinsurgency effort, especially in electorally important places: politicians keep enemies alive.|M_career+|
+00074|Africa|IV|A five-point negative growth shock (rainfall-instrumented) raises the likelihood of civil conflict by about half.|M_war+|
+00014|Colombia|DiD|Falling coffee prices raised violence in coffee areas (opportunity cost), while rising oil prices raised violence in oil areas (rapacity).|M_war+|
+00296|Cross-country|Review|Low incomes and slow growth predict civil war; policies to avert conflict and build postwar institutions remain poorly understood.|M_war+|
+00235|Cross-country|IV|US food aid increases the incidence and duration of civil conflicts in recipient countries.|M_war+|
+00486|Cross-country|XC|Poverty, instability, rough terrain and population — conditions favouring insurgency — predict civil war, not ethnic diversity.|M_war+,M_diversity-|
+00776|Theory|Theory|Opportunity-cost logic explains why negative income shocks cause war but not why poor countries fight; mutual fear amplifies shocks.|M_war+|
+00356|Cross-country|Review|Meta-analysis: hotter temperatures and extreme rainfall raise interpersonal violence 4% and intergroup conflict ~14% per SD.|M_war+|
+00484|Liberia|RCT|Agricultural training and capital for ex-fighters shifted work from illicit activities and reduced interest in mercenary work.|M_war+|
+01094|Cross-country|XC|Economic opportunities for rebellion explain civil war better than grievance variables.|M_war+|
+01096|Afghanistan; Iraq; Philippines|Panel|Unemployment is negatively, not positively, correlated with insurgent attacks, contrary to opportunity-cost theory.|M_war-|

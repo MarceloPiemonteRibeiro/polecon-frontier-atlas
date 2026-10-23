@@ -1,0 +1,71 @@
+1
+ 
+ 
+Is Deliberation an Antidote to Extreme Partisan Polarization? Reflections on “America in One Room”1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+James Fishkin, Stanford University 
+Alice Siu, Stanford University 
+Larry Diamond, Stanford University 
+Norman Bradburn, NORC at the University of Chicago 
+ 
+ 
+ 
+1 Paper presented at the meetings of the American Political Science Association, September 2020 (online). 
+
+ 
+2
+ 
+ 
+Abstract 
+This paper is positioned at the intersection of two literatures: partisan polarization and deliberative democracy. It analyzes results from  a national field experiment in which more than 500 registered voters were brought together from around the country to deliberate in  depth over a long weekend on five major issues facing the country. A pre-post control group was also asked the same questions. The  deliberators showed large, de-polarizing changes in their policy attitudes and large decreases in affective polarization. The paper  develops the rationale for hypotheses explaining these decreases and contrasts them with a literature which would have expected the  opposite. The paper briefly concludes with a discussion of how elements of this “antidote” can be scaled. 
+ 
+ 
+
+ 
+3
+ 
+ 
+Is Deliberation an Antidote to Extreme Partisan Polarization? Reflections on “America in One Room”2 
+ 
+This paper stands at the intersection of two empirical literatures—on partisan polarization and on democratic deliberation—that have  not had much connection with one another. If readers find some of the results surprising, the authors have had the same reaction. Our  task in this paper is to offer an account of these results and an approach to explaining them. 
+ 
+ 
+Extreme Partisan Polarization 
+The U.S. is deeply divided along partisan lines. If representatives stray from the party line on any salient issues, they are pressured at  the elite level by the party “whips” and threatened at the mass level by activists with being “primaried” (Boatright 2014). At the mass  level, scholars debate whether polarization on issues has been increasing (Fiorina 2009, Fiorina 2017; Abramowitz 2013, 2018; 
+ 
+2 We would especially like to thank Henry Elkus and Sam Feinburg of Helena for their vision in supporting this project. Michael Dennis and his superb team at 
+NORC were essential. We would also like to thank all the members of the Advisory Committee for their comments and advice. See  https://helena.org/projects/america-in-one-room. Bruce Ackerman was especially noteworthy in helping to conceptualize the initial work. Dan Werner of “By  the People Productions” played an essential role in executing the project. 
+
+ 
+4
+Hopkins and Sides 2015; Campbell 2016), but on some salient issues, divisions along party lines seem intractable. Further, there is  clear evidence that affective polarization has increased at the mass level and this gap in affect reinforces the divisions on substance 
+(Iyengar, Sood and Lelkes 2012; Iyengar and Krupenkin 2018; Iyengar et al 2019). 
+ On at least some issues that deeply divide Americans, the lock-step choreography of party elites and mobilizable voters (undoubtedly  with causal arrows in both directions—see Jacobs and Shapiro 2000 and Lenz 2012) leads to policy deadlock. The continuing stasis on  many issues potentially endangers both process and outcome legitimacy (Arnesen 2017). 
+ 
+The divisions are both substantive and affective. Social sorting has accompanied the political sorting of the two major parties,  probably increasing the affective gap between them (Mason 2014). Our division into competing political tribes has led to a tribalism  of social separation. This, in turn, reinforces political polarization at the mass level and stalemate among policy elites. Affective  polarization intensifies political distrust which further fuels the deadlock (Hetherington and Rudolph 2015). Thus, we investigate both  the substantive differences on specific policies and affective polarization as measured by feeling thermometer ratings (see Iyengar et al 
+2019 for an overview). 
+ 
+Empirical Study of Public Deliberation 
+ 
+
+ 
+5
+Over the last three decades a large literature on “deliberative democracy” has developed, both in normative theory and in empirical  social science (for a comprehensive compendium see Bachtiger et al 2018). The root of the word “deliberation” is “weighing.” The  basic idea is that people should make reasoned choices after weighing the arguments on each side of an issue. The choice could be a  proposal before a legislature, or before the mass public in an election or a referendum, or just an issue that is worth consulting the  public about, even if there is not any immediate likelihood of a decision. 
+ 
+Broadly sketched, the focus of deliberative democracy work has moved increasingly from policy elites (including elected  representatives) to the mass public and from normative theory to the empirical study of deliberation (or the lack of it) by the mass  public. While most of the applications were initially in the US and other western democracies, the dialogue and debate has engaged  many countries, including developing countries (Chirawurah et al 2019 and some authoritarian ones. (He and Warren 2011; He 2019) 
+ 
+According to some theories of democracy, elected representatives are supposed to deliberate on the merits, regardless of party. (Burke 
+1774; Bessette 1994). But party discipline gives representatives little opportunity to do so. Further, the prime incentive for elected  representatives is to win re-election. They tend to be more interested in winning the election than in winning the argument on the  merits. 
+ 
+
+ 
+6
+How about members of the mass public? There is a great deal of evidence that most citizens, most of the time, are not well informed  about complex policy or even constitutional issues. Such generalizations appear to hold, not only for the US but for most modern,  large-scale democracies (Delli Carpini and Keeter 1996, pp. 89-92). There is likely some exp

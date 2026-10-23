@@ -1,0 +1,40 @@
+Dewan, Torun & Wolton, Stephane (2026) A political economy of social discrimination. Journal of the European Economic Association, 24(4), 1368 - 1403. https://doi.org/10.1093/jeea/jvaf060 https://researchonline.lse.ac.uk/id/eprint/130231/
+Version: Accepted Version
+Licence: Creative Commons: Attribution 4.0
+This document is the author’s accepted version of the journal article. There may be differences between this version and the published version.
+This author accepted manuscript has been made open access under the LSE open access publications policy and distributed under a Creative Commons: Attribution 4.0 license.
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+A Political Economy of Social Discrimination∗
+Torun Dewan†
+Stephane Wolton‡
+Abstract
+This paper studies the causes and consequences of social discrimination. We consider a labor market in which payoff-irrelevant identity traits can shape hiring decisions. Identity is malleable and a majority group member can become socially associated with the minority group. Fear of identity contagion can sustain a fully segregated labor market in which workers with minority trait experience higher unemployment and minority-owned firms are less productive than their majority counterparts.
+When the minority group is poorly integrated economically (consisting of more workers than employers), workers with majority trait obtain better labor market outcomes in an equilibrium with discrimination than without. Office-motivated candidates therefore have electoral incentives to propose symbolic policies targeting the minority to trigger social discrimination in the labor market.
+As majority-trait workers are better off with social discrimination and the economy shrinks, the implementation of symbolic policies is associated with both lower taxes and less redistribution.
+∗For helpful comments and suggestions, we thank the editor and four reviewers, Nageeb Ali, Avi Archarya, Vessela
+Daskalova, Wiola Dziuda, Mariaelisa Epifanio, Anthony Fowler, Marco Giani, Hans Peter Gr¨uner, Will Howell, Gilat Levy,
+Saurabh Pant, Ronny Razin, and seminar and conference participants at PSE, Caltech, Konstanz University, Northwestern
+University – Meds, NYU, Princeton University, Seoul National University, Stirling University, University of Vienna, 2018
+MPSA Annual Conference, Petralia Workshop 2018, IBEO Workshop 2018, the 2018 Comparative Politics and Formal
+Theory Conference at Yale University, 2019 King’s College Fair Play Conference, 2019 TSE/IAST Conference in Political
+Science and Political Economy, 2019 Barcelona GSE Summer Forum, 2021 Cambridge’s Workshop on Political Economy of War and Transitions. All remaining errors are the responsibility of the authors.
+†London School of Economics and Political Science. Email T.Dewan@lse.ac.uk
+‡London School of Economics and Political Science and CEPR. Email: S.Wolton@lse.ac.uk
+1
+
+“Do you know how many lawyers, doctors, and engineers have come out of these blocks? I see so many people studying, trying to become part of this country, but suddenly we are not good enough because we don’t eat pork.”
+Mina, 30, about Agervang, a Muslim-dominated housing estate, after a ban on wearing the burqa in public places in Denmark (“Denmark swings right on immigration — and Muslims feel besieged,” The Guardian, 10 June 2018)
+Discrimination arises when two individuals with similar relevant characteristics experience unequal outcomes as a result of an individual’s non-relevant factors. As a prerequisite, discrimination requires that these non-relevant factors are “socially salient in that they structure interactions in important social contexts” (Altman, 2011). Thus, discrimination is a social phenomenon (Rose, 2023) and, like many other social phenomena, discrimination can simply be sustained by norms, as in the case of castes in
+India (Akerlof, 1976) or in the case of the Cagots in France.
+“[T]he Cagots [of French and Spanish Pyren´ees] were for a millennium treated as pariahs,” Appiah
+(2018, 28) recounts. Indirect physical contact with the ostracized Cagots was to be avoided at all costs.
+Appiah continues “[b]ecause contact with the Cagots was contaminating, they were severely punished for drinking from the same water basin as others, for farming, or even walking barefoot on the streets.”
+Nobody knows why the Cagots were discriminated. “What distinguished them from others? Not their appearance. (That’s why they were forced to identify themselves with badges pinned to their clothing...)
+Not their family names. Not their language. Not their religion” ibid. Nobody knows why, but the Cagots faced severe discrimination against them.1
+In this paper, we investigate why a group may come to be discriminated against due to norms of behaviour, a form of ‘social’ or ‘norm-based’ discrimination, and the consequences of this discrimination for the targeted minority, the majority, and the economy as a whole. To do so, we study a canonical model of the labor market.
+Workers looking for a job and employers seeking to hire are randomly matched. Upon matching, the productivity of the match is publicly revealed to both actors, who then agree whether to enter into a working relationship. If they do, the working relationship probabilistically persists over time.
+As is common in these models, an employer hires a worker only if the match productivity is sufficiently high (i.e., above a certain threshold).
+To this canonical set-up, we add that individuals have either (payoff-irrelevant) majority or minority traits. For ease of exposition, we
+1Horowitz (2000, 26-27) lists other groups with whom contact was thought to be contaminating: the Rodiya of Sri
+Lanka, the Burakumin of Japan, the Samal Luwaan of the Southern Philippines. This comes with those groups often being segregated into performing dirty work.

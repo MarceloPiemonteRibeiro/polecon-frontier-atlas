@@ -1,0 +1,85 @@
+NBER WORKING PAPER SERIES
+FROM PROOF OF CONCEPT TO SCALABLE POLICIES:
+CHALLENGES AND SOLUTIONS, WITH AN APPLICATION
+Abhijit Banerjee
+Rukmini Banerji
+James Berry
+Esther Duflo
+Harini Kannan
+Shobhini Mukherji
+Marc Shotland
+Michael Walton
+Working Paper 22931 http://www.nber.org/papers/w22931
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+December 2016, Revised October 2017
+Thanks to Richard McDowell, Harris Eppsteiner, and Madeline Duhon for research assistance; to 
+Tamayata Bansal, Sugat Bajracharya, Anupama Deshpande, Blaise Gonda, John Firth, Christian 
+Larroulet, Adrien Lorenceau, Jonathan Mazumdar, Manaswini Rao, Paribhasha Sharma, Joseph 
+Shields, Zakaria Siddiqui, Yashas Vaidya and Melanie Wasserman for field management; to Diva 
+Dhar for supervision; and to Shaher Bhanu Vagh for the educational test design and analysis. 
+Special thanks to the staff of Pratham for their openness and engagement, and to the William and 
+Flora Hewlett Foundation, the International Initiative for Impact Evaluation, the Government of 
+Haryana, and the Regional Centers for Learning on Evaluation and Results for their financial  support and commitment. The views expressed herein are those of the authors and do not  necessarily reflect the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been  peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies  official NBER publications.
+© 2016 by Abhijit Banerjee, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, 
+Shobhini Mukherji, Marc Shotland, and Michael Walton. All rights reserved. Short sections of  text, not to exceed two paragraphs, may be quoted without explicit permission provided that full  credit, including © notice, is given to the source.
+
+From Proof of Concept to Scalable Policies: Challenges and Solutions, with an Application Abhijit 
+Banerjee, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukherji, Marc 
+Shotland, and Michael Walton
+NBER Working Paper No. 22931
+December 2016, Revised October 2017
+JEL No. I20,I21,O12,O35
+ABSTRACT
+The promise of randomized controlled trials is that evidence gathered through the evaluation of a  specific program helps us—possibly after several rounds of fine-tuning and multiple replications in  different contexts—to inform policy. However, critics have pointed out that a potential constraint  in this agenda is that results from small “proof-of-concept” studies run by nongovernment  organizations may not apply to policies that can be implemented by governments on a large scale. 
+After discussing the potential issues, this paper describes the journey from the original concept to  the design and evaluation of scalable policy. We do so by evaluating a series of strategies that aim  to integrate the nongovernment organization Pratham’s “Teaching at the Right Level” methodology  into elementary schools in India. The methodology consists of re-organizing instruction based on  children’s actual learning levels, rather than on a prescribed syllabus, and has previously been  shown to be very effective when properly implemented. We present evidence from randomized  controlled trials on the designs that failed to produce impacts within the regular schooling system  but helped shape subsequent versions of the program. As a result of this process, two versions of  the programs were developed that successfully raised children’s learning levels using scalable  models in government schools. We use this example to draw general lessons about using  randomized control trials to design scalable policies.
+Abhijit Banerjee
+Department of Economics, E52-540
+MIT
+77 Massachusetts Avenue
+Cambridge, MA 02139 and NBER banerjee@mit.edu
+Rukmini Banerji
+Pratham Education Foundation
+B- 4/58, Safdarjung Enclave
+2nd Floor, New Delhi-110 029
+India rukmini.banerji@pratham.org
+James Berry
+Department of Economics
+Cornell University
+486 Uris Hall
+Ithaca, NY 14853 jimberry@udel.edu
+Esther Duflo
+Department of Economics, E52-544
+MIT
+77 Massachusetts Avenue
+Cambridge, MA 02139 and NBER eduflo@mit.edu
+Harini Kannan
+J-PAL South Asia
+Institute for Financial Management and Research 
+24 Kothari Road
+Nungambakkam
+Chennai, India 600 034 harini.kannan@ifmr.ac.in
+Shobhini Mukherji
+J-PAL South Asia
+Institute for Financial Management and Research 
+24 Kothari Road
+Nungambakkam
+Chennai, India 600 034 shobhini.mukerji@ifmr.ac.in
+Marc Shotland
+J-PAL
+30 Wadsworth St., E53-320
+Cambridge, MA 02138 shotland@mit.edu
+Michael Walton
+John F. Kennedy School of Government 
+Mailbox 57
+79 JFK Street
+Cambridge, MA 02138  michael_walton@harvard.edu
+
+2 
+ 
+Randomized controlled trials have been used in economics and other social sciences for  decades. A short list of examples familiar to many economists would include the negative  income tax experiments (Hausman and Wise 1985), the RAND Health Insurance Experiment 
+(Newhouse 1993), the series of welfare reform experiments in the 1980s and 1990s (Manski and 
+Garfinkel 1992), and work on education such as the Perry Pre-School Project and Project STAR 
+(Schweinhart, Barnes, and Weikart 1993; Finn and Achilles 1990). Their use has accelerated  dramatically in the past 10 to 15 years in academia, reflecting what Angrist and Pischke (2010)  call “the credibility revolution.” In terms of establishing causal claims, it is generally accepted  within the discipline that randomized controlled trials are particularly credible from the point of  view of internal validity (Athey and Imbens 2016). However, as critics have pointed out, this  credibility applies to the interventions studied—at that time, on that population, implemented by  the organization that was studied—but does not necessarily extend beyond. Some pilot studies  these days are enormous, covering many millions of people (we will discuss one such study  below). But in the more typical case, critics say, it

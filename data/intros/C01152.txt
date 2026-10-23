@@ -1,0 +1,34 @@
+Addressing public worker absenteeism remains a critical policy challenge across much of the developing world (Banerjee et al.,
+2004; Kremer et al., 2005; World Health Organization, 2022). The problem is substantial and persistent: in the early 2000s, one in three educators and one in ﬁve health workers were absent from their jobs across Bangladesh, Ecuador, India, Indonesia, Peru, and
+Uganda (Chaudhury et al., 2006); more recently, 30 percent of all health workers were absent across 10 African countries (Laura et al., 2020). In our setting (Punjab, Pakistan), doctors were absent over two thirds of the time. Many governments are now targeting absenteeism, primarily through monitoring and incentivizing attendance (Banerjee and Duﬂo, 2006; Banerjee et al., 2008;
+Olken and Pande, 2012; Dhaliwal and Hanna, 2017; Finan, 2017;
+Muralidharan et al., 2019; Callen et al., 2020a) to mixed effect.
+This paper studies why the problem is so challenging, focusing on the use of public sector jobs as patronage. We report on a ran- domized controlled evaluation of a province-wide reform in Pun- jab, a province of over 100 million in Pakistan that spans 297 electoral constituencies and so includes a rich variety of local polit- ical situations. From the outset, we designed our evaluation both to collect data and to operate at a scale that would allow us to under- stand how local politics affects absenteeism and the potential for reform. We join an active and growing area of research (Gulzar and Pasquale, 2017; Ornaghi, 2019; Rogger, 2014; Colonnelli et al., 2020; Brierley, 2021; Oliveros, 2021), but our focus is on the links between patronage jobs and absenteeism. Doctor absence in Punjab is exceptionally high, even relative to comparative coun- tries, and these clinics provide essential preventative health care, antenatal services, and outpatient services for tens of millions of rural Pakistanis. https://doi.org/10.1016/j.jpubeco.2022.104787
+0047-2727/ 2022 The Author(s). Published by Elsevier B.V.
+This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). q Authors’ Note: We thank Farasat Iqbal for championing and implementing the project and Asim Fayaz and Zubair Bhatti for designing the smartphone monitoring program. Support is generously provided by the International Growth Centre (IGC) political economy program, the IGC Pakistan Country Ofﬁce, and the University of
+California Ofﬁce of the President Lab Fees Research Program Grant #235855. Callen was supported by grant #FA9550-09-1-0314 from the Air Force Ofﬁce of Scientiﬁc
+Research. We thank Erlend Berg, Eli Berman, Leonardo Bursztyn, Ali Cheema,
+Melissa Dell, Ruben Enikolopov, Barbara Geddes, Naved Hamid, Gordon Hanson,
+Michael Kremer, Asim Ijaz Khwaja, Craig McIntosh, Ijaz Nabi, Aprajit Mahajan,
+Monica Martinez-Bravo, Benjamin A.
+Olken, Gerard Padro-´i-Miquel, Karthik
+Muralidharan, Rohini Pande, Daniel N. Posner, Ronald Rogowski, Jacob N. Shapiro,
+Christopher Woodruff, Oliver Vanden Eynde, David Yanagizawa-Drott, Ekaterina
+Zhuravskaya and various seminar participants for insightful comments. Excellent research assistance was provided by Muhammad Zia Mehmood and Haseeb Ali. We thank Ali Cheema and Farooq Naseer for kindly sharing their data on election outcomes.
+⇑Corresponding author.
+E-mail addresses: m.j.callen@lse.ac.uk (M. Callen), gulzar@princeton.edu (S.
+Gulzar), hasanain@lums.edu.pk
+(A.
+Hasanain), myk17@pitt.edu
+(M.Y.
+Khan), abrezaee@ucdavis.edu (A. Rezaee).
+Journal of Public Economics 218 (2023) 104787
+Contents lists available at ScienceDirect
+Journal of Public Economics journal homepage: www.elsevier.com/locate/jpube
+
+We conduct four separate analyses. First, we interview all 34 of the most senior district health ofﬁcials in the province (who are only junior to the health secretary), each managing health systems that serve millions, as well as 116 of the deputies who work for them. Respondents consistently report that politicians’ desire to protect doctors from accountability is a major reason for absence.
+Forty percent of these ofﬁcials report a politician having interfered in their decision to sanction an underperforming employee in the previous year. Moreover, such interference is even more common in less competitive electoral constituencies.
+In the least- competitive tercile of Punjab’s 297 Provincial Assembly con- stituencies, health inspectors report an average of 6.03 instances of interference (s.e. = 2.5), while in the most competitive tercile, they report 1.41 instances (s.e. = 0.8).
+Second, we use a geographic regression discontinuity to study how political competition relates to doctor attendance.1 Impor- tantly, in our setting, electoral constituencies cut across administra- tive health boundaries, limiting changes at geographic thresholds to those directly linked to politics. Moving from the most competitive third of constituencies to the least competitive third reduces doctor attendance by 20 percentage points (s.e. = 8.5 pp). While this result does not tell us exactly why the degree of political competition mat- ters, it does indicate that it affects doctor attendance. Moreover, doc- tors who are connected to their local politician are 17.7 percentage points less likely to be at work during a random audit (s.e. =
+7.6 pp). Finally, doctors who are both politically connected and who serve in political strongholds (the least competitive tercile of constituencies) are 25.6 percentage points less likely to be found at the clinic (s.e. = 12.6 pp).
+Third, we check whether the impact of the smartphone moni- toring technology described in Callen et al. (2020a) varies with the degree of local political competition across these 297 con- stituencies using a province-wide randomized control trial. The reform compelled hospital inspectors to carry smartphones that geocode and time-stamp inspections on a dashboard visible to senior managers, thereby sharpening incentives for health inspec- tors to m

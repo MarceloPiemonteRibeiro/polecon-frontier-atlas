@@ -1,0 +1,33 @@
+States and donors typically implement development aid projects to reduce poverty and stimulate economic growth. Many such projects are in the agricultural sector, where investments in crop production are undertaken to increase the supply of food and accelerate structural transformation into the higher-value-added manufacturing and services sectors. In Africa, these agricultural projects often involve preparing marginal lands for commercial crop production since increases in productivity on the intensive margin are difﬁcult to achieve.
+We examine how the impact of these projects critically depends on the subsistence mode of local populations.
+If agricultural projects are situated in territories traditionally inhabited by agricultural ethnic groups, then there is consonance between the new investment and the existing way of life, potentially facilitating the adoption of new technologies. However, if agricultural projects are situated in areas that are traditionally used for grazing by pastoral ethnic groups, then there is dissonance between the new investment and the existing way of life, potentially fueling discord over land-use rights. This “mismatch” has been cited as a major driver of escalating violence in pastoral areas across the African continent in recent decades.
+In this paper, we empirically test the claim that agricultural development projects aggravate civil conﬂict in pastoral regions of Africa.
+Transhumant pastoralism is a traditional economic practice that emerged around 7,000 years ago in response to rising aridity in northern Africa. In the wet season, herders traverse semi-arid pastoral areas in pursuit of plant biomass (phytomass) for grazing. In the dry season, herders migrate to neighboring agricultural areas, where they occupy more fertile farmlands that are left fallow after crops are harvested. The system is understood to be an efﬁcient use of scarce re- sources in otherwise unproductive regions. It is facilitated by mobility, which permits pastoralists to withstand local weather shocks; ﬂexibility, which allows for customary land use arrangements that update from year to year; and cooperation, which sustains production complementarities with neighboring agricultural ethnic groups who beneﬁt from animals grazing on their farmland in return.
+Despite this mutually beneﬁcial arrangement, conﬂict between herders and farmers—and between herders and the state, which is typically aligned with farmers—is increasingly common in Africa. Figure 1 indicates that both the level and growth rate of conﬂict is higher in countries
+1
+
+0
+200
+400
+600
+Conﬂict Events (UCDP)
+1990
+2000
+2010
+2020
+Year
+Conﬂict in Pastoral Countries
+Conﬂict in Non-Pastoral Countries
+Figure 1: Conﬂict Events in African Counties with Pastoral Territories. Conﬂict event data is from UCDP (Sundberg and Melander, 2013). Data on the traditional location of pastoral territories is computed by the authors using information from the Ethnographic Atlas (Murdock, 1967). that contain transhumant pastoral territories relative to those that do not. According to some accounts, the ‘core’ actors (comprising the state and its donors) tend to view pastoralism as
+“backward” (Catley, Scoones and Lind, 2013), “archaic” (Mattee and Shem, 2006) and “primitive”
+(Fratkin, Roth and Nathan, 2004). The imperative from their perspective is to sedentarize pas- toral communities by expanding commercial crop agriculture into pastoral areas, modernizing production and fostering prosperity and peace.
+The counterargument from the perspective of the ‘periphery’ (pastoralists) is that, in practice, expanding commercial crop agriculture into pastoral areas undermines the livelihoods of pastoral people. Commercial agriculture projects can hinder pastoral systems by blocking access to critical water points and grazing areas. Case study research also suggests that transhumant pastoralism is an efﬁcient use of dryland resources compared to commercial crop agriculture plantations
+(Campbell, Leslie, Little, Brainard and DeLuca, 1999, Fratkin et al., 2004, Behnke and Kerven,
+2013). These projects are thus enacted either because the government overestimates the beneﬁts, underestimates the opportunity costs (i.e., forgone output from transhumant pastoralism), or nev- ertheless aims to replace pastoralism with crop agriculture because it is less costly to tax sedentary economic activities, even if they are less productive (Catley et al., 2013). From the perspective
+2
+ of pastoralists, the imperative is to resist the forced settlement—or even displacement—that accompanies such projects.
+Whether or not agricultural development projects ultimately lead to violence in pastoral territories is an empirical question. On the one hand, these projects may create a surplus, the beneﬁts of which could compensate affected pastoral groups and thus ensure peace. On the other hand, case study accounts indicate that, due to their informal land management system, pastoralists are easily expropriated “in the national interest” (Zambakari, 2017). Since they are usually on the margins of national political power, they may resort to violence against the state if evicted.
+We take this question to the data. We assemble a panel dataset at the level of a 0.5-degree cell
+(around 55km × 55km at the equator) covering the African continent. We combine three main sources of data. First, we use geocoded conﬂict event data from UCDP (covering the period from
+1989–2020) and ACLED (1997–2020) to create measures of conﬂict incidence that are equal to one if there is any conﬂict observed in a cell-year and zero if there is none.1 Second, we use geocoded
+World Bank development project data from Aid Data to create a cell-year level indicator for the presence of at least one development project. This data covers the period from 1995–2014. Third, we use ethnographic information on the traditional territories of transhumant pastoral ethnic groups to create an ethnic-territory-level measure of tra

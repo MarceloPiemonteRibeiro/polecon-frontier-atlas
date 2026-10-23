@@ -1,0 +1,32 @@
+American Economic Review 2017, 107(6): 1564–1610  https://doi.org/10.1257/aer.20150774
+1564
+This Mine is Mine! 
+How Minerals Fuel Conflicts in Africa†
+By Nicolas Berman, Mathieu Couttenier, Dominic Rohner,  and Mathias Thoenig*
+We combine georeferenced data on mining extraction of 14 minerals  with information on conflict events at spatial resolution of ​0.5​ o​​ × 0.5​ o​  for all of Africa between 1997 and 2010. Exploiting exogenous vari- ations in world prices, we find a positive impact of mining on conflict  at the local level. Quantitatively, our estimates suggest that the his- torical rise in mineral prices (commodity super-cycle) might explain  up to one-fourth of the average level of violence across African coun- tries over the period. We then document how a fighting group’s con- trol of a mining area contributes to escalation from local to global  violence. Finally, we analyze the impact of corporate practices and  transparency initiatives in the mining industry. (JEL C23, D74, L70, 
+O13, Q34)
+Natural riches such as valuable minerals have often been blamed for fueling  armed fighting. A case that recently made headlines is the heavy fighting that broke  out between the Rizeigat and Bani Hussein, two Arab tribes, for territorial control  of the Jebel Amer gold mine in Darfur region. The conflict has killed more than 
+* Berman: Aix-Marseille University, CNRS, EHESS, Centrale Marseille, AMSE, Graduate Institute Geneva,  and CEPR (e-mail: nicolas.berman@univ-amu.fr); Couttenier: University of Geneva (previously: University of 
+Lausanne) (e-mail: mathieu.couttenier@unige.ch); Rohner: Department of Economics, University of Lausanne,  and CEPR (e-mail: dominic.rohner@unil.ch); Thoenig: Department of Economics, University of Lausanne, and 
+CEPR (e-mail: mathias.thoenig@unil.ch). We thank five anonymous referees, as well as Gani Aldashev, Chris 
+Blattman, Paola Conconi, Ruben Enikopolov, Nicola Gennaioli, Gianmarco Leon, Thierry Mayer, Hannes Mueller, 
+Paolo Pinotti, Uwe Sunde, and Oliver Van den Eynde, and seminar and conference audiences in Oxford (OxCarre), 
+Aix-Marseille, Bern, Bonn, Ente Einaudi, Geneva, Graduate Institute, IPEG Pompeu Fabra, Lyon, Montpellier, 
+Paris, Universitat Autonoma de Barcelona, Uppsala, Warwick, ABCA 2015 Berkeley, IEA World Congress Jordan, 
+Workshop on the Geography of Civil Conflict in Munich, the Conference on the Political Economy of Conflict  and Development in Villars, the Workshop on Conflict at Bocconi University, the CAVE Workshop at Prio, and  the workshop on the Political Economy of Development and Conflict IV in Barcelona for very useful discussions  and comments. Special thanks to Elissaios Papyrakis for sharing with us his data on EITI membership. Quentin 
+Gallea, Valentin Muller, Andre Python, Jingjing Xia, and Nathan Zorzi provided excellent research assistance. 
+Nicolas Berman thanks the A*Midex for financial support (grant ANR-11-IDEX-0001-02 funded by the French  government Investissement d’Avenir program). Mathieu Couttenier acknowledges financial support from the Swiss 
+National Fund for Research. Mathieu Couttenier and Mathias Thoenig acknowledge financial support from the ERC 
+Starting grant GRIEVANCES-313327. Dominic Rohner acknowledges financial support from the ERC Starting  grant POLICIES FOR PEACE-677595. This paper features an online Appendix containing additional results and  data description. The authors declare that they have no relevant or material financial interests that relate to the  research described in this paper.
+† Go to https://doi.org/10.1257/aer.20150774 to visit the article page for additional materials and author  disclosure statement(s).
+
+1565
+Berman et al.: How Minerals Fuel Conflicts in Africa
+VOL. 107 NO. 6
+800 people and displaced some 150,000 others since January 2013.1 Armed groups  extract revenues from mines without necessarily directly managing them, and extor- tion and bribery have been widely documented in mineral-abundant conflict areas. 
+An example is the financial and logistical support provided by the mining company 
+AngloGold Ashanti in 2003–2004 to the Nationalist and Integrationist Front (FNI),  a rebel group operating in the gold-rich district of Ituri in eastern DRC.2
+The present paper investigates the impact of mining on conflict by using geolo- calized data on conflict events and mining extraction of 14 minerals for all African  countries over the 1997–2010 period. Our results show that mining activity increases  the incidence of conflicts at the local level and then spreads violence across terri- tory and time by enhancing the financial capacities of fighting groups. Our empiri- cal analysis is based on the combination of an original dataset, Raw Material Data 
+(RMD), documenting the location and the types of mines and minerals, with the 
+Armed Conflict Location Events Data (ACLED), containing information on the  location and type of conflict events and the involved actors. The units of analysis  are cells of 0.5 ​×​ 0.5 degree latitude and longitude (approximately 55 km ​×​ 55 km  at the equator) covering all of Africa. The use of georeferenced information enables  causal identification. Including country ​×​ year fixed effects and cell fixed effects,  we exploit in most of our econometric specifications the within-mining area panel  variations in violence due to changes in the world price of the main mineral extracted  in the area.
+In the first part of our analysis, we estimate the overall extent of mining-induced  violence at the local level. We find a positive effect of mining activity on conflict  probability: a spike of mineral prices increases conflict risk in cells producing these  commodities. These results are robust to a variety of consistency checks. We also  find that countries with less corrupt institutions and with lower religious fraction- alization/polarization are less affected by mining-induced violence; however, we  detect little effect of political institutions (e.g.

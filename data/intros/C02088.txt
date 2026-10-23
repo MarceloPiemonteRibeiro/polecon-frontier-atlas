@@ -1,0 +1,53 @@
+Multidimensional Representation 
+ 
+Running header: Multidimensional Representation 
+ 
+Keywords: 
+Substantive  representation;  descriptive  representation;  responsiveness;  congruence; representative claim; quantitative methods; Jane Mansbridge; Michael Saward; 
+Hanna Pitkin 
+ 
+Address and affiliation information: 
+ 
+Fabio Wolkenstein, Aarhus University 
+Fabio Wolkenstein is Associate Professor of Political Science, Department of Political Science, 
+Aarhus University BSS, Bartholins Allé 7, 8000 Aarhus, Denmark (wolkenstein@ps.au.dk). 
+ 
+Christopher Wratil, University College London 
+Christopher Wratil is Lecturer in European Politics, Department of Political Science and the 
+School of Public Policy, University College London, 29/31 Tavistock Square, London, WC1H 
+9QU, United Kingdom (c.wratil@ucl.ac.uk). 
+ 
+Unnumbered footnote: We are indebted to Pit Rieger for his excellent research assistance as  well as to Jack Blumenau and Ben Lauderdale, who kindly made code and data available to us  for this project. We are also very grateful to Monica Brito Vieira, Lotte Hargrave, David 
+Laycock, Sven-Oliver Proksch, Eline Severs and three anonymous reviewers for their very  excellent comments on earlier versions of this work. Drafts of this article were presented at the 
+European Consortium for Political Research General Conference 2017 as well as in the  research workshop of the Cologne Center for Comparative Politics in 2018. 
+ 
+ 
+
+ 
+Multidimensional Representation 
+ 
+Abstract: The study of representation is a major research field in quantitative political science. 
+Since the early 2000s, it has been accompanied by a range of important conceptual innovations  by political theorists working on the topic. Yet, although many quantitative scholars are  familiar with the conceptual literature, even the most complex quantitative studies eschew  engaging with the “new wave” of more sophisticated concepts of representation that theorists  have developed. We discuss what we take to be the main reasons for this gap between theory  and empirics, and present four novel conceptions of representation that are both sensitive to  theorists’ conceptual impulses and operationalizable for quantitative scholars. In doing so, we  advance an alternative research agenda on representation that moves significantly beyond the  status quo of the field. 
+ 
+Replication Materials: The data, code, and any additional materials required to replicate all  analyses in this article are available on the American Journal of Political Science Dataverse  within the Harvard Dataverse Network, at: https://doi.org/10.7910/DVN/79RI4R 
+ 
+Word count: 9,998 
+ 
+
+ 1
+The quality of democracy is closely bound up with the quality of representation. This widely- held belief animates the study of political representation, which has become a major research  field in quantitative empirical political science. In tandem with this scholarship, there has  recently also emerged an innovative conceptual literature on representation (esp. Mansbridge 
+2003, 2009; Rehfeld 2006, 2009; Saward 2010). This literature draws attention to multiple  important dimensions of representation that were hitherto neglected by empiricists. 
+Regrettably, however, quantitative scholarship has hardly engaged with the new sophisticated  conceptions of representation that theorists have developed, thus missing an opportunity to  better understand the complex representative processes that are central to our democracies (for  exceptions, see e.g., Broockman 2013; Grose et al. 2015). Reacting to this, this article aims to  make the insights of recent conceptual work on representation usable for quantitative empirical  research, developing a shared language and operationalizable conceptual framework. 
+ 
+We first review recent advances in representation theory, demonstrate their lack of  impact on quantitative scholarship, and highlight several domains of incompatibility between  theoretical and quantitative research that may explain why quantitative scholars eschew the  new representation theories. We then go on to develop four operationalizable conceptions of  representation that are both faithful to political theorists’ conceptual impulses and  operationalizable for quantitatively-oriented empiricists. These are: 
+ 
+1. surrogation (claiming and choosing constituents and representatives); 
+2. justification (providing and demanding reasons for actions); 
+3. personalization (viewing the representative role as that of an individual vs. party agent);  and 
+4. responsiveness (acting out of and expecting sensitivity to electoral sanctions). 
+ 
+These conceptions of representation depart significantly from conventional conceptions  that are used in quantitative scholarship, such as ideological congruence, policy  responsiveness, ideal point matches, or descriptive representation. Whereas conventional  conceptions compare either citizens’ policy-related wishes or their descriptive characteristics  with representatives’ actions or characteristics, our conceptions focus on how citizens want to  be represented and whether representatives meet these expectations. This takes heed of the  recent “constructivist turn” in representation theory, according to which we should conceive of  representation in mass democracies as a relationship that is created and shaped by both the  representative(s) and the represented (Disch 2015, 489; Saward 2010, 52). Our ambition is to 
+
+ 2 show how theoretically-grounded quantitative research on representation can be sensitive to  these ideas. 
+ 
+Before embarking, we would like to clarify that what we develop here is an empirical  research agenda for quantitative scholarship on representation that is derived primarily from  theory, rather than from empirical research itself. We do not deny that an alternative research  agenda could be developed by looking at those conceptions of representation that are used in  existing quantitative scholarship, but require fur

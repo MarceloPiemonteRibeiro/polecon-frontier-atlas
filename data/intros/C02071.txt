@@ -1,0 +1,49 @@
+NBER WORKING PAPER SERIES
+ELECTED VERSUS APPOINTED REGULATORS:
+THEORY AND EVIDENCE
+Timothy Besley
+Stephen Coate
+Working Paper 7579 http://www.nber.org/papers/w7579
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+March 2000
+The authors are grateful to Yun Ho Chung, Tarcisio DaGraca and Imran Rasul for valuable research assistance, to Doug Jones and Dick Schuler for Guidance on the literature and institutions, and to Sharon
+Tennyson for many useful discussions. We also thank Richard Boylan, Roger Noll and a number of seminar participants for helpful feedback. STICERD provided financial support for the project. The views expressed herein are those of the authors and are not necessarily those of the National Bureau of Economic Research.
+© 2000 by Timothy Besley and Stephen Coate. All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
+
+Elected versus Appointed Regulators:
+Theory and Evidence
+Timothy Besley and Stephen Coate
+NBER Working Paper No. 7579
+March 2000
+ABSTRACT
+This paper contrasts direct election with political appointment of regulators. When regulators are appointed, regulatory policy becomes bundled with other policy issues the appointing politicians are responsible for. Since regulatory issues are not salient for most voters, regulatory policy outcomes reflect the preferences of party elites and special interests. Direct election of regulators strengthens the power of voters by ensuring the salience of regulatory issues. Using panel data on regulatory outcomes from U.S. states, we find evidence in favor of the idea that elected states are more pro-consumer in their regulatory policies.
+Professor Stephen Coate
+Professor Timothy Besley
+Department of Economics
+Department of Economics
+Cornell University
+London School of Economics
+476 Uris Hall
+London WC2A 2AE
+Ithaca NY 14853-7601
+UNITED KINGDOM and NBER t.besley@lse.ac.uk sc163@cornell.edu
+
+4
+Lqwurgxfwlrq
+Wkh vfrsh ri uhjxodwlrq lq prghuq hfrqrplhv lv ydvw1 Wr wklv hqg/ wkh vwdwh kdv ghylvhg d ydulhw| ri lqvwlwxwlrqdo vwuxfwxuhv wr kdqgoh wklv wdvn1
+Lw lv uduh iru uhjxodwru| djhqflhv wr eh gluhfwo| dffrxqwdeoh wr wkh flwl}hqv zkrp wkhlu dfwlylwlhv dhfw1 W|slfdoo|/ khdgv ri uhjxodwru| djhqflhv duh dssrlqwhg e| srolwlfldqv/ fuhdwlqj dq lqvxodwlqj od|hu ehwzhhq flwl}hqv dqg uhjxodwruv1
+Krzhyhu/ d qxpehu ri X1V1 vwdwhv kdyh lqmhfwhg d ghjuhh ri srsxolvp lqwr wkh uhjxodwru| surfhvv e| uhtxlulqj wkdw wkh khdgv ri wkhlu lqghshqghqw uhjxodwru| frpplvvlrqv eh gluhfwo| hohfwhg1
+Krz pljkw zh h{shfw uhjxodwru| srolflhv wr glhu zkhq uhjxodwruv duh gluhfwo| hohfwhg udwkhu wkdq dssrlqwhgB Zkloh lw pd| vhhp qdwxudo wr vxssrvh wkdw gluhfw hohfwlrqv zrxog surgxfh pruh srsxolvw uhjxodwruv/ wkh wkhruhwlfdo edvlv iru vxfk d eholhi lv idu iurp reylrxv1 Vlqfh wkh dssrlqwlqj srolwlfldqv duh wkhpvhoyhv hohfwhg/ d phgldq yrwhu w|sh dqdo|vlv zrxog vxjjhvw wkdw lq hlwkhu uhjlph wkh yrwhuv vkrxog jhw wkh w|sh ri uhjxodwru wkdw wkh pdmrulw| ri wkhp ghvluh1 Frqvlvwhqw zlwk wklv/ h{lvwlqj hpslulfdo vwxglhv ri uhjxodwlrq lq wkh X1V1 +h1j1
+Frvwhoor +4<;7,, kdyh qrw irxqg frqylqflqj hylghqfh ri glhuhqfhv lq srolf| rxwfrphv dfurvv wkh X1V1 vwdwhv wkdw hohfw dqg dssrlqw wkhlu uhjxodwruv1
+Wklv sdshu uhylvlwv wklv lvvxh1 Lw ehjlqv zlwk d wkhruhwlfdo dqdo|vlv ri wkh glhuhqfh ehwzhhq hohfwlqj dqg dssrlqwlqj uhjxodwruv1 Wkh wkhru| fdswxuhv wkh lghd wkdw zkhq uhjxodwruv duh dssrlqwhg/ uhjxodwru| srolf| ehfrphv exq0 gohg zlwk pdq| rwkhu srolf| lvvxhv1 Vlqfh yrwhuv kdyh rqo| rqh yrwh wr fdvw dqg uhjxodwru| lvvxhv duh xqolnho| wr eh srolwlfdoo| vdolhqw/ wkh olqn ehwzhhq uhjxodwru| srolf| dqg yrwhuv* suhihuhqfhv lv olnho| wr eh zhdn1 Gluhfwo| hohfw0 lqj uhjxodwruv/ vwuhqjwkhqv wklv olqn dqg khqfh fdq surgxfh uhjxodwruv zkr duh pruh sur0frqvxphu14 Wklv suhglfwlrq lv whvwhg xvlqj gdwd rq hohfwulflw| sulfhv iurp d sdqho ri X1V1 vwdwhv1 Wkh uhvxowv vxssruw wkh lghd wkdw gluhfw hohfwlrqv surgxfh pruh sur0frqvxphu uhjxodwruv1
+Wkh sdshu frqwulexwhv wr d odujh olwhudwxuh rq wkh hfrqrplfv ri uhjxodwlrq1
+Wkhruhwlfdo zrun lq wklv duhd idoov lqwr wzr pdlq wudglwlrqv1 Wkh qrupdwlyh wudglwlrq vhhnv wr surylgh jxlgdqfh wr uhjxodwruv dv wr wkh w|sh ri srolflhv wkh| vkrxog hpsor|1 Lq wklv olwhudwxuh/ wkh whup uhjxodwlrq kdv ehfrph odujho| v|qrq|prxv zlwk uhjxodwlrq ri qdwxudo prqrsrolhv1 Uhjxodwruv duh dvvxphg wr fduh derxw erwk frqvxphu dqg surgxfhu vxusoxv/ zlwk wkh uhodwlyh zhljkw
+4Qdyduur +4<;5, sdjhv 4590: vxjjhvwv dq dujxphqw dorqj wkhvh olqhv1
+5
+ rq hdfk ehlqj d nh| sdudphwhu1 Li wkh uhjxodwru fdq shuihfwo| revhuyh wkh fkdudfwhulvwlfv ri wkh upv/ wkh vrfldo lghdo lv vrph nlqg ri pdujlqdo frvw ru Udpvh| sulflqj1
+Krzhyhu/ wkh pruh uhdolvwlf vlwxdwlrq lv rqh lq zklfk lqirupdwlrq derxw frvwv lv lpshuihfw dqg wkh olwhudwxuh kdv irfxvhg rq wkh ghvljq ri vfkhphv wkdw flufxpyhqw wkhvh lqirupdwlrq sureohpv +vhh Odrqw dqg Wluroh +4<<6, iru d frpsuhkhqvlyh fryhudjh ri wklv olwhudwxuh,1
+Wkh Fklfdjr wudglwlrq/ dv ghyhorshg e| Vwljohu +4<:4, dqg Show}pdq +4<:9,/ kdv whqghg wr wdnh d eurdghu shuvshfwlyh rq uhjxodwlrq wr lqfoxgh d zkroh jdpxw ri jryhuqphqw dfwlylwlhv eh|rqg wkh frqfhuqv ri qdwxudo prqrsrolhv1
+Lw kdv dovr sodfhg srolwlfdo hfrqrp| lvvxhv dw fhqwhu vwdjh  wkh pdlq irfxv ehlqj wr h{sodlq wkh w|sh ri uhjxodwlrqv wkdw wkh srolwlfdo surfhvv surgxfhv1
+Uhjxodwlrqv duh dvvxphg wr eh fkrvhq e| srolwlfldqv vhhnlqj wr pd{lpl}h srolwlfdo vxssruw1 Wkh vxssruw dvvrfldwhg zlwk lpsohphqwlqj d sduwlfxodu srolf| uhirup ghshqgv rq wkh yrwhv dqg fdpsdljq frqwulexwlrqv wkdw zloo eh jduqhuhg iurp ehqhfldulhv dqg zlwkgudzq iurp orvhuv1 Lq wkh sxeolf xwlo0 lw| frqwh{w/ wkh uhodwlyh delolw| ri surgxfhuv dqg frqvxphuv wr gholyhu yrwhv dqg fdpsdljq frqwulexwlrqv ghwhuplqhv wkh zhljkw srolwlfldqv dwwdfk wr wkhlu lqwhuhvwv1 Wkh orjlf ri frqfhqwudwhg ehqhwv dqg glxvh frvwv ohdgv wr wkh jhqhudo suhglfwlrq wkdw surgxfhuv* lqwhuhvwv zloo uhfhlyh

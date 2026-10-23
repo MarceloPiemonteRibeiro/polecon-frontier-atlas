@@ -1,0 +1,41 @@
+# round 3, batch_002
+W2021515572|Theory|Theory|Career-concerned incumbents over-invest in constituency service early to manipulate voter learning, explaining incumbency advantage and seniority norms.|M_career+,M_selection+|
+W2759432548|United States|Panel|Governors facing reelection shift environmental policy toward green voters; term-limited ones do not: electoral incentives shape secondary issues.|M_moralhazard+,M_visibility+|
+W3121797019|United States|Panel|An unbiased estimator shows a positive incumbency advantage in Congress even in the early 20th century.|M_selection~|
+W1502532850|Cross-country|Book|Elections and checks and balances often fail to make governments act in voters' interest; accountability and mandates are distinct mechanisms.|M_moralhazard~,M_selection~|
+W60080681|Theory|Theory|Game-theoretic models of electoral accountability and incumbency, elections, legislatures and international relations.|M_moralhazard+|
+W2132802938|United States|NatExp|Kansas judges facing partisan elections sentence more severely than those in retention elections: competition sharpens incentives.|M_moralhazard+|
+W2137942277|Theory|Theory|Incumbency advantage from electoral selection and deterred challengers is larger for visible offices and balanced, unpolarized electorates.|M_selection+,M_visibility+|
+W2009710863|Mexico|RCT|Information on incumbents' corruption cut support for the incumbent but also lowered turnout, challenger support and partisanship.|M_moralhazard~,M_media~|F2
+W2109719716|United States|Panel|Economic growth in the election year strongly predicts presidential vote shares.|M_moralhazard+|
+W2170291011|Cross-country|Review|Retrospective voting sometimes incentivizes officials but voters also make predictable psychological mistakes.|M_moralhazard~|
+W2329103711|Cross-country|Panel|Economic voting is strong where responsibility for policy is clear and weak where institutions blur it.|M_visibility+,M_moralhazard+|
+W2150796138|Cross-country|Review|Good economic times keep parties in office and bad times remove them across democracies.|M_moralhazard+|
+W2097908050|United States|Panel|House vote swings in 1896–1964 respond to real income growth, consistent with simple retrospective voting.|M_moralhazard+|
+W1531142403|United States|RCT|Voters intend to judge cumulative growth but substitute the election-year economy; giving cumulative data removes the bias.|M_visibility+,M_moralhazard~|
+W2014689051|United States|Panel|Voters penalize growth in federal and state spending, and in state welfare spending especially.|M_median~|
+W2120938061|Cross-country|Panel|Deficits never help reelection and hurt it in rich old democracies; growth is rewarded only in developing and new democracies.|M_moralhazard~|
+W2165166613|Theory|Theory|Risk-averse candidates promise redistribution first to their core reelection constituency, sustaining stable coalitions.|M_probvote+|
+W2154831215|Theory|Theory|Political budget cycles arise as incumbents signal competence by tilting spending toward visible items before elections.|M_career+,M_visibility+|
+W2044948141|Theory|Theory|Myopic voters let incumbents engineer pre-election booms and post-election austerity: the political business cycle.|M_visibility+|
+W2046642512|Theory|Theory|Electoral cycles in taxes, spending and money growth arise from temporary information asymmetries about incumbent competence.|M_career+|
+W3125190222|United States|Panel|Governing parties steer state transfers to counties that support them most; more spending raises later turnout (mobilization).|M_probvote+,M_clientelism~|
+W1993045262|United States|Struct|A probabilistic-voting model under the Electoral College predicts candidates' state visits with 0.9 correlation.|M_probvote+|
+00681|India|NatExp|Village office reservations improve governance only when the reserved group is neither too strong nor too weak, by defusing the politics of fear.|M_citizencand+,M_diversity+|F3
+W4211113828|Zambia|Book|Institutions decide which cleavage matters: tribe under single-party rule, language group under multiparty competition.|M_diversity+,M_coord+|
+W2169278049|Zambia; Malawi|NatExp|Chewa–Tumbuka differences are salient in Malawi but not Zambia because group size relative to the polity makes them useful for coalitions.|M_diversity+|
+W2080360912|Africa|Panel|Ethnic identification rises as competitive presidential elections approach: identities are instrumental.|M_diversity+|
+W4242581278|Cross-country|Panel|Leaders' birth regions have more night lights while they rule, especially with weak institutions, aid and oil rents.|M_probvote+,M_diversity+|
+W4211089644|India|Book|In patronage democracies voters and politicians condition strategies on headcounts of co-ethnics, explaining ethnic party success.|M_clientelism+,M_diversity+|
+00073|Sweden|Desc|Swedish politicians are smarter and better leaders than the population yet socially representative: an inclusive meritocracy.|M_selection+,M_citizencand+|
+00261|Cross-country|Review|Reviews who enters politics and why, and the representation–competence trade-off.|M_selection+,M_citizencand+|
+02118|Spain|RD|Candidate-list gender quotas raised women's council share without lowering politician quality, but women did not reach mayor or change finances.|M_citizencand~|F3
+01738|Cross-country|IV|More women in national legislatures, instrumented by quota timing, improved child health, especially with reserved seats.|M_citizencand+|F3
+02643|Spain|RD|Women who narrowly win local elections are 25 points less likely than men to become mayor in coalition bargaining.|M_legbargain+|
+W1972223156|United States|Panel|Women became more Democratic as marriage declined, making them poorer and men richer.|M_median+|
+W1969355781|India|Survey|Proximity to elected representatives matters for high-spillover goods and shared identity for low-spillover goods.|M_citizencand+,M_probvote+|F3
+02485||Desc|Mislinked record: a fiction excerpt, not a study of political dynasties.||
+W1500355875|India|Survey|Elected village councillors are more likely to receive transfer benefits and the chief's village gets more public goods.|M_corruption+,M_capture+|
+W2113982033|United Kingdom|RD|Office nearly doubled Conservative MPs' wealth via outside directorships but not Labour MPs', whom unions restrained.|M_corruption+|
+W2040898367|Theory|Theory|With policy-motivated candidates, two-candidate competition has an equilibrium with divergence, matching evidence better than Downs.|M_citizencand+,M_median~|
+W2042233114|Theory|Theory|Established parties anticipating a third-party entrant separate spatially and keep the entrant from winning.|M_median~|

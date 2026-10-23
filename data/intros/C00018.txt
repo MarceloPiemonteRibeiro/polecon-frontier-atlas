@@ -1,0 +1,275 @@
+Is It Whom You Know or What You Know? 
+An Empirical Assessment of the Lobbying Process 
+By Marianne Bertrand, Matilde Bombardini and Francesco Trebbi 
+ 
+ 
+ 
+Online Appendix 
+ 
+ 
+
+ 
+Appendix A1: Lobbying Report Issue List 
+ACC Accounting 
+ 
+ 
+ 
+ 
+HCR Health Issues 
+ADV Advertising 
+ 
+ 
+ 
+ 
+HOU Housing 
+AER Aerospace 
+ 
+ 
+ 
+ 
+ 
+IMM Immigration 
+AGR Agriculture 
+ 
+ 
+ 
+ 
+IND Indian/Native American Affairs 
+ALC Alcohol & Drug Abuse 
+ 
+ 
+ 
+INS Insurance 
+ANI Animals 
+ 
+ 
+ 
+ 
+ 
+LBR Labor Issues/Antitrust/ Workplace 
+APP Apparel/Clothing Industry/Textiles 
+ 
+LAW Law Enforcement/Crime/ Criminal Justice 
+ART Arts/Entertainment 
+ 
+ 
+ 
+MAN Manufacturing 
+AUT Automotive Industry 
+ 
+ 
+ 
+MAR Marine/Maritime/ Boating/Fisheries 
+AVI Aviation/Aircraft/ Airlines 
+ 
+ 
+MIA Media (Information/ Publishing) 
+BAN Banking 
+ 
+ 
+ 
+ 
+ 
+MED Medical/Disease Research/ Clinical Labs 
+BNK Bankruptcy 
+ 
+ 
+ 
+ 
+MMM Medicare/Medicaid 
+BEV Beverage Industry 
+ 
+ 
+ 
+MON Minting/Money/ Gold Standard 
+ 
+BUD Budget/Appropriations 
+ 
+ 
+ 
+NAT Natural Resources 
+CHM Chemicals/Chemical Industry 
+ 
+ 
+PHA Pharmacy 
+CIV Civil Rights/Civil Liberties 
+ 
+ 
+POS Postal 
+CAW Clean Air & Water (Quality) 
+ 
+ 
+RRR Railroads 
+CDT Commodities (Big Ticket) 
+ 
+ 
+RES Real Estate/Land Use/Conservation 
+COM Communications/ Broadcasting/Radio/TV 
+REL Religion 
+CPI Computer Industry 
+ 
+ 
+ 
+ 
+RET Retirement 
+CSP Consumer Issues/Safety/ Protection 
+ 
+ROD Roads/Highway 
+CON Constitution 
+ 
+ 
+ 
+ 
+SCI Science/Technology 
+CPT Copyright/Patent/ Trademark 
+ 
+ 
+SMB Small Business 
+DEF Defense 
+ 
+ 
+ 
+ 
+ 
+SPO Sports/Athletics 
+DOC District of Columbia 
+ 
+ 
+ 
+TAX Taxation/Internal Revenue Code 
+DIS Disaster Planning/Emergencies 
+ 
+ TEC Telecommunications 
+ECN Economics/Economic Development 
+ 
+TOB Tobacco 
+EDU Education 
+ 
+ 
+ 
+ 
+ 
+TOR Torts 
+ENG Energy/Nuclear 
+ 
+ 
+ 
+ 
+TRD Trade (Domestic & Foreign) 
+ENV Environmental/Superfund 
+ 
+ 
+TRA Transportation 
+FAM Family Issues/Abortion/ Adoption 
+ 
+TOU Travel/Tourism 
+FIR Firearms/Guns/ Ammunition 
+ 
+ 
+TRU Trucking/Shipping 
+FIN Financial Inst.s/Investments/Securities 
+ 
+URB Urban Development/ Municipalities 
+FOO Food Industry (Safety, Labeling, etc.) 
+ 
+UNM Unemployment 
+FOR Foreign Relations 
+ 
+ 
+ 
+ 
+UTI Utilities 
+FUE Fuel/Gas/Oil 
+ 
+ 
+ 
+ 
+VET Veterans 
+GAM Gaming/Gambling/ Casino 
+ 
+ 
+WAS Waste (hazard/solid/interstate/nuclear) 
+GOV Government Issues 
+ 
+ 
+ 
+WEL Welfare 
+ 
+ 
+ 
+1 
+ 
+
+Appendix A2: Sample Lobbying Report 
+ 
+ 
+2 
+ 
+
+ 
+ 
+3 
+ 
+
+Appendix A3: Chamber, Congressional Committee, Lobbying Issues 
+_________________________________ 
+House, Agriculture: AGR, FOO, TOB, ANI, CDT 
+House, Appropriations: BUD 
+House, Armed Services (103rd, 109-110th): AER, DEF, HOM, INT 
+House, National Security (104th - 108th): AER, DEF, HOM, INT 
+House, Banking, Finance and Urban Affairs (103rd): HOU, FIN, INS, RES, MON, BAN, BNK, URB, GAM 
+House, Banking and Financial Services (104th - 106th): HOU, FIN, INS, RES, TUE, BAN, BNK, URB, GAM 
+House, Financial Services (106th - 110th): HOU, FIN, INS, RES, WED, BAN, BNK, URB, GAM 
+House, Budget: BUD 
+House, District of Columbia (103rd): DOC 
+House, Education and Labor (103rd, 110th): EDU, FAM, LBR, RET, ALC, WEL, REL, ART 
+House, Economic and Educational Opportunities (104th): EDU, FAM, LBR, RET, ALC, WEL, REL, ART 
+House, Education and the Workplace (105th - 109th): EDU, FAM, LBR, RET, ALC, WEL, REL, ART 
+House, Energy and Commerce (103rd, 107th - 110th): ACC, CSP, ENG, TEC, FOO, FUE, ALC, MMM, MED, 
+ENV, SPO, TRD, TOU, HCR, CAW, WAS, UTI, PHA, MAN, ADV, MIA, CPI, COM, CDT, CHM, BEV, AUT, 
+APP 
+House, Commerce (104th - 106th): ACC, CSP, ENG, TEC, FOO, FUE, ALC, MMM, MED, ENV, SPO, TRD, 
+TOU, HCR, CAW, WAS, UTI, PHA, MAN, ADV, MIA, CPI, COM, CDT, CHM, BEV, AUT, APP 
+House, Foreign Affairs (103rd, 110th): FOR, ECN, REL 
+House, International Relations (104th - 109th): FOR, ECN, REL 
+House, Government Operations (103rd): GOV, POS, DOC 
+House, Government Reform and Oversight (104th - 109th): GOV, POS, DOC 
+House, Oversight and Government Reform (110th): GOV, POS, DOC 
+House, House Administration (103rd, 109-110th): GOV 
+House, House Oversight (104th - 108th): GOV 
+House, Judiciary: LAW, CON, CPT, IMM, CIV, TOR, FIR 
+House, Merchant Marine and Fisheries (103rd): MAR 
+House, Natural Resources (103rd, 110th): MAR, NAT, IND, RES, GAM, CDT 
+House, Resources (104h - 109th): APR, NAT, IND, RES, GAM, CDT 
+House, Post Office and Civil Service (103rd): POS 
+House, Public Works and Transportation (103rd): MAR, RRR, ROD, TRA, TRU, DIS 
+House, Transportation and Infrastructure (104th - 110th): APR, RRR, ROD, TRA, TRU, DIS 
+House, Rules, GOV 
+House, Science, Space, and Technology (103rd): ENG, SCI, AER, AVI, CPI 
+House, Science (104th - 109th): ENG, SCI, AER, AVI, CPI 
+House, Science and Technology (110th): ENG, SCI, AER, AVI, CPI 
+House, Small Business: SMB 
+House, Standards of Official Conduct: GOV 
+House, Veterans Affairs: VET 
+House, Ways and Means: UNM, TRD, TAX, WEL, RET 
+House, Intelligence (Select): INT, HOM 
+House, Homeland Security (Select 107th and 108th; Standing, 109th-110th): HOM 
+House, Energy Independence and Global Warming (Select, 110th): ENG, FUE, CDT, CAW, ENV 
+House, Investigate the Voting Irregularities of August 2, 2007 (Select, 110th): GOV 
+Senate, Agriculture, Nutrition, and Forestry: AGR, FOO, TOB, ANI, CDT 
+Senate, Appropriations: BUD 
+Senate, Armed Services: AER, DEF, HOM, INT 
+4 
+ 
+
+Senate, Banking, Housing, and Urban Affairs: HOU, URB, INS, RES, GAM, BAN, CDT, FIN, TRD, ECN, 
+MON, BNK, ACC 
+Senate, Budget: BUD 
+Senate, Commerce, Science, and Transportation: AVI, ADV, AER, APP, AUT, COM, CPI, CSP, MAN, MAR, 
+MIA, RRR, ROD, SCI, TEC, SPO, PHA, TRD, TRA, TOU, TRU, CHM, BEV 
+Senate, Energy and Natural Resources: ENG, NAT, FUE, WAS, CDT, UTI 
+Senate, Environment and Public Works: ENV, DIS, CAW, ROD, ECN, WAS 
+Senate, Finance: UNM, TRD, TAX, WEL, RET, MMM 
+Senate, Foreign Relations: FOR, ECN, REL 
+Senate, Governmental Affairs (103rd to 108th): GOV, HOM, INT, POS 
+Senate, Homeland Security

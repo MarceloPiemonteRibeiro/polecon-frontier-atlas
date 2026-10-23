@@ -1,0 +1,88 @@
+Suresh Naidu and Noam Yuchtman 
+Coercive contract enforcement: law and the  labor market in nineteenth century  industrial Britain 
+Article (Accepted version) 
+(Refereed) 
+Original citation: 
+Naidu, Suresh and Yuchtman, Noam (2013) Coercive contract enforcement: law and the labor  market in nineteenth century industrial Britain. American Economic Review, 103 (1). pp. 107-
+144. ISSN 0002-8282 
+ 
+DOI: http://dx.doi.org/10.1257/aer.103.1.107 
+ 
+© 2013 American Economic Association 
+ 
+This version available at: http://eprints.lse.ac.uk/91505/ 
+ 
+Available in LSE Research Online: January 2019 
+ 
+LSE has developed LSE Research Online so that users may access research output of the 
+School. Copyright © and Moral Rights for the papers on this site are retained by the individual  authors and/or other copyright owners. Users may download and/or print one copy of any  article(s) in LSE Research Online to facilitate their private study or for non-commercial research. 
+You may not engage in further distribution of the material or use it for any profit-making activities  or any commercial gain. You may freely distribute the URL (http://eprints.lse.ac.uk) of the LSE 
+Research Online website. 
+ 
+This document is the author’s final accepted version of the journal article. There may be  differences between this version and the published version. You are advised to consult the  publisher’s version if you wish to cite from it. 
+
+Coercive Contract Enforcement: Law and the Labor
+Market in 19th Century Industrial Britain
+Suresh Naidu and Noam Yuchtman∗
+April 26, 2012
+Abstract
+British Master and Servant law made employee contract breach a criminal oﬀense until 1875. We develop a contracting model generating equilibrium contract breach and prosecutions, then exploit exogenous changes in output prices to examine the eﬀects of labor demand shocks on prosecutions.
+Positive shocks in the textile, iron, and coal industries increased prosecutions. Following the abolition of criminal sanctions, wages diﬀerentially rose in counties that had experienced more prosecutions, and wages responded more to labor demand shocks. Coercive contract enforcement was applied in industrial Britain; restricted mobility allowed workers to commit to risk-sharing contracts with lower, but less volatile, wages.
+JEL codes: J41, K31, N33, N43.
+∗Naidu: SIPA and Department of Economics, Columbia University, NBER, and CIFAR; 420 West 118th
+Street, New York, NY, 10027. Yuchtman: Haas School of Business, UC-Berkeley and NBER; 2220 Piedmont
+Avenue, Berkeley, CA, 94720. We thank Ryan Bubb, Davide Cantoni, Greg Clark, Ernesto Dal B´o, Melissa
+Dell, Oeindrila Dube, Stan Engerman, James Fenske, Camilo Garcia, Claudia Goldin, Larry Katz, Peter
+Lindert, James Robinson, and many seminar participants for their comments. Remeike Forbes and Laurence
+Wilse-Samson provided excellent research assistance.
+
+Economists and economic historians often draw a bright line between free and forced labor. Forced labor is typically studied in the context of agricultural, preindustrial economies; free labor is seen as a crucial component of economic modernization and development, and is implicitly assumed in contemporary models of labor markets. However, “intermediate” labor market institutions – between free and forced labor – have been common throughout history.
+Indeed, one sees shades of coercion in the world’s ﬁrst industrial economy, in 19th century
+Britain. Until 1875, when it was repealed, Master and Servant law gave employers the ability to criminally (as opposed to civilly) prosecute and severely punish a majority of employees across industries for breach of contract in Great Britain.1 Nor was this law left to rot in the books: there were over 10,000 Master and Servant prosecutions per year between 1858 and 1875 – more prosecutions than for petty larceny – and these occurred across Britain, especially in industrial northern England (see Figure 1, panels A and B).2
+Our work theoretically and empirically studies the eﬀects of Master and Servant law on contracting and wages in 19th century Britain. Guided by a model of contractual risk-sharing with limited commitment, which generates equilibrium contract breach and criminal prose- cutions, this paper examines the economic causes and consequences of criminal prosecutions under Master and Servant law. We use a panel dataset on prosecutions of workers in English and Welsh districts, and exogenous, sector-speciﬁc labor demand shocks, to estimate the response of prosecutions for breach of contract to changing labor demand.3 We ﬁnd that criminal prosecution of workers, rather than being a vestige of medieval common law, was ac- tively used in the leading industrial sectors of 19th century Britain. In addition, we examine
+1Master and Servant law covered employees in a wide variety of sectors, from farm workers, to coal miners, to textile mill workers, to shoemakers, and beyond (although white collar workers and managers were excluded). See Appendix 1A, and especially Table A1 (all appendices are online). The term “Servant” thus had far broader application in the law than in contemporary parlance.
+2Statistics come from Judicial Statistics, England and Wales. To place these prosecution ﬁgures into context, Judicial Statistics, England and Wales reports 14,353 Master and Servant cases and 11,986 cases of larceny of less than 5 shillings in 1875.
+3The districts are more disaggregated than British counties. Our dataset contains 52 English and Welsh counties and a total of 219 districts.
+1
+
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+18000
+20000
+Number of prosecutions
+M&S
+V&B
+Year
+Panel B: Distribution of Master and Servant Prosecutions
+Across British Counties
+0
+1
+2
+3
+4
+5
+6
+7
+8
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+0.6
+0.65
+0.7
+Unemployment rate
+Prosecutions per 1000 mean prosecutions unemployment
+Year
+Panel A: Total Prosecutions per Year
+Panel C: Unemployment and Prosecutions per Capita per Year
+Figure 1: Panel A, on the top left, sho

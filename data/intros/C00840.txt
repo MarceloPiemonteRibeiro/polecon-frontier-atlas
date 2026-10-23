@@ -1,0 +1,35 @@
+Many believe that limiting the risk of an environmental dis- aster requires a radical structural transformation of production and consumption. We refer to such a process as a green transition, where ﬁrms gradually switch toward producing goods with green technologies while households switch toward consuming these al- ternatives. Despite an emerging consensus on the need for such transformative change, different observers hold a variety of views on how to best achieve it.
+However, among economists there is a dominant view—with roots in Pigou (1920)—that sees the solution as implementing a carbon tax, the only issue being the optimal level and time path of that tax. Two postulates underpin this view. First, the feasible
+∗We are grateful for perceptive comments by Philippe Aghion, David Baron,
+Xavier Jaravel, B˚ard Harstad, Elhanan Helpman, Matthew Kahn, Gilat Levy,
+Linus Mattauch, and Jean Tirole, as well as numerous seminar and webinar participants. We thank Stefanie Stantcheva and Robert Barro, as well as four anonymous referees, for many useful comments. Azhar Hussain, Joe Marshall, and Linchuan Xu provided helpful research assistance. Financial support from the European Research Council (Grant 693402) and the Swedish Research Coun- cil (Grant 2015-00253) is gratefully acknowledged.
+C⃝The Author(s) 2023. Published by Oxford University Press on behalf of the President and Fellows of Harvard College. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+The Quarterly Journal of Economics (2023), 1863–1906. https://doi.org/10.1093/qje/qjad006.
+Advance Access publication on January 24, 2023.
+1863
+Downloaded from https://academic.oup.com/qje/article/138/3/1863/7000849 by guest on 17 July 2023
+
+1864
+THE QUARTERLY JOURNAL OF ECONOMICS route to a green transition goes solely through extrinsic incen- tives, speciﬁcally mediated by a change in prices.1 Second, the analysis is normative and reﬂects the optimal dynamic choices of a social planner who is able to commit to an entire policy path.
+Our article reconsiders these postulates and shows how the stan- dard static Coase theorem (Coase 1960) and the political Coase theorem (Acemoglu 2003) may simultaneously fail.
+I.A Changing Values
+We explore an alternative route to a green transition that goes (partly) via values and hence via intrinsic incentives. Almost
+50 years ago, commentators like Ernst Friedrich Schumacher ex- horted Western countries to change lifestyles due to their environ- mental consequences (Schumacher 1973). Concerns about climate change have reinvigorated such debates in light of apparent iner- tia among households, ﬁrms, and governments.2
+It is useful and plausible to think about demand patterns as reﬂecting both prices and values, where some consumers care intrinsically about the environmental effects of their choices. This allows us to characterize a green transition as a process whereby the share of those who hold green values endogenously rises over time, and this raises the proﬁtability of using green technologies.
+Although we emphasize endogenous values, we model them as (partly) related to underlying economic incentives. In our basic model, few people acquire green values or more people abandon such values when they are costly to hold—thus the share espous- ing green values evolves over time. These cost calculations re-
+ﬂect decisions by ﬁrms about which technologies to use and which prices to charge. We also consider an extension where values have an important moral component.
+I.B Politics and Limited Commitment
+We question the standard policy approach based on an om- nipotent social planner, who maximizes a social-welfare function with full commitment to a future policy path. Instead, we model policies determined by political forces. Those who make politi- cal decisions can rarely commit their successors to future poli- cies. This was vividly illustrated when President Donald Trump
+1. The next section relates our approach to existing research on this and several other dimensions.
+2. See Peattie (2010) and O’Rourke and Lollo (2015).
+Downloaded from https://academic.oup.com/qje/article/138/3/1863/7000849 by guest on 17 July 2023
+
+THE POLITICAL ECONOMICS OF GREEN TRANSITIONS
+1865 decided to pull out of the Paris Climate Agreement signed by Pres- ident Barack Obama.
+We ask if sequentially chosen policies will support a green transition. Our basic framework focuses on electoral politics. But two extensions incorporate organized lobbying by ﬁrms and pri- vate political activism. Whether they emanate from lobbyists at climate Conferences of the Parties (often shortened to COP), or from movements like Extinction Rebellion in the United King- dom, such activities are an important part of the climate policy landscape.
+Refocusing the analysis from normative to positive shifts the perspective on the role that policy can realistically play in a green transition. Rather than being the main driver, policy becomes more like a facilitator of a process that has its roots in interde- pendent private actions by households and ﬁrms as both political and economic actors.
+I.C Central Modeling Assumptions
+The main theoretical contribution of the article is to formulate a tractable model where values and technologies coevolve and where policy makers cannot commit. The framework lays bare the challenges posed by a green transition. Four aspects of the framework are key to gaining clean analytical insights.
+First, there are forward-looking choices of values and tech- nologies that generate a two-way complementarity akin to that found for platform technologies (Rochet and Tirole 2003). If more
+ﬁrms go green, then more households go green, and vice versa.
+This articulates what it means to have a green transition based on joint

@@ -1,0 +1,33 @@
+“If a ﬁrm had a client with demands which went against your philosophy, do you feel you could still work hard for that client?”
+“I couldn’t do it for all the money in the world.”
+“Then as far as I’m concerned, you’re hired!”
+– Capitol Punishment, by Jack Abramo↵(Abramo↵2011)
+Since at least the mid-18th century, professional lobbyists have been a constant and much viliﬁed feature of the American political landscape. Walt Whitman colorfully described them as “crawling, serpentine men”(Allard 2008), and more recently President Obama decried the
+“lobbyists... and special interests who’ve turned our government into a game that only they can a↵ord to play.”1 As paid advocates, lobbyists are popularly viewed as selling access in
+Washington, and therefore “run the risk of selling out our democracy to the highest bidder.”2
+This view of lobbying, however, fails to answer a fundamental question: why are politicians willing to provide the access to lobbyists that they are then able to so proﬁtably sell?
+One possibility is that the “access” lobbyists sell is simply the exchange they facilitate as middlemen in the marketplace for political favors; for example, they facilitate the trade of policy concessions for a special interest group (SIG) in exchange for a hefty campaign dona- tion from that group. This view, however, fails to explain the presence of a robust market for the middlemen – why do politicians and interest groups not simply cut out the lobbyists and deal directly?3 Indeed, formal models capturing this quid pro quo behavior, e.g. (Grossman and Helpman 1996), do not model the lobbyists at all. More importantly, this view fails to account for the fact that vastly greater sums of money – approximately ten-to-one – are spent on paying the middlemen, and funding their activities, than on the “purchases” of
+1“Outlook: Stuck in the Revolving Door,” Robert G. Kaiser, Washington Post February 2, 2009.
+2Remarks by the
+President on the
+Economy in
+Osawatomie,
+Kansas,
+December
+06
+2011. http://www.whitehouse.gov/the-press-oﬃce/2011/12/06/remarks-president-economy-osawatomie-kansas
+3Kang and You (2015) do consider a richer model of lobbyists as matchmakers. See the literature review for a more detailed discussion.
+1
+ policy favors (via campaign donations) that they supposedly facilitate (de Figueiredo and
+Richter 2014).
+A second class of theories model lobbying as the transmission of policy relevant informa- tion from better-informed interest groups to less informed politicians. Such models, however, typically ignore the lobbyist entirely – modeling only the interaction between an SIG and a politician – or treat her as a disinterested and anonymous repository for “burnt money” that increases the credibility of an interest group’s “signal.”4 However, lobbyists are anything but anonymous; recent empirical work shows substantial variation in the wages of lobbyists that is partially explained by their personal and professional connections (Bertrand, Bombardini, and Trebbi 2011; Vidal, Draca, and Fons-Rosen 2012). In addition, they are anything but disinterested; the campaign giving patterns of lobbyists are highly ideological.5 Moreover, the ranks of professional lobbyists swell with co-partisans of the majority party (Eggers
+2010), suggesting that these ideologies inﬂuence the ability to e↵ectively lobby.
+A third account proposed by Hall and Deardorf (2006) theorizes that lobbying is primarily a “legislative subsidy.” That is, lobbyists exert e↵ort to craft legislation that promotes their client’s interests, and these e↵orts reduce a legislator’s marginal cost of promoting the client’s desired policies. However, two questionable notions underlie this account. The ﬁrst is that lobbyists bring substantial issue-speciﬁc expertise to the table that facilitates their ability to “subsidize” legislators, a notion that Bertrand, Bombardini, and Trebbi (2011) (among others) have recently questioned. The second is that legislators can trust the contents of a “legislative subsidy” and use it to reduce their costs; but what stops a trusted lobbyist from inserting an obscure provision into her draft legislation that will help a client at the politician’s expense?
+A ﬁnal and more nebulous account inspired by recent empirical work is that lobbyists e↵ectively sell preexisting personal connections to politicians that they have formed through their prior life experiences; for example, having worked as a sta↵er to a legislator, or been a
+4See Grossman and Helpman (2001) for an extensive review of the literature.
+5Analysis available upon request; for inclusion in future draft
+2
+ roommate at a prestigious prep school. However, this view begs the question by assuming that connections are inherently valuable, and leaves us with the initial puzzle: why does a personal connection to a lobbyist induce a strategic politician to give an “ear” that can subsequently be sold, and what explains variation in the value of such connections?
+A Theory of Lobbying as Certiﬁcation
+In this paper, we develop a model to un- derstand how lobbyists gain the ability to sell “access,” and what inﬂuences their ability to proﬁtably do so. Our starting point is that what politicians predominantly lack is not expertise, but time – the time to investigate, and conﬁdently determine, whether fulﬁlling an SIG’s policy request is in their political or ideological interests (Levine 2008). Because politicians are busy and understa↵ed, lobbyists can potentially “subsidize” them by selling their own time and expertise to make this determination. In other words, a lobbyist can vet an SIG’s policy request on the politician’s behalf, and then sell her certiﬁcation of its merits to the SIG. However, even disgraced-former-lobbyist Jack Abramo↵understood that such a lobbyist is of little use to a politician, or her clients, unless her claims can be believed.
+Thus, she cannot be precisely the sort of “hired gun” that popular accounts of lobbying describe. Instead, her a

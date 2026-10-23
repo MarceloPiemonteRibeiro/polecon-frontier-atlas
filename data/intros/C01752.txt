@@ -1,0 +1,101 @@
+American Political Science Association and Cambridge University Press are collaborating with JSTOR to digitize, preserve 
+  and extend access to The American Political Science Review. http://www.jstor.org
+Information Aggregation, Rationality, and the Condorcet Jury Theorem 
+Author(s): David Austen-Smith and Jeffrey S. Banks 
+Source: 
+ 
+ 
+The American Political Science Review, Vol. 90, No. 1 (Mar., 1996), pp. 34-45
+Published by: 
+ 
+American Political Science Association
+Stable URL: 
+  http://www.jstor.org/stable/2082796
+Accessed: 18-03-2016 21:05 UTC
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+  info/about/policies/terms.jsp
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content  in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. 
+For more information about JSTOR, please contact support@jstor.org.
+This content downloaded from 131.215.70.231 on Fri, 18 Mar 2016 21:05:57 UTC
+All use subject to JSTOR Terms and Conditions
+
+ American Political Science Review Vol. 90, No. 1 March 1996
+ Information Aggregation, Rationality, and the Condorcet Jury Theorem
+ DAVID AUSTEN-SMITH and JEFFREY S. BANKS University of Rochester
+ he Condorcet Jury Theorem states that majorities are more likely than any single individual to select the
+ ' "better" of two alternatives when there exists uncertainty about which of the two alternatives is in fact
+ L preferred. Most extant proofs of this theorem implicitly make the behavioral assumption that individuals
+ vote "sincerely" in the collective decision making, a seemingly innocuous assumption, given that individuals are
+ taken to possess a common preference for selecting the better alternative. However, in the model analyzed here
+ we find that sincere behavior by all individuals is not rational even when individuals have such a common
+ preference. In particular, sincere voting does not constitute a Nash equilibrium. A satisfactory rational choice
+ foundation for the claim that majorities invariably "do better" than individuals, therefore, has yet to be derived.
+ A although never achieving the notoriety of his dis-
+ covery that majority voting can be cyclic, the Jury
+ Theorem proposed by Condorcet ([1785] 1994)
+ has received periodic attention and in the last decade
+ been the subject of substantial interest and analysis.
+ Loosely speaking, the theorem is as follows. Suppose
+ there are two mutually exclusive alternatives, {A, B},
+ such that one of these alternatives is unequivocally
+ better for all of n individuals in a group but the identity
+ of the better alternative (i.e., A or B) is unknown.
+ Suppose further that for all individuals i E N = { 1, ....
+ n }, the probability that i votes for the better alternative
+ isp > 1/2 and is independent of the probability that any
+ j * i votes for the better alternative. Then the Jury
+ Theorem states that the probability that a majority votes
+ for the better alternative exceedsp and approaches 1 as
+ n goes to infinity (Black 1958, 164-65; McLean and
+ Hewitt 1994, 34-40). Given this, the Jury Theorem has
+ been used as a positive argument for decision making by
+ majority rule: Majorities are more likely to select the
+ ''correct" alternative than any single individual when
+ there is uncertainty about which alternative is in fact the
+ best (e.g., Berg 1993; Ladha 1992, 1993; Grofman and
+ Feld 1988; Miller 1986; Nitzan and Paroush 1985; Par-
+ oush 1994; Young 1988).
+ The proofs of the Jury Theorem and subsequent
+ extensions are entirely statistical in nature (see Berg
+ 1993; Ladha 1992, 1993; Nitzan and Paroush 1985).
+ Specifically, they take the individual probabilities of
+ correct decisions parametrically and then aggregate
+ them in a particular way. An important-but largely
+ implicit-assumption of such proofs then is that an
+ individual deciding which of the two outcomes to select
+ when voting as a member of a collective (or jury)
+ behaves in exactly the same manner as when that
+ individual alone selects the outcome. Alternatively (to
+ use the language of voting theory), individuals are taken
+ to vote "sincerely." This implicit behavioral assumption
+ is seen in the use of the same probability terms in the
+ David Austen-Smith is Professor of Political Science and Jeffrey S.
+ Banks is Professor of Political Science and Economics, University of
+ Rochester, Rochester, NY 14627.
+ Austen-Smith thanks faculty and staff at the Research School in the
+ Social Sciences, Australian National University, for their hospitality
+ during the completion of this paper. Banks is similarly appreciative of
+ members at CREED, University of Amsterdam, and the Tinbergen
+ Institute. Both authors thank the referees for useful comments and the
+ NSF for financial support.
+ 34
+ aggregation to generate both the likelihood that a
+ majority chooses correctly and the likelihood that any
+ one individual chooses correctly.
+ Our purpose here is to bring the "sincerity" assump-
+ tion into the light and determine its relevance for the
+ Jury Theorem. One intuition is that the assumption of
+ sincere voting is innocuous. After all, every individual in
+ the collective has the same fundamental preferences
+ over the given binary agenda in that all want to choose
+ the "correct" alternative. Consequently, there is neither
+ incentive nor opportunity for any individual to manipu-
+ late the collective decision to their particular advantage
+ at the expense of others. We show, however, that this
+ intuition is mistaken. The argument is illustrated by the
+ following example.
+ Consider a group of three individuals, all of whom
+ share identical preferences over two alternatives, {A,
+ B }, conditional on knowing the true "state of the
+ world." There is, however, uncertainty about the true
+ state of the world, which may (without ambiguity)

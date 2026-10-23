@@ -1,0 +1,41 @@
+# batch_001 — abstracts
+01673|Indonesia|Book|Pre-colonial Bali was a "theatre state" governed through ritual and spectacle rather than administration or force.|M_culture+|
+01682|Sudan|Book|Explains the nineteenth-century Nuer territorial expansion over the Dinka through structural and organizational advantages.|M_war+|
+00185|Turkey; Syria; South Korea; Taiwan|Book|Elite coalitions (narrow versus cross-class) shape bureaucracy and fiscal institutions, explaining why Korea and Taiwan solved development dilemmas and Turkey and Syria did not.|M_statecap+,M_bureau+|
+01562|China; Europe|Book|Europe's divergence from China owes much to coal and New World resources rather than earlier institutional superiority.|M_commit~|
+01623|China|Hist|Chinese civilization formed through an early elite ritual culture (cultural hegemony) rather than dynastic state formation alone.|M_culture+|
+01672|Southeast Asia|Theory|Traditional Southeast Asian kingdoms were "galactic polities": mandala-like centers with satellite units rather than bounded states.|M_statecap~|
+01675|Africa|RD|Across national borders that split ethnic homelands, national institutions do not explain development, except near capitals.|M_statecap~|
+01658|Eurasia|Struct|A quantitative model shows topography or a productive core region suffices to generate European polycentrism and Chinese unification.|M_statecap+|
+00067|United Kingdom|Hist|After 1688, parliamentary constraints let the English Crown commit credibly to property rights, visible in capital markets.|M_commit+|
+00017|Theory|Theory|Elites choose inefficient policies to extract revenue, manipulate factor prices and weaken political rivals; holdup problems can make secure property rights useful.|M_commit+|
+00078|Theory|Theory|Oligarchies protect property but erect entry barriers; they first outperform then fall behind democracies as entry barriers bind.|M_commit+|
+00064|Theory|Theory|In a principal–agent model of coercion, coercion raises effort but lowers welfare; labour scarcity can raise or lower coercion depending on prices versus outside options.|M_commit+|
+00084|Cross-country|Review|Argues for micro-data research on specific institutions and on heterogeneous responses to them, beyond cross-country regressions.||
+00031|Sierra Leone|IV|Chiefdoms with fewer ruling families (less chief competition) have worse development today but more "social capital", reflecting chiefs' capture of civil society.|M_capture+,M_commit+|
+00408|Africa|Book|African governments set agricultural policies that tax farmers to serve urban and political constituencies.|M_lobby+,M_collective+|
+00967|Theory|Theory|Optimal constitutions choose the supermajority needed to govern, trading tyranny of the majority against gridlock.||
+00089|Theory|Theory|Elites invest in de facto power to offset democratization, producing "captured democracy" and persistent economic institutions.|M_commit+|
+00172|Germany|IV|German areas occupied by revolutionary France, which abolished oligarchic barriers, urbanized faster after 1850.|M_commit+|
+01712|Europe|Book|Institutional change securing property rights explains Western Europe's rise, 900–1700.|M_commit+|
+00176|Theory|Theory|Formalizes a kind of power exercised through triadic relationships in which third parties enforce compliance.||
+00175|Theory|Theory|Explains the use of punishment (pain) as an incentive in principal–agent relations with limited liability.||
+00190|Theory|Theory|Incumbent innovators with political influence block new technologies, generating long cycles of stagnation and growth.|M_commit+,M_lobby+|
+01715|Theory|Theory|Self-enforcing honesty works in small trading worlds; external enforcement pays only in large ones, with intermediate sizes faring worst.|M_coord+|
+01497|Cross-country|IV|Property-rights institutions (constraints on expropriation) matter for growth and investment; contracting institutions matter mainly for financial intermediation.|M_commit+|
+00617|United Kingdom|Theory|Capitalists supported mass public education as human capital became complementary to physical capital, consistent with votes on the 1902 Education Act.||
+01001|Theory|Theory|In unequal societies, each group blocks reforms that hurt its rents, so no comprehensive reform commands support.|M_commit+,M_collective+|F5
+00187|Theory|Theory|Elites create inefficient, patronage-based states before democratization; bureaucrats then side with the rich, and inefficient states persist.|M_commit+,M_clientelism+|
+00976|Sierra Leone|IV|Working-paper version: fewer ruling families predict worse education, health and non-farm employment while civil society is captured by chiefs.|M_capture+|
+00173|Theory|Theory|General framework for dynamic institutional change with stochastic power shifts, applied to repression and collective experimentation.|M_commit+|
+01246|Cross-country|Review|Nobel lecture: institutions shape movement along and shifts of the technology–distribution frontier, with lessons for AI.|M_commit+|
+00035|Ghana|Panel|Farmers with positions in the local political hierarchy have more secure land rights, invest more in fertility and produce more.|M_commit+|
+00090|Theory|Theory|Property rights emerge when the gains from internalizing externalities exceed the costs.||
+00522|India|DiD|West Bengal's tenancy reform (Operation Barga) raised agricultural productivity through security of tenure and tenants' bargaining power.||
+00122|Theory|Theory|Serfdom or slavery arises where land is abundant relative to labour (the Domar hypothesis).||
+00093|Europe|Hist|Agrarian class structure and lord–peasant power, not demography, explain divergent development in pre-industrial Europe.|M_commit+|
+00743|India|Panel|Legislated land reforms in Indian states were associated with poverty reduction, though implementation was politically constrained.|M_capture~|
+00276|India|Panel|In Maharashtra sugar cooperatives, landholding inequality lets large growers capture rents by depressing cane prices and capacity.|M_capture+|
+00521|Peru|DiD|Urban property titling raised household work hours, moved work out of the home and reduced child labour.||
+00171|United Kingdom|Hist|English enclosures raised rents and redistributed income to landlords more than they raised efficiency.||
+00747|Vietnam|Panel|After decollectivization, land reallocated slowly toward efficiency without capture by the land-rich or local officials.|M_capture-|

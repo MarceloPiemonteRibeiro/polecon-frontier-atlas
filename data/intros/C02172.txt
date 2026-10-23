@@ -1,0 +1,54 @@
+NBER WORKING PAPER SERIES
+LABOR MARKET INSTITUTIONS AROUND THE WORLD
+Richard B. Freeman
+Working Paper 13242 http://www.nber.org/papers/w13242
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+July 2007
+The views expressed herein are those of the author(s) and do not necessarily reflect the views of the
+National Bureau of Economic Research.
+© 2007 by Richard B. Freeman. All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
+
+Labor Market Institutions Around the World
+Richard B. Freeman
+NBER Working Paper No. 13242
+July 2007
+JEL No. J01
+ABSTRACT
+The paper documents the large cross-country differences in labor institutions that make them a candidate explanatory factor for the divergent economic performance of countries and reviews what economists have learned about the effects of these institutions on economic outcomes. It identifies three ways in which institutions affect economic performance: by altering incentives, by facilitating efficient bargaining, and by increasing information, communication, and trust. The evidence shows that labor institutions reduce the dispersion of earnings and income inequality, which alters incentives, but finds equivocal effects on other aggregate outcomes, such as employment and unemployment. Given weaknesses in the cross-country data on which most studies focus, the paper argues for increased use of micro-data, simulations, and experiments to illuminate how labor institutions operate and affect outcomes.
+Richard B. Freeman
+NBER
+1050 Massachusetts Avenue
+Cambridge, MA 02138 freeman@nber.org
+
+3
+ 
+It was six men of Hindustan 
+To learning much inclined, 
+Who went to see the Elephant 
+(Though all of them were blind) 
+That each by observation 
+Might satisfy the mind. (Saxe) 
+ 
+Mandated works councils. Employment protection laws. Minimum wages. Extension of  collective bargaining coverage. Lifetime employment. Peak level collective bargaining. Wage  flexibility. Teams. Job rotation. Temporary employment contracts. Social dialogue. 
+ 
+At the turn of the 21st century, questions regarding labor market institutions replaced macro- economic policy at the center of much policy debate in advanced economies. By ascribing the high  unemployment in European Union countries to labor institutions that reduced wage and employment  flexibility, the OECD’s 1994 Jobs Study (OECD 1994a, 1994b) directed the attention of policy-makers  and economists to institutions that mainstream economics had previously viewed as peripheral to  aggregate economic performance. The Jobs Study recommended that countries deregulate labor markets  to increase flexibility in working time; make wages and labor costs more responsive to market pressures;  weaken employment security provisions and unemployment benefit systems; and introduce active labor  market policies – training programs, job-finding assistance to workers, subsidies to employers to hire the  long-term unemployed, and special programs for youths leaving school. 
+ 
+This perspective marked a giant shift in the attitude of mainstream economics toward labor  institutions. From the 1970s through the mid 1980s or so, most economists favored macro-economic  explanations and cures for economic problems (recall the battles between monetarist and Keynesian  policies). They viewed labor institutions as peripheral to economic performance. In the 1990s, however,  the higher employment rate and more rapid productivity growth of the US than of major European  countries despite similar “responsible” macro-economic policies directed attention to the possible role of  labor market institutions in explaining differences in aggregate economic performance. 
+ 
+How much of the varying economic performance of capitalist economies can reasonably be 
+
+4
+  attributed to labor institutions? Which outcomes do those institutions influence – the distribution of  income, allocation of labor across sectors, productivity, inflation, economic growth? Through what  channels do institutions affect outcomes? 
+ 
+This essay reviews what economists know about these questions. Section I documents the large  cross-country differences in labor institutions that make them a candidate explanatory factor for the  divergent economic performance of countries. Section II examines the ways institutions can affect  behavior and outcomes by altering incentives, enabling groups to engage in efficient bargaining per the 
+Coase Theorem1, and by improving information, communication, and trust. Turning from what labor  institutions might do to evidence on what they actually do, Section III shows that labor institutions reduce  income inequality but has equivocal effects on other aggregate outcomes, such as employment and  unemployment in the advanced countries on which most research has focused. Section IV considers three  possible interpretations of the empirical findings and ways to improve our knowledge of how the  institutional “Elephant” affects economic performance. 
+I. Variation in labor institutions and economic performance among countries 
+ 
+The starting fact for analyzing labor market institutions across countries is that countries evince  widely varying institutional arrangements. The list at the outset of the paper can be easily extended:  apprenticeship programs, occupational health and safety rules, defined benefit and defined contribution  pension plans; mandated works councils; equal employment legislation; and so on. While economists do  not have a single tight definition of an institution, per Justice Potter’s famous statement about  pornography, they know institutions when they see them, and they see them everywhere.2 
+ 
+Exhibit 1 documents the variety of labor institutions among OECD countries and in the Asian 
+“Tiger” economies. It records quantitative rankings of country labor markets by their market vs 
+ 
+1 T

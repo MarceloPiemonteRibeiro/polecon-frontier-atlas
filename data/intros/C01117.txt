@@ -1,0 +1,31 @@
+“Our nation stands for democracy and proper drains.” John Betjeman (Poet
+Laureate of the UK, 1972-1984).
+With many voters expressing dissatisfaction with the democratic system, misinformation and extremism spreading rapidly, and authoritarian-leaning populist parties on the rise in many Western countries, concerns about the future viability of democracy have multiplied.
+Repucci and Slipowitz (2021) report that there have now been 15 consecutive years during which democracy has been in retreat globally.
+Against the backdrop of a possible twilight of democratic institutions around the world, a critical factor that may shape the future of democracy is the support from those who have lived under democratic institutions.1
+The idea that democracy needs to be defended, if it is to survive, goes back at least to ancient Athens (Ober, 2015). In more recent times, when asked whether the newly-formed
+United States was a republic or a monarchy, Benjamin Franklin’s reportedly quipped: “A
+Republic, if you can keep it”(Anishanslin, 2019). Naturally, if citizens have a good experience with democracy, they should be more willing to support it. This was one of the main arguments for President Franklin D. Roosevelt’s New Deal program. In his April 14, 1938 ﬁreside chat, he argued:
+“In recommending this program I am thinking not only of the immediate economic needs of the people of the Nation, but also of their personal liberties—the most precious possession of all Americans. I am thinking of our democracy and of the recent trend in other parts of the world away from the democratic ideal.
+Democracy has disappeared in several other great nations—not because the people of those nations disliked democracy, but because they had grown tired of unemployment and insecurity, of seeing their children hungry while they sat helpless in the face of government confusion and government weakness through lack of leadership in government”(Peters & Woolley, 2022).
+President Joe Biden returned to the same theme in 2021, motivating his infrastructure and ﬁscal plans with the argument that “we have to prove democracy still works—that our government still works and we can deliver for our people,” and adding that in the ﬁrst 100 days
+1On misinformation and extremism, see among others Sunstein (2018); Marantz (2020) and Castillo, Silver, and Wike (2019). On populism, see Judis (2016); M¨uller (2017); Edwards (2019); Guriev and Papaioannou
+(2020).
+On the future viability of democracy, see Applebaum (2020); Levitsky and Ziblatt (2018); Snyder
+(2017); and Stanley (2018), as well as Deneen (2019) and Mishra (2017), who argue that the (liberal) democratic project has been a failure. On the importance of support for democracy, see Easton (1965); Booth, Seligson, et al. (2009); and Norris (2011), and for a general discussion of democratic survival, see Acemoglu and Robinson
+(2019) and Iversen and Soskice (2019).
+1
+ of his administration “we have acted to restore the people’s faith in our democracy to deliver”
+(Biden, 2021).
+Despite their long pedigree, these ideas have not been systematically investigated. To the best of our knowledge, little is known on whether there is indeed more public support for democratic institutions when they are more successful. In this paper, we show that those who live under democracy tend to support democracy and oppose authoritarian and army rule.
+We then document that these e↵ects are driven almost entirely by those who have personal experience of “successful performance” of democratic institutions in terms of GDP growth, control of corruption, peace and political stability, public expenditure, and inequality.
+In contrast, we do not ﬁnd much evidence that exposure to successful nondemocracies boosts support for nondemocratic regimes.2
+Our empirical strategy leverages variation across age groups, countries, and surveys controlling for a host of ﬁxed e↵ects—by country, age, cohort, year of interview, and survey wave. Put simply, we look at whether age groups that have been exposed to longer (successful) democratic spells express greater support for democracy relative to other age groups in the same country, the same age groups in other countries, and themselves in earlier or later surveys.
+This strategy exploits di↵erences in the timing of democratization and democratic reversals in combination with variation in economic and social outcomes under democracy, which generate within-country variation in the exposure of di↵erent individuals to democracy and successful democratic performance.
+Though our empirical strategy zeroes in on an attractive source of within-country variation in democratic exposure, it does not dispel all endogeneity and reverse causality concerns. We deal with these concerns in four complementary ways. First, we document that a country’s overall or successful democratic experience before an individual is born has no signiﬁcant impact on their support for democracy or views about autocracy. Second, we show that exposure to democracy or successful democracy has no signiﬁcant impact on a number of non-political attitudinal questions related to family and neighbors. These two exercises alleviate concerns about our results being driven by general social changes that a↵ect both democratization and political views.
+Third, we also estimate similar e↵ects with an instrumental variables
+(IV) strategy exploiting exposure to regional democratization waves (as in Acemoglu, Naidu,
+Restrepo, & Robinson, 2019, but adapted to focus on individual exposure).
+Finally, we document analogous results in a sample of immigrants whose democratic exposure is a function of the history of democratic institutions in their country of origin and the age at which they migrate.
+Our estimates are broadly similar across our multiple measures of support for democracy.
+2Throughout the paper, we use the terms autocracy and nondemocracy interchangeably. Our main index of support for democracy is relative to support for autocracy

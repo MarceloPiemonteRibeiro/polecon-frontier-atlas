@@ -1,0 +1,32 @@
+The world spent $11 trillion on public procurement in 2018, amounting to 12 percent of global 
+GDP (Figure 1). Public procurement’s share of GDP typically rises with per capita income and  represents more than one-tenth of national output for all rich countries, including 24 percent in 
+Switzerland, 21 percent in the Netherlands, and 18 percent in Hong Kong and Singapore. 
+Governments everywhere purchase vast amounts of goods, services and public works from private  firms, even in sectors such as healthcare and defense that are state-run. 
+Figure 1: Public Procurement as a Share of GDP. 
+ 
+On the border between public and private sectors, procurement is particularly vulnerable  to misconduct. Private companies have strong incentives to bribe public officials to increase  payments, to cut out competitors, or to accept inferior quality. Procurement contracts face the same  challenges of renegotiation and non-verifiable quality as bedevil private contracting (Hart and 
+
+3 
+ 
+Moore 1988, Hart, Shleifer, and Vishny 1997). But unlike the private buyers, public agencies  often lack the incentives and administrative capacity to handle these challenges. 
+The vulnerability of public buyers to private subversion has led every country to restrict  the discretion of procuring entities in what they buy and pay. But while the regulation of the  private sector empowers public officials and often enables them to extract bribes in exchange for  regulatory relief (Djankov et al. 2003), the regulation of government constrains officials. Public  procurement regulations reduce the discretion of buyers, typically with the intent of reducing  corruption. But what do they really accomplish? 
+In this paper, we provide a panoramic overview of procurement laws and practices across 
+187 countries. As part of its Doing Business project, the World Bank administered a new module  on procurement. Respondents in each of the countries (typically eight to twelve professionals  ranging from public procurement lawyers to road construction companies and procuring entities)  were presented with a hypothetical $2.5 million road maintenance project. They were asked about  the rules that would govern the procurement of such a project. Based on their answers, we construct  measures of laws governing procurement, covering transparency, competition, exclusion of  bidders, and integrity of contracts. Respondents also described whether and how procurement  practices differed from the laws, so we can create corresponding measures of regulatory practice. 
+In addition, respondents answered questions about the outcomes of the procurement process. These  include typical problems in the Process of procurement, such as corruption, favoritism, collusion,  and absence of competition, but also problems with the project itself – the Product of procurement 
+-- including time delays, cost overruns, and low quality. In Section II, we describe the survey and  how we aggregated the answers to create indices of regulation in law and practice, but also  corruption and the quality of both Process and Product. 
+Section III presents several novel facts in these data. Countries that regulate one dimension  of procurement are more likely to regulate others as well. Richer countries regulate procurement  less than poorer ones by law, but have practices that are more restrictive on procurement entities  than their laws. For example, poorer countries are more likely to have rules on running transparent  auctions, while richer countries are more likely to actually run them. At the same time, laws do  predict practice. For example, the correlation between transparency laws and practice is 0.67. 
+
+4 
+ 
+We focus on three outcomes from the survey: i) perceived corruption, ii) an index of 
+Process covering favoritism, collusion, and absence of competition, and iii) an index of Product  covering cost overruns, time delays, and low quality. The correlation coefficient between Process  and Product is 0.60. Corruption is associated with bad Process and Product. Richer and better  governed countries have less corruption, and better Process and Product. The survey measures are  also correlated with two external measures of road quality: the World Economic Forum’s (WEF)  survey question on the quality of roads in a country, and average speeds between major cities  calculated by Google Maps. The correlation between Product and the WEF road quality measure  is 0.45 (Figure 2). These measures of road quality also rise with income. 
+Figure 2: Correlation between Quality of Product and WEF Road Quality 
+ 
+We then document that procurement practice is strongly positively correlated with Process  and Product. Laws, however, are not. Section III raises a puzzle. Laws predict practice. Practice 
+
+5 
+  predicts outcomes. But laws do not predict outcomes. To understand these facts, Section IV  proposes a model of regulation of public procurement we then use to make sense of the data. 
+The model considers a simple infrastructure procurement situation in which a Procuring 
+Entity (PE) faces two bidders, with different costs and quality levels. One bidder is an Insider,  who can engage in corrupt bargaining with the PE. The other bidder is an Outsider, who is bound  by an external constraint not to bribe. We consider two institutional settings: regulation and  discretion. Under regulation, the PE must run a second price auction and accept the low bid  regardless of the quality level. Under discretion, the PE has the power to exclude a bidder on the  basis of alleged lower quality. Quality is not, however, externally verifiable and this power enables  the PE to exclude the higher quality Outsider in exchange for a bribe from the Insider. 
+We assume that the PE maximizes a weighted average of social welfare and bribes. The  weight the PE places on social welfare is higher in countries with more accountable governments. 
+We also assume that such governments increase the cost of bribing to

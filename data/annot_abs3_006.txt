@@ -1,0 +1,41 @@
+# round 3, batch_006
+W3123223998|United States|RCT|Résumés with white-sounding names get 50% more callbacks than identical ones with Black-sounding names.|M_diversity+|
+W4298297617|France|Hist|Roads, railways, markets and schools turned France's peasants into Frenchmen between 1870 and 1914.|M_statecap+,M_culture+|
+W2057659248|Cross-country|Review|Meta-analysis of 515 studies: intergroup contact reduces prejudice, more so under Allport's optimal conditions.|M_diversity~|
+02346|United States|DiD|The 1920s quotas cost US science about 1,165 Eastern and Southern European scientists and cut invention in their fields by 68%.||
+02239|Cross-country|Panel|Rising capital shares restrict immigration in less-developed democracies but open it in advanced ones where natives and migrants are complements.|M_lobby+|
+W2097916756|United States|IV|Chinese import competition raised unemployment, lowered wages and participation and raised transfer payments in exposed local labour markets.||
+W2144450384|United States|Survey|Both low- and high-skilled Americans prefer high-skilled immigrants, contrary to labour-competition self-interest.|M_median-,M_culture+|
+W3121774280|Cross-country|Survey|Skilled natives favour immigration where natives are more skilled than immigrants and oppose it otherwise.|M_median+|
+W1558484812|Europe|Survey|More educated Europeans support all types of immigrants, driven by cultural values rather than labour competition.|M_culture+,M_median-|
+W1980207324|Cross-country|Survey|Spending that insures trade losers raises support for free trade: evidence for embedded liberalism.|M_moralhazard~,M_commit+|
+W2043803602|Norway; United States|Panel|Norwegian migrants earned about 70% more than brothers who stayed, and urban migrants were negatively selected.||
+W2134511983|Cross-country|Review|Immigration attitudes reflect sociotropic concerns about national culture and economy, not personal economic circumstances.|M_culture+|
+02530|Theory|Theory|Competing auctions unify production, matching and distribution with labour-market frictions.||
+02528|Russia|Desc|Russian inequality fell under the Soviet regime and soared after 1990 as oligarchs captured privatized wealth.|M_capture+|
+02460|Theory|Theory|Political economy should reintegrate power, institutions, ideology and technology in how production and distribution are organized.||
+W1978796178|Cross-country|Panel|Government grew most in open economies with left parties and reliance on less visible indirect taxes.|M_visibility+,M_citizencand+|
+W2891903900|Cross-country|XC|More open economies have bigger governments because spending insures against external risk.|M_median~|
+W2048838151|Theory|Theory|Efficiency-enhancing redistribution loses support as inequality rises, sustaining high-inequality, low-redistribution equilibria.|M_median~|
+W2148501506|United States|Desc|US top income shares followed a U-shape over the 20th century; the working rich replaced rentiers at the top.||
+W2169223645|Cross-country|Desc|A new inequality dataset finds no systematic link between growth and inequality but strong links between growth and poverty reduction.||
+W2752384816|Cross-country|Book|When returns on capital exceed growth, wealth concentrates and threatens democratic values.||
+W2891965326|Cross-country|Panel|Inequality fuels sociopolitical instability, which depresses investment and growth.|M_war~|
+00953|Theory|Theory|An agenda setter proposing sequentially obtains her favourite outcome against sophisticated voters even without commitment.|M_legbargain+|
+02644|United States|Hist|US Senate parties assign committees by matching mechanisms: strategy-proof for Republicans, manipulable for Democrats.|M_legbargain+|
+W2076316673|Theory|Theory|Geographic representation makes legislators value local spending as a benefit, so omnibus pork projects exceed efficient scale (law of 1/n).|M_legbargain+,M_probvote+|
+W2014602527|Theory|Theory|Restrictive amendment procedures give committees incentives to specialize and share information with the floor.|M_cheaptalk+,M_legbargain+|
+W109341979|Theory|Theory|Under PR, voters and parties anticipate post-election coalition bargaining when choosing votes and platforms.|M_legbargain+|
+01740|United States|Survey|Voters exaggerate partisan differences most on salient issues, as a stereotype model predicts, and distortions predict turnout.|M_culture+|
+02617|United States|Survey|Holding the agenda fixed, House polarization in 1996–2006 came from replacement of members, not individual drift.|M_citizencand+|
+W1580899010|United States|Struct|Over 80% of legislators' roll-call votes over two centuries are explained by one liberal–conservative dimension.|M_median~|
+W2090939951|United States|Theory|Moderate voters balance the president with the opposite party in Congress, producing divided government and partisan cycles.|M_median+,M_citizencand+|
+W2135804127|Theory|Theory|A candidate with a valence advantage moves toward the centre while the disadvantaged one moves out.|M_median~|
+W2124751389|United States|Survey|Partisans increasingly dislike each other, and this affect is only weakly grounded in policy views.|M_culture+|
+W2154862029|United States|Panel|House incumbents who vote more with their party lose vote share and seats, even in safe districts.|M_moralhazard+,M_median+|
+W1515771701|United States|Book|Party leadership revived in the 1980s House as realignment homogenized parties and reforms empowered caucuses.|M_legbargain+|
+W2159251310|Cross-country|Theory|Parties take extreme religious positions to mobilize core voters through targeted messages, peaking at half of voters attending church.|M_probvote+|
+W2046782908|United States|Survey|Constituency influence on House roll calls is strong on civil rights, weaker on welfare and foreign policy.|M_median+|
+W1981357072|United States|Book|Politicians form parties to solve social-choice, collective-action and ambition problems.|M_collective+,M_legbargain+|
+W3124631225|United States|Struct|Party discipline shows up in party switchers' ideal points; the Snyder–Groseclose method exaggerates party effects.|M_legbargain~|
+W2036965329|Theory|Theory|Parties regulate competition among like-minded factions to build reputations and voter trust.|M_selection+,M_commit+|

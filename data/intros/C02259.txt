@@ -1,0 +1,33 @@
+Societies are heterogeneous both in preferences and in incomes.
+The consequences of this are manifested in outcomes as diverse as residential and schooling choices to political aﬃliations, armed conﬂicts, and breakdowns of society or civil war.
+From Marxist theories of class struggle to Tiebout models of individual sorting, thinking about how diﬀerences among individuals are resolved has played a critical role in our attempts to understand society.
+This paper seeks to understand how diversity in preferences aﬀects the basic con-
+ﬂict between rich and poor, particularly regarding their opposing views on redistribution.
+More generally, this paper asks how do class and preference conﬂicts interact?
+If indi- viduals, particularly those with low income, do not agree on how resources (tax revenue) should be allocated across projects, how does this aﬀect the ability of the poor to press for redistribution? On the one hand, one may intuitively think that conﬂicting prefer- ences over resource allocation may create cleavages among poorer individuals and thus work against their general class interest.
+On the other hand, the opposite intuition is also possible: the presence of many narrow “special-interest groups” may create an in- centive for wealthier individuals to ally themselves with the general interest of the poor if this implies a lower overall tax burden.
+Or, does conﬂict over the preferred way to allocate resources simply lead to even greater overall redistribution since there are more varied interests to satisfy?
+This paper aims to (partially) answer the questions raised above by analyzing how income and preference diversity interact in an environment in which political parties and party platforms are endogenous.
+The government is assumed to be able to both redistribute income and to fund special-interest projects (e.g., local or group-speciﬁc public goods), all from proportional income taxation. Individuals diﬀer in income (they can be either “poor” or “rich”) and also as to which special interest project (if any) they beneﬁt from.
+Heterogeneity in the ability to enjoy a particular special-interest project can be thought of as arising directly from diﬀerences in preferences (perhaps as a result of diﬀerent ethnic or religious aﬃliations) or from diﬀerences in geographic locations (if, for example, tax revenue is used to fund local public goods). It can also be thought of as arising from the diﬀerential ability of agents to organize themselves in (special interest)
+1
+ groups that then participate in the political arena.
+We study the equilibrium of a game in which representatives of diﬀerent groups form parties, parties propose platforms, and all individuals vote, with the winning policy chosen by plurality. Political parties are restricted to oﬀering platforms that are credible
+(in that they belong to the Pareto set of their members and hence will not be renegotiated ex post).
+The platforms specify the values of two policy tools: a general redistributive tax which is lump-sum rebated (or used to fund the general public good) and a series of taxes whose revenue is used to fund the speciﬁc (targeted) goods tailored to particular preferences or localities.
+We show that there is an equilibrium in which a party representing the poor wins with a policy of maximum general redistributive taxation.
+In addition, there also can exist an equilibrium with a heterogeneous political coalition consisting of an alliance between the rich and some of the interest groups.
+This coalition engages in a policy of redistribution targeted towards the special interest groups within the coalition and in a lower level of overall redistribution.
+As this coalition has an incentive to form to overturn the policy of maximum general redistribution, we focus on its equilibrium platform and examine how its policies are aﬀected by the degree of diversity—i.e., by changes in the probability that any two individuals belong to the same interest group.
+Our analysis demonstrates that the intuitions expressed previously capture impor- tant elements of the analysis of the eﬀect of preference diversity on class politics: in- creased diversity ﬁrst dilutes but later reinforces class interests.
+When the degree of preference diversity is low, the equilibrium coalition policy is characterized by some de- gree of general income distribution and some targeted transfers.
+As a group, however, the poor obtain less income redistribution than if preference heterogeneity did not exist and the rich pay a lower level of total taxes.
+As diversity increases in society, the set of equilibrium policies this coalition can oﬀer becomes more and more tilted towards the special interest groups and against general redistribution; the poor are made worse oﬀ. As diversity increases further, however, this situation is not sustainable. We show that there exists a critical threshold of diversity above which the ruling coalition breaks down and the only policy that can emerge supports exclusively general redistribution.
+In fact, this policy is identical to the one that would be instituted in the absence of any taste diversity at all.
+Thus, while at ﬁrst increased diversity destroys solidarity among
+2
+ diﬀerent groups of poor individuals, at a suﬃciently high level of diversity, conﬂict in preferences is ignored and the traditional class conﬂict regains its primacy.
+When the measure of individuals that belong to interest groups is not too large, the heterogeneous coalition that emerges is unique. When it is large, the same heterogeneous coalition exists, with the same comparative statics behavior.
+In addition, however, there may exist another heterogeneous coalition composed solely of interest groups—the
+“interest groups” coalition.
+The policies of this coalition have higher overall taxation than the policies of the coalition between the rich and the interest groups, capturing the intuition that class conﬂict and preference conﬂict may simply lead to higher tax

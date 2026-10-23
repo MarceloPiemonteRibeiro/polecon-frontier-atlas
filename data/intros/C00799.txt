@@ -1,0 +1,35 @@
+NBER WORKING PAPER SERIES
+ON THE DYNAMICS OF HUMAN BEHAVIOR:
+THE PAST, PRESENT, AND FUTURE OF CULTURE, CONFLICT, AND COOPERATION
+Nathan Nunn
+Working Paper 29804 http://www.nber.org/papers/w29804
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+February 2022
+The article, which was delivered during the 2022 AEA Distinguished Lecture, was prepared for  the American Economic Review Papers and Proceedings. I am grateful to Joseph Henrich and the  other participants of `culture club' for numerous insightful discussions. I also thank the many  individuals who provided valuable comments on the content of the article: Siwan Anderson, 
+Robert Boyd, Felipe Valencia Caicedo, Ellora Derenoncourt, Leanna Eaton, Ben Enke, Grace 
+Finley, Martin Fiszbein, Paola Giuliano, Leander Heldring, Nippe Lagerlof, Sara Lowes, Eoin 
+McGuirk, Eduardo Montero, Jacob Moscona, Michael Muthukrishna, Jesse Perla, Gautam Rao, 
+Christina Romer, David H. Romer, Ambra Seck, Clara Sievert, for helpful comments and  suggestions. I also thank Aditi Chitkara, Grace Finley, Vibhu Pratyush, Leo Saenger, Fernando 
+Secco, and German Vega Acuna for excellent RA work. The views expressed herein are those of  the author and do not necessarily reflect the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been  peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies  official NBER publications.
+© 2022 by Nathan Nunn. All rights reserved. Short sections of text, not to exceed two  paragraphs, may be quoted without explicit permission provided that full credit, including ©  notice, is given to the source.
+
+On the Dynamics of Human Behavior: The Past, Present, and Future of Culture, Conflict, and Cooperation
+Nathan Nunn
+NBER Working Paper No. 29804
+February 2022
+JEL No. B5,B52,N00,O10
+ABSTRACT
+I provide a theoretically-guided discussion of the dynamics of human behavior, focusing on the  importance of culture (socially-learned information) and tradition (transmission of culture across  generations). Decision-making that relies on tradition can be an effective strategy and arises in  equilibrium. While dynamically optimal, it generates static `mismatch.' When the world changes,  since traits evolve slowly, they may not be beneficial in their new environment. I discuss how  mismatch helps explain the world around us, presents special challenges and opportunities for  policy, and provides important lessons for our future as a human species.
+Nathan Nunn
+Department of Economics
+Harvard University
+1805 Cambridge St
+Cambridge, MA 02138 and NBER nnunn@fas.harvard.edu
+
+There is a remarkable amount of variation in the beliefs and values held by people around the world. These views are often cultural, meaning that they are, at least to some extent, socially learned and socially transmitted. They are often shaped by tradition; namely, the transmission and persistence of cultural values across generations.1
+In many domains, this diversity results in genuine disagreement about what is right and wrong. This is seen most clearly if one thinks of different religious values and beliefs, which are often in conﬂict with each other. But there is also disagreement about more general normative issues. For example, should one give preferential treatment to another if they are from the same community? From the same country? Are we obligated to help those from other groups? Should women have equal rights as men? Scholarship has shown that people have very different views about the right answers to these questions (Fortin, 2005, Fernandez, 2007, Enke, 2020) and in the extent to which individuals tolerate views different from their own (Gelfand, 2018). This moral variation also manifests in debates about economic and social policies, such as immigration, gay marriage, gun regulations, funding of police, afﬁrmative action, reparations, and the role of government. For many, views about these issues are based on socially learned ideologies (Cohen,
+2003), and thinking about them is often governed by moral conviction and emotion rather than by rational logic (Gampa, Wojcik, Motyl, Nosek and Ditto, 2019, Webster and Albertson, 2022).
+While there are important differences between countries, there is also signiﬁcant disagreement within countries. In fact, the within-group variation tends to be much larger than the between- group variation (Desmet, Ort

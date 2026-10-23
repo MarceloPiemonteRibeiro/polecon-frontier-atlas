@@ -1,0 +1,32 @@
+In 2017, 1 billion people lived more than 2 km from a paved road, 1.2 billion had no electricity, and 1 in 3 people lacked access to clean drinking water (UNICEF, 2020; World Bank Group, 2016,
+2017). Analysis by the McKinsey Global Institute suggests that the world needs to invest an average of $3.3 trillion annually just to sustain current economic growth rates. Emerging economies, with the largest unexploited efficiency gains from greater infrastructure investment, account for 60% of that need (Gardner and Henry, 2021; McKinsey
+Global Institute, 2016). Despite the evident necessity to expand public infrastructure the scheduled investment to take place globally from
+2015 to 2030 is only $2.2 trillion, resulting in what has been coined as the ‘‘global infrastructure gap’’ (Gardner and Henry, 2021). The role of financial support has received significant attention in the literature as a constraint to investment (Engel et al., 2022; Fay et al., 2021). In contrast, limited research has been devoted to understanding the po- litical incentives for large government led infrastructure development initiatives.
+Governments at all levels are known to make extensive use of well timed short-run re-election strategies. Evidence from vote-buying (Fi- nan and Schechter, 2012), increasing budget surplus (Brender and
+✩We are grateful to Sam Asher, Manuel Bagues, Liang Bai, Antonella Bancalari, Maia Güell, Tinghua Yu for helpful comments and conversations. We would also like to thank seminar participants at Birkbeck University of London (2023), Cambridge University (2024), Indian Institute of Management Kolkata (2024), and
+Kings Business School London (2024), as well as participants at the following conferences: European Economic Association Annual Congress (2024), International
+Conference on Development Economics (2024), Royal Economics Society Annual Conference (2024) and Growth and Development ISI Conference (2023). André
+Butler would like to thank the Royal Economic Society for their Academic Support Fund, which was used to compile the data for this paper. Khushboo Gupta,
+Mahantesh B S, and Alexis Reddy provided excellent research assistance.
+∗Corresponding author.
+E-mail addresses: c.boudot-reddy@bbk.ac.uk (C. Boudot-Reddy), ajb385@cam.ac.uk (A. Butler).
+Drazen, 2008) and programme expenditures (Brollo and Nannicini,
+2012) in election years all suggest that these provide substantial re- wards at the ballot box. This phenomenon may lead governments to turn towards short-run policies with immediate electoral returns at the expense of programmes whose benefits may only accrue in the medium to long-run. For instance, infrastructure development includ- ing transport, water, and electricity, may under such a democratic accountability mechanism receive sub-optimal investment.
+In this paper, we provide causal evidence on the effect of exposure to a rural road building programme implemented by the Government of
+India – which brought paved roads to nearly 200,000 villages between
+2000 to 2014 at a cost of almost $40 billion – on voting behaviour over two electoral cycles. While programmes aimed at improving public infrastructure have been implemented by governments around the world, evaluating the causal impact of access to these interventions on electoral outcomes is often challenging. This is partly due to the fact that governments are known to leverage their power to target public goods towards specific groups and locations (Banerjee and Somanathan,
+2007; Burgess et al., 2015; Lehne et al., 2018; Mahadevan, 2019). In order to address this source of endogeneity and accurately ascertain a https://doi.org/10.1016/j.jpubeco.2024.105228
+Received 12 September 2023; Received in revised form 23 August 2024; Accepted 4 September 2024
+Journal of Public Economics 239 (2024) 105228 
+Available online 19 September 2024 
+0047-2727/© 2024 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY-NC license ( http://creativecommons.org/licenses/by-  nc/4.0/ ). 
+
+C. Boudot-Reddy and A. Butler causal interpretation, we focus our analysis on the construction of rural roads under the Pradhan Mantri Gram Sadak Yojana (Prime Minister’s
+Village Road Programme, or PMGSY). A key feature of this programme implementation was to target the location of roads to villages with a population exceeding two discrete thresholds (500 and 1000). We estimate that this policy guideline causes villages just above these thresholds to be 22 percentage points more likely to have received a road by the time of the 2014 general election. We exploit this exogenous source of variation in centrally planned road construction in a 𝑓𝑢𝑧𝑧𝑦regression discontinuity design.
+We compile data on voting outcomes from close to one million polling-stations across 18 of India’s most populated states for the 2014 general election. Using geocomputing techniques, we then match the location of polling-stations to villages. Importantly for our empirical approach this newly-digitised dataset enables us to leverage the 𝑣𝑖𝑙𝑙𝑎𝑔𝑒 as our unit of analysis; corresponding to the administrative unit used by the government to target road construction across the country. We com- bine this information with data from the Population Censuses of 2001 and 2011, which describe village-level demographics and amenities.
+Information on road construction under the programme comes from the
+PMGSY portal.
+The rural roads programme was launched in 2000 with road con- struction taking-off in 2002. While the programme was initiated by the Bharatiya Janata Party (BJP), it was the Indian National Congress
+(INC) led coalition, the United Progressive Alliance (UPA), that took control of implementing the programme following their success in the
+2004 general elections. By the time of the 2014 general election, the
+UPA had been in power for two five-year mandates and overseen new road construction to nearly 200,000 villages across the country. In this paper, we are primarily inter

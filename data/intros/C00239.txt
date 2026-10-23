@@ -1,0 +1,32 @@
+35
+American Economic Journal: Applied Economics 2009, 1:2, 35–52 http://www.aeaweb.org/articles.php?doi=10.1257/app.1.2.35
+C itizens learn about politics and government from the news they watch on tele- vision and read in newspapers. Recent work has examined how the media  shapes the public’s political knowledge, attitudes, and behavior (Timothy J. Besley  and Robin Burgess 2002, Alexander Dyck and Luigi Zingales 2002, and James 
+T. Hamilton 2003). Media sources may influence the public not only through the  slant of a particular report (Stefano DellaVigna and Ethan Kaplan 2007) but also by  choosing what to cover (Lisa M. George and Joel Waldfogel 2006).
+This paper reports the results of a natural field experiment1 to measure the effect  of political news content on political behavior and opinions. The Washington, DC  area is served by two major newspapers, the conservative Washington Times and the  more liberal Washington Post (Tim Groseclose and Jeffrey Milyo 2005). The presence  of a liberal and conservative paper serving the same region creates an outstanding  opportunity to study the effect of media slant in a naturalistic setting within a single  population.2 Approximately one month prior to the Virginia gubernatorial election in 
+1 As per the taxonomy put forth in Glenn W. Harrison and John A. List (2004).
+2 The Washington Post is also a more nationally prominent newspaper than the Washington Times. Thus, read- ers may perceive a difference in quality and trustworthiness, not just slant, between these two newspapers.
+* Gerber: Department of Political Science, Yale University, 77 Prospect St, New Haven, CT 06520, and 
+National Bureau of Economic Research (e-mail: alan.gerber@yale.edu); Karlan: Yale University, 27 Hillhouse 
+Ave, New Haven, CT 06511, Innovations for Poverty Action and Massachusetts Institute of Technology Jameel 
+Poverty Action Lab (e-mail: dean.karlan@yale.edu); Bergan: Department of Communications, Michigan State 
+University, 463 Communications Arts & Sciences Building, East Lansing, MI 48824 (e-mail: bergan@msu.edu). 
+We would like to thank Stefano DellaVigna, Don Green, Tim Groseclose, and Brian Knight for very helpful com- ments. We also thank Chris Mann and Brenner Tobe for providing the turnout data. 
+† To comment on this article in the online discussion forum visit the articles page at: http://www.aeaweb.org/articles.php?doi=10.1257/app.1.2.35.
+Does the Media Matter? A Field Experiment 
+Measuring the Effect of Newspapers  on Voting Behavior and Political Opinions†
+By Alan S. Gerber, Dean Karlan, and Daniel Bergan*
+We conducted a field experiment to measure the effect of exposure  to newspapers on political behavior and opinion. Before the 2005 
+Virginia gubernatorial election, we randomly assigned individuals to  a Washington Post free subscription treatment, a Washington Times  free subscription treatment, or a control treatment. We find no effect  of either paper on political knowledge, stated opinions, or turnout in  post-election survey and voter data. However, receiving either paper  led to more support for the Democratic candidate, suggesting that  media slant mattered less in this case than media exposure. Some evi- dence from voting records also suggests that receiving either paper led  to increased 2006 voter turnout. (JEL D72, L82)
+
+36 
+American Economic Journal: applied economics
+APRIL 2009
+November 2005, we administered a short survey to a random selection of households  in Prince William County, a northeastern Virginia county. From the 3,347 households  reporting that they received neither the Post nor the Times, we randomly assigned  households to get subscriptions to either the Post or the Times for ­approximately ten  weeks, or to a control group that was not sent either paper. A week after the election,  we conducted a follow-up survey in which we asked individuals whether they voted  in the November 2005 election; which candidate they selected (or preferred, if they  said they did not vote); their attitudes toward the president, the political parties, and  national political issues; their attitudes toward news events of the previous weeks; and  their knowledge about recent news events. We also obtained voter turnout data for the 
+November 2005 and 2006 elections from state administrative records.
+Our research contributes to a large and growing literature on the effect of news  media on political attitudes and behavior. The earliest media studies discounted the  impact of mass communications, but most recent studies conclude that media expo- sure can have a sizable effect. The most common method of measuring the effect  of media content is to use data from surveys to measure the association between a  respondent’s reported media exposure and his or her political views. Among the find- ings adduced to suggest media effects, researchers frequently document strong asso- ciations between exposure to media with a distinctive slant and the viewers’ political  attitudes and information (Peter Clarke and Eric Fredin 1978; Arthur Miller, Edie N. 
+Goldenberg, and Lutz Ebring 1979; Carl R. Bybee et al. 1981; Gina M. Garramone  and Charles K. Atkin 1986; Joel Lieske 1989; Craig Leonard Brians and Martin P. 
+Wattenberg 1996; Russell J. Dalton, Paul A. Beck and Robert Huckfeldt 1998; and 
+John R. Hibbing and Elizabeth Theiss-Morse 1998). While suggestive, this research  design may produce upwardly biased estimates of media influence due to biased  reports of media exposure and to selection bias from the tendency for individuals  to seek out information that agrees with their pre-existing views (Timothy C. Brock 
+1965, Paul D. Sweeney and Kathy L. Gruber 1984, Matthew Gentzkow and James 
+M. Shaprio 2005, and Sendhil Mullainathan and Andrei Shleifer 2005).
+Several recent papers employ natural experiments to measure media effects on  voter turnout. Gentzkow (2006) studies the introduction of television and shows that  the introduction of television was ass

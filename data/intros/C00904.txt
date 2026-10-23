@@ -1,0 +1,35 @@
+Proponents of campaign finance reform claim that campaign contributions cor- rupt politicians and bias policy. Although conventional wisdom suggests the
+∗Email: snowberg@caltech.edu.
+The authors are indebted to Stephen Ansolabehere, David Austen-Smith, David Baron, Jeremy
+Bulow, Silvia Console Battilana, Matt Jackson, Keith Krehbiel, Marc Meredith, Gerard Padr´o i
+Miquel, Kenneth Shotts, Andrzej Skrzypacz, Eric Zitzewitz, seminar participants at Stanford, and the National Bureau of Economic Research and anonymous referees for useful comments.
+Brendan Daley acknowledges the support of the Koret Graduate Dissertation Fellowship through a grant to the Stanford Institute for Economic Policy Research. Erik Snowberg acknowledges the financial support of the Stanford Institute for Economic Policy Research Dissertation Fellowship.
+1. “Limit Campaign Fundraising,”The Boston Globe, March 10, 2006.
+The Journal of Law, Economics, & Organization, Vol. 27, No. 2, doi:10.1093/jleo/ewp012
+Advance Access publication June 29, 2009 c⃝The Author 2009. Published by Oxford University Press on behalf of Yale University.
+All rights reserved. For Permissions, please email: journals.permissions@oxfordjournals.org
+ at California Institute of Technology on May 31, 2012 http://jleo.oxfordjournals.org/
+Downloaded from 
+
+The Case for Campaign Finance Reform
+325 existence of such an effect, there is a dearth of systematic supportive evi- dence. This absence is not due to a lack of study. If one examines closely all the arguments in favor of restricting campaign contributions, a more defen- sible criticism emerges: raising campaign funds corrupts the time allocation of politicians. They spend too much time and energy raising money and too lit- tle time and energy governing. In this article, we explain how this inefficiency persists and demonstrate how reform would alleviate it.
+Most of the academic literature agrees with the proponents of campaign finance reform. In this literature, it is assumed that “parties bias their policy choices to attract money from interest groups and then use this money to attract the votes of the uninformed.”2 Recent empirical work calls both of these assumptions into question. Ansolabehere et al. (2003) argued that campaign contributions appear to have no effect on legislative behavior. Additionally, if advertising is informative enough to justify the money spent on it, we should expect that changing levels of advertising would have profound effects on the outcomes of elections. This too lacks empirical support (Levitt 1994).
+It is clear, however, that the pursuit of campaign contributions distorts the allocation of politicians’ time, attention, and effort. In his dissent to Randall v. Sorell, 528 US 230 (2006), Supreme Court Justice John Paul Stevens writes,
+“Fundraising devours the time and attention of political leaders, leaving them too busy to handle their public responsibilities effectively.” Many politicians echo his statement. Former Senator, Vice President, and presidential candidate
+Walter Mondale (D-MN) asserts, “Candidates and officeholders spend far too much time raising money [in order] to run for office.” Former Senator Nancy
+Kassebaum (R-KS) states, “Here we are forced to raise money all the time.
+I don’t worry about money influencing our votes. But I worry about the en- ergy it takes. I just don’t know how people find time to think or reflect.” For- mer Senator Ernest “Fritz” Hollings (D-SC) says that fundraising “distracts us from the people’s business ... It corrupts and degrades the entire political process.”3
+We incorporate this bias in effort into a dynamic signaling model that does not rely on vote buying and the accompanying biases in policy. In every elec- tion cycle, politicians exert effort toward implementing policy and toward raising and spending campaign funds. These activities are costly to politi- cians. We assume that high-ability candidates are better policymakers and better fundraisers, so they can use these activities to signal their privately
+2. Quote from Coate (2004a). For models of this type, see Baron (1989), Snyder (1990), Prat
+(2002a, 2002b), Coate (2004a), and Ashworth (2006). Prat (2006) and Coate (2004b) made a dis- tinction between service-induced contributions, which are defined as above, and position-induced contributions, where contributions are given based on past voting records. For the purposes of this discussion, the two are observationally equivalent. Funds increase the chance of (re)election and candidates must take a certain position to obtain them. For a complete theoretical treatment of this point, see Fox and Rothenberg (2007).
+3. The quote from Mondale comes from the “The Money Pit,” The New York Times, March 25,
+1997. The quotes from Hollings and Kassebaum are from Garrett (1997).
+ at California Institute of Technology on May 31, 2012 http://jleo.oxfordjournals.org/
+Downloaded from 
+
+326
+The Journal of Law, Economics, & Organization, V27 N2 known ability.4 A high-ability politician wants to signal her type at minimum cost. When the marginal costs of each of these activities are increasing, it will generally be cheaper to signal through both channels than to signal through only one.
+The assumption that high-ability candidates are better fundraisers is sup- ported by both proponents of loosely regulated campaign financing and the scholarly literature. The amount of money raised by a candidate is often used as a measure of politician quality (see, e.g., Bond et al. 1985; Squire 1989,
+1992). The equation of fundraising with candidate ability is so pervasive that it was recently bemoaned by a columnist for The Philadelphia Inquirer.5 More- over, this is a common, often implicit, assumption in the theoretical literature on campaign finance (Coate 2004b; Prat 2006).
+Readers may object to our implicit assumptions about donor incentives.
+However, we believe that it is possible to gain insights into campaign finance without fully modeling t

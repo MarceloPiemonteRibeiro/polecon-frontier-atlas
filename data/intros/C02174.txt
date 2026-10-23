@@ -1,0 +1,43 @@
+Archive ouverte UNIGE https://archive-ouverte.unige.ch
+Article scientifique
+Article
+2005                                    
+Accepted version
+Public access
+This is an author manuscript post-peer-reviewing (accepted version) of the original publication. The layout of  the published version may differ .
+Rising Inequality and the Politics of Redistribution in Affluent Countries
+Kenworthy, Lane; Pontusson, Harry Jonas
+How to cite
+KENWORTHY, Lane, PONTUSSON, Harry Jonas. Rising Inequality and the Politics of Redistribution in 
+Affluent Countries. In: 
+, 2005, vol. 3, n° 03. doi: 10.1017/S1537592705050292
+Perspectives on politics
+This publication URL: https://archive-ouverte.unige.ch/unige:41001
+Publication DOI:
+10.1017/S1537592705050292
+© This document is protected by copyright. Please refer to copyright holder(s) for terms of use.
+Last update in Archive ouverte UNIGE on 14.03.2023 23:02
+
+Rising Inequality and the Politics of
+Redistribution in Affluent Countries
+Lane Kenworthy and Jonas Pontusson
+We use data from the Luxembourg Income Study to examine household market inequality, redistribution, and the relationship between market inequality and redistribution in afﬂuent OECD countries in the 1980s and 1990s. We observe sizeable increases in market household inequality in most countries. This development appears to have been driven largely, though not exclusively, by changes in employment: in countries with better employment performance, low-earning households beneﬁted relative to high- earning ones; in nations with poor employment performance, low-earning households fared worse. In contrast to widespread rhet- oric about the decline of the welfare state, redistribution increased in most countries during this period, as existing social-welfare programs compensated for the rise in market inequality.They did so in proportion to the degree of increase in inequality, producing a very strong positive association between changes in market inequality and changes in redistribution. We discuss the relevance of median-voter theory and power resources theory for understanding differences across countries and changes over time in the extent of compensatory redistribution.
+I nequality has emerged as a major theme in the compar- ative study of advanced capitalist political economies over the last decade. The comparative political economy literature of the 1970s and 1980s focused on explaining cross-national variation in macroeconomic management, incomes policy, industrial policy, and macroeconomic out- comes such as growth, unemployment, and inﬂation. The parallel comparative welfare state literature focused on understanding differences across countries in public social expenditures, institutional arrangements, and principles of eligibility. Neither literature paid much attention to distributive outcomes. As David Bradley and colleagues suggest, this was due largely to lack of good, comparable data on the distribution of earnings and incomes.1 In addi- tion to the availability of better data, the new comparative literature on inequality reﬂects a growing recognition of the need to integrate the study of welfare states with the study of labor markets. Perhaps most important, this lit- erature seems to be informed by a widespread sense that rising inequality represents a common trend across the afﬂuent Organization for Economic Co-operation Devel- opment (OECD) countries since the 1980s, with impor- tant implications for politics and for the social fabric of these countries.
+Curiously, the view that rising inequality is the big story, and that this trend derives from the changing dynamics of labor markets, persists despite the fact that the available data show that earnings differentials have remained stable or even declined in many countries. In this paper, we review existing literature and present new data on inequal- ity trends in the afﬂuent OECD countries. Our data derive from the Luxembourg Income Study (LIS) and refer to income inequality among working-age households. Largely descriptive and conceptual, the paper makes three contri- butions to the comparative study of inequality.
+First, we map trends in the distribution of gross mar- ket income, that is, the distribution of income before taxes and government transfers. In contrast to data on the distribution of earnings among employed individu- als, this measure of inequality takes into account the distribution of employment across households. Using income data for working-age households rather than earn- ings data for individuals, we indeed observe a signiﬁcant
+Lane Kenworthy is an associate professor in the Department of Sociology at the University of Arizona (lane.kenworthy@ arizona.edu). Jonas Pontusson is a professor in the
+Department of Politics at Princeton University
+(jpontuss@princeton.edu). Earlier versions of this paper were presented at the Conference of Europeanists (March
+2002), a workshop on the Comparative Political Economy of Inequality at Cornell University (April 2002), the an- nual meeting of the Society for the Advancement of Socio-
+Economics (June 2002), and a seminar at the Center for
+European Studies, Harvard University (December 2003).
+For criticisms and suggestions the authors thank Richard
+Freeman, Janet Gornick, Alex Hicks, Torben Iversen, Larry
+Kahn, Tomas Larsson, Jim Mosher, Nirmala Ravishankar,
+David Rueda, Tim Smeeding, John Stephens, Michael
+Wallerstein, Christopher Way, Erik Wright, and the Per- spectives on Politics reviewers.
+Articles
+September 2005 | Vol. 3/No. 3
+449
+ increase in inequality in most OECD countries. More- over, the pattern of cross-national variation is not what one might have expected: the United States is not alone in having experienced rapid growth of market inequality.
+We also observe comparatively large increases in house- hold inequality in the Nordic countries—traditional par- agons of egalitarianism. These observations point to the crucial importance of (differential) access to employment as

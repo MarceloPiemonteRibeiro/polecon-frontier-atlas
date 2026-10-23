@@ -1,0 +1,22 @@
+# round 2, batch_015 — abstracts
+02020|Cross-country|Review|Multinationals favour strong property rights, but whether incentives and treaties attract FDI is contested; trade and FDI should be studied jointly.|M_commit+|
+01999|Cross-country|Survey|Workers in routine, offshorable occupations are more protectionist in high-income democracies.|M_median+|
+02013|Cross-country|Review|Every international monetary system since the gold standard faced financial-stability problems alongside exchange-rate, adjustment and liquidity challenges.||
+02036|Argentina|NatExp|A 10% rise in Argentina's default probability, driven by court rulings, lowered Argentine equities 6%.||
+02204|United States|Panel|Productive exporters of differentiated products lobby individually for lower tariffs, and differentiated products have lower tariffs.|M_lobby+,M_collective+|
+02024|United States|Panel|Firms' FDI and offshore input sourcing are the primary drivers of support for US trade agreements.|M_lobby+|
+02037|Cross-country|IV|Capital inflows raise house prices, and rising house prices lower demand for taxes and social insurance, mediated by partisanship.|M_median+|
+02209|Cross-country|Review|Modern trade agreements reach into domestic regulation and may empower rent-seeking multinationals rather than free trade.|M_lobby+,M_capture+|
+02512|France|NatExp|Regions better shielded from British trade in the Napoleonic blockade built more mechanized cotton spinning, with lasting but fading gains.||
+01832|United States|Panel|China's retaliatory tariffs targeted Republican counties in competitive districts and cost Republicans votes as voters assigned blame.|M_moralhazard+,M_probvote+|
+02022|Cross-country|Panel|At least 31% of investors who arbitrate against host states later reinvest: investment law can restore cooperation.|M_commit+|
+02210|Cross-country|Review|Firm-centred models predict trade divides industries and the largest firms are globalization's strongest advocates.|M_lobby+|
+02006|United States|Panel|Counties receiving more Trade Adjustment Assistance gave Trump less support in 2016: compensation dampens protectionist backlash.|M_moralhazard+|
+02211|Cross-country|Review|Within-country economic geography shapes who wins and loses from globalization and how governments respond.||
+01598|Cross-country|IV|Agricultural technologies tuned to frontier countries' pests diffuse less and lower productivity elsewhere, cutting global output by about half.||
+02333|Cross-country|Review|Foreign influence on domestic policy takes the form of agreements, policy interventions or institution interventions, in a unified framework.|M_lobby+|
+02212|United States|Text|Organized opposition to US trade agreements is mainly progressive (environment, human rights, economic justice) allied with unions.|M_collective+,M_lobby+|
+02385|Cross-country|RD|When older candidates narrowly defeat younger ones, countries are much less likely to engage in military conflict.|M_citizencand+,M_war+|
+02317|Cross-country|Panel|Sectors exposed to foreign political risk innovate more, especially when risk comes from adversaries, reducing import reliance.||
+02336|Cross-country|IV|Economic integration with democracies, through imports, raises democracy scores; integration with non-democracies does not.|M_culture+|
+02338|Cross-country|IV|As countries become more economically dependent on a partner, they realign politically toward it.||

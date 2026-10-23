@@ -1,0 +1,96 @@
+HOW TO SUBVERT DEMOCRACY: 
+MONTESINOS IN PERU 
+ 
+ 
+JOHN MCMILLAN 
+PABLO ZOIDO 
+ 
+ 
+CESIFO WORKING PAPER NO. 1173 
+CATEGORY 1: PUBLIC FINANCE 
+APRIL 2004 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+An electronic version of the paper may be downloaded 
+• from the SSRN website: www.SSRN.com 
+• from the CESifo website: www.CESifo.de 
+
+CESifo Working Paper No. 1173 
+ 
+ 
+ 
+HOW TO SUBVERT DEMOCRACY: 
+MONTESINOS IN PERU 
+ 
+ 
+Abstract 
+ 
+ 
+Which of the democratic checks and balances - opposition parties, the judiciary, a free press - is the most critical? Peru has the full set of democratic institutions. In the 1990s, the secret- police chief Vladimiro Montesinos systematically undermined them all with bribes. We  quantify the checks using the bribe prices. Montesinos paid television-channel owners about 
+100 times what he paid judges and politicians. One single television channel’s bribe was four  times larger than the total of the opposition politicians’ bribes. By revealed preference, the  strongest check on the government’s power was the news media. 
+JEL classification: P160, K100, L820. 
+ 
+ 
+ 
+John Mc Millan 
+Stanford University 
+Graduate School of Business 
+518 Memorial Way 
+Stanford, CA 94305 5015 
+U.S.A.  mcmillan_john@gsb.stanford.edu 
+Pablo Zoido 
+Stanford University 
+Graduate School of Business 
+518 Memorial Way 
+Stanford, CA 94305 5015 
+U.S.A.  pzoido@stanford.edu 
+ 
+ 
+ 
+For comments, we thank Jonathan Bendor, Gerhard Casper, Peter Gourevitch, Stephen Haber, 
+Stephen Krasner, David McKenzie, Luis Moreno Ocampo, John Roberts, and Barry 
+Weingast. This research was supported by the Stanford Graduate School of Business, the 
+Center for Democracy, Development, and the Rule of Law at the Stanford Institute for 
+International Studies, and a 2003 John M. Olin Program in Law and Economics Summer 
+Research Fellowship to Zoido. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Of the checks and balances that underpin any democracy, which is the most  critical? Peru has in place the full set of democratic mechanisms: a constitution,  opposition parties, regular elections, a presidential term limit, safeguards for the  independence of the judiciary, and a free press. In the 1990s, Peru was run, in the name  of President Alberto Fujimori, by its secret-police chief, Vladimiro Montesinos Torres. 
+In the course of exercising power, Montesinos methodically bribed judges, politicians,  and the news media. 
+Montesinos kept meticulous records of his transactions. He required those he  bribed to sign contracts detailing their obligations to him. He demanded written receipts  for the bribes (see Figure 1). Strikingly, he had his illicit negotiations videotaped. 
+In what follows we use Montesinos’s bribe receipts and videotapes to study the  breakdown of checks and balances. Montesinos and Fujimori maintained the façade of  democracy—the citizens voted, judges decided, the media reported—but they drained its 
+ 
+ substance. How did they go about undermining democracy? We discuss the workings of  covert authoritarianism: the negotiation and enforcement of the secret deals. 
+We use the bribe prices to quantify the checks and balances. The size of the  bribes indicates how much Montesinos was willing to pay to buy off those who could  have checked his power. (See Tables 2, 3, and 4 below.) The typical bribe paid to a  television-channel owner was about a hundred times larger than that paid to a judge,  which was about the same as that paid to a politician. One single television channel’s  bribe was four times larger than the total of the opposition politicians’ bribes. The most  forceful of all the checks and balances on the Peruvian government’s power, by 
+Montesinos’s revealed preference, was television. 
+ 
+1. The Montesinos Virus 
+ 
+Democratic institutions form a system of incentives shaping and constraining the  government’s behavior. Most analyses of the checks and balances examine them  separately: the independent judiciary (La Porta et al., 2004), political parties (Persson et  al., 1997), and the news media (Besley and Prat, 2001; Djankov et al., 2003b). The parts  of the system interact, however. A pair of governance mechanisms may be  complementary, in the sense that one works better when the other is in place, or  strengthening one increases the marginal effectiveness of the other (Milgrom and 
+Roberts, 1990). Opposition politicians are more potent, for example, the freer the press. 
+The checks and balances reinforce each other. 
+The number of countries that are democratic has jumped. In the mid-1970s, there  were 39 electoral democracies; by 2001 there were 104 (Diamond, 2002, p. 26). Along  with this shift has come an increase in the number of countries that are imperfectly  democratic, having the form of democracy but falling short on the substance. Not only 
+Peru under Fujimori, but also countries like Russia under Vladimir Putin, Zimbabwe  under Robert Mugabe, Malaysia under Mahathir Mohamed, Haiti under Jean-Bertrand 
+Aristide, and Mexico before Ernesto Zedillo have, or had, a competitive authoritarian  regime. Under competitive authoritarianism, as defined by Levitsky and Way (2002, p. 
+ 
+2
+
+52), formal democratic institutions operate, but the incumbent violates the rules to such  an extent that “the regime fails to meet conventional minimum standards for democracy.” 
+The “Montesinos virus” is a more vivid label for it, coined by the Polish journalist  and former democracy activist Adam Michnik (2000): “a newly discovered cancerous  disease found most commonly in contemporary democratic states.” With standard  authoritarianism becoming harder to sustain because of globalization and new  communications technologies, competitive authoritarianism has become more common  around the world. Twenty-one competitive authoritarian regimes existed as of 2001, by  the count of Diamond (2002), all of them in developing or ex-communist countries. 
+ 
+Understanding the ways in which democratic institutions can be subverted— wh

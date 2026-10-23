@@ -1,0 +1,49 @@
+NBER WORKING PAPER SERIES
+RENT PRESERVATION AND THE PERSISTENCE OF UNDERDEVELOPMENT
+Raghuram G. Rajan
+Working Paper 12093 http://www.nber.org/papers/w12093
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+March 2006
+I thank Peter Gourevich, Steven Haber, Robert Inman, Simon Johnson, Subir Lall, Rodney 
+Ramcharan, Antonio Spilimbergo, Arvind Subramanian, and seminar participants at Berkeley, 
+Brown University, Harvard University, the IMF, and the University of Pennsylvania for valuable  comments, as well as the NSF and the Center for the Study of the State and the Economy at the 
+GSB Chicago for financial support. I am especially grateful to Karla Hoff, Bilge Yilmaz, and 
+Luigi Zingales, whose contributions to this version have been invaluable. I thank Yannis 
+Tokatlidis for research assistance. An earlier version of this paper was entitled “The Persistence  of Underdevelopment: Institutions, Human Capital, or Constituencies?”. The views expressed  herein are those of the authors and do not necessarily reflect the views of the National Bureau of 
+Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peer- reviewed or been subject to the review by the NBER Board of Directors that accompanies official 
+NBER publications.
+© 2006 by Raghuram G. Rajan. All rights reserved. Short sections of text, not to exceed two paragraphs,  may be quoted without explicit permission provided that full credit, including © notice, is given to  the source.
+
+Rent Preservation and the Persistence of Underdevelopment 
+Raghuram G. Rajan
+NBER Working Paper No. 12093
+March 2006, Revised June 2020
+JEL No. O1,O15,P5,I2,K0
+ABSTRACT
+When citizens in a poor constrained society are very unequally endowed, they are likely to find it  hard to agree on reforms, even though the status quo hurts them collectively. Each citizen group  or constituency prefers reforms that expand its opportunities, but in an unequal society, this will  typically hurt another constituency’s rents. Competitive rent preservation ensures no  comprehensive reform path may command broad support. The roots of underdevelopment may  therefore lie in the natural tendency towards rent preservation in a divided society.
+Raghuram G. Rajan
+Booth School of Business
+University of Chicago
+5807 South Woodlawn Avenue
+Chicago, IL 60637 and NBER raghuram.rajan@ChicagoBooth.edu
+
+ 
+- 1 - 
+ 
+Why are reforms in underdeveloped countries so difficult? One view is this is because  in many underdeveloped countries the elite maintain their rents by forcing suboptimal  policies on the rest of the population through oppressive political institutions. Yet political  institutions do change. Unfortunately, emancipation, independence, and even  democratization have not resulted in growth-enhancing reforms. Unless these changes in  political institutions are a complete sham – and no one witnessing elections in poor countries  like India could conclude that – the answer must lie elsewhere. 
+One possibility (see William R. Easterly 2002 and 2006) is that economists simply do  not know what it takes to lift countries out of poverty, and that development is a consequence  of countries hitting upon the right policies through trial and error or even by chance alone. If  one is unwilling to accept this very real possibility that we know little, the puzzle becomes  deeper. Why do citizens of poor countries, who have obtained the political power to vote out  old elites, find it so hard to enact the right policy reforms that will lift them out of poverty? 
+Let me explain my answer. Let a constituency be a group where each member has the  same factor endowments (such as education), and therefore similar preferences over policies  even without being organized.1 I start with the observation that in elite dominated societies,  the oppressed are typically not a uniform homogenous group. Instead, they themselves are  divided into separate constituencies through substantial differences in endowments. These  divisions are sometimes created by the elite, though what matters in this paper is not where  the divisions come from but that they exist.2 
+ 
+1 I prefer the term constituency rather than interest group or class. Interest groups (e.g.,  textile workers) typically are much narrower than my notion of constituency (e.g., the  educated), and imply organization (and thus, possibly, institutions), while the term “class”  has prior associations (e.g., linked to the ownership of the means of production) that may  confuse rather than enlighten. 
+2 In hierarchical societies such as India, for example, the British simply inserted themselves  at the top of the existing system, and encouraged the continuance of pre-existing caste and  feudal loyalties. Over time, they did favor some communities at the expense of others, but 
+(continued) 
+
+ 
+- 2 - 
+ 
+Now consider an economy where elite oligopolists own the only firms in town and  there are two other, “oppressed”, constituencies; The educated who can work as managers for  the oligopolists or as self-employed doctors providing essential medical services for all, and  the uneducated, who can work as laborers for the oligopolists. 
+Assume that the economy democratizes, but it takes a majority of the constituencies 
+(two out of three) to vote a reform through. I examine the support for two kinds of reform  policies that are generally thought to be necessary for development: ones that increase  competition by allowing the educated also to open up firms (broadly termed pro market  reforms, which include a strengthening of property rights and expansion of access to finance)  and ones that increase access to endowments such as education (including setting up schools,  expanding seats in colleges, etc.). The interesting result is that under plausible conditions,  there is no equilibrium where comprehensive reforms (that is, enacting both reforms) take  place. In particular, reforms

@@ -1,0 +1,44 @@
+How do dictators hold onto power? The totalitarian tyrannies of Stalin, Hitler, Mao, Pol Pot, and others relied largely—although not exclusively—on mass terror and indoctrination. Although less ideological, many
+20th Century military regimes—from Franco’s Spain to Pinochet’s Chile—used considerable violence to intimidate opponents of the regime.1 Personalistic dictators in Africa and the Caribbean—such as Mobutu,
+Bokassa, Somoza, and the Duvaliers—also relied on blood and fear to sustain their rule.
+However, in recent decades, a less carnivorous form of authoritarian government has emerged, one better adapted to the globalized media and sophisticated technologies of the 21st Century. From the Peru of Alberto Fujimori to the Hungary of Viktor Orban, illiberal regimes have managed to consolidate power without isolating their countries from the world economy or resorting to mass killings.
+Instead of inaugurating “new orders,” such regimes simulate democracy, holding elections that they make sure to win, bribing and censoring the private press rather than abolishing it, and replacing ideology with an amorphous anti-Western resentment.2 Their leaders often enjoy genuine popularity—albeit after eliminating plausible rivals—that is based on “performance legitimacy,” a perceived competence at securing prosperity and defending the nation against external threats. State propaganda aims not to re-engineer human souls but to boost the leader’s ratings, which, so long as they remain high, are widely publicized. Political opponents are harassed and humiliated, accused of fabricated crimes, and encouraged to emigrate.
+The new-style dictators can brutally crush separatist rebellions and deploy paramilitaries against unarmed protesters. But, compared to previous regimes, they use violence sparingly. They prefer the ankle bracelet to the Gulag. Maintaining power, for them, is less a matter of terrorizing victims than of manipulating beliefs about the world. Of course, totalitarian leaders also sought to inﬂuence public beliefs—some were great innovators in the use of propaganda. Yet, how they used it was quite diﬀerent. Dictators such as Hitler and
+Stalin sought to fundamentally reshape citizens’ world views by imposing comprehensive ideologies. The new autocrats are more surgical: they aim only to convince citizens of their competence to govern. The totalitarian dictators often employed propaganda to encourage personal sacriﬁces for the “common good.”
+Their successors seek to manipulate citizens into supporting the regime for selﬁsh reasons. Finally, although propaganda was important for the old-style autocracies, violence clearly came ﬁrst. “Words are ﬁne things, but muskets are even better,” Mussolini quipped (Odegard 1935, p.261). Recent tyrannies reverse the order.
+“We live on information,” Fujimori’s security chief Vladimiro Montesinos confessed in one interview. “The addiction to information is like an addiction to drugs.” Montesinos paid million dollar bribes to television stations to skew their coverage. But killing members of the elite struck him as foolish: “Remember why
+1More than 30,000 people are believed to have been killed by Pinochet’s agents, “most of them taken away to secret detention centers and camps, tortured, tossed still alive from airplanes into the sea or shot and buried in unmarked graves” (Roht-Arriaza
+2005, p.viii).
+2On the use of elections and partially democratic or pseudo-democratic institutions in dictatorships, see Gandhi (2008),
+Gandhi and Lust-Okar (2009) and Levitsky and Way (2010). Although our focus is on “dictatorships,” which we see as synony- mous with “authoritarian regimes,” we consider the dividing line between soft authoritarian regimes and illiberal democracies to be a fuzzy one. Our model also applies to most illiberal democracies.
+2
+
+Table 1: Changing characteristics of non-democracies, 1980-2012.
+Percent with ongoing mass killings
+Percent with no elected legislature
+Percent with legislatures where government parties have more than 95 percent of seats
+1980
+22
+33
+70
+2012
+6
+15
+35
+Sources:
+Database of Political Institutions 2010 (see Beck et al.
+2001);
+Polity
+IV database; Mass Killings Database (see Ulfelder and Valentino 2008, and updated data at https://dartthrowingchimp.wordpress.com/2013/07/25/trends-over-time-in-state- sponsored-mass-killing/).
+Notes: “Non-democracies” are countries with Polity2 scores of less than 6. A “mass killing” is “any event in which the actions of state agents result in the intentional death of at least
+1,000 noncombatants from a discrete group in a period of sustained violence.”
+Pinochet had his problems. We will not be so clumsy”(McMillan and Zoido 2004, p.74). When dictators are accused of political murders these days, it often augurs the fall of the dictatorship.
+Some bloody military regimes and totalitarian states remain—for instance, in Egypt and Burma, or
+North Korea—but the balance has shifted.
+As Table 1 shows, compared to 35 years ago, far more of the undemocratic orders existing today have elected legislatures in which non-government parties occupy a signiﬁcant place. And fewer are currently involved in mass atrocities against their populations. Besides
+Fujimori’s Peru and Orban’s Hungary, other regimes that share some or all of these characteristics include
+Vladimir Putin’s Russia, Mahathir Mohamad’s Malaysia, Hugo Chavez’s Venezuela, and Recep Tayyip
+Erdogan’s Turkey. One might even see Lee Kuan Yew’s Singapore as a pioneer of such “soft autocracy.”
+China’s recent party bosses also ﬁt in some respects, but whereas the other leaders just listed inherited
+ﬂawed democracies and undermined their institutions further, the institutions hollowed out in China were those of totalitarian communism.
+We develop a model of dictatorship to capture the logic that governs the survival of such regimes. As in signaling models of democratic politics, the ruler may be either competent or incompetent.3 Only the dictator and a subset of t

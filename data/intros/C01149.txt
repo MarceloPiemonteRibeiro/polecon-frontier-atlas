@@ -1,0 +1,70 @@
+Burgess, Robin , Greenstone, Michael, Ryan, Nicholas & Sudarshan, Anant (2020)
+The consequences of treating electricity as a right. Journal of Economic
+Perspectives, 34(1), 145 - 169. https://doi.org/10.1257/JEP.34.1.145 https://researchonline.lse.ac.uk/id/eprint/102466/
+Version: Accepted Version
+This document is the author’s accepted version of the journal article. There may be differences between this version and the published version.
+Items deposited in LSE Research Online are protected by copyright, with all rights reserved unless indicated otherwise. They may be downloaded and/or printed for private study, or other acts as permitted by national copyright laws.
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+ 
+1 
+Electricity is not a Right 
+ 
+Robin Burgess, Michael Greenstone, 
+Nicholas Ryan, and Anant Sudarshan 
+ 
+March 30th, 2019 
+ 
+Electricity courses through our lives. Yet, there are still more than a billion people worldwide who  are not connected to the grid, and many more get abysmal supply, unlike the 24/7/365 flow that  rich countries take for granted. We argue that these shortfalls are due to a sad irony: treating  electricity as a right for the poor has limited electricity access. 
+How does this noble social norm defeat itself? Consider a supply-side parable from the  market for ice cream. You are the proprietor of a campus ice cream parlor—the only one, as the  university has granted you an exclusive license. It is hot outside and the dorms lack AC, so you  hope to sell a lot of cones and turn a nice profit. The University is concerned that everyone stays  cool and decides to keep ice-cream prices low. You are told that although it costs $1 to produce an  ice cream, you can only charge 91 cents for each. In return you receive 73 as a subsidy from the 
+University, so that in theory you should be able to make 64 cents (=91+73-100) in profit on each  sale. 
+You soon run into trouble. Even with the best freezers, a small percentage of your ice cream  melts on the drive from the creamery, bringing your average revenue per cone input down to 86  cents. Students jump shipments and eat ice cream for free, sometimes even sharing a scoop with  the University police. You lose 2 of every 5 shipments to theft or melting, bringing revenue down  to 55 cents per ice cream. Your student cashiers keep “forgetting” to charge their friends the posted  prices. For every five ice creams supplied at the parlor, three go uncharged, bringing your effective  revenue down to 23 cents per cone. Thanks to rampant theft and nonpayment, you end up  recouping barely a third of the cost of production. 
+Because you only receive the 73 cent subsidy on ice cream that is sold, even with the  university subsidy you take home just 41 cents per scoop against a $1 production cost. As a result,  you are losing money and would very soon go out of business. However, by now students view  ice creams as a necessity so the university, fearing student protests, decides to keep you afloat with  occasional grants. You were grateful for the first grant but in bailing you out, the university only  made things worse. The message to students is that ice-cream theft is not a big deal, indeed they  have a right to free cones as part of the college experience. Having learned that protests not  payment would get them ice cream, even fewer students bother to pay, and your revenues fall  month-by-month. 
+Since the grants keep you afloat, the university administration becomes your only real  customer. You are losing money on every ice cream sold. Although you started out imagining how  to sell as many ice creams as possible, you want to sell fewer now, and you phone the creamery to 
+
+ 
+2  cut back your orders to the bare minimum needed to meet the terms of your license. Long lines  build up outside your parlor, with some students rejoicing at the occasional free cones and many  others left wishing they could just buy ice-cream at the price where you could turn a profit. You  decide that this is clearly not the profitable business you had hoped it would be and cancel your  planned expansion. 
+The ice cream parable is the true story of electricity distribution companies across the  developing world. The numbers from the ice cream store are proportional to the real prices and  costs of electricity in Bihar, an Indian state of 100 million people (see Figure 1, replacing cones of  ice cream with kilowatt-hours (kWh) of power). We argue that the social norm that electricity is a  right generates losses, rationing and unmet demand for electricity, just as it does in our parable  about ice cream. By “electricity as a right”, we specifically refer to the social norm that all deserve  power regardless of payment. 
+ 
+Figure 1 
+Electricity Losses in Bihar, India 
+ 
+ 
+Source: Bihar Electricity Project feeder data; Indian Ministry of Power; Bihar Electricity Regulatory Commission 
+Notes: The dotted line is the average cost of supplying one kWh of electricity in Bihar, including raw power, labor, and fixed  costs of grid operation. The solid line shows average revenue after cumulatively accounting for various sources of electricity loss. 
+ 
+ 
+Given that societies wish to redistribute towards the poor, and governments do so in many  domains, such as health, education and housing, why should we exempt electricity? Are not all  these goods essential to each individual’s development, and do they not therefore justify  subsidized, public provision? 
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+0.12
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+USD per kWh
+Cost of Supply
+After 
+Subsidies
+After Technical 
+Losses
+After Unbilled 
+Power
+After Unpaid 
+Bills
+Official Rate
+
+ 
+3 
+We argue that the interaction of the social norm that electricity is a right and a technological  constraint makes the consequences of treating electrici

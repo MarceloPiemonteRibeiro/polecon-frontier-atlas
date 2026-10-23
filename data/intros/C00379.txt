@@ -1,0 +1,46 @@
+American Economic Journal: Applied Economics 2019, 11(1): 57–91  https://doi.org/10.1257/app.20170299
+57
+Understanding the Average Impact of Microcredit 
+Expansions: A Bayesian Hierarchical Analysis of Seven 
+Randomized Experiments†
+By Rachael Meager*
+Despite evidence from multiple randomized evaluations of 
+­microcredit, questions about external validity have impeded 
+­consensus on the results. I jointly estimate the average effect and  the heterogeneity in effects across seven studies using Bayesian 
+­hierarchical ­models. I find the impact on household business and 
+­consumption ­variables is unlikely to be transformative and may be  negligible. I find ­reasonable external validity: true heterogeneity  in effects is ­moderate, and approximately 60 percent of observed 
+­heterogeneity is sampling ­variation. Households with previous  business experience have larger but more heterogeneous effects. 
+Economic features of microcredit interventions predict variation in  effects better than studies’ ­evaluation protocols. (JEL D14, G21, I38, 
+O12, O16, P34, P36)
+Q uestions surrounding the effectiveness of microcredit as a tool to ­alleviate 
+­poverty have motivated researchers to implement several randomized 
+­evaluations of microfinance institutions (Banerjee, Karlan, and Zinman 2015). 
+These studies were designed to test whether microcredit might help poor house- holds by ­fostering ­entrepreneurship or potentially harm them by creating credit bub- bles (Ahmad 2003; Yunus 2006; and Roodman 2012). Yet consensus on the overall  result of these ­studies has been impeded by concerns about external validity; that  is, concerns that the ­studies may be too different from each other and from future  policy settings to ­permit ­general conclusions (Pritchett and Sandefur 2015). On this  question, the results of multiple studies in heterogeneous contexts offer more than  the sum of their parts: they collectively provide the opportunity to estimate not only  the ­average impact but also the heterogeneity in effects across contexts. I perform 
+* The London School of Economics, STICERD, LSE STICERD, Houghton Street, London, WC2A 2AE, United 
+Kingdom (email: r.meager@lse.ac.uk); I thank Esther Duflo, Abhijit Banerjee, Anna Mikusheva, Rob Townsend, 
+Jeff Harris, Victor Chernozhukov, Andrew Gelman, Jerry Hausman, Oriana Bandiera, Gharad Bryan, Greg Fischer, 
+Aluma Dembo, Xavier Jaravel, Jonathan Huggins, Ryan Giordano, Tamara Broderick, Lars Hansen, Shira Mitchell, 
+Kirill Borusyak, Cory Smith, Arianna Ornaghi, Greg Howard, Nick Hagerty, John Firth, Jack Liebersohn, Peter 
+Hull, Matt Lowe, Donghee Jo, Yaroslav Mukhin, Tetsuya Kaji, Xiao Yu Wang, Aaron Pancost, five anonymous  referees, and the participants of NEUDC 2015, The Chicago-MIT student conference 2016, the MIT Economic 
+Development Lunch Seminar, MIT Econometrics Lunch Seminar, and Yale PF/Labor Lunch Seminar for their  suggestions, critiques, and advice. I also thank the authors of the seven studies that I use in my analysis, and the  journals in which they were published, for making their data and code public.
+† Go to https://doi.org/10.1257/app.20170299 to visit the article page for additional materials and author  disclosure statement(s) or to comment in the online discussion forum.
+
+58 
+AMERICAN ECONOMIC JOURNAL: APPLIED ECONOMICS
+ JANUARY 2019 this joint ­estimation using Bayesian hierarchical models to aggregate the evidence  from seven ­randomized ­trials of microcredit.­
+The concerns raised about the external validity of the microcredit literature  apply to impact evaluations and social science more broadly. It is common for  studies in a literature to vary in their economic and social environments, as well  as in the specific implementations of the policy interventions and the evaluation 
+­protocols chosen by the researchers. These factors make it unlikely that impact 
+­evaluations of social and economic interventions measure exactly the same effect. 
+Yet, ­understanding the general impact of an intervention is important when ­deciding  whether to implement or subsidize this intervention in settings not yet studied. 
+Evidence ­aggregated across multiple contexts can provide a reasonable basis for  general policy ­recommendations, but generalizable conclusions may or may not be  within reach for any given policy. If the average effect estimated using all the data  is in fact composed of ­substantially heterogeneous effects, predicting the impact  of the intervention in a new ­context can be uncertain or even infeasible. Thus, 
+­heterogeneity in observed effects is often ­interpreted as a measure of the literature’s  external validity (Vivalt 2016, Allcott 2015, Pritchett and Sandefur 2015).
+Aggregating the evidence on microcredit in the presence of concerns  about ­generalizability requires joint estimation of the average effect and the 
+­heterogeneity in effects across studies; this motivates the use of the Bayesian 
+­hierarchical ­framework. The core challenge is to use the observed ­heterogeneity  in estimated effects as a signal of the heterogeneity in effects across some broader  class of sites, while ­correcting for the fact that some of the observed ­heterogeneity  is ­sampling ­variation (Rubin 1981). The hierarchical framework can ­separate
+­genuine ­heterogeneity from sampling variation and simultaneously use this 
+­variation to inform the uncertainty on the general treatment effect. However, this 
+­correction implies an adjustment on the estimated effects from each study, and thus  an ­adjustment of their ­corresponding estimated average effect (Gelman et al. 2009).
+This interdependent uncertainty ­creates a potentially challenging joint ­inference  problem, ­particularly with a small number of studies. In this ­setting, Bayesian 
+­methods may offer improved ­tractability and estimation relative to ­popular 
+­frequentist counterparts such as random effects or Empirical Bayes (Chung et al.
+2013, Chung et al. 2015, and Gelman 2

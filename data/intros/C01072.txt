@@ -1,0 +1,33 @@
+Brierley, Sarah (2020) Combining patronage and merit in public sector recruitment.
+Journal of Politics, https://doi.org/10.1086/708240 https://researchonline.lse.ac.uk/id/eprint/101430/
+Version: Accepted Version
+This document is the author’s accepted version of the journal article. There may be differences between this version and the published version.
+Items deposited in LSE Research Online are protected by copyright, with all rights reserved unless indicated otherwise. They may be downloaded and/or printed for private study, or other acts as permitted by national copyright laws.
+LSE Research Online is the repository for research produced by the London School of Economics and Political Science. For more information, please refer to our Policies page or contact lseresearchonline@lse.ac.uk
+
+Combining Patronage and Merit in Public Sector Recruitment
+Sarah Brierley∗
+March 17, 2019
+∗Assistant Professor, Department of Political Science, Washington University in St. Louis.
+Email: sabrierley@wustl.edu.
+1
+
+Abstract
+When do politicians in developing democracies prioritize meritocratic recruitment over pa- tronage hiring for public sector jobs? I distinguish between menial and professional positions and argue that the former are valuable for sustaining party machines, while manipulating the latter can undermine state performance. Accordingly, politicians will interfere to ensure their co-partisans are hired to menial positions but select professional bureaucrats based on merito- cratic criteria. I test my argument using novel bureaucrat-level data from Ghana (n = 17,942) and leverage a change in the governing party to investigate hiring patterns. The results sug- gest that partisan bias is conﬁned to menial jobs. The ﬁndings shed light on the mixed effects of electoral competition on patronage identiﬁed in prior studies: competition may dissuade politicians from interfering in recruitment to high-ranked positions, but encourage them to hire partisans for low-ranked positions.
+Key words: Bureaucracy; Civil Service, Patronage; Meritocracy; Clientelism; Brokers.
+Supplementary material for this article is available in the appendix in the online edi- tion.
+Replication ﬁles are available in the JOP Data Archive on Dataverse http:
+//thedata.harvard.edu/dvn/dv/jop.
+
+Whether civil servants are hired based on merit or political criteria has broad implications for state capacity and the overall health of democracy (O’Dwyer, 2006; Grzymala-Busse, 2007;
+Geddes, 1994). Patronage recruits are likely to be less competent and also not essential to the running of the state. This type of hiring can place an unnecessary strain on the public purse, and undermine investment in other vital areas, such as capital infrastructure. It can also perpetuate a broader clientelistic political economy. Once hired, co-partisan bureaucrats can help politicians allocate scarce public resources in sub-optimal ways.1 Partisan appointees may also worsen the provision of public services (Colonnelli, Prem and Teso, 2017) and increase levels of corruption
+(Oliveros and Schuster, 2018).
+Given these high stakes, it is important to understand when politicians in developing democracies are more likely to rely on meritocratic versus partisan recruitment. Prior research has not been able to adequately address this question because, by using changes in legislation to signal the onset of meritocracy (Geddes, 1994), it treats the concept of meritocracy as dichotomous.
+Other research similarly assumes the question away by portraying post-colonial states as neopat- rimonial, a situation in which all public sector jobs are often assumed to be distributed politically
+(Bayart, 1993; Chabal and Daloz, 1999; Van de Walle, 2001).
+Despite this dominant narrative, in practice most countries lie on a continuum between complete meritocracy and wholesale partisan interference (Grindle, 2012). I build on this insight and consider when the beneﬁts of patronage hiring are outweighed by the costs. I theorize that the costs of non-competitive recruitment vary across public sector positions, and therefore that politicians may support meritocratic recruitment for some posts and actively interfere in hiring for others. Meddling in hiring for professional positions, such as budget analysts, engineers, and plan- ning ofﬁcers, is costly to politicians. It can hurt incumbents electorally because it can impact state performance. In contrast, interference in low-ranking public sector jobs, such as sanitation ofﬁcers, laborers, and security guards, poses a lower risk to state performance. Furthermore, politicians can award low-ranked positions to party brokers in order to sustain party machines. In many develop-
+1See Golden and Min (2013) for a review of the literature on distributive politics and partisan bias in the allocation of public resources.
+1
+ ing countries party brokers lack the necessary educational background to succeed in high-ranked positions. In short, incumbent politicians in developing democracies can pursue a dual strategy of hiring professional bureaucrats based on meritocratic criteria and menial bureaucrats according to partisan criteria.
+To test my argument, I assembly unique data on the universe of over 40,000 bureaucrats working in 200 local governments in Ghana, a stable democracy in West Africa. Such ﬁne-grained data from a developing country are often not available or are very hard to obtain, which is why only a handful of studies has been able to use similar micro-level data.2 Electoral politics in Ghana are dominated by the National Democratic Congress (NDC) and the New Patriotic Party (NPP). Since the restoration of democracy, the country’s national elections have become increasingly competi- tive. The NDC won the 2008 presidential election – the focus of this article – by less than half a percent.3 In the analysis, I exploit this change in the ruling party to investigate hiring patterns.
+The data on bureaucrats include information on the hiring

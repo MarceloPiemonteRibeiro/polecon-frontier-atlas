@@ -1,0 +1,41 @@
+# batch_017 — abstracts
+00855|United States|Panel|Distributional skewness does not predict redistribution in US time-series, cross-section or historical data.|M_median-|
+01440|Theory|Theory|Pay-as-you-go social security can be adopted and sustained as a reputational political equilibrium.|M_median+,M_commit+|
+00972|Cross-country|Panel|Welfare-state expansion in 15 OECD countries was driven by deindustrialization, not globalization; partisanship shapes its form.|M_median~|
+00103|Theory|Theory|Legislative outcomes depend on recognition and amendment rules; under closed rule the proposer forms a minimum winning coalition and keeps the surplus.|M_legbargain+|
+00144|United States|Panel|Representatives facing constituent mortgage defaults backed foreclosure relief, especially in competitive districts; finance contributions predicted bailout votes.|M_lobby+,M_probvote+|
+00580|Theory|Theory|The confidence vote makes parliamentary coalitions vote cohesively because each bill is a vote on future agenda control.|M_legbargain+|
+00430|United States|Struct|A structural model of congressional careers values a seat through reelection odds and post-Congress wages; term limits and pay alter careers.|M_career+,M_selection+|
+00930|United States|Theory|Congress prefers fire-alarm oversight, relying on constituents and interest groups, to costly police-patrol oversight.|M_bureau+|
+00931|United States|Theory|Committees enforce logrolls among legislators that markets cannot, limiting which coalitions form.|M_legbargain+|
+00902|Theory|Theory|Legislatures design committees to motivate specialization and information sharing in an incomplete-information game.|M_cheaptalk+,M_legbargain+|
+00474|Theory|Theory|When vote buyers move sequentially, supermajority coalitions are often cheaper than minimal winning ones.|M_lobby+,M_legbargain~|
+00941|Cross-country|Struct|A structural bargaining model of government formation simulates how constitutional rules affect formation delays, coalition type and stability.|M_legbargain+|
+00895|Theory|Theory|Partisan balance, single-member districts and independent executives raise legislators' incentives for constituency service.|M_legbargain+,M_probvote+|
+00940|United States|Panel|Members on the transportation authorization committee secure more project spending: proposal power has value.|M_legbargain+|
+00863|United States|NatExp|Legislators with more daughters vote more liberally on reproductive rights, beyond what voter preferences explain.|M_citizencand+|
+00937|United States|Struct|In US appellate courts, deliberation helps only when judges disagree ex ante or hold imprecise information; otherwise it reduces accuracy.|M_cheaptalk~|
+00682|Theory|Theory|Alternating-offers bargaining with discounting has a unique subgame-perfect equilibrium with immediate agreement.|M_legbargain+|
+00868|United States|NatExp|Stock reactions to Senator Jackson's death show committee seniority brings federal benefits to constituents.|M_legbargain+|
+00684|Theory|Theory|Generalizes Baron–Ferejohn bargaining to multidimensional spaces; stationary equilibria exist and coincide with the core when it exists.|M_legbargain+|
+00867|United States|Panel|Proposal power on the transportation committee raises district project spending, supporting Baron–Ferejohn qualitatively.|M_legbargain+|
+00685|Theory|Theory|With real-time agenda setting and an evolving default, the last proposer is near-dictator under pork-barrel or redistributive politics.|M_legbargain+|
+00866|United States|Panel|Small states receive more funds in the Senate relative to the House through proposal power and cheaper coalition votes.|M_legbargain+|
+01000|United States|Panel|Congressmen from districts with concentrated landholdings and costlier credit opposed the 1927 McFadden Act: elites shape financial regulation.|M_lobby+,M_commit+|
+00683|Theory|Theory|If legislators can foresee upcoming proposers, the first proposer captures all surplus; transparency may concentrate power.|M_legbargain+|
+00153|United States|RD|Voters elect rather than affect policies: a narrow win does not move either party's roll-call positions toward the centre.|M_median-,M_citizencand+|
+00591|United States|Struct|Using whip counts, party discipline explains about 40% of roll-call polarization in 1977–86; without it key economic bills would fail.|M_legbargain+|
+00892|Theory|Theory|Median convergence is robust to policy motivation or uncertainty alone, but not to both together.|M_median~|
+00936|United States|Struct|NOMINATE: a probabilistic spatial model recovers legislators' ideal points from roll-call votes.|M_median+|
+00060|Theory|Theory|Self-enforcing compromise between alternating parties depends on past strength; supermajority rules can reduce compromise.|M_commit+|
+00893|United States|Desc|In House elections the national party dominates candidates' positions; district fit matters only modestly.|M_median~|
+00349|Sweden|RD|Left-wing local governments spend and tax 2–3% more and have 7% lower unemployment, partly from public hiring.|M_citizencand+|
+00860|United States|RD|The mayor's party does not affect city size, spending allocation or crime, consistent with Tiebout competition.|M_citizencand-|
+00556|United States|Panel|Weak political competition in US states is associated with higher taxes, lower capital spending and slower income growth.|M_probvote+,M_moralhazard+|
+00894|United States|Desc|Campaign-contribution data yield a common ideological scale for candidates, officials, interest groups and donors.||
+00838|United States|Review|Affective polarization stems from partisanship as social identity and spills into non-political behaviour.|M_culture+|
+01039|United States|Struct|Party discipline accounts for about 65% of 2018 roll-call polarization and has grown since the 1970s.|M_legbargain+|
+00862|United Kingdom|Theory|The manifesto model: newly elected parties implement the pledges they made in opposition.|M_citizencand+|
+00859|United States|Panel|US party platform emphases predict federal spending shares in 1948–85, supporting mandate theory.|M_citizencand+|
+00861|United States|Panel|Districts with more Democratic voters receive more federal outlays, mostly through formula programs started under Democratic control.|M_probvote+|
+01504|United States|RD|Democratic governors raise Black workers' hours relative to whites, narrowing the racial earnings gap.|M_citizencand+|
