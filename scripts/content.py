@@ -50,6 +50,29 @@ VOX_FINDINGS = {
                detail="Personnel rules, credentials and oversight bodies can stop managers from directing frontline workers; political will and capacity are complements."),
 }
 
+# Lede text for the three views built from the full-text read (data/evidence.json).
+EVIDENCE = dict(
+    intro="These papers were read from the PDF itself, not just the abstract, and coded the same way: what varies, what is "
+          "measured, which way the effect goes, how large, where, with what design, and which canonical model it speaks to. "
+          "That makes papers comparable, and comparable papers make a map. A <b>causal question</b> here is one cause crossed "
+          "with one outcome &mdash; information to voters against turnout, quotas against spending. The matrix below is the "
+          "field's answer sheet: where the signs line up, where they split, and the large empty areas where nobody has asked. "
+          "The read is still in progress, so a thin cell may mean the papers are unread rather than unwritten; each paper's "
+          "drawer says how it was read and how confident the coding is.",
+    contestedIntro="Questions where papers <b>measuring the same thing</b> reach opposite answers. A sign only means "
+                   "something against a specific measure, so a turnout study is never counted as contradicting a vote-share "
+                   "study: a pair counts here only when one paper finds an increase, another a decrease or no effect, and their "
+                   "descriptions of what they measured overlap. Disagreement is rarely noise &mdash; it is usually a design, "
+                   "period or setting difference, and each panel says which. For a research agenda these are the best targets in "
+                   "the atlas, because the contribution is defined before the work starts: a design that discriminates between "
+                   "the two camps, in a setting that breaks the tie.",
+    gapsIntro="Four kinds of gap, in rising order of how much the field would thank you. A <b>hole</b> is a cause and an outcome "
+              "both well measured that nobody has crossed. A claim that <b>has not travelled</b> rests on one country. A "
+              "<b>design monoculture</b> inherits one strategy's blind spot. And a question the <b>frontier left behind</b> may "
+              "have been settled on data since superseded. The first block is different: it is what the authors themselves wrote "
+              "down as unknown, in their own conclusions, grouped so you can see which gaps the field names repeatedly.",
+)
+
 DESIGNS = {
     "RCT": "Field experiment (RCT)", "NatExp": "Natural experiment / lottery", "RD": "Regression discontinuity",
     "DiD": "Difference-in-differences / event study", "IV": "Instrumental variables", "Panel": "Panel / fixed effects",

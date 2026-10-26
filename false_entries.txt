@@ -1,0 +1,803 @@
+C00043|Besley & Persson|2011|Pillars of Prosperity: The Political Economics of Development Clusters|download_failed
+C00589|Dal Bó et al.|2019|Economic Losers and Political Winners: Sweden's Radical Right|no_doi
+C00057|Austen‐Smith|1991|RATIONAL CONSUMERS AND IRRATIONAL VOTERS: A REVIEW ESSAY ON <i>BLACK HOLE TARIFFS AND ENDOGENOUS POL|not_downloaded
+C00062|Stern & Putnam|1993|Making Democracy Work: Civic Traditions in Modern Italy|not_downloaded
+C00088|Herbst|2000|States and Power in Africa: Comparative Lessons in Authority and Control, Princeton University Press|no_doi
+C00094|Acemoğlu|2005|Politics and economics in weak and strong states|not_downloaded
+C00157|Fergusson|2013|The political economy of rural property rights and the persistence of the dual economy|not_downloaded
+C00158|Olson|1982|The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Yale Universit|no_doi
+C00159|Banerjee et al.|2007|Public Action for Public Goods|not_downloaded
+C00218|Koyama et al.|2018|Geopolitics and Asia's Little Divergence: A Comparative Analysis of State Building in China and Japa|download_failed
+C00287|Banerjee & Duflo|2005|Growth Theory Through the Lens of Development|not_downloaded
+C00323|Bombardini & Trebbi|2011|Competition and political organization: Together or alone in lobbying for trade policy?|not_downloaded
+C00370|Riordan|1905|Plunkitt of Tammany Hall: A Series of Very Plain Talks on Very Practical Politics|no_doi
+C00477|Banks & Sundaram|1998|Optimal Retention in Agency Problems|download_failed
+C00482|Baliga & Sj¨ostr¨om|2011|Conflict Games with PayoffUncertainty|no_doi
+C00494|Larcinese et al.|2011|Partisan bias in economic news: Evidence on the agenda-setting behavior of U.S. newspapers|not_downloaded
+C00524|Bleakley & Ferrie|2015|Land Openings on the Georgia frontier and the Coase Theorem in the Short-and Long-Run|no_doi
+C00536|Satterthwaite|1975|Strategy-proofness and Arrow's conditions: Existence and correspondence theorems for voting procedur|not_downloaded
+C00545|Lansing|2009|Priests and Programmers: Technologies of Power in the Engineered Landscape of Bali|download_failed
+C00554|Cunningham|2021|Causal Inference: The Mixtape|not_downloaded
+C00563|Bekkouche et al.|2020|The heterogeneous price of a vote: Evidence from multiparty systems, 1993–2017|not_downloaded
+C00574|Lindert|1996|What Limits Social Spending?|not_downloaded
+C00690|Crost et al.|2015|Conditional cash transfers, civil conflict and insurgent influence: Experimental evidence from the P|not_downloaded
+C00703|Niehaus & Sukhtankar|2013|The marginal rate of corruption in public programs: Evidence from India|not_downloaded
+C00708|Duflo et al.|2007|Chapter 61 Using Randomization in Development Economics Research: A Toolkit|not_downloaded
+C00723|Duflo|2004|The medium run effects of educational expansion: evidence from a large school construction program i|not_downloaded
+C00776|Chassang & Padró i Miquel|2009|Economic Shocks and Civil War|download_failed
+C00783|Roberts|1977|Voting over income tax schedules|not_downloaded
+C00791|B|1998|Development Economics|not_downloaded
+C00836|Huneeus & Kim|2018|The Effects of Firms' Lobbying on Resource Misallocation|not_downloaded
+C00842|Harstad|2016|Conservation Contracts and Political Regimes|not_downloaded
+C00947|Conconi et al.|2014|Policymakers' horizon and trade reforms: The protectionist effect of elections|not_downloaded
+C00951|Dippel et al.|2016|The Rents from Trade and Coercive Institutions: Removing the Sugar Coating|not_downloaded
+C01022|Dustmann et al.|2018|Refugee Migration and Electoral Outcomes|wrong_paper
+C01041|Austen‐Smith|1994|Strategic Transmission of Costly Information|download_failed
+C01042|Austen‐Smith & Banks|2002|Costly signaling and cheap talk in models of political influence|not_downloaded
+C00049|Greif|1994|Cultural Beliefs and the Organization of Society: A Historical and Theoretical Reflection on Collect|download_failed
+C00115|Acemoglu & Robinson|2006|Chapter 4: Democratic Politics|no_doi
+C00117|Roberts|2005|Dynamic Voting in Clubs|no_doi
+C00118|Mailath et al.|2001|Laws and Authority|no_doi
+C00124|Sonenscher & Tilly|1991|Coercion, Capital, and European States: Ad 990-1990.|not_downloaded
+C00125|Evans|1989|Predatory, developmental, and other apparatuses: A comparative political economy perspective on the |not_downloaded
+C00127|Jack & Lagunoff|2005|Dynamic enfranchisement|not_downloaded
+C00128|Moore|1966|The Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making of the Modern World|no_doi
+C00129|Lagunoff|2006|Markov Equilibrium in Models of Dynamic Endogenous Political Institutions|no_doi
+C00130|Lagunoff|2009|Dynamic stability and reform of political institutions|not_downloaded
+C00131|Arthur|1989|Competing Technologies, Increasing Returns, and Lock-In by Historical Events|download_failed
+C00138|Bisin & Verdier|2001|The Economics of Cultural Transmission and the Dynamics of Preferences|not_downloaded
+C00141|Acemoglu & Jackson|2015|History and Expectations in the Evolution of Cooperation|no_doi
+C00143|Acemoğlu & Jackson|2014|Social Norms and the Enforcement of Laws|not_downloaded
+C00174|Holton et al.|1987|The Brenner Debate: Agrarian Class Structure and Economic Development in Pre-Industrial Europe.|not_downloaded
+C00178|Bloom|1998|The End of the Old Order in Rural Europe, Princeton: Princeton University Press|no_doi
+C00180|Acemoğlu et al.|2012|Finding Eldorado: Slavery and long-run development in Colombia|not_downloaded
+C00181|Mann|1986|The Sources of Social Power, Volume I, Cambridge University Press, New York|no_doi
+C00186|Blair|2013|Peacebuilding and State Legitimacy: Evidence from Two Lab-in-the-Field Experiments in Liberia|not_downloaded
+C00188|Strulovici|2010|Voting and Experimentation|no_doi
+C00248|Acemoglu et al.|2016|Reevaluating De Tocqueville: Social Mobility and Stability of Democracy|no_doi
+C00252|Heldring|2016|Violence and the State: Evidence from Rwanda's Decade of Atrocities|no_doi
+C00253|Acemoglu & Robinson|2019|The Narrow Corridor: States, Societies, and the Fate of Liberty, Penguin, New York, Chapters 1, 2, 6|no_doi
+C00317|Acemoğlu et al.|2014|Young, Restless and Creative: Openness to Disruption and Creative Innovations|not_downloaded
+C00318|Fearon et al.|2011|Democratic Institutions and Collective Action Capacity|no_doi
+C00319|Humphreys et al.|2014|Social Engineering in the Tropics: A Grassroots Democratization Experiment in Eastern Congo|no_doi
+C00375|McKelway|2021|"Women's employment in India: Intra-household and intra personal constraints|no_doi
+C00433|Jackson et al.|1981|Lectures on Public Economics.|download_failed
+C00437|Fergusson & Molina|2019|Facebook Causes Protests|not_downloaded
+C00441|Persson|2000|Political Economics|no_doi
+C00461|Labonne|2013|The local electoral impacts of conditional cash transfers|not_downloaded
+C00526|Hussam et al.|2021|The Psychosocial Value of Employment|no_doi
+C00528|Derenoncourt et al.|2021|Racial Inequality, Minimum Wage Spillovers, and the Informal Sector|no_doi
+C00598|Acemoglu et al.|2010|Power Fluctuations and the Structure of Taxation|wrong_paper
+C00599|De Laat et al.|2009|Teacher Incentives and Local Participation|no_doi
+C00602|Dagaev et al.|2013|Technological Foundations of Political Instability|no_doi
+C00605|Lohmann|1994|The Dynamics of Informational Cascades: The Monday Demonstrations in Leipzig, East Germany, 1989–91|download_failed
+C00608|Jha & Wilkinson|2012|Veterans, Organizational Skill and Ethnic Cleansing: Evidence from the Partition of South Asia|not_downloaded
+C00609|Acemoglu & Verdier|2000|The Choice Between Corruption and Market Failures|no_doi
+C00610|Murphy et al.|1993|Why Is Rent-Seeking so Costly to Growth?|no_doi
+C00611|Myerson|1993|Effectiveness of Electoral Systems for Reducing Government Corruption: A Game-Theoretic Analysis|not_downloaded
+C00614|Diermeier et al.|2013|Endogenous Property Rights|not_downloaded
+C00620|Bueno de Mesquita|2015|Factional Conflict and Territorial Rents|no_doi
+C00622|Lessing|2015|Logics of Violence in Criminal War|download_failed
+C00637|Rogger & Somani|2023|The persistent impact of electoral incentives on the quality of infrastructure|not_downloaded
+C00651|Bandiera et al.|2024|State effectiveness|no_doi
+C00668|Easterly|2011|Benevolent Autocrats|no_doi
+C00673|Gilens|2012|Affluence and Influence: Economic Inequality and Political Power in America|not_downloaded
+C00678|Judis|2016|The Populist Explosion: How the Great Recession Transformed American and European Politics|not_downloaded
+C00679|Weeks et al.|1993|The Macroeconomics of Populism in Latin America.|download_failed
+C00689|Acemoğlu et al.|2010|Power fluctuations and political economy|not_downloaded
+C00691|Banerjee & Somanathan|2006|The political economy of public goods: Some evidence from India|not_downloaded
+C00694|Bazzi et al.|2017|Unity in Diversity? Ethnicity, Migration, and Nation Building in Indonesia|no_doi
+C00697|Martinez-Bravo et al.|2014|Political Reform in China: The Effect of Local Elections|no_doi
+C00698|Gehlbach & Сонин|2014|Government control of the media|not_downloaded
+C00702|Klitgaard|1991|Tropical Gangsters: One Man's Experience with Development and Decadence in Deepest Africa , Basic Bo|no_doi
+C00715|Ericson & Laibson|2019|Intertemporal choice|not_downloaded
+C00724|Duflo Esther et al.|2011|Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation |no_doi
+C00744|Goldstein et al.|2018|Formalization without certification? Experimental evidence on property rights and investment|not_downloaded
+C00749|Nichols & Zeckhauser|1982|Targeting Transfers through Restrictions on Recipients|no_doi
+C00753|Gordon & Li|2009|Tax Structure in Developing Countries: Many Puzzles and a Possible Explanation One explanation: fnan|not_downloaded
+C00763|Boudreau|2020|Multinational enforcement of labor law: Experimental evidence from Bangladesh's apparel sector|no_doi
+C00804|Piketty|2022|Belknap Press Harvard University (Chapters 8, 9)|no_doi
+C00807|Nisbett|2003|The Geography of Thought: How Asians and Westerners Think Differently…and Why|no_doi
+C00834|Bandiera et al.|2022|Weak States: Development Consequences of Guerrillas in El Salvador|no_doi
+C00844|Ashenfelter et al.|1999|A review of estimates of the schooling/earnings relationship, with tests for publication bias|not_downloaded
+C00845|Ashenfelter & Kelley,|1975|Determinants of Participation in Presidential Elections|not_downloaded
+C00851|Lindert|1994|The Rise of Social Spending, 1880-1930|not_downloaded
+C00852|Johansson|2003|Intergovernmental grants as a tactical instrument: empirical evidence from Swedish municipalities|not_downloaded
+C00857|Wolfinger & Rosenstone|1980|Who Votes?, Yale University Press|no_doi
+C00858|Alesina & Holden|2008|Extremism and Ambiguities in Two-Candidate Elections|no_doi
+C00864|Romer et al.|1992|Economic incentives and political institutions: Spending and voting in school budget referenda|not_downloaded
+C00865|Arnold|1979|Congress and the Bureacracy, Yale University Press|no_doi
+C00869|Stratmann|1992|The Effects of Logrolling on Congressional Voting|no_doi
+C00874|François|2000|‘Public service motivation’ as an argument for government provision|not_downloaded
+C00876|Messner & Polborn|2004|Paying politicians|not_downloaded
+C00877|Rydgren|2018|(ed.) The Oxford Handbook of the Radical Right, Oxford: Oxford University Press|no_doi
+C00882|Ansolabehere et al.|2007|What did the direct primaries do to party loyalty in Congress, party and policy making?|not_downloaded
+C00884|Crisp et al.|2013|Vote-earning strategies in flexible list systems: Seats at the price of unity|not_downloaded
+C00971|Alesina & Glaeser|2004|Fighting Poverty in the US and Europe: A World of Difference|download_failed
+C00972|Iversen & Cusack|2000|The Causes of Welfare State Expansion: Deindustrialization or Globalization?|download_failed
+C00977|Martnez-Bravo et al.|2012|The Effects of Democratization on Public Goods and Redistibution: Evidence from China|no_doi
+C00983|Galasso & Profeta|2002|The political economy of social security: a survey|not_downloaded
+C00984|Banerjee & Pande|2011|Parochial Politics: Ethnic Preferences and Politician Corruption|not_downloaded
+C00986|Acemoglu et al.|2014|Social Mobility and Support for Democracy|no_doi
+C00988|Barrera et al.|2018|Facts, Alternative Facts, and Fact Checking in Times of Post-Truth Politics|not_downloaded
+C00996|Nyhan & Reifler|2016|Do people actually learn from fact-checking? evidence from a longitudinal study during the 2014 camp|no_doi
+C01007|Moya|2017|Violence, psychological trauma, and risk attitudes: Evidence from victims of violence in Colombia|not_downloaded
+C01017|Makarin et al.|2024|The Political Economic Determinants of Nuclear Power: Evidence from Chernobyl|no_doi
+C01029|Acemoglu et al.|2008|Democracy and Income|no_doi
+C01032|Fletcher et al.|2017|Women and Work in India: Descriptive Evidence and a Review of Potential Policies|not_downloaded
+C01051|Acemoglu|2003|Political Origins of Democracy and Dictatorship|no_doi
+C01052|Alesina et al.|1997|Political Cycles and the Macroeconomy|not_downloaded
+C01053|Leitzel & Dixit|1997|The Making of Economic Policy: a Transation Cost Politics Approach|download_failed
+C01054|Haggard|1995|Voting for reform: democracy, political liberalization, and economic adjustment|download_failed
+C01055|Sturzenegger|1998|The political economy of reform|no_doi
+C01088|Weigel JL et al.|2026|Supermodular Bureaucrats: Evidence from Randomly Assigned Tax Collectors in the DRC|no_doi
+C01089|Dal Bó et al.|2006|Plata o Plomo?|no_doi
+C01091|Khan et al.|2019|Making Moves: Tracking and Improving Bureaucratic Effort through Performance Transfers|no_doi
+C01092|Bidwell et al.|2020|Debates: Voting and Expenditure Responses to Public Information in Sierra Leone|no_doi
+C01093|Casey et al.|2021|An Empirical Evaluation of Explanations for State Failure|no_doi
+C01097|Beraja et al.|2023|AI-tocracy: The Reciprocal Fluctuation of AI and Authoritarianism|no_doi
+C01104|Besley et al.|2021|Pillars of Prosperity: A Ten Year Update|no_doi
+C01248|Gans-Morse et al.|2009|Who Gets Bought? Vote Buying, Turnout Buying, and Other Strategies|no_doi
+C01249|Riordan|2013|Honest Graft and Dishonest Graft|no_doi
+C01254|Banerjee|2008|Big Answers for Big Questions: The Presumption of Growth Policy|no_doi
+C01260|Srinivasan|1994|Destitution: A Discourse|no_doi
+C01262|Deaton & Drèze|2009|Nutrition in India: Facts and Interpretations|not_downloaded
+C01265|Strauss & Thomas|1998|Health, Nutrition and Economic Development|no_doi
+C01266|Banerjee et al.|2021|Unpacking a multi-faceted program to build sustainable income for the very poor|not_downloaded
+C01269|Kremer et al.|2019|Behavioral development economics|not_downloaded
+C01278|Walker|2017|Why We Sleep|no_doi
+C01281|Rao et al.|2021|Informing Policy Through Field Experiments on Sleep Around the World|no_doi
+C01284|Patel et al.|2011|Improving access to psychological treatments: Lessons from developing countries|download_failed
+C01289|Muralidharan|2017|Field Experiments in Education in Developing Countries|not_downloaded
+C01290|Banerjee|2004|Educational policy and the economics of the family|not_downloaded
+C01291|Becker|1981|A Treatise on the Family|no_doi
+C01292|Barro|1974|Are Government Bonds Net Wealth?|download_failed
+C01293|Loury|1981|Intergenerational Transfers and the Distribution of Earnings|not_downloaded
+C01294|Strauss & Thomas|1995|Chapter 34 Human resources: Empirical modeling of household and family decisions|not_downloaded
+C01296|Nguyen|2008|Information, Role Models and Perceived Returns to Education: Experimental Evidence from Madagascar|no_doi
+C01303|Glewwe & Kremer|2006|Chapter 16 Schools, Teachers, and Education Outcomes in Developing Countries|not_downloaded
+C01304|Duflo & Kremer|2003|Use of Randomization in the Evaluation of Development Effectiveness|no_doi
+C01308|Kremer et al.|2005|Teacher Absence in India: A Snapshot|not_downloaded
+C01324|Das & Gertler|2007|Variations In Practice Quality In Five Low-Income Countries: A Conceptual Overview: Despite differen|download_failed
+C01325|Leonard|2008|The cost of imperfect agency in health care: Evidence from rural Cameroun|not_downloaded
+C01326|Leonard|2007|Is patient satisfaction sensitive to changes in the quality of care? An exploitation of the Hawthorn|not_downloaded
+C01327|Banerjee|2004|Health Care Delivery in Rural Rajasthan|no_doi
+C01328|Das & Hammer|2005|Which doctor? Combining vignettes and item response to measure clinical competence|not_downloaded
+C01330|Das & Hammer|2006|Money for nothing: The dire straits of medical practice in Delhi, India|not_downloaded
+C01342|Lundberg et al.|1997|Do Husbands and Wives Pool Their Resources? Evidence from the United Kingdom Child Benefit|download_failed
+C01347|Ridley et al.|2021|Learning in the Household|not_downloaded
+C01348|Munshi & Myaux|2005|Social norms and the fertility transition|not_downloaded
+C01354|Banerjee|2000|Prospects and Strategies for Land Reforms|no_doi
+C01359|Olken|2005|Corruption and the costs of redistribution: Micro evidence from Indonesia|not_downloaded
+C01365|Coate et al.|1994|Pecuniary redistribution through in-kind programs|not_downloaded
+C01373|Mishra et al.|2008|Tariffs, enforcement, and customs evasion: Evidence from India|not_downloaded
+C01381|LaFave et al.|2024|Farm profits, prices and household behavior|not_downloaded
+C01384|Breza et al.|2018|Scabs: The Social Suppression of Labor Supply|no_doi
+C01387|Boudreau et al.|2021|Union Leaders: Experimental Evidence from Myanmar|no_doi
+C01393|Keniston|2011|Experimental vs. Structural Estimates of the Return to Capital in Microenterprises|no_doi
+C01405|DellaVigna & Kaplan|2007|The Fox News Effect|no_doi
+C01410|Indeed|2001|Arrow's Theorem and the Gibbard-Satterthwaite Theorem: A Unified Approach|no_doi
+C01420|Levine & Renelt|1992|A Sensitivity Analysis of Cross-Country Growth Regressions|no_doi
+C01425|Besley|2006|Principled Agents: Selection and Incentives in Politics, Oxford University Press, chapter 4, pp. 174|no_doi
+C01434|Sen|1970|Collective Choice and Social Welfare North Holland, Amsterdam|no_doi
+C01436|Gans & Smart|1996|Majority voting with single-crossing preferences|download_failed
+C01438|Romer|1975|Individual welfare, majority voting, and the properties of a linear income tax|not_downloaded
+C01439|McKelvey|1976|Intransitivities in multidimensional voting models and some implications for agenda control|not_downloaded
+C01442|Calvert|1977|"Robustness of the Multi-Dimensional Voting Model: Candidate|no_doi
+C01443|Wittman|1977|Candidates with policy preferences: A dynamic model|not_downloaded
+C01446|Shaohua & Ravallion|2012|"More Relatively-Poor People in a Less|no_doi
+C01458|Thomas|2003|Iron Deficiency and the Well-Being of Older Adults: Early Results from a Randomized Nutrition Interv|no_doi
+C01459|Qian & Meng|2009|"The Long Run Impact of Exposure to Famine on Survivors: Evidence from China's Great Famine NBER Wor|no_doi
+C01465|Dupas|2011|Relative Risks and the Market for Sex: Teenage Pregnancy, HIV, and Partner Selection in Kenya|no_doi
+C01466|Kremer & Glennerster|2011|Improving Health in Developing Countries|not_downloaded
+C01473|Fields|2011|Labor market analysis for developing countries|not_downloaded
+C01475|Rosenzweig|1988|Chapter 15 Labor markets in low-income countries|not_downloaded
+C01480|Yang|2008|Migrant Remittances|no_doi
+C01481|Hoff & Stiglitz|1997|Moneylenders and Bankers: Price-Increasing Subsidies with Monopolistic Competition|not_downloaded
+C01483|Besley|1995|Savings, credit and insurance|not_downloaded
+C01485|Yunus|2011|Sacrificing Microcredit for Megaprofits|no_doi
+C01488|Besley et al.|1993|The Economics of Rotating Savings and Credit Associations|no_doi
+C01495|Kremer et al.|2008|Trickle Down: Diffusion of Chlorine for Drinking Water Treatment in Kenya|no_doi
+C01499|Shleifer & Vishny|1993|"Corruption, Quarterly Journal of Economics, 108 (3) 599-617|no_doi
+C01502|Martinez-Bravo et al.|2012|The Effects of Democratization on Public Goods and Redistribution|no_doi
+C01503|Angrist & Pischke|2014|Mastering 'Metrics: The Path from Cause to Effect|no_doi
+C01505|Glennerster & Takavarasha|2013|Running Randomized Evaluations: A Practical Guide|not_downloaded
+C01512|Moscona & Seck|2023|"Age Set vs|no_doi
+C01513|Ensminger|1997|Changing property rights: Reconciling formal and informal rights to land in Africa|no_doi
+C01515|Henrich|2015|The Secret our Our Success: How Culture is Driving Human Evolution, Domesticating our Species, and M|not_downloaded
+C01517|Boyd & Richerson|2005|The Origin and Evolution of Cultures|download_failed
+C01518|Savitskiy et al.|2025|Cultural Evolution for Economists|no_doi
+C01520|Nisbett|2003|The Geography of Thought|no_doi
+C01528|Religion & Political Economy [Wed|2024|The Divine Economy: How Religions Compete for Wealth, Power, and People|no_doi
+C01531|Buccione|2023|Religious Messaging and Adaptation to Water Scarcity: Evidence from Jordan|no_doi
+C01534|Iannaccone|1992|Sacrifice and Stigma: Reducing Free-riding in Cults, Communes, and Other Collectives|download_failed
+C01538|Aimable Amani Lameke et al.|2025|Indigenous Religions and Economic Behavior: Beer Sellers in DRC|no_doi
+C01540|Marchais|2025|LEAVING THE WHITE HOUSE|not_downloaded
+C01542|Rustagi|2024|Market exposure, civic values, and rules|no_doi
+C01544|Henrich|2003|Cultural group selection, coevolutionary processes and large-scale cooperation|wrong_paper
+C01546|Sosin & Fischer|1991|Albion's Seed: Four British Folkways in America|not_downloaded
+C01552|Denton-Schneider & Garg|2025|Crimes Against Nature: The Colonial Roots of Homophobia in Sub-Saharan Africa|no_doi
+C01555|Graeber|2007|There Never was a West: Or, Democracy Emerges from the Spaces in Between|no_doi
+C01560|Sweet|1997|The Iberian Roots of American Racist Thought|download_failed
+C01567|Kuziemko & Werker|2006|How Much is a Seat on the UN Security Council Worth?|no_doi
+C01571|Malukisa|2022|The Moral Economy of State Officials (and Its Significance for Corruption)|wrong_paper
+C01574|Dunia Butinda|2022|From Child of Walikale to Combatant: A Return Trip|no_doi
+C01575|Richards|1996|Fighting for the Rainforest, Oxford: James Currey|no_doi
+C01576|Dunia Butinda et al.|2023|Who joins the monopoly of violence? Inside the NDC-R|no_doi
+C01577|Contact et al.|1957|The Economy as Instituted Process|no_doi
+C01581|Shipton|1989|Bitter Money: Cultural Economy and Some African Meanings of Forbidden Commodities|no_doi
+C01582|Graeber|2013|On the Phenomenon of Bullshit Jobs|no_doi
+C01583|Moscona et al.|2026|Searching for fish in trees (緣木求魚)? Economic development when context matters|not_downloaded
+C01585|Comaroff|2011|Figuring Democracy: An Anthropological Take on African Political Modernities|no_doi
+C01587|Ossai & Madu|2026|Exploring rain-making and rain-prevention as instruments of peace-building in Ezimo community, Nsukk|no_doi
+C01599|Rogers|2010|Diffusion of innovations|no_doi
+C01600|Sibley & Foster|1962|Traditional Cultures: And the Impact of Technological Change.|not_downloaded
+C01609|Eisenberger|2012|The pain of social disconnection: examining the shared neural underpinnings of physical and social p|not_downloaded
+C01612|Sescousse et al.|2013|Processing of primary and secondary rewards: A quantitative meta-analysis and review of human functi|not_downloaded
+C01613|Eisenberger & Lieberman|2004|Why rejection hurts: a common neural alarm system for physical and social pain|not_downloaded
+C01617|Wi & Talhelm|2023|Hide a Dagger Behind a Smile: A Review of How Collectivist Cultures Compete More Than Individualisti|no_doi
+C01619|Durkheim|1912|Definition of Religious Phenomena and of Religion|no_doi
+C01623|Allan|2007|Erlitou and the Formation of Chinese Civilization: Toward a New Paradigm|download_failed
+C01624|Jin|2023|Paradise and Jungle, the Story of Chinese Firms|no_doi
+C01626|Baggini|2018|How the World Thinks: A Global History of Philosophy|no_doi
+C01627|Acemoglu et al.|2026|The Political Impact of Ideas: Evidence from 17th century England|no_doi
+C01631|Barber et al.|2023|Foreshadowing Mars: Religiosity and Pre-Enlightenment Warfare|not_downloaded
+C01634|Colussi et al.|2024|Pilgrims and Crusaders: Religion as a Political Double-Edged Sword *|not_downloaded
+C01639|Sola|2023|Brother Votes for Brother: The Effects of Pentecostal Political Influence in Brazil|no_doi
+C01640|Butinda et al.|2023|On the Importance of African Traditional Religion for Economic Behavior|not_downloaded
+C01644|Dillion et al.|2026|Moralistic supernatural explanations were widespread and attributed to many different supernatural a|not_downloaded
+C01651|Molina et al.|2023|The Return of Pachamama: Social Structure and Power in Bolivia|no_doi
+C01652|Heldring et al.|2025|Implementing Policy in a Segmentary State: Evidence from Rwanda|no_doi
+C01654|Oetelaar|2014|Worldviews and human–animal relations: Critical perspectives on bison–human relations among the Euro|download_failed
+C01655|Kanu|2023|The Ecological Value of Igbo Spirituality|no_doi
+C01659|Barsanetti & Ferreira|2024|Historical Occupation and Modern Deforestation: Evidence from Indigenous Extinctions in the Amazon|no_doi
+C01660|Smith et al.|2023|Community forest management led to rapid local forest gain in Nepal: A 29 year mixed methods retrosp|not_downloaded
+C01663|Alonso et al.|2015|Voodoo versus fishing committees: The role of traditional and contemporary institutions in fisheries|download_failed
+C01668|Blanc & Kubo|2026|The Making of France|not_downloaded
+C01669|Anderson|1965|Mythology and the Tolerance of the Javanese|no_doi
+C01670|Anderson|1990|The Idea of Power in Javanese Culture|no_doi
+C01673|Geertz|1981|Negara: The Theatre State in Nineteenth-Century Bali|download_failed
+C01677|Blair|2018|Legitimacy after violence: Evidence from two lab-in-thefield experiments in Liberia|no_doi
+C01679|Urton|1999|The Settings of Inca Myths in Space and Time|no_doi
+C01680|Dunia et al.|2025|Moral Violence: At the Heart of One of Congo's Major Armed Groups|no_doi
+C01682|Schneider & Kelly|1988|The Nuer Conquest: The Structure and Development of an Expansionist System|download_failed
+C01684|Gambetta & Hertog|2017|Engineers of Jihad: The Curious Connection between Violent Extremism and Education|not_downloaded
+C01686|Alvarez-Aragon|2025|Paths to the Rainforests: Ancestral Beliefs and Fertility in Sub-Saharan Africa|no_doi
+C01689|McGavock|2023|More than a Village: Why Endogenous Living Arrangements Affect 40% of Non-Orphaned Children in Sub-S|no_doi
+C01692|Blanc|2023|The Cultural Origins of the Demographic Transition in France|no_doi
+C01703|Spulber & Gershenkron|1964|Economic Backwardness in Historical Perspective: A Book of Essays|not_downloaded
+C01708|Acemoglu|2012|Por Que as Nações Fracassam|no_doi
+C01710|Control et al.|2016|Making Politics Work for Development|no_doi
+C01711|Levitsky & Ziblatt|2019|How Democracies Die|no_doi
+C01713|Américo & Ferraz|2022|Agrarian Elites, Education, and Structural Transformation|no_doi
+C01719|Estado et al.|2009|The Origins of State Capacity: Property|no_doi
+C01726|Campante & Hojman|2013|Media and polarization|not_downloaded
+C01730|Besley|2006|Principled Agents? Lectures on the Political Economy of Good|no_doi
+C01735|Ferreira & Gyourko|2014|Does gender matter for political leadership? The case of U.S. mayors|not_downloaded
+C01741|Cantoni et al.|2019|Persistence and activation of right-wing political ideology|no_doi
+C01742|Danieli et al.|2024|Decomposing the global rise of populist parties|no_doi
+C01744|Grossman & Helpman|2021|Trade policy and identity politics|no_doi
+C01746|Schularick et al.|2019|Do populist leaders matter? Populist governments and economic decline|no_doi
+C01749|Paine & Tyson|2020|Uses and Abuses of Formal Models in Political Science|not_downloaded
+C01756|Fowler & Hall|2016|The Elusive Quest for Convergence|download_failed
+C01757|De Mello & Tiongson|2003|Income Inequality and Redistributive Government Spending|not_downloaded
+C01761|Gratton|2014|Pandering and electoral competition|not_downloaded
+C01762|McMurray|2022|Polarization and Pandering in Common-value Elections|not_downloaded
+C01765|Ashworth et al.|2018|"Learning about|no_doi
+C01787|McDonnell|2017|Patchwork Leviathan: How Pockets of Bureaucratic Governance Flourish within Institutionally Diverse |download_failed
+C01796|Tomasi|2020|Merchants of Reputation: Privatization Under Elites' Outside Lobbying|no_doi
+C01798|Folke et al.|2020|Labor Market Foundations of the New Left and New Right|no_doi
+C01804|Svolik|2018|When Polarization Trumps Civic Virtue: Partisan Conflict and the Subversion of Democracy by Incumben|not_downloaded
+C01812|Egorov & Сонин|2015|The killing game: A theory of non-democratic succession|not_downloaded
+C01833|Tadelis & Spring|1999|The Provision of Incentives in Firms|no_doi
+C01843|Williamson|1998|The Institutions of Governance|no_doi
+C01847|Williamson|1984|Credible commitments|not_downloaded
+C01849|Telser|1980|A Theory of Self-Enforcing Agreements|not_downloaded
+C01855|Gibbons|2005|Four formal(izable) theories of the firm?|not_downloaded
+C01860|Jonathan & Steve Tadelis|2008|Contracting for Government Services: Theory and Evidence from US Cities|no_doi
+C01868|Allen & Lueck|1993|Transaction Costs and the Design of Cropshare Contracts|download_failed
+C01869|Nickerson & Silverman|2003|Why Firms Want to Organize Efficiently and what Keeps Them from Doing So: Inappropriate Governance, |download_failed
+C01874|Rindfleisch & Heide|1997|Transaction Cost Analysis: Past, Present, and Future Applications|wrong_paper
+C01905|González et al.|2021|Lost in transition? The persistence of dictatorship mayors|not_downloaded
+C01907|Abeberese|2020|How Does Democracy Cause Growth? Evidence from Firms During Indonesia's Democratic Transition|wrong_paper
+C01909|Gulzar & Khan|2020|Social Motivation, Political Candidacy, and Performance: Experimental Evidence from Pakistan|no_doi
+C01910|Hoffman et al.|2016|Compulsory voting, turnout, and government spending: Evidence from Austria|not_downloaded
+C01911|Milligan et al.|2004|Does education improve citizenship? Evidence from the United States and the United Kingdom|not_downloaded
+C01912|Litschig & Morrison|2010|Government Spending and Re-election: Quasi-Experimental Evidence from Brazilian Municipalities|no_doi
+C01913|Fisman & Golden|2017|Corruption: What Everyone Needs to Know®|wrong_paper
+C01914|FERRAZ et al.|2012|Corrupting learning|not_downloaded
+C01929|Ackerberg et al.|2007|Econometric Tools for Analyzing Market Outcomes|not_downloaded
+C01932|Rust|1994|Chapter 51 Structural estimation of markov decision processes|not_downloaded
+C01937|Arcidiacono & Ellickson|2011|Practical Methods for Estimation of Dynamic Discrete Choice Models|download_failed
+C01944|DellaVigna|2018|Structural Behavioral Economics|not_downloaded
+C01948|Medina|2013|The Analytic Foundations of Collective Action Theory|no_doi
+C01950|North|1993|Toward a Theory of Institutional Change|no_doi
+C01951|North|1995|Five Propositions about Institutional Change|no_doi
+C01962|Drelichman & Voth|2008|Institutions and the Resource Curse in Early Modern Spain|not_downloaded
+C01967|Bates|1988|10. Governments and Agricultural Markets in Africa|not_downloaded
+C01990|Ideas et al.|2001|Principled Agents? The Political Economy of Good Governance|no_doi
+C01997|Lake|1993|Leadership, Hegemony, and the International Economy: Naked Emperor or Tattered Monarch with Potentia|download_failed
+C02005|Martin & Owen|2014|Labor and Protectionist Sentiment|not_downloaded
+C02009|Martin et al.|2014|The Design of Trade Agreements|not_downloaded
+C02025|Finance et al.|2010|The Politics of Sovereign Defaults|no_doi
+C02029|Broz|2019|3. PARTISAN FINANCIAL CYCLES|not_downloaded
+C02030|Frieden|2015|The Governance of International Finance|wrong_paper
+C02032|Abdelal|2007|Capital rules: the construction of global finance|not_downloaded
+C02040|Martin & Peters|2014|Trade and Migration|not_downloaded
+C02048|Simon & Blume|1994|Mathematics for Economists, Norton|no_doi
+C02049|Campbell|2006|Incentives, Cambridge University Press, pp 72-89 (pp 49-60 if you use the first edition, totally equ|wrong_paper
+C02050|Varian|1992|Microeconomic Analysis, (Ch. 27)|no_doi
+C02052|Mackie|2003|Democracy Defended, Cambridge: Cambridge University Press, Ch. 3|no_doi
+C02054|Cox|1997|Making Votes Count, Cambridge: Cambridge University Press, ch. 4.*|no_doi
+C02058|Benoit|2003|Models of electoral system change|not_downloaded
+C02067|Osborne & Slivinksi|1997|The Citizen-candidate model|no_doi
+C02069|Aragonès & Xefteris|2012|Candidate quality in a Downsian model with a continuous policy space|not_downloaded
+C02073|Shepsle & Weingast|1994|Positive Theories of Congressional Institutions|not_downloaded
+C02075|Groseclose|1994|Testing Committee Composition Hypotheses for the U.S. Congress|download_failed
+C02078|Tsebelis|2002|Veto Players, Princeton: Princeton University Press|no_doi
+C02083|Brennan|2017|Against Democracy|not_downloaded
+C02084|Pitkin|1967|The Concept of Representation|not_downloaded
+C02090|Eggers & Klasnja|2019|Wealth, Fundraising, and Voting in the U.S. Congress|no_doi
+C02100|Gennaro|2020|Banlieue at the Ballot Box|no_doi
+C02103|Eichengreen|2018|The populist temptation: Economic grievance and political reaction in the modern era|no_doi
+C02112|Appiah|2018|The lies that bind: Rethinking identity|no_doi
+C02126|Acemoglu & Robinson|2019|The Narrow Corridor: How Nations Struggle for Liberty|no_doi
+C02129|Eberhardt|2019|Democracy does cause growth: Comment|no_doi
+C02135|Louis & Shor|2019|Nation-Level Counterterrorist Legislation, 1945–2017|not_downloaded
+C02146|Lehmann & Tyson|2020|Sowing the Seeds: Resistance, Radicalization, and Repression|no_doi
+C02148|Przeworski|2003|States and Markets: A Primer in Political Economy (Cambridge University Press): Chapter 1|no_doi
+C02149|Acemoglu & Robinson|2012|Why Nations Fail|no_doi
+C02153|Knack & Barro|1998|Determinants of Economic Growth|not_downloaded
+C02160|Lee & Lee|2016|Human capital in the long run|not_downloaded
+C02177|Hicks & Esping‐Andersen|1991|The Three Worlds of Welfare Capitalism.|not_downloaded
+C02180|Mares & Carnes|2009|Social Policy in Developing Countries|download_failed
+C02240|Besley et al.|2017|Gender Quotas and the Mediocre Man|no_doi
+C02243|Cantoni et al.|2019|Protests as strategic games: Hong Kong|no_doi
+C02248|Pons|2014|Does Door-to-door Canvassing Affect Vote Shares? Evidence from a Countrywide Field Experiment in Fra|no_doi
+C02252|Spenkuch|2014|(Ir)rational voters?|no_doi
+C02253|Burden|2005|Minor parties and strategic voting in recent U.S. presidential elections|not_downloaded
+C02255|Mironov & Zhuravskaya|2014|Corruption in Procuremetn and Shadow Campaign Financing: Evidence from Russia|no_doi
+C02261|Banerjee et al.|2019|Growing Cleavages in India? Evidence from the Changing Structure of Electorates, 1962-2014|no_doi
+C02275|A & Hauk|2014|Civil war and U.S. foreign influence|download_failed
+C02276|Berger et al.|2013|Do superpower interventions have short and long term consequences for democracy?|not_downloaded
+C02277|Albertazzi & Lown|2021|The Causal Effect of Income Inequality on Attribution and Social Trust|no_doi
+C02279|Fergusson et al.|2021|Political Incentives and Corruption: Evidence From Ghost Students|not_downloaded
+C02281|Fergusson et al.|2013|Sunlight Disinfects? Free Media in Weak Democracies|not_downloaded
+C02285|Dixit|2006|Predatory States and Failing States: An Agency Perspective|no_doi
+C02290|Fujiwara et al.|2022|Tordesillas, slavery and the origins of Brazilian inequality|no_doi
+C02304|Golz & D’Amico|2018|Market concentration in the international drug trade|download_failed
+C02308|Eslava|2024|Conflict and female leadership: Evidence from Colombia|no_doi
+C02316|Pulejo & No|2023|Protests and regime change (April 16)|no_doi
+C02325|Putnam|2001|Social capital: Measurement and consequences|no_doi
+C02332|Bermeo|2011|Foreign Aid and Regime Change: A Role for Donor Intent|not_downloaded
+C02335|Schiller|1955|Some Effects of the Cold War on United States Foreign Trade|not_downloaded
+C02340|Clayton et al.|2023|Immigration (May 7)|no_doi
+C02348|Robinson et al.|2006|Political foundations of the resource curse|not_downloaded
+C02354|Bordoff & O'Sullivan|2024|The age of energy insecurity: How the fight for resources is upending geopolitics|no_doi
+C02355|Sequiera & Djankov|2008|On the Waterfront: An Empirical Study of Corruption in Ports|no_doi
+C02358|Aceomglu & Verdier|2000|"The Choice Between Corruption and|no_doi
+C02359|Acemoglu et al.|2012|Markov Voting Equilibria|no_doi
+C02361|Ellickson|1991|Order Without Law, Cambridge: Harvard University Press|no_doi
+C02364|Dekel et al.|2008|"Vote Buying|no_doi
+C02366|Djankov et al.|2003|Journal of Law and Economics 66|wrong_paper
+C02371|Baliga & Sjostrom|2008|The Logic of Mutual Fear: Escalation and Deterrence in Con‡ict|no_doi
+C02381|Arias et al.|2019|How Social Networks Help Voters Coordinate Around Information Provision to Improve Electoral Account|no_doi
+C02399|Cao|2020|The Social Costs of Patronage Ties: Lessons from the 2008 Sichuan Earthquake|no_doi
+C02400|Chalendard et al.|2020|Technology (Ab)use and Corruption in Customs|wrong_paper
+C02406|Olken|2009|Does TV and Radio Destroy Social Capital?|no_doi
+C02415|Krackhardt & Kilduff|1999|Whether close or far: Social distance effects on perceived balance in friendship networks.|download_failed
+C02423|Goldin|2021|Journey across a Century of Women|no_doi
+C02429|Dasgupta|1997|Nutritional status, the capacity for work, and poverty traps|not_downloaded
+C02433|Blattman et al.|2022|Impacts of industrial and entrepreneurial jobs on youth: 5-year experimental evidence on factory job|not_downloaded
+C02434|Breza et al.|2019|Propping Up the Wage Floor: Collective Labor Supply Without Unions|no_doi
+C02437|Schultz|1964|Duflo (MIT) 14.771: Investing in Human Capital-Theory|no_doi
+C02438|Kirill Borusyak et al.|2021|Cl'ement De Chaisemartin and Xavier d'Haultfoeuille, Two-way fixed effects estimators with heterogen|no_doi
+C02440|Pratham|2013|Learning Camps|no_doi
+C02454|Miao|2014|Economic Dynamics in Discrete Time|no_doi
+C02458|Austen‐Smith & Banks|2000|Cheap Talk and Burned Money|not_downloaded
+C02461|Lind|2017|The New Class War|no_doi
+C02463|Allen et al.|2014|Democratic Experimentalism|no_doi
+C02464|RMU et al.|2019|Shaping Technology and Institutions|no_doi
+C02465|Acemoglu|2019|It's Good Jobs Stupid|no_doi
+C02466|Korinek|2019|Labor in the Age of Automation and Artificial Intelligence|no_doi
+C02467|Acemoglu|2017|We Are the Last Defense Against Trump|no_doi
+C02469|Black & Rothstein|2019|An Expanded View of Government's Role in Providing Social Insurance and Investing in Children|no_doi
+C02470|Johnson|2009|The Quiet Coup|no_doi
+C02472|Naidu|2019|Worker Collective Action in the 21st Century Labor Market|no_doi
+C02473|Dube|2018|Using Wage Boards to Raise Pay|no_doi
+C02474|Baker & Morton|2019|Confronting Rising Market Power|no_doi
+C02475|Rodrik|2017|Rescuing Economics from Neoliberalism|no_doi
+C02479|Amore et al.|2015|Return to Political Power in a Low Corruption Environment|not_downloaded
+C02488|Nunn|2013|Historical Development|not_downloaded
+C02492|Bertocchi & Dimico|2014|Slavery, education, and inequality|not_downloaded
+C02500|Allen|2009|Engels’ pause: Technical change, capital accumulation, and inequality in the british industrial revo|not_downloaded
+C02505|David|2008|The Historical Origins of 'Open Science': An Essay on Patronage, Reputation and Common Agency Contra|download_failed
+C02513|Hayek|1945|The Use of Knowledge in Society|no_doi
+C02518|Bisin et al.|2019|On the Joint Evolution of Culture and Institutions|not_downloaded
+C02539|Collins & Wanamaker|2015|Up from Slavery? Intergenerational Mobility in the Shadow of Jim Crow|no_doi
+C02543|Jayadev & Bowles|2006|Guard labor|not_downloaded
+C02545|Campante|2010|Redistribution in a model of voting and campaign contributions|not_downloaded
+C02553|Rodrik|2015|When ideas trump interests: Preferences, Worldviews, and Policy innovations|download_failed
+C02556|Bowles & Pagano|2006|Chapter 11 Economic Integration, Cultural Standardization, and the Politics of Social Insurance|not_downloaded
+C02560|Clemens & Pritchett|2018|The new economic case for migration restrictions: An assessment|not_downloaded
+C02569|Scott|2009|Print. (Really you probably want to read all of Scott's work for ideas in this area)|no_doi
+C02570|Heller|1998|The Tragedy of the Anticommons: Property in the Transition from Marx to Markets|download_failed
+C02572|MacLeod|2011|Great Expectations: Law, Employment Contracts, and Labor Market Performance|not_downloaded
+C02583|Rama & Tabellini|1998|Lobbying by capital and labor over trade and labor market policies|not_downloaded
+C02595|Abowd|1989|The Effect of Wage Bargains on the Stock Market Value of the Firm|no_doi
+C02612|Lorentzen & Lu|2016|Personal Ties, Meritocracy, and China's Anti-Corruption Campaign|not_downloaded
+C02614|McCarty|2019|Polarization: What Everyone Needs to Know®|download_failed
+C02615|Krehbiel|1993|Where's the party? British Journal of Political Science, 23(2):235-266|no_doi
+C02624|Lucca et al.|2014|The revolving door and worker flows in banking regulation|not_downloaded
+C02626|Trebbi & Xiao|2017|Regulation and Market Liquidity|not_downloaded
+C02633|Bordo|2011|Do financial crises always raise inequality? Some Evidence from History|no_doi
+C02634|Bernhardt et al.|2025|A Theory of Elector Turnout Based on Free-Riding Aversion|no_doi
+C02670|Sch¨onenberger|2024|Out of Office, Out of Step? Re-election Concners and Ideological Shirking in Lame Duck Sessions of t|no_doi
+C02688|Using et al.|2007|The evolution of common law|no_doi
+C02690|Sunstein|2007|Are judges political?: an empirical analysis of the federal judiciary|download_failed
+C02714|Dornbusch & Edwards|1995|Chapter 1. The Macroeconomics of Populism|not_downloaded
+C02725|Kempf et al.|2022|The Political Polarization of Corporate America|not_downloaded
+C02735|Bermiss & McDonald|2018|Ideological Misfit? Political Affiliation and Employee Departure in the Private-equity Industry|download_failed
+C02750|Johnson & Koyama|2016|States and economic growth: Capacity and constraints|not_downloaded
+C02755|Frieden|2020|The Political Economy of Economic Policy|not_downloaded
+C00627|Bertrand et al.|2020|Tax-Exempt Lobbying|no_doi
+C01056|Klüver|2013|Lobbying in the European Union: Interest Groups, Lobbying Coalitions, and Policy Change|download_failed
+C01060|Bombardini|2008|Firm heterogeneity and lobby participation|not_downloaded
+C01065|Wasow|2020|APSR - "Agenda Seeding: How 1960s Black Protests|no_doi
+C01125|Bardhan & B|2006|Pro-poor targeting and accountability of local governments in West Bengal|not_downloaded
+C01127|Bardhan & Mookherjee|2020|A theory of clientelism and its implications for political stability|no_doi
+C01129|Baskaran et al.|2015|Election cycles and electricity provision: Evidence from a quasi-experiment with Indian special elec|not_downloaded
+C01132|Beg|2018|Favoritism and flooding: Political alignment and allocation of irrigation water|not_downloaded
+C01137|Birch|2020|Electoral malpractice, Oxford University Press|no_doi
+C01141|Brassiolo et al.|2020|My (running) mate, the mayor: Political ties and access to public sector jobs in Ecuador|not_downloaded
+C01142|Briggs|2021|Power to which people? Explaining how electrification targets voters across party rotations in Ghana|not_downloaded
+C01146|Bruns et al.|2011|Making schools work: New evidence on accountability reforms, World Bank|no_doi
+C01150|Calle|2024|Term Limits and the Spatial Allocation of Capital by the Public Sector *|not_downloaded
+C01156|Casey|2026|Politics and policy where state capacity is low|not_downloaded
+C01157|Chin & Prakash|2010|The redistributive effects of political reservation for minorities: Evidence from India|not_downloaded
+C01159|Clots-Figueras|2011|Women in politics: Evidence from the Indian states|no_doi
+C01160|Cole et al.|2011|Do voters demand responsive governments? Evidence from Indian disaster relief|not_downloaded
+C01162|Cox et al.|2024|Punishing mayors who fail the test: How do voters respond to information about educational outcomes?|not_downloaded
+C01166|Cruz et al.|2025|Political polarisation|no_doi
+C01168|Dahlum & Knutsen|2017|Do Democracies Provide Better Education? Revisiting the Democracy–Human Capital Link|not_downloaded
+C01170|Das & Hammer|2014|Quality of Primary Care in Low-Income Countries: Facts and Economics|download_failed
+C01174|Dhaliwal & Hanna|2016|The devil is in the details: The successes and limitations of bureaucratic reform in India|not_downloaded
+C01175|Dias et al.|2026|Information and the politics of school quality: Evidence from a nationwide reform in Brazil|no_doi
+C01176|Y & Eslava|2009|Electoral manipulation via voter-friendly spending: Theory and evidence|not_downloaded
+C01183|FIRPO et al.|2015|The relationship between federal budget amendments and local electoral power|not_downloaded
+C01185|Frey|2019|Cash transfers, clientelism, and political enfranchisement: Evidence from Brazil|not_downloaded
+C01188|Galiani et al.|2008|School decentralization: Helping the good get better, but leaving the poor behind|not_downloaded
+C01201|Hidalgo et al.|2016|Can Politicians Police Themselves? Natural Experimental Evidence From Brazil’s Audit Courts|download_failed
+C01208|Khemani|2003|Political cycles in a developing economy: effect of elections in the Indian States|not_downloaded
+C01209|Khemani|2015|Buying votes versus supplying public services: Political incentives to under-invest in pro-poor poli|not_downloaded
+C01210|Abrahams|2016|Making politics work for development: Harnessing transparency and citizen engagement, World Bank Pol|no_doi
+C01216|Lieberman & Tilles|2026|Beyond the tap: the limited value of democracy for delivering universal safe water access in low- an|not_downloaded
+C01218|Maffioli|2018|The political economy of health epidemics: Evidence from the Ebola outbreak|not_downloaded
+C01221|Mani & MUKAND|2006|Democracy, visibility and public good provision|not_downloaded
+C01223|Mares & Young|2016|Buying, Expropriating, and Stealing Votes|download_failed
+C01224|Martinez-Bravo et al.|2022|Do local elections in non-democracies increase accountability? Evidence from rural China|no_doi
+C01226|Min & Golden|2013|Electoral cycles in electricity losses in India|not_downloaded
+C01228|Min|2019|Political favoritism and the targeting of power outages|no_doi
+C01231|Oates|1972|Fiscal federalism, Harcourt Brace Jovanovich|no_doi
+C01233|Robinson & Torvik|2004|White elephants|not_downloaded
+C01234|Saint‐Paul & Verdier|1993|Education, democracy and growth|not_downloaded
+C01235|Sandholtz|2024|The Politics of Public Service Reform: Experimental Evidence From Liberia|not_downloaded
+C01236|Shi & Svensson|2006|Political budget cycles: Do they differ across countries and why?|not_downloaded
+C01238|Tarquninio|2022|The targeting of drought relief: Evidence from Southern India|not_downloaded
+C01239|Tiebout|1956|A Pure Theory of Local Expenditures|not_downloaded
+W109341979|Austen‐Smith & Banks|1988|Elections, Coalitions, and Legislative Outcomes|not_downloaded
+W1479997380|Hamilton|2003|All the News That's Fit to Sell: How the Market Transforms Information into News|no_doi
+W1484474409|A et al.|2006|Institutions and the Resource Curse|not_downloaded
+W1484634968|Gandhi|2008|Political Institutions under Dictatorship|not_downloaded
+W1488792619|Mayer|1984|Endogenous Tariff Formation.|no_doi
+W1500864630|Unknown|2001|The world economy: a millennial perspective|not_downloaded
+W1504854090|Lijphart|1996|Unequal Participation: Democracy's Unresolved Dilemma|no_doi
+W1508130583|Besley & Coate|1996|Sources of Inefficiency in a Representative Democracy: A Dynamic Analysis|no_doi
+W1509161467|Taagepera & Shugart|1989|Seats and Votes: The Effects and Determinants of Electoral Systems|no_doi
+W1509383136|O'Donnell & Schmitter|1986|Transitions from Authoritarian Rule: Tentative Conclusions about Uncertain Democracies|no_doi
+W1515771701|Rohde|1991|Parties and Leaders in the Postreform House|not_downloaded
+W1519984423|Shleifer & Vishny|1999|The Grabbing Hand: Government Pathologies and Their Cures|no_doi
+W1520082828|Aghion & Durlauf|2005|Handbook of Economic Growth|no_doi
+W1522991516|Banks & Sundaram|1993|Adverse Selection and Moral Hazard in a Repeated Elections Model|no_doi
+W1524911922|Greif|2006|Institutions and the Path to the Modern Economy|not_downloaded
+W1525367507|Alesina & Spolaore|2003|The Size of Nations|not_downloaded
+W1531142403|Healy & Lenz|2013|Substituting the End for the Whole: Why Voters Respond Primarily to the Election‐Year Economy|not_downloaded
+W1531575577|Fukuyama|2011|The origins of political order: from prehuman times to the French Revolution|not_downloaded
+W1533369859|Huntington|1991|The Third Wave: Democratization in the Late Twentieth Century|no_doi
+W1535643370|de Mesquita et al.|2003|The Logic of Political Survival|not_downloaded
+W1535803599|Sen|2009|Development as Freedom|not_downloaded
+W1539903039|Wood|2003|Insurgent Collective Action and Civil War in El Salvador|not_downloaded
+W1542183466|Milgrom|1981|Good News and Bad News: Representation Theorems and Applications|not_downloaded
+W1544556248|Unknown|2004|The world economy: historical statistics|not_downloaded
+W1552956615|Hainmueller & Hiscox|2006|Learning to Love Globalization: Education and Individual Attitudes Toward International Trade|not_downloaded
+W1558484812|Hainmueller & Hiscox|2007|Educated Preferences: Explaining Attitudes Toward Immigration in Europe|not_downloaded
+W1559198035|McCarty et al.|2006|Polarized America: The Dance of Ideology and Unequal Riches|no_doi
+W1564803735|Schofield & Sened|2006|Multiparty Democracy: Elections and Legislative Politics|no_doi
+W1575812287|Grossman|1991|A General Equilibrium Model of Insurrections|no_doi
+W1577916257|North et al.|2009|Violence and Social Orders|no_doi
+W1580899010|Poole & Rosenthal|2000|Congress: A Political-Economic History of Roll Call Voting|no_doi
+W1621619283|Barro & McCleary|2003|Religion and Economic Growth across Countries|not_downloaded
+W1648937643|Becker|1957|The Economics of Discrimination|no_doi
+W1686065478|Bakshy et al.|2015|Exposure to ideologically diverse news and opinion on Facebook|not_downloaded
+W1715038780|Kuznets|1955|Economic Growth and Income Inequality|no_doi
+W1811781384|Boyd & Richerson|1985|Culture and the Evolutionary Process|no_doi
+W1815167514|Bénabou & Bénabou|1996|Inequality and Growth|not_downloaded
+W1837699578|Buonanno et al.|2015|Poor Institutions, Rich Mines: Resource Curse in the Origins of the Sicilian Mafia|not_downloaded
+W1930813282|Green & Gerber|2008|Get Out the Vote: How to Increase Voter Turnout|no_doi
+W1963974629|Acemoğlu & Robinson|2000|Political Losers as a Barrier to Economic Development|not_downloaded
+W1964242754|Hall & Wayman|1990|Buying Time: Moneyed Interests and the Mobilization of Bias in Congressional Committees|not_downloaded
+W1969028417|Bernheim & Whinston|1986|Menu Auctions, Resource Allocation, and Economic Influence|not_downloaded
+W1969355781|Besley et al.|2004|The Politics of Public Good Provision: Evidence from Indian Local Governments|not_downloaded
+W1969519191|LA PORTA et al.|1997|Legal Determinants of External Finance|not_downloaded
+W1970448118|Conley|1999|GMM estimation with cross sectional dependence|not_downloaded
+W1971301429|Persson & Svensson|1989|Why a Stubborn Conservative would Run a Deficit: Policy with Time- Inconsistent Preferences|not_downloaded
+W1972065210|Ferguson & Voth|2008|Betting on Hitler—The Value of Political Connections in Nazi Germany*|not_downloaded
+W1972223156|Edlund & Pande|2002|Why Have Women Become Left-Wing? The Political Gender Gap and the Decline in Marriage|not_downloaded
+W1975294907|Bandiera|2003|Land Reform, the Market for Protection, and the Origins of the Sicilian Mafia: Theory and Evidence|not_downloaded
+W1978239295|Di Tella et al.|2007|The Formation of Beliefs: Evidence from the Allocation of Land Titles to Squatters|not_downloaded
+W1978469792|Gerber|1998|Estimating the Effect of Campaign Spending on Senate Election Outcomes Using Instrumental Variables|not_downloaded
+W1978648732|Weingast & Moran|1983|Bureaucratic Discretion or Congressional Control? Regulatory Policymaking by the Federal Trade Commi|not_downloaded
+W1980207324|Hays et al.|2005|Government Spending and Public Support for Trade in the OECD: An Empirical Test of the Embedded Libe|not_downloaded
+W1981357072|Aldrich|1995|Why Parties?|not_downloaded
+W1982508871|Greenaway et al.|1990|Black Hole Tariffs and Endogenous Policy Theory: Political Economy in General Equilibrium.|not_downloaded
+W1982593017|Henrich et al.|2010|Markets, Religion, Community Size, and the Evolution of Fairness and Punishment|not_downloaded
+W1985356778|Brusco et al.|2004|Vote Buying in Argentina|not_downloaded
+W1986451067|Galasso & Ravallion|2004|Decentralized targeting of an antipoverty program|not_downloaded
+W1987936802|Denzau & Munger|1986|Legislators and Interest Groups: How Unorganized Interests Get Represented|not_downloaded
+W1992232430|Fernández et al.|2004|Mothers and Sons: Preference Formation and Female Labor Force Dynamics|not_downloaded
+W1992503224|Cox & McCubbins|1993|Legislative Leviathan: Party Government in the House|no_doi
+W1993045262|Strömberg|2008|How the Electoral College Influences Campaigns and Policy: The Probability of Being Florida|not_downloaded
+W1993302203|Ansolabehere et al.|2006|Television and the Incumbency Advantage in U.S. Elections|not_downloaded
+W1993330971|Haggard & Kaufman|1999|4. The Political Economy of Democratic Transitions|not_downloaded
+W1995643388|Carey & Shugart|1995|Incentives to cultivate a personal vote: A rank ordering of electoral formulas|not_downloaded
+W1995964689|Goemans et al.|2009|Introducing Archigos: A Dataset of Political Leaders|not_downloaded
+W1997729400|Tilly|1975|The Formation of National States in Western Europe|no_doi
+W2001947080|Rae|1967|The Political Consequences of Electoral Laws|no_doi
+W2003350916|Duverger|1964|Political Parties Their Organization and Activity in the Modern State|no_doi
+W2005343548|Bellows & Miguel|2009|War and local collective action in Sierra Leone|not_downloaded
+W2005474264|Fearon & Laitin|1996|Explaining Interethnic Cooperation|not_downloaded
+W2007352806|Gleditsch et al.|2002|Armed Conflict 1946-2001: A New Dataset|not_downloaded
+W2008477779|Riker|1982|The Two-party System and Duverger's Law: An Essay on the History of Political Science|not_downloaded
+W2010050173|Snyder|1991|ON BUYING LEGISLATURES*|not_downloaded
+W2010235856|Knack & Keefer|1995|INSTITUTIONS AND ECONOMIC PERFORMANCE: CROSS‐COUNTRY TESTS USING ALTERNATIVE INSTITUTIONAL MEASURES|not_downloaded
+W2011373323|Dewatripont et al.|1999|The Economics of Career Concerns, Part II: Application to Missions and Accountability of Government |not_downloaded
+W2014602527|Gilligan & Krehbiel|1987|Collective Decisionmaking and Standing Committees: An Informational Rationale for Restrictive Amendm|not_downloaded
+W2014689051|Peltzman|1992|Voters as Fiscal Conservatives|not_downloaded
+W2016319068|Besley & Kudamatsu|2006|Health and Democracy|not_downloaded
+W2018678655|Bafumi & Herron|2010|Leapfrog Representation and Extremism: A Study of American Voters and Their Members in Congress|not_downloaded
+W2018924224|Fernandez & Rodrik|1991|Resistance to Reform: Status Quo Bias in the Presence of Individual-Specific Uncertainty|no_doi
+W2020694618|Tufte|1978|Political Control of the Economy|no_doi
+W2021515572|Ashworth|2005|Reputational Dynamics and Political Careers|not_downloaded
+W2023509749|Unknown|1990|The lever of riches: technological creativity and economic progress|download_failed
+W2024358613|Reinikka & Svensson|2005|Fighting Corruption to Improve Schooling: Evidence from a Newspaper Campaign in Uganda|not_downloaded
+W2028211630|Lord et al.|1979|Biased assimilation and attitude polarization: The effects of prior theories on subsequently conside|not_downloaded
+W2029167274|Stolper & Samuelson|1941|Protection and Real Wages|not_downloaded
+W2030172216|Hibbs|1977|Political Parties and Macroeconomic Policy|not_downloaded
+W2030576955|Li & Zhou|2004|Political turnover and economic performance: the incentive role of personnel control in China|not_downloaded
+W2031389476|Michalopoulos|2012|The Origins of Ethnolinguistic Diversity|not_downloaded
+W2031712905|Brunetti & Weder|2002|A free press is bad news for corruption|not_downloaded
+W2033555993|Snyder|1989|Election Goals and the Allocation of Campaign Resources|not_downloaded
+W2034293871|GREEN & Krasno|1988|Salvation for the Spendthrift Incumbent: Reestimating the Effects of Campaign Spending in House Elec|not_downloaded
+W2034328075|Allport|1954|Nature of Prejudice|no_doi
+W2035534527|Rosenstone & Hansen|1993|Mobilization, participation, and democracy in America|no_doi
+W2036965329|Caillaud & Z|2002|Parties as Political Intermediaries|not_downloaded
+W2037265139|Banfield|1958|The Moral Basis of a Backward Society|no_doi
+W2037668165|Aldrich|1993|Rational Choice and Turnout|not_downloaded
+W2038631063|Tilly|1978|From Mobilization to Revolution|no_doi
+W2041692102|Easterly & Levine|1997|Africa's Growth Tragedy: Policies and Ethnic Divisions|not_downloaded
+W2041827300|Oberholzer‐Gee & Waldfogel|2009|Media Markets and Localism: Does Local News en Español Boost Hispanic Voter Turnout?|not_downloaded
+W2042233114|Palfrey|1984|Spatial Equilibrium with Entry|not_downloaded
+W2043285762|Niskanen|1971|Bureaucracy and Representative Government|no_doi
+W2043483056|Carneiro|1970|A Theory of the Origin of the State|not_downloaded
+W2043803602|Abramitzky et al.|2012|Europe's Tired, Poor, Huddled Masses: Self-Selection and Economic Outcomes in the Age of Mass Migrat|not_downloaded
+W2044739107|Esteban & B|1999|Conflict and Distribution|not_downloaded
+W2046642512|Rogoff & Sibert|1988|Elections and Macroeconomic Policy Cycles|not_downloaded
+W2046764142|Frieden|1991|Invested interests: the politics of national economic policies in a world of global finance|not_downloaded
+W2046782908|Miller & Stokes|1963|Constituency Influence in Congress|not_downloaded
+W2047606409|Rogowski|1987|Trade and the variety of democratic institutions|not_downloaded
+W2048838151|Bénabou|2000|Unequal Societies: Income Distribution and the Social Contract|not_downloaded
+W2051733957|Gurr|1970|Why men rebel|no_doi
+W2055804518|Quinn|1997|The Correlates of Change in International Financial Regulation|not_downloaded
+W2057659248|Pettigrew & Tropp|2006|A meta-analytic test of intergroup contact theory.|not_downloaded
+W2059218518|Keefer|2007|Clientelism, Credibility, and the Policy Choices of Young Democracies|not_downloaded
+W2060635194|George & Waldfogel|2006|The New York Times and the Market for Local Newspapers|not_downloaded
+W2061565725|Greif et al.|1994|Coordination, Commitment, and Enforcement: The Case of the Merchant Guild|not_downloaded
+W2066979365|North|1981|Structure and Change in Economic History|no_doi
+W2067591184|Peltzman|1984|Constituent Interest and Congressional Voting|not_downloaded
+W2068869385|Schelling|1960|The Strategy of Conflict|no_doi
+W2076316673|Weingast et al.|1981|The Political Economy of Benefits and Costs: A Neoclassical Approach to Distributive Politics|not_downloaded
+W2076668105|Milgrom & Roberts|1986|Relying on the Information of Interested Parties|not_downloaded
+W2078646629|Jr.|1949|Southern Politics in State and Nation|no_doi
+W2079694060|Cox|1990|Centripetal and Centrifugal Incentives in Electoral Systems|not_downloaded
+W2080360912|Eifert et al.|2010|Political Competition and Ethnic Identification in Africa|not_downloaded
+W2080642065|Baron|1989|Service-Induced Campaign Contributions and the Electoral Equilibrium|not_downloaded
+W2082517482|Bates & Lien|1985|A Note on Taxation, Development, and Representative Government|not_downloaded
+W2083277050|Dahl|1971|Polyarchy: Participation and Opposition|no_doi
+W2086651280|Gandhi & Przeworski|2006|COOPERATION, COOPTATION, AND REBELLION UNDER DICTATORSHIPS|not_downloaded
+W2088435028|Allingham & Sandmo|1972|Income tax evasion: a theoretical analysis|not_downloaded
+W2088663850|Kleven et al.|2011|Unwilling or Unable to Cheat? Evidence From a Tax Audit Experiment in Denmark|not_downloaded
+W2089314759|Hirschman|1970|Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States|no_doi
+W2090766907|Algan & Cahuc|2010|Inherited Trust and Growth|not_downloaded
+W2090939951|Alesina & Rosenthal|1995|Partisan Politics, Divided Government, and the Economy|not_downloaded
+W2093265904|J.-N. et al.|1978|Atlas of World Population History|download_failed
+W2094647264|Jr.|1973|Congressmen in Committees|no_doi
+W2095714582|Chubb|1985|The Political Economy of Federalism|not_downloaded
+W2097908050|Kramer|1971|Short-Term Fluctuations in U.S. Voting Behavior, 1896–1964|not_downloaded
+W2097916756|Autor et al.|2013|The China Syndrome: Local Labor Market Effects of Import Competition in the United States|not_downloaded
+W2100746853|Hart et al.|1997|The Proper Scope of Government: Theory and an Application to Prisons|not_downloaded
+W2101736928|Knack & Keefer|1997|Does Social Capital Have an Economic Payoff? A Cross-Country Investigation|not_downloaded
+W2105085862|Galor et al.|2008|Inequality in Landownership, the Emergence of Human-Capital Promoting Institutions, and the Great Di|not_downloaded
+W2105416454|Lohmann|1993|A Signaling Model of Informative and Manipulative Political Action|not_downloaded
+W2105717288|Lewis|1954|Economic Development with Unlimited Supplies of Labour|not_downloaded
+W2107986666|Evans & Rauch|1999|Bureaucracy and Growth: A Cross-National Analysis of the Effects of "Weberian" State Structures on E|not_downloaded
+W2107992979|Huntington|1968|Political Order in Changing Societies|no_doi
+W2108355281|Geys|2005|Explaining voter turnout: A review of aggregate-level research|not_downloaded
+W2109719716|Fair|1978|The Effect of Economic Events on Votes for President|not_downloaded
+W2110537446|Beck|2001|New Tools in Comparative Political Economy: The Database of Political Institutions|not_downloaded
+W2112953648|Roemer|1998|Why the poor do not expropriate the rich: an old argument in new garb|not_downloaded
+W2113358058|Nunn|2009|The Importance of History for Economic Development|not_downloaded
+W2113982033|Eggers & Hainmueller|2009|MPs for Sale? Returns to Office in Postwar British Politics|not_downloaded
+W2114078650|Snyder|1990|Campaign Contributions as Investments: The U.S. House of Representatives, 1980-1986|not_downloaded
+W2114378037|Iversen & Soskice|2001|An Asset Theory of Social Policy Preferences|not_downloaded
+W2114412976|Wilson|1989|Bureaucracy: What Government Agencies Do and Why They Do It|no_doi
+W2115074743|Fiorina|1981|Retrospective Voting in American National Elections|no_doi
+W2116245304|Clingingsmith et al.|2009|Estimating the Impact of the Hajj: Religion and Tolerance in Islam's Global Gathering *|not_downloaded
+W2116559484|Fearon|2004|Why Do Some Civil Wars Last So Much Longer than Others?|not_downloaded
+W2117318745|Powell|1986|American Voter Turnout in Comparative Perspective|not_downloaded
+W2117963689|Almond & Verba|1963|The Civic Culture: Political Attitudes and Democracy in Five Nations|no_doi
+W2118200461|Ross|2006|A Closer Look at Oil, Diamonds, and Civil War|not_downloaded
+W2119732780|Rodrik & Wacziarg|2005|Do Democratic Transitions Produce Bad Economic Outcomes?|not_downloaded
+W2120012324|Alesina & Angeletos|2005|Fairness and Redistribution|not_downloaded
+W2120938061|Brender & Y|2008|How Do Budget Deficits and Economic Growth Affect Reelection Prospects? Evidence from a Large Panel |not_downloaded
+W2121005211|Akerlof & Kranton|2000|Economics and Identity*|not_downloaded
+W2121820235|Ashraf et al.|2014|No Margin, No Mission? A Field Experiment on Incentives for Public Services Delivery|no_doi
+W2122014785|Besley & McLaren|1993|Taxes and Bribery: The Role of Wage Incentives|not_downloaded
+W2124203762|Bénabou & Z|2003|Intrinsic and Extrinsic Motivation|not_downloaded
+W2124298601|Calvo & Murillo|2004|Who Delivers? Partisan Clients in the Argentine Electoral Market|not_downloaded
+W2124751389|Iyengar et al.|2012|Affect, Not Ideology|not_downloaded
+W2124758339|Wooldridge|2001|Econometric Analysis of Cross Section and Panel Data|no_doi
+W2124825646|Levi|1988|Of Rule and Revenue|no_doi
+W2127408858|Wintrobe|1998|The Political Economy of Dictatorship|not_downloaded
+W2127409878|Lake & Baum|2001|The Invisible Hand of Democracy|not_downloaded
+W2128748095|Baum & Lake|2003|ThePoliticalEconomy of Growth: Democracy and Human Capital|not_downloaded
+W2129260435|Boix et al.|2012|A Complete Data Set of Political Regimes, 1800–2007|not_downloaded
+W2131740028|Coase|1960|The Problem of Social Cost|not_downloaded
+W2132802938|Gordon & Huber|2007|The Effect of Electoral Competitiveness on Incumbent Behavior|not_downloaded
+W2133060337|Peltzman|1980|The Growth of Government|not_downloaded
+W2133339157|Garrett|1998|Partisan Politics in the Global Economy|not_downloaded
+W2133369488|La Porta|1999|The quality of government|not_downloaded
+W2134246329|Nickell|1981|Biases in Dynamic Models with Fixed Effects|not_downloaded
+W2134472446|Leff|1964|Economic Development Through Bureaucratic Corruption|not_downloaded
+W2135409175|Putnam et al.|1993|Making Democracy Work: Civic Traditions in Modern Italy|no_doi
+W2135804127|Groseclose|2001|A Model of Candidate Location When One Candidate Has a Valence Advantage|not_downloaded
+W2136655521|CHANDLER|1987|Four Thousand Years of Urban Growth: An Historical Census|no_doi
+W2136753600|Gerber et al.|2011|How Large and Long-lasting Are the Persuasive Effects of Televised Campaign Ads? Results from a Rand|not_downloaded
+W2137441478|Jr.|1978|Home Style: House Members in Their Districts|no_doi
+W2137942277|Ashworth & de Mesquita|2008|Electoral Selection, Strategic Challenger Entry, and the Incumbency Advantage|not_downloaded
+W2138772657|Gandhi & Lust|2009|Elections Under Authoritarianism|not_downloaded
+W2140409505|Schumpeter|1942|Capitalism, Socialism and Democracy|no_doi
+W2140897975|Young|1988|Condorcet's Theory of Voting|not_downloaded
+W2144188763|King et al.|2013|How Censorship in China Allows Government Criticism but Silences Collective Expression|not_downloaded
+W2144450384|Hainmueller & Hiscox|2010|Attitudes toward Highly Skilled and Low-skilled Immigration: Evidence from a Survey Experiment|not_downloaded
+W2147264455|Putnam|2000|Bowling Alone: The Collapse and Revival of American Community|no_doi
+W2147703902|Golder|2003|Explaining Variation In The Success Of Extreme Right Parties In Western Europe|not_downloaded
+W2148501506|Piketty & Saez|2003|Income Inequality in the United States, 1913-1998|not_downloaded
+W2148662853|Ashraf & Galor|2013|The “Out of Africa” Hypothesis, Human Genetic Diversity, and Comparative Economic Development|not_downloaded
+W2148948369|Posner|2004|Measuring Ethnic Fractionalization in Africa|not_downloaded
+W2149899514|Alesina & Spolaore|1997|On the Number and Size of Nations|not_downloaded
+W2150679261|Oates|1999|An Essay on Fiscal Federalism|not_downloaded
+W2150796138|Lewis‐Beck & Stegmaier|2000|Economic Determinants of Electoral Outcomes|not_downloaded
+W2151544484|Brady et al.|1995|Beyond SES: A Resource Model of Political Participation|not_downloaded
+W2152414118|Kiszewski et al.|2004|A GLOBAL INDEX REPRESENTING THE STABILITY OF MALARIA TRANSMISSION|download_failed
+W2153031274|Putnam|1988|Diplomacy and domestic politics: the logic of two-level games|not_downloaded
+W2153438855|Przeworski|2008|Conquered or Granted? A History of Suffrage Extensions|not_downloaded
+W2154862029|Canes‐Wrone et al.|2002|Out of Step, Out of Office: Electoral Accountability and House Members' Voting|not_downloaded
+W2156625419|Ross|2001|Does Oil Hinder Democracy?|not_downloaded
+W2159244471|Besley|1995|Property Rights and Investment Incentives: Theory and Evidence from Ghana|not_downloaded
+W2159251310|Glaeser et al.|2005|Strategic Extremism: Why Republicans and Democrats Divide on Religious Values|not_downloaded
+W2159363815|Collier|1999|On the economic consequences of civil war|not_downloaded
+W2160232843|Ross|2004|What Do We Know about Natural Resources and Civil War?|not_downloaded
+W2160551229|Rueschemeyer et al.|1992|Capitalist Development and Democracy|no_doi
+W2160889518|Spolaore & Wacziarg|2009|The Diffusion of Development*|not_downloaded
+W2163395908|Bourguignon & Verdier|2000|Oligarchy, democracy, inequality and growth|not_downloaded
+W2163657079|Lipset|1960|Political Man: The Social Bases of Politics|no_doi
+W2164540423|Mayhew|1974|Congress: The Electoral Connection|no_doi
+W2165166613|Cox & McCubbins|1986|Electoral Politics as a Redistributive Game|not_downloaded
+W2165274688|Dal Bó & Di Tella|2003|Capture by Threat|not_downloaded
+W2165819037|Mansfield et al.|2002|Why Democracies Cooperate More: Electoral Control and International Trade Agreements|not_downloaded
+W2167015548|Ashworth & de Mesquita|2008|Elections with platform and valence competition|not_downloaded
+W2168966825|Becker & Woessmann|2009|Was Weber Wrong? A Human Capital Theory of Protestant Economic History *|not_downloaded
+W2169278049|Posner|2004|The Political Salience of Cultural Difference: Why Chewas and Tumbukas Are Allies in Zambia and Adve|not_downloaded
+W2170291011|Healy & Malhotra|2013|Retrospective Voting Reconsidered|not_downloaded
+W2171740630|Unknown|2002|Commerce and Coalitions: How Trade Affects Domestic Political Alignments|not_downloaded
+W2175723801|Ostrom|1990|Governing the Commons: The Evolution of Institutions for Collective Action|no_doi
+W2189821821|Becker|1968|Crime and Punishment: An Economic Approach|not_downloaded
+W2232877996|Giuliano|2007|Living Arrangements in Western Europe: Does Cultural Origin Matter?|not_downloaded
+W2237164683|Dincecco|2011|Political Transformations and Public Finances|not_downloaded
+W2239471341|Shachar & Nalebuff|1999|Follow the Leader: Theory and Evidence on Political Participation|not_downloaded
+W2303924600|Flaxman et al.|2016|Filter Bubbles, Echo Chambers, and Online News Consumption|not_downloaded
+W2316285971|Murdock|1959|Africa: Its Peoples and Their Culture History|no_doi
+W2323830812|Lawson & Greene|2014|Making Clientelism Work: How Norms of Reciprocity Increase Voter Compliance|not_downloaded
+W2324440273|Horowitz|1985|Ethnic Groups in Conflict|no_doi
+W2329103711|Powell & Whitten|1993|A Cross-National Analysis of Economic Voting: Taking Account of the Political Context|not_downloaded
+W2329648039|Campbell et al.|1960|The American Voter|no_doi
+W2332251037|Palfrey & Poole|1987|The Relationship between Information, Ideology, and Voting Behavior|not_downloaded
+W2407856457|Murphy et al.|1991|The Allocation of Talent: Implications for Growth|not_downloaded
+W2481123866|Gentzkow et al.|2006|The Rise of the Fourth Estate|not_downloaded
+W2481448239|Flora et al.|1983|State, Economy and Society in Western Europe, 1815–1975|not_downloaded
+W2494707969|Lijphart|1994|Electoral Systems and Party Systems|not_downloaded
+W2523617811|Finan et al.|2016|The Personnel Economics of the Developing State|not_downloaded
+W2752384816|Piketty|2014|Capital in the Twenty-First Century|not_downloaded
+W2753221422|de Tocqueville et al.|2000|Democracy in America|not_downloaded
+W2756230309|Boxell et al.|2017|Greater Internet use is not associated with faster growth in political polarization among US demogra|not_downloaded
+W2759432548|List & Sturm|2006|How Elections Matter: Theory and Evidence from Environmental Policy*|not_downloaded
+W2773187124|Migdal|1988|Strong Societies and Weak States|no_doi
+W2781833702|Przeworski & Limongi|1993|Political Regimes and Economic Growth|not_downloaded
+W279215054|Buchanan|1962|The Calculus of Consent|no_doi
+W2798462310|Diamond|1997|Guns, Germs, and Steel|no_doi
+W2802402771|Mamdani|1996|Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism|no_doi
+W2802807550|Riker et al.|1962|The Calculus of Consent.|not_downloaded
+W2804625995|Ashraf & Bandiera|2018|Social Incentives in Organizations|not_downloaded
+W2891485059|Rauch|1999|Networks versus markets in international trade|not_downloaded
+W2892139511|Rodrik|1999|Democracies Pay Higher Wages|not_downloaded
+W2906886681|Deserranno|2017|Financial Incentives as Signals: Experimental Evidence from the Recruitment of Village Promoters in |not_downloaded
+W2912536286|Evans|1995|Embedded Autonomy|not_downloaded
+W296931085|Svolik|2012|The Politics of Authoritarian Rule|not_downloaded
+W3021924681|Gentzkow & Shapiro|2004|Media, Education and Anti-Americanism in the Muslim World|not_downloaded
+W3023420463|Svensson|2005|Eight Questions about Corruption|not_downloaded
+W3025132739|Baron|2005|Persistent media bias|not_downloaded
+W3025525792|Dee|2004|Are there civic returns to education?|not_downloaded
+W3112066496|Sun & Abraham|2020|Estimating dynamic treatment effects in event studies with heterogeneous treatment effects|not_downloaded
+W3121164501|Battaglini & Coate|2008|A Dynamic Theory of Public Spending, Taxation, and Debt|not_downloaded
+W3121177697|Jayachandran|2006|The Jeffords Effect|not_downloaded
+W3121321214|Besley & Coate|2002|Centralized versus decentralized provision of local public goods: a political economy approach|not_downloaded
+W3121335362|Faccio et al.|2006|Political Connections and Corporate Bailouts|not_downloaded
+W3121522673|La Porta et al.|2008|The Economic Consequences of Legal Origins|not_downloaded
+W3121647034|Bénabou & Z|2006|Belief in a Just World and Redistributive Politics|not_downloaded
+W3121757876|Vigdor et al.|1999|The Rise and Decline of the American Ghetto|no_doi
+W3121774280|Mayda|2006|Who Is Against Immigration? A Cross-Country Investigation of Individual Attitudes toward Immigrants|not_downloaded
+W3121797019|King & Gelman|1990|Estimating Incumbency Advantage Without Bias|no_doi
+W3122016866|Boix & Svolik|2013|The Foundations of Limited Authoritarian Government: Institutions, Commitment, and Power-Sharing in |not_downloaded
+W3122199437|Goldman et al.|2013|Politically Connected Boards of Directors and The Allocation of Procurement Contracts|not_downloaded
+W3122505971|Acemoğlu et al.|2005|From Education to Democracy?|not_downloaded
+W3122513589|Johnson & Mitton|2002|Cronyism and capital controls: evidence from Malaysia|not_downloaded
+W3122513675|Easterly & Levine|2003|Tropics, germs, and crops: how endowments influence economic development|not_downloaded
+W3122705141|Hall & Jones|1999|Why do Some Countries Produce So Much More Output Per Worker than Others?|not_downloaded
+W3122718599|Aragonès & Palfrey|2002|Mixed Equilibrium in a Downsian Model with a Favored Candidate|not_downloaded
+W3122769774|Alesina & La Ferrara|2005|Preferences for redistribution in the land of opportunities|not_downloaded
+W3122778615|Rajan & Zingales|2003|The great reversals: the politics of financial development in the twentieth century|not_downloaded
+W3122922095|Alesina & La Ferrara|2002|Who trusts others?|not_downloaded
+W3122958054|Imbens & Lemieux|2007|Regression discontinuity designs: A guide to practice|not_downloaded
+W3123123937|Acemoğlu et al.|2009|Reevaluating the modernization hypothesis|not_downloaded
+W3123223998|Bertrand & Mullainathan|2004|Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discri|not_downloaded
+W3123344732|Guiso et al.|2004|The Role of Social Capital in Financial Development|not_downloaded
+W3124257343|Persson & Tabellini|2006|Democracy and Development: The Devil in the Details|not_downloaded
+W3124340976|Glaeser & Goldin|2006|Corruption and Reform: Lessons from America's Economic History|no_doi
+W3124514489|Dincecco & Katz|2014|State Capacity and Long‐Run Economic Performance|not_downloaded
+W3124631225|McCarty et al.|2001|The Hunt for Party Discipline in Congress|not_downloaded
+W3124833360|Gehlbach & Keefer|2011|Investment without democracy: Ruling-party institutionalization and credible commitment in autocraci|not_downloaded
+W3125145917|Bénabou & Z|2006|Incentives and Prosocial Behavior|not_downloaded
+W3125190222|Ansolabehere & Snyder|2006|Party Control of State Government and the Distribution of Public Expenditures*|not_downloaded
+W3125907121|Acemoğlu et al.|2016|The value of connections in turbulent times: Evidence from the United States|not_downloaded
+W3127488876|Cox|1997|Making Votes Count: Strategic Coordination in the World's Electoral Systems|no_doi
+W3196446224|Stokes et al.|2013|Brokers, Voters, and Clientelism|not_downloaded
+W381582087|Levitsky & Way|2001|Competitive Authoritarianism: Hybrid Regimes after the Cold War|no_doi
+W4211089644|Chandra|2004|Why Ethnic Parties Succeed|not_downloaded
+W4211113828|Posner|2005|Institutions and Ethnic Politics in Africa|not_downloaded
+W4213331037|Przeworski|1991|Democracy and the Market|not_downloaded
+W4214662720|Prior|2007|Post-Broadcast Democracy|not_downloaded
+W4233193703|Ordeshook|1989|Models of Strategic Choice in Politics|no_doi
+W4239062145|Ertman|1997|Birth of the Leviathan|not_downloaded
+W4240592497|Glaeser & Shleifer|2002|Legal Origins|not_downloaded
+W4241481346|Magaloni|2006|Voting for Autocracy|not_downloaded
+W4242163572|Huber & Stephens|2001|Development and Crisis of the Welfare State|not_downloaded
+W4242581278|Hodler & Raschky|2014|Regional Favoritism *|not_downloaded
+W4246137507|Verba et al.|1995|Voice and Equality|not_downloaded
+W4252476561|Glaeser et al.|2000|Measuring Trust*|not_downloaded
+W4293229472|Stigler|1971|The Theory of Economic Regulation|not_downloaded
+W4298297617|Weber|1976|Peasants into Frenchmen|not_downloaded
+W4298413470|North|1990|Institutions, Institutional Change and Economic Performance|not_downloaded
+W4300022765|Levitsky & Way|2010|Competitive Authoritarianism|not_downloaded
+W4300170376|Zaller|1992|The Nature and Origins of Mass Opinion|not_downloaded
+W562301940|Helpman|2008|Institutions and Economic Performance|no_doi
+W60080681|Austen‐Smith & Banks|1989|Electoral accountability and incumbency|no_doi

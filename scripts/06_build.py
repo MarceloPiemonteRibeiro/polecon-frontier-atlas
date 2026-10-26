@@ -6,7 +6,7 @@ import json, re, unicodedata, sys
 from collections import defaultdict, Counter
 from pathlib import Path
 from taxonomy import TREE, LEAF, MECHANISMS
-from content import FAMS, SHORT, NARRATIVE, VOX_FINDINGS, DESIGNS, MECH_GROUPS, MECH_YEARS, AGENDA, META
+from content import FAMS, SHORT, NARRATIVE, VOX_FINDINGS, DESIGNS, MECH_GROUPS, MECH_YEARS, AGENDA, META, EVIDENCE
 from sources import REGISTRY
 from leaf_notes import LEAF_NOTES
 from model_refs import MODEL_REFS
@@ -275,6 +275,39 @@ def main():
         p["id"] = i
     cid2id = {p["cid"]: p["id"] for p in papers}
 
+    # --- full-text evidence cards (17_evidence.py). The PDF read outranks the abstract read, so a
+    # card's claim, design, countries and mechanism verdicts replace what the abstract batches coded.
+    EVF = DATA / "evidence.json"
+    ev = json.load(open(EVF, encoding="utf-8")) if EVF.exists() else None
+    if ev:
+        V2S = {"supports": "+", "contradicts": "-", "refines": "~", "tests_inconclusive": "~"}
+        nfd = nde = nme = nct = 0
+        for p in papers:
+            k = ev["cards"].get(p["cid"])
+            if not k or k.get("confidence") == "none" or k.get("doubt"):
+                continue                          # unreadable, or the PDF may not be this paper
+            if k.get("claim") and k["confidence"] in ("high", "medium"):
+                p["fd"], p["rs"] = k["claim"], "fulltext"
+                nfd += 1
+            idn = k.get("identification") or {}
+            if idn.get("design") and (not p.get("de") or k["confidence"] == "high"):
+                p["de"] = idn["design"]
+                nde += 1
+            cs = (k.get("setting") or {}).get("countries") or []
+            if cs and not p.get("ct"):
+                p["ct"] = cs[:6]
+                nct += 1
+            was = {m[0]: m[1] for m in (p.get("me") or [])}
+            now = dict(was)
+            for m in k.get("mechanisms") or []:
+                now[m["id"]] = V2S[m["verdict"]]
+            if now != was:
+                nme += 1
+            p["me"] = [[m, v] for m, v in now.items()]
+        unknown = [c for c in ev["cards"] if c not in cid2id]
+        print(f"evidence cards: {len(ev['cards'])} ({len(unknown)} not in the atlas), {nfd} findings from full text, "
+              f"{nde} designs set, {nct} settings filled, {nme} mechanism lists changed")
+
     # --- citation edges among atlas works
     oa2id = {p["oa"]: p["id"] for p in papers if p["oa"]}
     for w, cid in X["alias"].items():                 # same work under a second OpenAlex id
@@ -430,7 +463,12 @@ def main():
     meta["foot"] = (f"Built {__import__('datetime').date.today().isoformat()} from {meta['nSyllabi']} syllabi, reading lists and lecture decks in "
                     "<span class='mono'>3.research_statement/input</span>. Metadata from Crossref and OpenAlex; citation links from OpenAlex reference lists. "
                     "Classification into the tree is mine, reviewed title by title; findings and mechanism verdicts are my reading of the VoxDevLit review, "
-                    "abstracts and introductions, flagged per paper. Treat verdicts as a reader's map, not a meta-analysis. "
+                    "abstracts and introductions, flagged per paper. "
+                    + (f"{sum(1 for p in papers if p.get('rs') == 'fulltext')} papers were read from the PDF itself &mdash; abstract, introduction, "
+                       "results, conclusion, table captions and the authors' own statements about what is settled, contested and open &mdash; and the "
+                       "evidence matrix, the contested questions and the gap map are built from that read alone. Each paper's drawer says which level it "
+                       "was read at and how confident the coding is. " if ev else "")
+                    + "Treat verdicts as a reader's map, not a meta-analysis. "
                     f"{sum(1 for p in papers if p.get('x') and p['f'] < 8)} political-economy works no syllabus lists were added by following reference lists one step out "
                     "(each cited by at least ten syllabus papers; hollow nodes, marked “ref”). Authors' current institutions come from OpenAlex, "
                     "scored by the institutions on their own recent papers and affiliation history; disambiguation errors remain possible.")
@@ -450,7 +488,33 @@ def main():
                 p.pop(k, None)
         p.pop("oa", None)
 
-    D = dict(papers=papers, edges=edges, out=out, inn=inn, branches=branches, leaves=leaves, courses=courses, mechs=mechs,
+    # Cards and cells arrive keyed by cid (stable); the page needs paper ids (assigned above).
+    evp = None
+    if ev:
+        ids = lambda cs: [cid2id[c] for c in cs if c in cid2id]
+        evp = dict(ev, cards={str(cid2id[c]): k for c, k in ev["cards"].items() if c in cid2id})
+        for c in evp["cells"]:
+            c["pids"] = ids(c.pop("cids"))
+            c["n"] = len(c["pids"])
+        evp["cells"] = [c for c in evp["cells"] if c["n"]]
+        for c in evp["contested"]:
+            for side in ("pos", "neg", "nul", "mix"):
+                c[side] = ids(c[side])
+            c["n"] = sum(len(c[s]) for s in ("pos", "neg", "nul", "mix"))
+        for t in evp["thin"] + evp["travelled"]:
+            t["pids"] = ids(t.pop("cids"))
+        for t in evp["gapThemes"]:
+            t["pids"] = ids(t.pop("cids"))
+            t["n"] = len(t["pids"])
+        evp["gapThemes"] = [t for t in evp["gapThemes"] if t["n"]]
+        evp["mechScore"] = {m: {v: ids(cs) for v, cs in d.items()} for m, d in ev["mechScore"].items()}
+        for e in evp["effects"]:
+            e["vals"] = [dict(pid=cid2id[x["cid"]], v=x["v"], o=x["o"]) for x in e["vals"] if x["cid"] in cid2id]
+            e["n"] = len(e["vals"])
+        evp["effects"] = [e for e in evp["effects"] if e["n"] >= 4]
+        evp.update(EVIDENCE)
+
+    D = dict(papers=papers, edges=edges, out=out, inn=inn, branches=branches, leaves=leaves, courses=courses, mechs=mechs, ev=evp,
              fams=[dict(name=f["name"]) for f in FAMS], voxFindings=VOX_FINDINGS, designs=DESIGNS, agenda=ag, download=download, dlTier=dl_tier, dlKey=dl_key, dlTiers=TIERS, venueCats=[c[0] for c in VENUE_CATS],
              countryName=cname, meta=meta, authors=authors, insts=insts, coauth=coauth,
              regions=["United States", "Canada", "United Kingdom", "Europe", "Latin America", "Asia-Pacific", "Middle East & N. Africa", "Sub-Saharan Africa"])

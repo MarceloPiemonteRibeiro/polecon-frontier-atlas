@@ -1,0 +1,2418 @@
+[
+ {
+  "cid": "C00002",
+  "file": "C00002.pdf",
+  "expected": "Introduction to Modern Economic Growth, Chapter 22",
+  "score": 0.78,
+  "why": "surname missing",
+  "best_other": "Romer 1986 · Increasing Returns and Long-Run Growth"
+ },
+ {
+  "cid": "C00012",
+  "file": "C00012.pdf",
+  "expected": "Chapter 6 Institutions as a Fundamental Cause of Long-Run Growth",
+  "score": 0.16,
+  "why": "title words absent",
+  "best_other": "Bardhan & B 2000 · Capture and Governance at Local and National Levels"
+ },
+ {
+  "cid": "C00017",
+  "file": "C00017.pdf",
+  "expected": "Modelling Inefficient Institutions",
+  "score": 0.56,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00021",
+  "file": "C00021.pdf",
+  "expected": "Media and Political Persuasion: Evidence from Russia",
+  "score": 0.12,
+  "why": "title words absent",
+  "best_other": "Fouquet & Broadberry 2015 · Seven Centuries of European Economic Growth and Decline"
+ },
+ {
+  "cid": "C00028",
+  "file": "C00028.pdf",
+  "expected": "The Swing Voter's Curse",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Bertrand et al. 2004 · How Much Should We Trust Differences-In-Differences Estimate"
+ },
+ {
+  "cid": "C00039",
+  "file": "C00039.pdf",
+  "expected": "Survival of the Welfare State",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00049",
+  "file": "C00049.pdf",
+  "expected": "Cultural Beliefs and the Organization of Society: A Historical and Theoretical R",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00061",
+  "file": "C00061.pdf",
+  "expected": "The Logic of Collective Action",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00068",
+  "file": "C00068.pdf",
+  "expected": "Protection For Sale",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00069",
+  "file": "C00069.pdf",
+  "expected": "Protection for Sale: An Empirical Investigation",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00075",
+  "file": "C00075.pdf",
+  "expected": "A Rational Theory of the Size of Government",
+  "score": 0.4,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00077",
+  "file": "C00077.pdf",
+  "expected": "Monitoring Political Brokers: Evidence from Clientelistic Networks in Mexico",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Funk 2010 · Social Incentives and Voter Turnout: Evidence from the Swiss"
+ },
+ {
+  "cid": "C00088",
+  "file": "C00088.pdf",
+  "expected": "States and Power in Africa: Comparative Lessons in Authority and Control, Prince",
+  "score": 0.89,
+  "why": "surname missing",
+  "best_other": "Schirmer et al. 2010 · THE STATE AND SCOPE OF THE ECONOMIC HISTORY OF DEVELOPING RE"
+ },
+ {
+  "cid": "C00092",
+  "file": "C00092.pdf",
+  "expected": "Social Mobility and the Demand for Redistribution: The Poum Hypothesis",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00102",
+  "file": "C00102.pdf",
+  "expected": "A Theory of Political Transitions",
+  "score": 0.19,
+  "why": "title words absent",
+  "best_other": "Hsieh et al. 2011 · The Price of Political Opposition: Evidence from Venezuela's"
+ },
+ {
+  "cid": "C00116",
+  "file": "C00116.pdf",
+  "expected": "Coalition Formation in Nondemocratic Societies",
+  "score": 0.7,
+  "why": "surname missing",
+  "best_other": "Cox 1987 · Electoral Equilibrium under Alternative Voting Institutions"
+ },
+ {
+  "cid": "C00121",
+  "file": "C00121.pdf",
+  "expected": "Game Theory, Cambridge; MIT Press",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00126",
+  "file": "C00126.pdf",
+  "expected": "Partisan Competition, Growth, and the Franchise*",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Truglia & Cruces 2017 · Partisan Interactions: Evidence from a Field Experiment in t"
+ },
+ {
+  "cid": "C00131",
+  "file": "C00131.pdf",
+  "expected": "Competing Technologies, Increasing Returns, and Lock-In by Historical Events",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00134",
+  "file": "C00134.pdf",
+  "expected": "Culture and Institutions: Economic Development in the Regions of Europe",
+  "score": 0.11,
+  "why": "title words absent",
+  "best_other": "Crawford & Sobel 1982 · Strategic Information Transmission"
+ },
+ {
+  "cid": "C00146",
+  "file": "C00146.pdf",
+  "expected": "Principled Agents? The Political Economy of Good Government",
+  "score": 0.35,
+  "why": "title words absent",
+  "best_other": "Powell & Whitten 1993 · A Cross-National Analysis of Economic Voting: Taking Account"
+ },
+ {
+  "cid": "C00152",
+  "file": "C00152.pdf",
+  "expected": "Political Bias and War",
+  "score": 0.63,
+  "why": "title words absent",
+  "best_other": "Gieczewski 2022 · Term Limits and Bargaining Power in Electoral Competition"
+ },
+ {
+  "cid": "C00160",
+  "file": "C00160.pdf",
+  "expected": "Political Jurisdictions in Heterogeneous Communities",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00168",
+  "file": "C00168.pdf",
+  "expected": "Media and Politics",
+  "score": 0.56,
+  "why": "title words absent",
+  "best_other": "Strömberg 2003 · Mass Media Competition, Political Competition, and Public Po"
+ },
+ {
+  "cid": "C00169",
+  "file": "C00169.pdf",
+  "expected": "The Political Economy of Populism",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Mayda & Rodrik 2004 · Why are some people (and countries) more protectionist than "
+ },
+ {
+  "cid": "C00177",
+  "file": "C00177.pdf",
+  "expected": "An Economic Analysis of Slavery",
+  "score": 0.22,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00183",
+  "file": "C00183.pdf",
+  "expected": "States and Markets: The Advantage of an Early Start",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00196",
+  "file": "C00196.pdf",
+  "expected": "Law Enforcement, Malfeasance, and Compensation of Enforcers",
+  "score": 0.16,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00199",
+  "file": "C00199.pdf",
+  "expected": "How Do Senators Vote? Disentangling the Rate of Voter Preferences, Party Affilia",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Lake 2009 · Open economy politics: A critical review"
+ },
+ {
+  "cid": "C00209",
+  "file": "C00209.pdf",
+  "expected": "Does the Classic Microfinance Model Discourage Entrepreneurship Among the Poor? ",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00212",
+  "file": "C00212.pdf",
+  "expected": "Group versus individual liability: Short and long term evidence from Philippine ",
+  "score": 0.3,
+  "why": "title words absent",
+  "best_other": "Attanasio et al. 2015 · The Impacts of Microfinance: Evidence from Joint-Liability L"
+ },
+ {
+  "cid": "C00234",
+  "file": "C00234.pdf",
+  "expected": "Comparative Politics and Public Finance",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00249",
+  "file": "C00249.pdf",
+  "expected": "Paths to Inclusive Political Institutions",
+  "score": 0.12,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00261",
+  "file": "C00261.pdf",
+  "expected": "Who Enters Politics and Why?",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Shaohua & Ravallion 2012 · \"More Relatively-Poor People in a Less"
+ },
+ {
+  "cid": "C00272",
+  "file": "C00272.pdf",
+  "expected": "When Inclusive Institutions Failed: Lessons from the Democratic Revolutions of t",
+  "score": 0.13,
+  "why": "title words absent",
+  "best_other": "Banerjee & Duflo 2005 · Growth Theory Through the Lens of Development"
+ },
+ {
+  "cid": "C00279",
+  "file": "C00279.pdf",
+  "expected": "Direct democracy and resource allocation: Experimental evidence from Afghanistan",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Moscona et al. 2026 · Searching for fish in trees (緣木求魚)? Economic development whe"
+ },
+ {
+  "cid": "C00297",
+  "file": "C00297.pdf",
+  "expected": "Parents' Perceptions and Children's Education: Experimental Evidence from Malawi",
+  "score": 0.68,
+  "why": "title words absent",
+  "best_other": "Harding 2015 · Attribution And Accountability: Voting for roads in Ghana"
+ },
+ {
+  "cid": "C00298",
+  "file": "C00298.pdf",
+  "expected": "The Political Economy of the Rent-Seeking Society",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00304",
+  "file": "C00304.pdf",
+  "expected": "Campaign Contributions and Access",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00309",
+  "file": "C00309.pdf",
+  "expected": "The Power of the Street: Evidence from Egypt’s Arab Spring",
+  "score": 0.12,
+  "why": "title words absent",
+  "best_other": "Ellman & Wantchekon 2000 · Electoral Competition Under the Threat of Political Unrest"
+ },
+ {
+  "cid": "C00322",
+  "file": "C00322.pdf",
+  "expected": "Political Economy in Macroeconomics",
+  "score": 0.47,
+  "why": "title words absent",
+  "best_other": "Feddersen 2004 · Rational Choice Theory and the Paradox of Not Voting"
+ },
+ {
+  "cid": "C00338",
+  "file": "C00338.pdf",
+  "expected": "Separation of Powers and Political Accountability",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00355",
+  "file": "C00355.pdf",
+  "expected": "The Strategy of Conflict, Harvard University Press. 4.2",
+  "score": 0.56,
+  "why": "title words absent",
+  "best_other": "Guarnieri 2025 · Cultural Distance and Ethnic Civil Conflict"
+ },
+ {
+  "cid": "C00360",
+  "file": "C00360.pdf",
+  "expected": "Do Elected Councils Improve Governance? Experimental Evidence on Local Instituti",
+  "score": 0.77,
+  "why": "surname missing",
+  "best_other": "De Benedictis-Kessner & Warshaw 2020 · Accountability for the Local Economy at All Levels of Govern"
+ },
+ {
+  "cid": "C00367",
+  "file": "C00367.pdf",
+  "expected": "Can Entertainment Media Undermine Dictatorships? Evidence from Brazil's Novelas",
+  "score": 0.11,
+  "why": "title words absent",
+  "best_other": "Shaohua & Ravallion 2012 · \"More Relatively-Poor People in a Less"
+ },
+ {
+  "cid": "C00376",
+  "file": "C00376.pdf",
+  "expected": "Schooling and Labor Market Consequences of School Construction in Indonesia: Evi",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Bardhan & B 2006 · Pro-poor targeting and accountability of local governments i"
+ },
+ {
+  "cid": "C00380",
+  "file": "C00380.pdf",
+  "expected": "The Oxford Handbook of Public Choice, Volume 1",
+  "score": 0.16,
+  "why": "title words absent",
+  "best_other": "Feddersen 2004 · Rational Choice Theory and the Paradox of Not Voting"
+ },
+ {
+  "cid": "C00381",
+  "file": "C00381.pdf",
+  "expected": "Public Choice III",
+  "score": 0.5,
+  "why": "title words absent",
+  "best_other": "Potters & van Winden 1992 · Lobbying and asymmetric information"
+ },
+ {
+  "cid": "C00389",
+  "file": "C00389.pdf",
+  "expected": "Rational Choice and Politics: An Introduction to the Research Program and Method",
+  "score": 0.76,
+  "why": "surname missing",
+  "best_other": "Banerjee & Duflo 2005 · Growth Theory Through the Lens of Development"
+ },
+ {
+  "cid": "C00392",
+  "file": "C00392.pdf",
+  "expected": "Collective Action",
+  "score": 0.5,
+  "why": "title words absent",
+  "best_other": "Besley & Coate 2002 · Centralized versus decentralized provision of local public g"
+ },
+ {
+  "cid": "C00397",
+  "file": "C00397.pdf",
+  "expected": "Overstrained citizens? The number of ballot propositions and the quality of the ",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Bolton & Roland 1997 · The Breakup of Nations: A Political Economy Analysis"
+ },
+ {
+  "cid": "C00403",
+  "file": "C00403.pdf",
+  "expected": "Mostly Harmless Econometrics: An Empiricist's Companion",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Frias & Verhoogen 2015 · Enlisting Workers in Monitoring Firms: Payroll Tax Complianc"
+ },
+ {
+  "cid": "C00404",
+  "file": "C00404.pdf",
+  "expected": "Contract Enforceability and Economic Institutions in Early Trade: The Maghribi T",
+  "score": 0.24,
+  "why": "title words absent",
+  "best_other": "Alchian & Demsetz 1975 · Production, Information Costs, and Economic Organization"
+ },
+ {
+  "cid": "C00408",
+  "file": "C00408.pdf",
+  "expected": "Markets and States in Tropical Africa: The Political Basis of Agricultural Polic",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00414",
+  "file": "C00414.pdf",
+  "expected": "Clientelism in an Indian Village,\" American Economic Review, 105(6): 1780-1816",
+  "score": 0.48,
+  "why": "title words absent",
+  "best_other": "Banerjee & Somanathan 2006 · The political economy of public goods: Some evidence from In"
+ },
+ {
+  "cid": "C00417",
+  "file": "C00417.pdf",
+  "expected": "Whither Political Economy? Theories, Facts and Issues",
+  "score": 0.36,
+  "why": "title words absent",
+  "best_other": "Brollo et al. 2019 · The Political Economy of Program Enforcement: Evidence from "
+ },
+ {
+  "cid": "C00432",
+  "file": "C00432.pdf",
+  "expected": "The Theory of Optimum Taxation",
+  "score": 0.55,
+  "why": "title words absent",
+  "best_other": "Dincecco & Katz 2014 · State Capacity and Long‐Run Economic Performance"
+ },
+ {
+  "cid": "C00449",
+  "file": "C00449.pdf",
+  "expected": "An Economic Theory of Democracy",
+  "score": 0.36,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00468",
+  "file": "C00468.pdf",
+  "expected": "An Economic Theory of Political Action in a Democracy",
+  "score": 0.51,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00470",
+  "file": "C00470.pdf",
+  "expected": "Do voters vote ideologically?",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Osafo-Kwaako & Robinson 2013 · Political centralization in pre-colonial Africa"
+ },
+ {
+  "cid": "C00480",
+  "file": "C00480.pdf",
+  "expected": "Does Electoral Accountability Affect Economic Policy Choices? Evidence from Gube",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00488",
+  "file": "C00488.pdf",
+  "expected": "Local Government Proliferation, Diversity, and Conflict",
+  "score": 0.31,
+  "why": "title words absent",
+  "best_other": "Acemoğlu et al. 2015 · State Capacity and Economic Development: A Network Approach"
+ },
+ {
+  "cid": "C00498",
+  "file": "C00498.pdf",
+  "expected": "The Costs of Bureaucratic Rigidity: Evidence from the Indian Administrative Serv",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Fields 2011 · Labor market analysis for developing countries"
+ },
+ {
+  "cid": "C00503",
+  "file": "C00503.pdf",
+  "expected": "Civil Service Reforms: Evidence from U.S. Police Departments",
+  "score": 0.2,
+  "why": "title words absent",
+  "best_other": "Lagerlöf 2008 · Slavery and Other Property Rights<sup>1</sup>"
+ },
+ {
+  "cid": "C00504",
+  "file": "C00504.pdf",
+  "expected": "Which Regulations Reduce Corruption? Evidence from the Internal Records of a Bri",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Stratmann 2005 · Some talk: Money in politics. A (partial) review of the lite"
+ },
+ {
+  "cid": "C00505",
+  "file": "C00505.pdf",
+  "expected": "The system of administrative and political corruption: Canal irrigation in South",
+  "score": 0.14,
+  "why": "title words absent",
+  "best_other": "Eichengreen 2018 · The populist temptation: Economic grievance and political re"
+ },
+ {
+  "cid": "C00517",
+  "file": "C00517.pdf",
+  "expected": "Gender, Agricultural Production, and the Theory of the Household",
+  "score": 0.36,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00523",
+  "file": "C00523.pdf",
+  "expected": "Do Property Titles Increase Credit Access Among the Urban Poor? Evidence from a ",
+  "score": 0.33,
+  "why": "title words absent",
+  "best_other": "Downs 1957 · An Economic Theory of Political Action in a Democracy"
+ },
+ {
+  "cid": "C00533",
+  "file": "C00533.pdf",
+  "expected": "Inequality and Growth: What Can the Data Say?",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00542",
+  "file": "C00542.pdf",
+  "expected": "Why Nations Fail: The Origins of Power, Prosperity and Poverty, Crown Publishers",
+  "score": 0.26,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2025 · Nobel Lecture: Institutions, Technology, and Prosperity"
+ },
+ {
+  "cid": "C00545",
+  "file": "C00545.pdf",
+  "expected": "Priests and Programmers: Technologies of Power in the Engineered Landscape of Ba",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00549",
+  "file": "C00549.pdf",
+  "expected": "Age Set versus Kin: Culture and Financial Ties in east Africa",
+  "score": 0.09,
+  "why": "title words absent",
+  "best_other": "Fouquet & Broadberry 2015 · Seven Centuries of European Economic Growth and Decline"
+ },
+ {
+  "cid": "C00567",
+  "file": "C00567.pdf",
+  "expected": "The Effect of Social Media on Elections: Evidence from The United States",
+  "score": 0.37,
+  "why": "title words absent",
+  "best_other": "Downs 1957 · An Economic Theory of Political Action in a Democracy"
+ },
+ {
+  "cid": "C00585",
+  "file": "C00585.pdf",
+  "expected": "Incentives in Organizations",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00597",
+  "file": "C00597.pdf",
+  "expected": "An Empirical Analysis of Racial Differences in Police Use of Force: A Response",
+  "score": 0.33,
+  "why": "title words absent",
+  "best_other": "Williams 2013 · Intellectual Property Rights and Innovation: Evidence from t"
+ },
+ {
+  "cid": "C00621",
+  "file": "C00621.pdf",
+  "expected": "Forced Displacement and De Facto Land Reform in Rural Colombia",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Kaltenthaler et al. 2008 · Attitudes toward Eliminating Income Inequality in Europe"
+ },
+ {
+  "cid": "C00629",
+  "file": "C00629.pdf",
+  "expected": "The Opinion-Mobilizing Effect of Social Protest against Police Violence: Evidenc",
+  "score": 0.15,
+  "why": "title words absent",
+  "best_other": "Rauch & Evans 2000 · Bureaucratic structure and bureaucratic performance in less "
+ },
+ {
+  "cid": "C00631",
+  "file": "C00631.pdf",
+  "expected": "Out of Sight, Out of Mind? Electoral Responses to the Proximity of Health Care",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Dincecco & Katz 2014 · State Capacity and Long‐Run Economic Performance"
+ },
+ {
+  "cid": "C00632",
+  "file": "C00632.pdf",
+  "expected": "The Globalization of Liberalization: Policy Diffusion in the International Polit",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00657",
+  "file": "C00657.pdf",
+  "expected": "On the Form of Transfers to Special Interests",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00669",
+  "file": "C00669.pdf",
+  "expected": "On the Rationale of Group Decision-making",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00677",
+  "file": "C00677.pdf",
+  "expected": "The Role of Local Officials in New Democracies: Evidence from Indonesia",
+  "score": 0.68,
+  "why": "title words absent",
+  "best_other": "Boix 1999 · Setting the Rules of the Game: The Choice of Electoral Syste"
+ },
+ {
+  "cid": "C00681",
+  "file": "C00681.pdf",
+  "expected": "Reservations and the politics of fear",
+  "score": 0.18,
+  "why": "title words absent",
+  "best_other": "Downs 1957 · An Economic Theory of Political Action in a Democracy"
+ },
+ {
+  "cid": "C00686",
+  "file": "C00686.pdf",
+  "expected": "Making Votes Count: Strategic Coordination in the World's Electoral Systems",
+  "score": 0.48,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00699",
+  "file": "C00699.pdf",
+  "expected": "Do-Gooders and Go-Getters: Selection and Performance in Public Service Delivery",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Alatas et al. 2012 · Targeting the Poor: Evidence from a Field Experiment in Indo"
+ },
+ {
+  "cid": "C00712",
+  "file": "C00712.pdf",
+  "expected": "Does Better Nutrition Raise Farm Productivity?",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00714",
+  "file": "C00714.pdf",
+  "expected": "Time Discounting and Time Preference: A Critical Review",
+  "score": 0.34,
+  "why": "title words absent",
+  "best_other": "Mayda & Rodrik 2004 · Why are some people (and countries) more protectionist than "
+ },
+ {
+  "cid": "C00742",
+  "file": "C00742.pdf",
+  "expected": "Testing between Competing Models of Sharecropping",
+  "score": 0.2,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00756",
+  "file": "C00756.pdf",
+  "expected": "The Doctrine of Agricultural Labor of Zero Value",
+  "score": 0.54,
+  "why": "title words absent",
+  "best_other": "Zimmermann 2020 · The Dynamic Electoral Returns of a Large Antipoverty Program"
+ },
+ {
+  "cid": "C00757",
+  "file": "C00757.pdf",
+  "expected": "The Impacts of Industrial and Entrepreneurial Work on Income and Health: Experim",
+  "score": 0.11,
+  "why": "title words absent",
+  "best_other": "Kremer 1993 · Population Growth and Technological Change: One Million B.C."
+ },
+ {
+  "cid": "C00768",
+  "file": "C00768.pdf",
+  "expected": "Corruption Handbook Chapter Idea: Mechanism design approach to corruption",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Adhami et al. 2026 · Population and Welfare: Measuring Growth When Life Is Worth "
+ },
+ {
+  "cid": "C00769",
+  "file": "C00769.pdf",
+  "expected": "Ideological segregation online and offline",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Kennedy & Prat 2017 · Where do people get their news?*"
+ },
+ {
+  "cid": "C00786",
+  "file": "C00786.pdf",
+  "expected": "Credibility and Policy Convergence in a two-party system with rational voters",
+  "score": 0.27,
+  "why": "title words absent",
+  "best_other": "Tomz & Wright 2013 · Empirical Research on Sovereign Debt and Default"
+ },
+ {
+  "cid": "C00790",
+  "file": "C00790.pdf",
+  "expected": "How Research Affects Policy: Experimental Evidence from 2,150 Brazilian Municipa",
+  "score": 0.19,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00801",
+  "file": "C00801.pdf",
+  "expected": "The Evolution of Culture and Institutions: Evidence from the Kuba Kingdom",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Dell et al. 2018 · The Historical State, Local Collective Action, and Economic "
+ },
+ {
+  "cid": "C00821",
+  "file": "C00821.pdf",
+  "expected": "Why Did Elites Extend the Suffrage? Democracy and the Scope of Government",
+  "score": 0.24,
+  "why": "title words absent",
+  "best_other": "Acemoglu 2008 · Introduction to Modern Economic Growth, Chapter 22"
+ },
+ {
+  "cid": "C00823",
+  "file": "C00823.pdf",
+  "expected": "Ideology, Tactics, and Efficiency in Redistributive Politics",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00828",
+  "file": "C00828.pdf",
+  "expected": "Political Effects of the Internet and Social Media",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00829",
+  "file": "C00829.pdf",
+  "expected": "Morals as Luxury Goods and Political Polarization",
+  "score": 0.55,
+  "why": "title words absent",
+  "best_other": "Shaohua & Ravallion 2012 · \"More Relatively-Poor People in a Less"
+ },
+ {
+  "cid": "C00835",
+  "file": "C00835.pdf",
+  "expected": "Cooperation, Conflict, and Power in the Absence of Property Rights",
+  "score": 0.14,
+  "why": "title words absent",
+  "best_other": "Benkler 2020 · Power and Productivity: Institutions, Ideology, and Technolo"
+ },
+ {
+  "cid": "C00848",
+  "file": "C00848.pdf",
+  "expected": "What Americans Know about Politics and Why It Matters",
+  "score": 0.29,
+  "why": "title words absent",
+  "best_other": "North & Thomas 1973 · The Rise of the Western World: A New Economic History"
+ },
+ {
+  "cid": "C00849",
+  "file": "C00849.pdf",
+  "expected": "Do Statistical Reporting Standards Affect What Is Published? Publication Bias in",
+  "score": 0.09,
+  "why": "title words absent",
+  "best_other": "Przeworski 2003 · States and Markets: A Primer in Political Economy (Cambridge"
+ },
+ {
+  "cid": "C00850",
+  "file": "C00850.pdf",
+  "expected": "The Impact of Federal Spending on House Election Outcomes",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00877",
+  "file": "C00877.pdf",
+  "expected": "(ed.) The Oxford Handbook of the Radical Right, Oxford: Oxford University Press",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00898",
+  "file": "C00898.pdf",
+  "expected": "Blind retrospection: Electoral responses to drought, flu, and shark attacks",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Fiorina 1981 · Retrospective Voting in American National Elections"
+ },
+ {
+  "cid": "C00916",
+  "file": "C00916.pdf",
+  "expected": "Sources of Women?s Underrepresentation in US Politics: A Model of Election Avers",
+  "score": 0.09,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00919",
+  "file": "C00919.pdf",
+  "expected": "Executive Absolutism: A Model",
+  "score": 0.41,
+  "why": "title words absent",
+  "best_other": "Casey 2026 · Politics and policy where state capacity is low"
+ },
+ {
+  "cid": "C00922",
+  "file": "C00922.pdf",
+  "expected": "The Political Economy of State Employment and Instability in China",
+  "score": 0.53,
+  "why": "title words absent",
+  "best_other": "North & Thomas 1973 · The Rise of the Western World: A New Economic History"
+ },
+ {
+  "cid": "C00923",
+  "file": "C00923.pdf",
+  "expected": "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integratio",
+  "score": 0.22,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00925",
+  "file": "C00925.pdf",
+  "expected": "Transaction-Cost Economics: The Governance of Contractual Relations",
+  "score": 0.12,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00929",
+  "file": "C00929.pdf",
+  "expected": "Multitask Principal–Agent Analyses: Incentive Contracts, Asset Ownership, and Jo",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C00931",
+  "file": "C00931.pdf",
+  "expected": "The Industrial Organization of Congress; or, Why Legislatures, Like Firms, Are N",
+  "score": 0.15,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00932",
+  "file": "C00932.pdf",
+  "expected": "Why Democracies Produce Efficient Results",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C00935",
+  "file": "C00935.pdf",
+  "expected": "Linear Probability Models of the Demand for Attributes with an Empirical Applica",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C00943",
+  "file": "C00943.pdf",
+  "expected": "Representation and Consent: Why They Arose in Europe and Not Elsewhere",
+  "score": 0.16,
+  "why": "title words absent",
+  "best_other": "North 1995 · Five Propositions about Institutional Change"
+ },
+ {
+  "cid": "C00953",
+  "file": "C00953.pdf",
+  "expected": "Who controls the agenda controls the legislature",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Shachar & Nalebuff 1999 · Follow the Leader: Theory and Evidence on Political Particip"
+ },
+ {
+  "cid": "C00956",
+  "file": "C00956.pdf",
+  "expected": "Political System Transparency and Monetary Commitment Regimes",
+  "score": 0.62,
+  "why": "title words absent",
+  "best_other": "Lake 2009 · Open economy politics: A critical review"
+ },
+ {
+  "cid": "C00964",
+  "file": "C00964.pdf",
+  "expected": "Bureaucrats or politicians? Part II: Multiple policy tasks",
+  "score": 0.42,
+  "why": "title words absent",
+  "best_other": "Atkin et al. 2020 · How Do We Choose Our Identity? A Revealed Preference Approac"
+ },
+ {
+  "cid": "C00975",
+  "file": "C00975.pdf",
+  "expected": "\"Conditional Cash",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Kempf et al. 2023 · Political ideology and international capital allocation"
+ },
+ {
+  "cid": "C01005",
+  "file": "C01005.pdf",
+  "expected": "The Long-Run Effects of Agricultural Productivity on Conflict, 1400-1900",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Jackson et al. 2021 · Tight cultures and vengeful gods: How culture shapes religio"
+ },
+ {
+  "cid": "C01056",
+  "file": "C01056.pdf",
+  "expected": "Lobbying in the European Union: Interest Groups, Lobbying Coalitions, and Policy",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01057",
+  "file": "C01057.pdf",
+  "expected": "Universalism and Political Representation: Evidence from the Field",
+  "score": 0.33,
+  "why": "title words absent",
+  "best_other": "Freeman 2007 · Labor Market Institutions Around the World"
+ },
+ {
+  "cid": "C01090",
+  "file": "C01090.pdf",
+  "expected": "A MODEL OF ETHNIC CONFLICT",
+  "score": 0.7,
+  "why": "title words absent",
+  "best_other": "Congleton 2019 · Rational Choice and Politics: An Introduction to the Researc"
+ },
+ {
+  "cid": "C01096",
+  "file": "C01096.pdf",
+  "expected": "Do Working Men Rebel? Insurgency and Unemployment in Afghanistan, Iraq, and the ",
+  "score": 0.12,
+  "why": "title words absent",
+  "best_other": "Lagunoff 2009 · Dynamic stability and reform of political institutions"
+ },
+ {
+  "cid": "C01106",
+  "file": "C01106.pdf",
+  "expected": "Also Consent, dissent, and patriotism, Cambridge University Press, 1997",
+  "score": 0.39,
+  "why": "title words absent",
+  "best_other": "Lagerlöf 2008 · Slavery and Other Property Rights<sup>1</sup>"
+ },
+ {
+  "cid": "C01109",
+  "file": "C01109.pdf",
+  "expected": "Biased Party Nominations as a Source of Women's Electoral Underperformance",
+  "score": 0.11,
+  "why": "title words absent",
+  "best_other": "Ferreira & Gyourko 2014 · Does gender matter for political leadership? The case of U.S"
+ },
+ {
+  "cid": "C01121",
+  "file": "C01121.pdf",
+  "expected": "Politics and Local Economic Growth: Evidence from India",
+  "score": 0.36,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C01131",
+  "file": "C01131.pdf",
+  "expected": "It Takes a Village Election: Turnover and Performance in Local Bureaucracies",
+  "score": 0.29,
+  "why": "title words absent",
+  "best_other": "Ferraz et al. 2026 · Political Economy of Public Service Delivery"
+ },
+ {
+  "cid": "C01139",
+  "file": "C01139.pdf",
+  "expected": "Eat Widely, Vote Wisely? Lessons from a Campaign Against Vote Buying in Uganda",
+  "score": 0.26,
+  "why": "title words absent",
+  "best_other": "Ashworth 2012 · Electoral Accountability: Recent Theoretical and Empirical W"
+ },
+ {
+  "cid": "C01164",
+  "file": "C01164.pdf",
+  "expected": "Social Networks and the Targeting of Vote Buying",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Goldberg 1990 · Aversion to Risk Aversion in the New Institutional Economics"
+ },
+ {
+  "cid": "C01203",
+  "file": "C01203.pdf",
+  "expected": "Women leaders improve environmental outcomes: Evidence from crop fires in India",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Rogowski 1987 · Political Cleavages and Changing Exposure to Trade"
+ },
+ {
+  "cid": "C01211",
+  "file": "C01211.pdf",
+  "expected": "Patrons, Clients and Policies: Patterns of Democratic Accountability and Politic",
+  "score": 0.1,
+  "why": "title words absent",
+  "best_other": "Snyder & Groseclose 2000 · Party Influence and Congressional Roll-Call Voting"
+ },
+ {
+  "cid": "C01225",
+  "file": "C01225.pdf",
+  "expected": "Elections as incentives: Project completion and visibility in African politics",
+  "score": 0.18,
+  "why": "title words absent",
+  "best_other": "Labonne 2016 · Local political business cycles: Evidence from the Philippin"
+ },
+ {
+  "cid": "C01232",
+  "file": "C01232.pdf",
+  "expected": "Can Informed Voters Enforce Better Governance? Experiments in Low-Income Democra",
+  "score": 0.39,
+  "why": "title words absent",
+  "best_other": "Humphreys et al. 2014 · Social Engineering in the Tropics: A Grassroots Democratizat"
+ },
+ {
+  "cid": "C01256",
+  "file": "C01256.pdf",
+  "expected": "Chapter 9 Accounting for Cross-Country Income Differences",
+  "score": 0.44,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C01257",
+  "file": "C01257.pdf",
+  "expected": "Growth is Good for the Poor",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C01259",
+  "file": "C01259.pdf",
+  "expected": "Institutions Rule: The Primacy of Institutions Over Geography and Integration in",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C01261",
+  "file": "C01261.pdf",
+  "expected": "The Demand for Food and Calories",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C01305",
+  "file": "C01305.pdf",
+  "expected": "Using Maimonides' Rule to Estimate the Effect of Class Size on Scholastic Achiev",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01323",
+  "file": "C01323.pdf",
+  "expected": "In Urban And Rural India, A Standardized Patient Study Showed Low Levels Of Prov",
+  "score": 0.53,
+  "why": "title words absent",
+  "best_other": "François & Zábojník 2005 · Trust, Social Capital, and Economic Development"
+ },
+ {
+  "cid": "C01329",
+  "file": "C01329.pdf",
+  "expected": "Location, Location, Location: Residence, Wealth, And The Quality Of Medical Care",
+  "score": 0.11,
+  "why": "title words absent",
+  "best_other": "Rodrik 2017 · Rescuing Economics from Neoliberalism"
+ },
+ {
+  "cid": "C01352",
+  "file": "C01352.pdf",
+  "expected": "The Entertaining Way to Behavioral Change: Fighting HIV with MTV",
+  "score": 0.23,
+  "why": "title words absent",
+  "best_other": "Goodman-Bacon 2021 · Difference-in-differences with variation in treatment timing"
+ },
+ {
+  "cid": "C01376",
+  "file": "C01376.pdf",
+  "expected": "Taxation and Supplier Networks: Evidence from India",
+  "score": 0.41,
+  "why": "title words absent",
+  "best_other": "Besley & Case 2003 · Political Institutions and Policy Choices: Evidence from the"
+ },
+ {
+  "cid": "C01388",
+  "file": "C01388.pdf",
+  "expected": "Contracting Constraints, Credit Markets, and Economic Development",
+  "score": 0.5,
+  "why": "title words absent",
+  "best_other": "Fields 2011 · Labor market analysis for developing countries"
+ },
+ {
+  "cid": "C01403",
+  "file": "C01403.pdf",
+  "expected": "Credit Elasticities in Less-Developed Economies: Implications for Microfinance",
+  "score": 0.43,
+  "why": "title words absent",
+  "best_other": "Cameron et al. 2008 · Bootstrap-Based Improvements for Inference with Clustered Er"
+ },
+ {
+  "cid": "C01445",
+  "file": "C01445.pdf",
+  "expected": "Development Microeconomics",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01449",
+  "file": "C01449.pdf",
+  "expected": "How Poverty Ends: The Many Paths to Progress-and Why They Might Not Continue",
+  "score": 0.32,
+  "why": "title words absent",
+  "best_other": "Cooper & Helpman 2004 · The Mystery of Economic Growth"
+ },
+ {
+  "cid": "C01450",
+  "file": "C01450.pdf",
+  "expected": "Counting the Poor",
+  "score": 0.36,
+  "why": "title words absent",
+  "best_other": "Freeman 2007 · Labor Market Institutions Around the World"
+ },
+ {
+  "cid": "C01451",
+  "file": "C01451.pdf",
+  "expected": "The Future of Economic Convergence",
+  "score": 0.59,
+  "why": "title words absent",
+  "best_other": "Flora et al. 1983 · State, Economy and Society in Western Europe, 1815–1975"
+ },
+ {
+  "cid": "C01453",
+  "file": "C01453.pdf",
+  "expected": "International Industrialization Levels from 1750 to 1980",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01460",
+  "file": "C01460.pdf",
+  "expected": "Iodine Deficiency and Schooling Attainment in Tanzania",
+  "score": 0.43,
+  "why": "title words absent",
+  "best_other": "Jayachandran & Kuziemko 2011 · Why Do Mothers Breastfeed Girls Less than Boys? Evidence and"
+ },
+ {
+  "cid": "C01498",
+  "file": "C01498.pdf",
+  "expected": "An African Success Story: Botswana",
+  "score": 0.73,
+  "why": "surname missing",
+  "best_other": "Besley & Case 2003 · Political Institutions and Policy Choices: Evidence from the"
+ },
+ {
+  "cid": "C01500",
+  "file": "C01500.pdf",
+  "expected": "A Theory of Incentives in Procurement and Regulation.",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01564",
+  "file": "C01564.pdf",
+  "expected": "Discours sur le colonialisme: discours sur la négritude",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C01579",
+  "file": "C01579.pdf",
+  "expected": "Economic Action and Social Structure: The Problem of Embeddedness",
+  "score": 0.28,
+  "why": "title words absent",
+  "best_other": "Gailmard 2019 · Game theory and the study of American political development"
+ },
+ {
+  "cid": "C01618",
+  "file": "C01618.pdf",
+  "expected": "Morality and political economy from the vantage point of economics",
+  "score": 0.42,
+  "why": "title words absent",
+  "best_other": "Le Rossignol et al. 2022 · The Social Consequences of Traditional Religion in Contempor"
+ },
+ {
+  "cid": "C01622",
+  "file": "C01622.pdf",
+  "expected": "Extreme Rituals Promote Prosociality",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Ellickson 1991 · Order Without Law, Cambridge: Harvard University Press"
+ },
+ {
+  "cid": "C01648",
+  "file": "C01648.pdf",
+  "expected": "Conflict Changes How People View God",
+  "score": 0.23,
+  "why": "title words absent",
+  "best_other": "Matakos et al. 2015 · Turnout and Polarization Under Alternative Electoral Systems"
+ },
+ {
+  "cid": "C01649",
+  "file": "C01649.pdf",
+  "expected": "A global analysis of cultural tightness in non-industrial societies",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Lake 2009 · Open economy politics: A critical review"
+ },
+ {
+  "cid": "C01661",
+  "file": "C01661.pdf",
+  "expected": "\"Sacred Ecology: The Environmental Impact of African",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Bajari & Tadelis 2001 · Incentives versus Transaction Costs: A Theory of Procurement"
+ },
+ {
+  "cid": "C01673",
+  "file": "C01673.pdf",
+  "expected": "Negara: The Theatre State in Nineteenth-Century Bali",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01674",
+  "file": "C01674.pdf",
+  "expected": "On Kings",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Hanna & Wang 2017 · Dishonesty and Selection into Public Service: Evidence from "
+ },
+ {
+  "cid": "C01683",
+  "file": "C01683.pdf",
+  "expected": "The State and Civil Strife",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01691",
+  "file": "C01691.pdf",
+  "expected": "Diffusion of Reproductive Health Behavior through International Migration: Effec",
+  "score": 0.26,
+  "why": "title words absent",
+  "best_other": "Fouquet & Broadberry 2015 · Seven Centuries of European Economic Growth and Decline"
+ },
+ {
+  "cid": "C01700",
+  "file": "C01700.pdf",
+  "expected": "The Sexual Life of Savages in North-Western Melanesia: An Ethnographic Account o",
+  "score": 0.06,
+  "why": "title words absent",
+  "best_other": "Acemoğlu et al. 2001 · The Colonial Origins of Comparative Development: An Empirica"
+ },
+ {
+  "cid": "C01707",
+  "file": "C01707.pdf",
+  "expected": "Notes on the Korean Development Miracle",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Ellickson 1991 · Order Without Law, Cambridge: Harvard University Press"
+ },
+ {
+  "cid": "C01709",
+  "file": "C01709.pdf",
+  "expected": "The Secret of Our Success, Princeton: Princeton University Press",
+  "score": 0.55,
+  "why": "title words absent",
+  "best_other": "Henrich 2015 · The Secret our Our Success: How Culture is Driving Human Evo"
+ },
+ {
+  "cid": "C01714",
+  "file": "C01714.pdf",
+  "expected": "\"State Capacity and",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "McKenzie et al. 2010 · How Important is Selection? Experimental VS. Non-Experimenta"
+ },
+ {
+  "cid": "C01740",
+  "file": "C01740.pdf",
+  "expected": "Stereotypes and politics",
+  "score": 0.71,
+  "why": "surname missing",
+  "best_other": "Butinda et al. 2023 · On the Importance of African Traditional Religion for Econom"
+ },
+ {
+  "cid": "C01745",
+  "file": "C01745.pdf",
+  "expected": "The Oxford Handbook of the Radical Right",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01763",
+  "file": "C01763.pdf",
+  "expected": "Costly transparency",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Ashworth 2012 · Electoral Accountability: Recent Theoretical and Empirical W"
+ },
+ {
+  "cid": "C01767",
+  "file": "C01767.pdf",
+  "expected": "Authority and Communication in Organizations",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C01770",
+  "file": "C01770.pdf",
+  "expected": "Electoral Rules and Government Spending in Parliamentary Democracies",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Morgan 2012 · The World in the Model: How Economists Work and Think"
+ },
+ {
+  "cid": "C01772",
+  "file": "C01772.pdf",
+  "expected": "Political Institutions and Policy Choices: Evidence from the United States",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Mayda & Rodrik 2004 · Why are some people (and countries) more protectionist than "
+ },
+ {
+  "cid": "C01780",
+  "file": "C01780.pdf",
+  "expected": "Corruption: A Review",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Cantoni et al. 2025 · Voting Rules, Turnout, and Economic Policies"
+ },
+ {
+  "cid": "C01792",
+  "file": "C01792.pdf",
+  "expected": "Does informative media commentary reduce politicians' incentives to pander?",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Ostrom 1990 · Governing the Commons, Cambridge: Cambridge University Press"
+ },
+ {
+  "cid": "C01830",
+  "file": "C01830.pdf",
+  "expected": "The seasonality of conflict",
+  "score": 0.68,
+  "why": "title words absent",
+  "best_other": "Shaohua & Ravallion 2012 · \"More Relatively-Poor People in a Less"
+ },
+ {
+  "cid": "C01832",
+  "file": "C01832.pdf",
+  "expected": "Tariffs As Electoral Weapons: The Political Geography of the US–China Trade War",
+  "score": 0.49,
+  "why": "title words absent",
+  "best_other": "Kennedy & Prat 2017 · Where do people get their news?*"
+ },
+ {
+  "cid": "C01845",
+  "file": "C01845.pdf",
+  "expected": "Aversion to Risk Aversion in the New Institutional Economics",
+  "score": 0.67,
+  "why": "title words absent",
+  "best_other": "North 1990 · Institutions, Institutional Change and Economic Performance"
+ },
+ {
+  "cid": "C01846",
+  "file": "C01846.pdf",
+  "expected": "Vertical Integration, Appropriable Rents, and the Competitive Contracting Proces",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C01848",
+  "file": "C01848.pdf",
+  "expected": "Comparative Economic Organization: The Analysis of Discrete Structural Alternati",
+  "score": 0.12,
+  "why": "title words absent",
+  "best_other": "Banerjee & Duflo 2005 · Growth Theory Through the Lens of Development"
+ },
+ {
+  "cid": "C01851",
+  "file": "C01851.pdf",
+  "expected": "The Role of Market Forces in Assuring Contractual Performance",
+  "score": 0.14,
+  "why": "title words absent",
+  "best_other": "Acemoğlu et al. 2001 · The Colonial Origins of Comparative Development: An Empirica"
+ },
+ {
+  "cid": "C01856",
+  "file": "C01856.pdf",
+  "expected": "The Firm as an Incentive System",
+  "score": 0.7,
+  "why": "title words absent",
+  "best_other": "Mares & Young 2016 · Buying, Expropriating, and Stealing Votes"
+ },
+ {
+  "cid": "C01857",
+  "file": "C01857.pdf",
+  "expected": "Agency Problems and Residual Claims",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C01858",
+  "file": "C01858.pdf",
+  "expected": "Separation of Ownership and Control",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C01867",
+  "file": "C01867.pdf",
+  "expected": "Transactions Costs and the Efficient Organization of Production: A Study of Timb",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Abeberese 2020 · How Does Democracy Cause Growth? Evidence from Firms During "
+ },
+ {
+  "cid": "C01870",
+  "file": "C01870.pdf",
+  "expected": "Correcting for Endogeneity in Strategic Management Research",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01875",
+  "file": "C01875.pdf",
+  "expected": "The Dynamics of Franchise Contracting: Evidence from Panel Data",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01881",
+  "file": "C01881.pdf",
+  "expected": "Strategic Implications of Darwinian Economics for Selling Efficiency and Choice ",
+  "score": 0.4,
+  "why": "title words absent",
+  "best_other": "Deopa 2022 · \"Sacred Ecology: The Environmental Impact of African"
+ },
+ {
+  "cid": "C01882",
+  "file": "C01882.pdf",
+  "expected": "Integration of the Sales Force: An Empirical Examination",
+  "score": 0.18,
+  "why": "title words absent",
+  "best_other": "Deopa 2022 · \"Sacred Ecology: The Environmental Impact of African"
+ },
+ {
+  "cid": "C01883",
+  "file": "C01883.pdf",
+  "expected": "The Effects of Human Resource Management Practices on Productivity",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Casey 2026 · Politics and policy where state capacity is low"
+ },
+ {
+  "cid": "C01885",
+  "file": "C01885.pdf",
+  "expected": "Incentives in Organizations: The Importance of Social Relations",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01887",
+  "file": "C01887.pdf",
+  "expected": "Politicians, Interest Groups, and Regulators: A Multiple-Principals Agency Theor",
+  "score": 0.05,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C01889",
+  "file": "C01889.pdf",
+  "expected": "The Limits of Bureaucratic Efficiency",
+  "score": 0.64,
+  "why": "title words absent",
+  "best_other": "Banerjee & Somanathan 2006 · The political economy of public goods: Some evidence from In"
+ },
+ {
+  "cid": "C01891",
+  "file": "C01891.pdf",
+  "expected": "Why Regulate Utilities?",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C01893",
+  "file": "C01893.pdf",
+  "expected": "Franchise Bidding for Natural Monopolies-in General and with Respect to CATV",
+  "score": 0.11,
+  "why": "title words absent",
+  "best_other": "Hayek 1945 · The Use of Knowledge in Society"
+ },
+ {
+  "cid": "C01896",
+  "file": "C01896.pdf",
+  "expected": "Congressional Control or Judicial Independence: The Determinants of U.S. Supreme",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C01899",
+  "file": "C01899.pdf",
+  "expected": "Calculativeness, Trust, and Economic Organization",
+  "score": 0.13,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C01900",
+  "file": "C01900.pdf",
+  "expected": "The Vertical Integration of Production: Market Failure Considerations",
+  "score": 0.15,
+  "why": "title words absent",
+  "best_other": "Ahuja et al. 2010 · Providing Safe Water: Evidence from Randomized Evaluations"
+ },
+ {
+  "cid": "C01901",
+  "file": "C01901.pdf",
+  "expected": "Democracy by Mistake: How the Errors of Autocrats Trigger Transitions to Freer G",
+  "score": 0.23,
+  "why": "title words absent",
+  "best_other": "Banerjee & Somanathan 2006 · The political economy of public goods: Some evidence from In"
+ },
+ {
+  "cid": "C01913",
+  "file": "C01913.pdf",
+  "expected": "Corruption: What Everyone Needs to Know®",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01925",
+  "file": "C01925.pdf",
+  "expected": "Automobile Prices in Market Equilibrium",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01926",
+  "file": "C01926.pdf",
+  "expected": "Differentiated Products Demand Systems from a Combination of Micro and Macro Dat",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01927",
+  "file": "C01927.pdf",
+  "expected": "Quantifying the Benefits of New Products: The Case of the Minivan",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C01938",
+  "file": "C01938.pdf",
+  "expected": "Preferences and Incentives of Appointed and Elected Public Officials: Evidence f",
+  "score": 0.08,
+  "why": "title words absent",
+  "best_other": "Perotti 1996 · Growth, income distribution, and democracy: What the data sa"
+ },
+ {
+  "cid": "C01945",
+  "file": "C01945.pdf",
+  "expected": "THE POLITICAL EVOLUTION OF PRINCIPAL-AGENT MODELS",
+  "score": 0.35,
+  "why": "title words absent",
+  "best_other": "Le Rossignol et al. 2022 · The Social Consequences of Traditional Religion in Contempor"
+ },
+ {
+  "cid": "C01947",
+  "file": "C01947.pdf",
+  "expected": "Electoral Equilibrium under Alternative Voting Institutions",
+  "score": 0.65,
+  "why": "title words absent",
+  "best_other": "Beck & Katz 1995 · What To Do (and Not to Do) with Time-Series Cross-Section Da"
+ },
+ {
+  "cid": "C01954",
+  "file": "C01954.pdf",
+  "expected": "Lessons for the Euro from Early American Monetary and Financial History",
+  "score": 0.12,
+  "why": "title words absent",
+  "best_other": "Winters & Page 2009 · Oligarchy in the United States?"
+ },
+ {
+  "cid": "C01955",
+  "file": "C01955.pdf",
+  "expected": "What Drives Deregulation? Economics and Politics of the Relaxation of Bank Branc",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01956",
+  "file": "C01956.pdf",
+  "expected": "Chapter 1 (pages 1-8)",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01957",
+  "file": "C01957.pdf",
+  "expected": "Princes and Merchants: European City Growth before the Industrial Revolution",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C01963",
+  "file": "C01963.pdf",
+  "expected": "The Medieval Roots of Inclusive Institutions: From the Norman Conquest of Englan",
+  "score": 0.61,
+  "why": "title words absent",
+  "best_other": "Cameron 1978 · The Expansion of the Public Economy: A Comparative Analysis"
+ },
+ {
+  "cid": "C01968",
+  "file": "C01968.pdf",
+  "expected": "The East Asian NICs in Comparative Perspective",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Weingast 1997 · The Political Foundations of Democracy and the Rule of the L"
+ },
+ {
+  "cid": "C01981",
+  "file": "C01981.pdf",
+  "expected": "The Political Economy of Zero-Sum Thinking",
+  "score": 0.22,
+  "why": "title words absent",
+  "best_other": "Shelling 1980 · The Strategy of Conflict, Harvard University Press. 4.2"
+ },
+ {
+  "cid": "C01982",
+  "file": "C01982.pdf",
+  "expected": "East Prussia 2.0: Persistent regions, rising nations",
+  "score": 0.33,
+  "why": "title words absent",
+  "best_other": "North & Thomas 1973 · The Rise of the Western World: A New Economic History"
+ },
+ {
+  "cid": "C01991",
+  "file": "C01991.pdf",
+  "expected": "Signaling Foreign Policy Interests: Tying Hands versus Sinking Costs",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Krehbiel 1993 · Where's the party? British Journal of Political Science, 23("
+ },
+ {
+  "cid": "C01998",
+  "file": "C01998.pdf",
+  "expected": "Trade, Immigration, and Cross‐Border Investment",
+  "score": 0.43,
+  "why": "title words absent",
+  "best_other": "Callen et al. 2023 · The political economy of public sector absence"
+ },
+ {
+  "cid": "C02035",
+  "file": "C02035.pdf",
+  "expected": "Crisis Politics in Europe: Why Austerity Is Easier to Implement in Some Countrie",
+  "score": 0.17,
+  "why": "title words absent",
+  "best_other": "Peltzman 1976 · Toward a More General Theory of Regulation"
+ },
+ {
+  "cid": "C02051",
+  "file": "C02051.pdf",
+  "expected": "Can Populism Be Defended? William Riker, Gerry Mackie and the Interpretation of ",
+  "score": 0.39,
+  "why": "title words absent",
+  "best_other": "Fearon et al. 2011 · Democratic Institutions and Collective Action Capacity"
+ },
+ {
+  "cid": "C02054",
+  "file": "C02054.pdf",
+  "expected": "Making Votes Count, Cambridge: Cambridge University Press, ch. 4.*",
+  "score": 0.33,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C02059",
+  "file": "C02059.pdf",
+  "expected": "Turnout and Polarization Under Alternative Electoral Systems",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C02062",
+  "file": "C02062.pdf",
+  "expected": "Political Solutions to the Collective Action Problem",
+  "score": 0.28,
+  "why": "title words absent",
+  "best_other": "Henrich 2015 · The Secret of Our Success, Princeton: Princeton University P"
+ },
+ {
+  "cid": "C02077",
+  "file": "C02077.pdf",
+  "expected": "Analysis of Democratic Institutions: Structure, Conduct and Performance",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Beck & Katz 1995 · What To Do (and Not to Do) with Time-Series Cross-Section Da"
+ },
+ {
+  "cid": "C02095",
+  "file": "C02095.pdf",
+  "expected": "Testing Models of Unequal Representation: Democratic Populists and Republican Ol",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Weingast 1997 · The Political Foundations of Democracy and the Rule of the L"
+ },
+ {
+  "cid": "C02102",
+  "file": "C02102.pdf",
+  "expected": "Populism: A Very Short Introduction",
+  "score": 0.54,
+  "why": "title words absent",
+  "best_other": "Thomas 2003 · Iron Deficiency and the Well-Being of Older Adults: Early Re"
+ },
+ {
+  "cid": "C02128",
+  "file": "C02128.pdf",
+  "expected": "The democracy effect: A weights-based estimation strategy",
+  "score": 0.4,
+  "why": "title words absent",
+  "best_other": "Rama & Tabellini 1998 · Lobbying by capital and labor over trade and labor market po"
+ },
+ {
+  "cid": "C02131",
+  "file": "C02131.pdf",
+  "expected": "Electoral Democracy at Work",
+  "score": 0.29,
+  "why": "title words absent",
+  "best_other": "Solt 2008 · Economic Inequality and Democratic Political Engagement"
+ },
+ {
+  "cid": "C02147",
+  "file": "C02147.pdf",
+  "expected": "The Mystery of Economic Growth",
+  "score": 0.44,
+  "why": "title words absent",
+  "best_other": "Chinoy et al. 2026 · Zero-Sum Thinking and the Roots of US Political Differences"
+ },
+ {
+  "cid": "C02202",
+  "file": "C02202.pdf",
+  "expected": "Unequal Democracy, Chapter 1",
+  "score": 0.64,
+  "why": "title words absent",
+  "best_other": "Cameron 1978 · The Expansion of the Public Economy: A Comparative Analysis"
+ },
+ {
+  "cid": "C02206",
+  "file": "C02206.pdf",
+  "expected": "What determines individual trade-policy preferences?",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C02217",
+  "file": "C02217.pdf",
+  "expected": "The Influence of Firm Global Supply Chains and Foreign Currency Undervaluations ",
+  "score": 0.45,
+  "why": "title words absent",
+  "best_other": "Bertrand et al. 2004 · How Much Should We Trust Differences-In-Differences Estimate"
+ },
+ {
+  "cid": "C02250",
+  "file": "C02250.pdf",
+  "expected": "Recent Advances in the Science of Voter Mobilization",
+  "score": 0.36,
+  "why": "title words absent",
+  "best_other": "Roemer 1999 · The Democratic Political Economy of Progressive Income Taxat"
+ },
+ {
+  "cid": "C02262",
+  "file": "C02262.pdf",
+  "expected": "Can voters be primed to choose better legislators? Experiment evidence from rura",
+  "score": 0.27,
+  "why": "title words absent",
+  "best_other": "Ashworth 2012 · Electoral Accountability: Recent Theoretical and Empirical W"
+ },
+ {
+  "cid": "C02266",
+  "file": "C02266.pdf",
+  "expected": "The Perils of Voter Mobilization",
+  "score": 0.57,
+  "why": "title words absent",
+  "best_other": "Gerber et al. 2008 · Social Pressure and Voter Turnout: Evidence from a Large-Sca"
+ },
+ {
+  "cid": "C02306",
+  "file": "C02306.pdf",
+  "expected": "The Economic Effects of Mafia: Firm Level Evidence",
+  "score": 0.14,
+  "why": "title words absent",
+  "best_other": "Fouquet & Broadberry 2015 · Seven Centuries of European Economic Growth and Decline"
+ },
+ {
+  "cid": "C02318",
+  "file": "C02318.pdf",
+  "expected": "Democracy, Technology, and Growth",
+  "score": 0.57,
+  "why": "title words absent",
+  "best_other": "Humphreys et al. 2017 · Institutional Change by Imitation: Introducing Western Gover"
+ },
+ {
+  "cid": "C02339",
+  "file": "C02339.pdf",
+  "expected": "A Theory of Economic Coercion and Fragmentation",
+  "score": 0.3,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C02349",
+  "file": "C02349.pdf",
+  "expected": "National Borders and the Conservation of Nature",
+  "score": 0.49,
+  "why": "title words absent",
+  "best_other": "Laver 1980 · Political Solutions to the Collective Action Problem"
+ },
+ {
+  "cid": "C02353",
+  "file": "C02353.pdf",
+  "expected": "The real nuclear power obstacle: its not environmentalists, its the nuclear powe",
+  "score": 0.12,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "C02357",
+  "file": "C02357.pdf",
+  "expected": "Tropical Gangsters, New York: Basic Books. 2.2 The corrupt o¢ cial's decision pr",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Green & Gerber 2008 · Get Out the Vote: How to Increase Voter Turnout"
+ },
+ {
+  "cid": "C02360",
+  "file": "C02360.pdf",
+  "expected": "The Rise and Decline of Nations: Economic Growth, Stag‡ation, and Economic Rigid",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C02368",
+  "file": "C02368.pdf",
+  "expected": "\"The E¤ect of",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Gentzkow et al. 2011 · The Effect of Newspaper Entry and Exit on Electoral Politics"
+ },
+ {
+  "cid": "C02370",
+  "file": "C02370.pdf",
+  "expected": "\"Cooperation, Con‡ict, and Power in the Absence of",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Pandya 2016 · Political Economy of Foreign Direct Investment: Globalized P"
+ },
+ {
+  "cid": "C02373",
+  "file": "C02373.pdf",
+  "expected": "Feeding Con‡ict: The Unintended Consequences of U.S. Food Aid on Civil War",
+  "score": 0.27,
+  "why": "title words absent",
+  "best_other": "Skaperdas 1992 · Cooperation, Conflict, and Power in the Absence of Property "
+ },
+ {
+  "cid": "C02384",
+  "file": "C02384.pdf",
+  "expected": "Information Networks and Collective Action: Evidence from the Women’s Temperance",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "de Paula & Scheinkman 2010 · Value-Added Taxes, Chain Effects, and Informality"
+ },
+ {
+  "cid": "C02408",
+  "file": "C02408.pdf",
+  "expected": "I Just Ran Four Million Regressions",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C02418",
+  "file": "C02418.pdf",
+  "expected": "Call the shots",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Besley & Case 2003 · Political Institutions and Policy Choices: Evidence from the"
+ },
+ {
+  "cid": "C02432",
+  "file": "C02432.pdf",
+  "expected": "The Jungle",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Duflo & Kremer 2003 · Use of Randomization in the Evaluation of Development Effect"
+ },
+ {
+  "cid": "C02435",
+  "file": "C02435.pdf",
+  "expected": "Science: Similar intervention in 6 countries (Ethiopia, Ghana, Honduras",
+  "score": 0.23,
+  "why": "title words absent",
+  "best_other": "Hanna & Olken 2018 · Universal Basic Incomes versus Targeted Transfers: Anti-Pove"
+ },
+ {
+  "cid": "C02436",
+  "file": "C02436.pdf",
+  "expected": "Guido W Imbens and Jeffrey M Wooldridge, Recent developments in the econometrics",
+  "score": 0.45,
+  "why": "title words absent",
+  "best_other": "Angrist et al. 1996 · Identification of Causal Effects Using Instrumental Variable"
+ },
+ {
+  "cid": "C02460",
+  "file": "C02460.pdf",
+  "expected": "Power and Productivity: Institutions, Ideology, and Technology in Political Econ",
+  "score": 0.2,
+  "why": "title words absent",
+  "best_other": "Fergusson 2013 · The political economy of rural property rights and the persi"
+ },
+ {
+  "cid": "C02502",
+  "file": "C02502.pdf",
+  "expected": "Stirrup, Mounted Shock Combat, Feudalism and Chivalry",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Boix et al. 2012 · A Complete Data Set of Political Regimes, 1800–2007"
+ },
+ {
+  "cid": "C02517",
+  "file": "C02517.pdf",
+  "expected": "Path dependence in development: Evidence from the Mexican Revolution",
+  "score": 0.12,
+  "why": "title words absent",
+  "best_other": "Rosenzweig 1988 · Chapter 15 Labor markets in low-income countries"
+ },
+ {
+  "cid": "C02522",
+  "file": "C02522.pdf",
+  "expected": "Clio and the Economics of QWERTY",
+  "score": 0.6,
+  "why": "title words absent",
+  "best_other": "Suri 2011 · Selection and Comparative Advantage in Technology Adoption"
+ },
+ {
+  "cid": "C02523",
+  "file": "C02523.pdf",
+  "expected": "The Fable of the Keys",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C02530",
+  "file": "C02530.pdf",
+  "expected": "A theory of production, matching, and distribution",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Casey 2026 · Politics and policy where state capacity is low"
+ },
+ {
+  "cid": "C02534",
+  "file": "C02534.pdf",
+  "expected": "Ethnic Inequality",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "C02537",
+  "file": "C02537.pdf",
+  "expected": "Print. (No you don't have to read it all, but you probably want to)",
+  "score": 0.29,
+  "why": "title words absent",
+  "best_other": "Das & Hammer 2014 · Quality of Primary Care in Low-Income Countries: Facts and E"
+ },
+ {
+  "cid": "C02573",
+  "file": "C02573.pdf",
+  "expected": "Labor Market Monopsony: Trends, Consequences, and Policy Responses",
+  "score": 0.83,
+  "why": "surname missing",
+  "best_other": ""
+ },
+ {
+  "cid": "C02587",
+  "file": "C02587.pdf",
+  "expected": "Labor Market Institutions and the Distribution of Wages, 1973-1992: A Semiparame",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Achen & Bartels 2004 · Blind retrospection: Electoral responses to drought, flu, an"
+ },
+ {
+  "cid": "C02607",
+  "file": "C02607.pdf",
+  "expected": "Networks in Conflict: Theory and Evidence From the Great War of Africa",
+  "score": 0.85,
+  "why": "surname missing",
+  "best_other": ""
+ },
+ {
+  "cid": "C02614",
+  "file": "C02614.pdf",
+  "expected": "Polarization: What Everyone Needs to Know®",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C02617",
+  "file": "C02617.pdf",
+  "expected": "Parsing party polarization. mimeo",
+  "score": 0.68,
+  "why": "title words absent",
+  "best_other": "Snyder & Groseclose 2000 · Party Influence and Congressional Roll-Call Voting"
+ },
+ {
+  "cid": "C02631",
+  "file": "C02631.pdf",
+  "expected": "The Benefits of Crises for Economic Reforms",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "C02643",
+  "file": "C02643.pdf",
+  "expected": "Women Who Win but Do Not Rule: The Effect of Gender in the Formation of Governme",
+  "score": 0.68,
+  "why": "title words absent",
+  "best_other": "Lake 2009 · Open economy politics: A critical review"
+ },
+ {
+  "cid": "C02648",
+  "file": "C02648.pdf",
+  "expected": "Voting Rules, Turnout, and Economic Policies",
+  "score": 0.58,
+  "why": "title words absent",
+  "best_other": "Osborne & Slivinski 1996 · A Model of Political Competition with Citizen-Candidates"
+ },
+ {
+  "cid": "C02666",
+  "file": "C02666.pdf",
+  "expected": "Electoral and Policy Consequences of Voter Turnout: Evidence from Compulsory Vot",
+  "score": 0.58,
+  "why": "title words absent",
+  "best_other": "Washington 2006 · How Black Candidates Affect Voter Turnout*"
+ },
+ {
+  "cid": "C02687",
+  "file": "C02687.pdf",
+  "expected": "Measuring Policy Positions in Political Space",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "François & Zábojník 2005 · Trust, Social Capital, and Economic Development"
+ },
+ {
+  "cid": "C02689",
+  "file": "C02689.pdf",
+  "expected": "Estimating Judicial Ideology",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Piketty 2018 · Brahmin Left vs Merchant Right: Rising Inequality & the Chan"
+ },
+ {
+  "cid": "C02704",
+  "file": "C02704.pdf",
+  "expected": "Lobbyists as Gatekeepers: Theory and Evidence",
+  "score": 0.57,
+  "why": "title words absent",
+  "best_other": "Gailmard 2019 · Game theory and the study of American political development"
+ },
+ {
+  "cid": "C02715",
+  "file": "C02715.pdf",
+  "expected": "Toxic Loans and the Rise of Populist Candidacies",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Baggini 2018 · How the World Thinks: A Global History of Philosophy"
+ },
+ {
+  "cid": "C02729",
+  "file": "C02729.pdf",
+  "expected": "Freedom Fries",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Y & Miguel 2016 · Impacts and Determinants of Health Levels in Low-Income Coun"
+ },
+ {
+  "cid": "C02732",
+  "file": "C02732.pdf",
+  "expected": "The Demotivating Effects of Communicating a Social-Political Stance: Field Exper",
+  "score": 0.23,
+  "why": "title words absent",
+  "best_other": "Nunn & Qian  · Feeding Con‡ict: The Unintended Consequences of U.S. Food Ai"
+ },
+ {
+  "cid": "C02747",
+  "file": "C02747.pdf",
+  "expected": "Who Benefits from Meritocracy?",
+  "score": 0.55,
+  "why": "title words absent",
+  "best_other": "Morgan 2012 · The World in the Model: How Economists Work and Think"
+ },
+ {
+  "cid": "C02756",
+  "file": "C02756.pdf",
+  "expected": "How the World Became Rich: The Historical Origins of Economic Growth",
+  "score": 0.08,
+  "why": "title words absent",
+  "best_other": "Staiger & Stock 1997 · Instrumental Variables Regression with Weak Instruments"
+ },
+ {
+  "cid": "W1480243676",
+  "file": "W1480243676.pdf",
+  "expected": "Are Voters Rational? Evidence from Gubernatorial Elections",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Hamilton & Nickerson 2003 · Correcting for Endogeneity in Strategic Management Research"
+ },
+ {
+  "cid": "W1502532850",
+  "file": "W1502532850.pdf",
+  "expected": "Democracy, Accountability, and Representation",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "W1537646239",
+  "file": "W1537646239.pdf",
+  "expected": "Ethnic and Cultural Diversity by Country*",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "W1581908573",
+  "file": "W1581908573.pdf",
+  "expected": "Cross-National Time-Series Data Archive",
+  "score": 0.64,
+  "why": "title words absent",
+  "best_other": "Tilly 1975 · The Formation of National States in Western Europe"
+ },
+ {
+  "cid": "W2041157860",
+  "file": "W2041157860.pdf",
+  "expected": "Threshold Models of Collective Behavior",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Fujiwara et al. 2023 · The Effect of Social Media on Elections: Evidence from The U"
+ },
+ {
+  "cid": "W2065190337",
+  "file": "W2065190337.pdf",
+  "expected": "Bureaucrats or Politicians? Part I: A Single Policy Task",
+  "score": 0.22,
+  "why": "title words absent",
+  "best_other": "Atkin et al. 2020 · How Do We Choose Our Identity? A Revealed Preference Approac"
+ },
+ {
+  "cid": "W2099268311",
+  "file": "W2099268311.pdf",
+  "expected": "On the mechanics of economic development",
+  "score": 0.43,
+  "why": "title words absent",
+  "best_other": "François & Zábojník 2005 · Trust, Social Capital, and Economic Development"
+ },
+ {
+  "cid": "W2100673825",
+  "file": "W2100673825.pdf",
+  "expected": "Selection on Observed and Unobserved Variables: Assessing the Effectiveness of C",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "W2101348935",
+  "file": "W2101348935.pdf",
+  "expected": "Long-Term Investing in Politicians; Or, Give Early, Give Often",
+  "score": 0.19,
+  "why": "title words absent",
+  "best_other": "Acemoğlu 2010 · Theory, General Equilibrium, and Political Economy in Develo"
+ },
+ {
+  "cid": "W2108548811",
+  "file": "W2108548811.pdf",
+  "expected": "Managerial Incentive Problems: A Dynamic Perspective",
+  "score": 0.62,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "W2128487291",
+  "file": "W2128487291.pdf",
+  "expected": "Trust in Large Organizations",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "W2165144879",
+  "file": "W2165144879.pdf",
+  "expected": "Instrumental Variables Regression with Weak Instruments",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "W2566856888",
+  "file": "W2566856888.pdf",
+  "expected": "The Economic Institutions of Capitalism",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Skaperdas 1992 · Cooperation, Conflict, and Power in the Absence of Property "
+ },
+ {
+  "cid": "W2884548321",
+  "file": "W2884548321.pdf",
+  "expected": "Regression Discontinuity Designs Using Covariates",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "Ellickson 1991 · Order Without Law, Cambridge: Harvard University Press"
+ },
+ {
+  "cid": "W2891903900",
+  "file": "W2891903900.pdf",
+  "expected": "Why Do More Open Economies Have Bigger Governments?",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "W2891965326",
+  "file": "W2891965326.pdf",
+  "expected": "Income Distribution, Political Instability, and Investment",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "W3113269512",
+  "file": "W3113269512.pdf",
+  "expected": "Difference-in-Differences with multiple time periods",
+  "score": 0.62,
+  "why": "title words absent",
+  "best_other": "Calónico et al. 2018 · Regression Discontinuity Designs Using Covariates"
+ },
+ {
+  "cid": "W3122178585",
+  "file": "W3122178585.pdf",
+  "expected": "Bootstrap-Based Improvements for Inference with Clustered Errors",
+  "score": 0.3,
+  "why": "title words absent",
+  "best_other": "Williamson 1988 · The Logic of Economic Organization"
+ },
+ {
+  "cid": "W3123071216",
+  "file": "W3123071216.pdf",
+  "expected": "International data on educational attainment: updates and implications",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "W3124340976",
+  "file": "W3124340976.pdf",
+  "expected": "Corruption and Reform: Lessons from America's Economic History",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "W3125701855",
+  "file": "W3125701855.pdf",
+  "expected": "Natural Resource Abundance and Economic Growth",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "W3127488876",
+  "file": "W3127488876.pdf",
+  "expected": "Making Votes Count: Strategic Coordination in the World's Electoral Systems",
+  "score": 0.48,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "W4211113828",
+  "file": "W4211113828.pdf",
+  "expected": "Institutions and Ethnic Politics in Africa",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ },
+ {
+  "cid": "W4213034237",
+  "file": "W4213034237.pdf",
+  "expected": "Clientelism",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": "FERRAZ & Finan 2011 · Electoral Accountability and Corruption: Evidence from the A"
+ },
+ {
+  "cid": "W4232508652",
+  "file": "W4232508652.pdf",
+  "expected": "Fractionalization",
+  "score": 0.0,
+  "why": "title words absent",
+  "best_other": ""
+ },
+ {
+  "cid": "W430011393",
+  "file": "W430011393.pdf",
+  "expected": "Field Experiments: Design, Analysis, and Interpretation",
+  "score": 0.33,
+  "why": "title words absent",
+  "best_other": "Moya 2017 · Violence, psychological trauma, and risk attitudes: Evidence"
+ },
+ {
+  "cid": "W606783974",
+  "file": "W606783974.pdf",
+  "expected": "The Logic of Violence in Civil War",
+  "score": 0.0,
+  "why": "no_text",
+  "best_other": ""
+ }
+]

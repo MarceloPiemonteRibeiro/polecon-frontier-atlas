@@ -254,6 +254,9 @@ button.chip[aria-pressed="false"]{opacity:.45}
 </nav>
 <main>
   <section class="view" id="v-overview" data-title="Overview"></section>
+  <section class="view" id="v-known" data-title="What is known" hidden></section>
+  <section class="view" id="v-contested" data-title="What is contested" hidden></section>
+  <section class="view" id="v-gaps" data-title="Gaps" hidden></section>
   <section class="view" id="v-review" data-title="Build a review" hidden></section>
   <section class="view" id="v-tree" data-title="Literature tree" hidden></section>
   <section class="view" id="v-mtree" data-title="Mechanism tree" hidden></section>
@@ -287,6 +290,29 @@ const PX = P.filter(p => p.f < 8 && p.x);                          // added from
 const PALL = P.filter(p => p.f < 8);
 const isTheory = p => ["Theory","Review","Book"].includes(p.de);       // political-economy papers (excludes methods & adjacent dev)
 const VERD = {"+":["v-sup","＋ supports"],"~":["v-qual","∼ qualifies"],"-":["v-con","− contradicts"]};
+/* ---------- full-text evidence layer (data/evidence.json, built by 17_evidence.py) ---------- */
+const EV = D.ev || null;                                           // null in a build with no cards yet
+const CARD = id => (EV && EV.cards[id]) || null;
+const TRL = id => (EV && EV.treatLabels[id]) || id;
+const OUL = id => (EV && EV.outLabels[id]) || id;
+const DIRN = {pos:["raises","--good"], neg:["lowers","--crit"], mixed:["mixed","--warn"], null:["no effect","--muted"],
+              unknown:["direction not stated","--muted"], na:["no estimate","--muted"]};
+const UNITL = {pct:"%", pp:"pp", sd:"SD", log:"log pts", ratio:"×", level:"units", pctile:"pctile"};
+const CREDIBLE_DE = new Set(["RCT","RD","DiD","IV","NatExp","Struct"]);
+// Which way a cell leans, and how hard. Nulls count against whichever sign leads.
+function lean(d){
+  const n = d.pos + d.neg + d.null;
+  if(!n) return {dir: d.mixed? "mixed":"null", ag: 0, n};
+  const dir = d.pos === d.neg ? "mixed" : (d.pos > d.neg ? "pos" : "neg");
+  return {dir, ag: Math.max(d.pos, d.neg)/n, n};
+}
+const magStr = m => `${m.value>0?"+":""}${m.value}${UNITL[m.unit]||m.unit}`;
+const setStr = s => !s ? "" : [(s.countries||[]).slice(0,3).join(", "), s.period?`${s.period[0]}–${s.period[1]}`:""].filter(Boolean).join(" · ");
+// "Does X change Y?" only reads as a question when both sides are named things.
+const VAGUE = new Set(["other","theory_only"]);
+const cellQ = (tr,ou) => VAGUE.has(tr)||VAGUE.has(ou)
+  ? `${TRL(tr)} → ${OUL(ou)}`
+  : `Does ${TRL(tr).toLowerCase()} change ${OUL(ou).toLowerCase()}?`;
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const cssVar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const famVar = f => `var(--f${f})`;
@@ -323,12 +349,43 @@ function papersModal(eyebrow, title, sub, rows){
 }
 function chipLeaf(id){ const l = LF[id]; if(!l) return ""; return `<span class="chip"><span class="dot" style="background:${famVar(BR[l.br].fam)}"></span>${esc(l.name)}</span>`; }
 function verdictChip(v){ const [c,l]=VERD[v]||VERD["+"]; return `<span class="verdict ${c}">${l}</span>`; }
+/* What the full-text read found, for the paper drawer. Empty string when the paper has no card. */
+function cardBlock(id){
+  const k = CARD(id); if(!k || k.confidence==="none") return "";
+  const st = k.setting||{}, idn = k.identification||{};
+  const q = !["na","unknown"].includes(k.direction) ? `<div style="display:flex;flex-wrap:wrap;gap:6px;margin:8px 0">
+      <span class="chip"><span class="dot" style="background:var(${DIRN[k.direction][1]})"></span>${DIRN[k.direction][0]} ${esc(OUL(k.outcome).toLowerCase())}</span>
+      <span class="chip">${esc(TRL(k.treatment))}</span>
+      ${(k.magnitudes||[]).map(m=>`<span class="chip num"${m.t?"":' style="border-style:dashed" title="This figure is not printed anywhere in the paper\'s text, so it was computed rather than quoted — treat it as indicative"'}>${magStr(m)}${m.t?"":"*"}${m.outcome?` · ${esc(m.outcome)}`:""}</span>`).join("")}</div>` : "";
+  const rows = [
+    k.claim ? ["What it found", esc(k.claim)] : null,
+    idn.variation ? ["Source of variation", esc(idn.variation)] : null,
+    idn.threat ? ["The authors' own caveat", esc(idn.threat)] : null,
+    st.n_units ? ["Sample", `${fmt(st.n_units)} ${esc(st.unit_desc||(st.level||"units").replace(/_/g," "))}`] : null,
+    st.period ? ["Data period", `${st.period[0]}–${st.period[1]}`] : null,
+    k.scope ? ["How far it travels", esc(k.scope)] : null,
+    k.data_asset ? [k.data_novel?"New data built":"Data", esc(k.data_asset)] : null,
+  ].filter(Boolean);
+  const list = (t, xs) => xs && xs.length ? `<div style="margin-top:10px"><b style="font-size:13px">${t}</b><ul style="margin:4px 0 0;padding-left:18px;font-size:13.5px;color:var(--ink-2)">${xs.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>` : "";
+  if(k.doubt) return `<div class="callout" style="margin-top:12px;border-left-color:var(--crit)">
+    <div class="eyebrow" style="margin-bottom:4px">Source not verified</div>
+    <p style="margin:0;font-size:13.5px">The PDF filed under this paper does not clearly contain it (${esc(k.doubt)}), so it was read but is kept out of the evidence matrix, the contested questions and the gap map. What that file actually says: <i>${esc(k.claim||"nothing codeable")}</i></p>
+  </div>`;
+  return `<div class="callout" style="margin-top:12px">
+    <div class="eyebrow" style="margin-bottom:4px">Read from the PDF${k.confidence!=="high"?` · ${k.confidence} confidence`:""}</div>
+    ${q}
+    <dl class="kv" style="margin:0">${rows.map(([a,b])=>`<dt>${a}</dt><dd>${b}</dd>`).join("")}</dl>
+    ${list("It treats as settled", k.settled)}
+    ${list("It says these are contested", k.contested)}
+    ${list("It says these are open", k.gaps)}
+  </div>`;
+}
 function openPaper(id){
   const p = P[id]; if(!p) return;
   const cites = (D.out[id]||[]).map(j=>P[j]).filter(Boolean).sort((a,b)=>b.nc-a.nc);
   const citedBy = (D.inn[id]||[]).map(j=>P[j]).filter(Boolean).sort((a,b)=>b.y-a.y);
   const plist = arr => arr.slice(0,12).map(q=>`<li><button class="linkbtn" data-pid="${q.id}">${esc(q.au)} (${q.y||"n.d."})</button> <span style="color:var(--muted)">${esc(q.t.slice(0,90))}</span></li>`).join("");
-  const srcLabel = {review:"Read in the VoxDevLit review", abstract:"Abstract read", intro:"Introduction read", "abstract-uncoded":"Abstract shown, not yet coded", title: p.x||!D.download.length?"Title only":"Title only — on your download list"}[p.rs] || "";
+  const srcLabel = {fulltext:"Read in full from the PDF", review:"Read in the VoxDevLit review", abstract:"Abstract read", intro:"Introduction read", "abstract-uncoded":"Abstract shown, not yet coded", title: p.x||!D.download.length?"Title only":"Title only — on your download list"}[p.rs] || "";
   const authLine = (p.A||[]).length ? p.A.map(i=>{ const a=D.authors[i], ins=a.i>=0?D.insts[a.i]:null; return `<button class="linkbtn" data-aid="${i}" title="${esc(ins?ins.n:"affiliation unknown")}">${esc(a.n)}</button>${ins?` <span style="color:var(--muted);font-size:12.5px">(${esc(ins.n)})</span>`:""}`; }).join(", ") : esc(p.af||p.au);
   dbody.innerHTML = `
     <div class="eyebrow">${esc(BR[p.br]?.name||"")}${p.x?" · added from reference lists":""}</div>
@@ -336,6 +393,7 @@ function openPaper(id){
     <div style="color:var(--ink-2);font-size:14px">${authLine} · ${p.y||"n.d."}${p.v?` · <i>${esc(p.v)}</i>`:""}</div>
     <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:10px">${chipLeaf(p.lf)}${(p.l2||[]).map(chipLeaf).join("")}${p.fr?'<span class="chip">Frontier (2015+)</span>':""}</div>
     ${p.fd?`<div class="finding-box"><b>Finding.</b> ${esc(p.fd)}</div>`:""}
+    ${cardBlock(id)}
     <dl class="kv">
       ${p.ct&&p.ct.length?`<dt>Setting</dt><dd>${esc(p.ct.join(", "))}</dd>`:""}
       ${p.de?`<dt>Design</dt><dd>${esc(D.designs[p.de]||p.de)}</dd>`:""}
@@ -359,7 +417,8 @@ function paperRow(p, extra=""){ return `<div class="prow" data-pid="${p.id}" tab
 function wireRows(root){ root.querySelectorAll("[data-pid]").forEach(r => { r.addEventListener("click", () => openPaper(+r.dataset.pid)); r.addEventListener("keydown", e => { if(e.key==="Enter") openPaper(+r.dataset.pid); }); }); }
 
 /* ---------- tabs / routing ---------- */
-const VIEWS = [["overview","Overview"],["review","Build a review"],["tree","Literature tree"],["mtree","Mechanism tree"],["mechanisms","Models → evidence"],["network","Citation network"],["authors","Who writes it"],["timeline","When & where"],["courses","Courses"],["agenda","Your agenda"],["library","Library"]].filter(v=>v[0]!=="agenda"||D.agenda);
+const VIEWS = [["overview","Overview"],["known","What is known"],["contested","What is contested"],["gaps","Gaps"],["review","Build a review"],["tree","Literature tree"],["mtree","Mechanism tree"],["mechanisms","Models → evidence"],["network","Citation network"],["authors","Who writes it"],["timeline","When & where"],["courses","Courses"],["agenda","Your agenda"],["library","Library"]]
+  .filter(v => (v[0]!=="agenda"||D.agenda) && (!["known","contested","gaps"].includes(v[0]) || (D.ev&&D.ev.cells.length)));
 const tabs = document.getElementById("tabs");
 const rendered = {};
 VIEWS.forEach(([id,label],i) => { const b = document.createElement("button"); b.className="tab"; b.role="tab"; b.id="t-"+id; b.innerHTML=`<span class="k">${String(i+1).padStart(2,"0")}</span>${label}`; b.addEventListener("click", () => go(id)); tabs.appendChild(b); });
@@ -390,6 +449,7 @@ RENDER.overview = function(){
       <div class="stat"><div class="v">${fmt(PE.length)}</div><div class="l">political-economy papers</div></div>
       <div class="stat"><div class="v">${fmt(PE.filter(p=>p.fr).length)}</div><div class="l">published 2015 or later</div></div>
       <div class="stat"><div class="v">${fmt(PE.filter(p=>p.fd).length)}</div><div class="l">read and coded (finding, mechanism, design)</div></div>
+      ${EV?`<div class="stat"><div class="v">${fmt(PE.filter(p=>p.rs==="fulltext").length)}</div><div class="l">read in full from the PDF, not just the abstract <button class="linkbtn" id="toKnown">what that shows →</button></div></div>`:""}
       <div class="stat"><div class="v">${fmt(PE.length-nRead)}</div><div class="l">title only — no abstract or open copy${D.download.length?` · <button class="linkbtn" id="toDl">your download list →</button>`:""}</div></div>
     </div>
   </div>
@@ -412,6 +472,7 @@ RENDER.overview = function(){
     <div class="grid3" id="branchNotes"></div>
   </div>`;
   if(D.download.length) document.getElementById("toDl").addEventListener("click", () => { go("library"); document.getElementById("dlist").scrollIntoView({behavior:"smooth"}); });
+  if(EV) document.getElementById("toKnown").addEventListener("click", () => go("known"));
   const fc = document.getElementById("fcards");
   fc.innerHTML = Object.entries(D.voxFindings).map(([k,f]) => {
     const ps = PE.filter(p => (p.vx||[]).includes(k)).sort((a,b)=>b.y-a.y);
@@ -623,6 +684,7 @@ function treePanel(sel){
   const mechs = D.mechs.filter(m=>m.branches.includes(l.id));
   el.innerHTML = `<div class="eyebrow">${esc(b.name)}</div><h3>${esc(l.name)}</h3>
     ${l.settled?`<div class="branch-note"><b>Settled.</b> ${esc(l.settled)}<br><b>Open frontier.</b> ${esc(l.open)}</div>`:""}
+    ${leafEvidence(ps)}
     ${mechs.length?`<p style="margin:4px 0 8px;font-size:13.5px;color:var(--ink-2)">Canonical mechanisms: ${mechs.map(m=>`<button class="linkbtn" data-mech="${m.id}">${esc(m.name)}</button>`).join(" · ")}</p>`:""}
     <label class="field" style="margin:6px 0 4px"><input type="checkbox" id="frontierOnly" ${frontier?"checked":""}> Frontier only (2015+)</label>
     <div class="caption" style="margin:0 0 6px">${ps.length} papers · secondary-tagged papers listed after primary ones</div>
@@ -631,6 +693,39 @@ function treePanel(sel){
   wireRows(el);
   el.querySelector("#frontierOnly").addEventListener("change", e => { store("atlas-frontier", e.target.checked?"1":"0"); treePanel(sel); });
   el.querySelectorAll("[data-mech]").forEach(bt=>bt.addEventListener("click",()=>{ go("mechanisms"); selectMech(bt.dataset.mech); }));
+  el.querySelectorAll("[data-cellk]").forEach(bt=>bt.addEventListener("click",()=>{ KN.sel=bt.dataset.cellk; KN.minN=1; go("known"); }));
+}
+
+/* What the full-text read says about one sub-literature: the questions its papers actually answer,
+   and the gaps its own authors name. Returns "" when none of its papers has a card. */
+function leafEvidence(ps){
+  if(!EV) return "";
+  const ks = ps.map(p=>({p, k:CARD(p.id)})).filter(x=>x.k && x.k.confidence!=="none");
+  if(ks.length < 3) return "";
+  const cell = new Map();
+  ks.filter(x=>x.k.direction!=="na").forEach(({p,k}) => {
+    const key = k.treatment+"|"+k.outcome;
+    const e = cell.get(key) || {tr:k.treatment, ou:k.outcome, dir:{pos:0,neg:0,null:0,mixed:0,na:0}, pids:[]};
+    e.dir[k.direction]++; e.pids.push(p.id); cell.set(key, e);
+  });
+  const top = [...cell.values()].sort((a,b)=>b.pids.length-a.pids.length).slice(0,6);
+  // A gap named by several papers is the sub-literature's own verdict on what is missing.
+  const seen = new Map();
+  ks.forEach(({p,k}) => (k.gaps||[]).forEach(g => {
+    const key = g.toLowerCase().replace(/[^a-z ]/g,"").split(" ").filter(w=>w.length>4).slice(0,5).join(" ");
+    const e = seen.get(key) || {g, n:0}; e.n++; if(g.length < e.g.length) e.g = g; seen.set(key, e);
+  }));
+  const gaps = [...seen.values()].sort((a,b)=>b.n-a.n || a.g.length-b.g.length).slice(0,5);
+  return `<div class="callout" style="margin:8px 0">
+    <div class="eyebrow" style="margin-bottom:4px">From the full-text read · ${ks.length} papers</div>
+    ${top.length?`<div style="font-size:13.5px"><b>What its papers actually answer.</b>
+      <ul style="margin:4px 0 0;padding-left:18px">${top.map(e=>{const L=lean(e.dir);
+        return `<li><button class="linkbtn" data-cellk="${e.tr}|${e.ou}">${esc(TRL(e.tr))} → ${esc(OUL(e.ou))}</button>
+          <span class="chip"><span class="dot" style="background:var(${DIRN[L.dir][1]})"></span>${DIRN[L.dir][0]}</span>
+          <span style="color:var(--muted)">${e.pids.length} papers</span></li>`;}).join("")}</ul></div>`:""}
+    ${gaps.length?`<div style="font-size:13.5px;margin-top:8px"><b>What its authors say is missing.</b>
+      <ul style="margin:4px 0 0;padding-left:18px;color:var(--ink-2)">${gaps.map(e=>`<li>${esc(e.g)}${e.n>1?` <span style="color:var(--muted)">(${e.n} papers)</span>`:""}</li>`).join("")}</ul></div>`:""}
+  </div>`;
 }
 
 /* ---------- 3 Mechanisms ---------- */
@@ -666,8 +761,9 @@ function selectMech(id){
     <h4 style="margin-top:16px">Evidence ledger · ${ev.length} empirical papers</h4>
     <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:6px">${verdictChip("+")} <span class="num">${nS}</span> ${verdictChip("~")} <span class="num">${nQ}</span> ${verdictChip("-")} <span class="num">${nC}</span></div>
     <div class="scroll-x" id="mechStrip"></div>
-    <div class="scroll-x" style="margin-top:10px"><table class="ledger"><thead><tr><th>Year</th><th>Paper</th><th>Setting</th><th>Design</th><th>Verdict</th><th>Finding</th></tr></thead><tbody>
-    ${ev.slice().reverse().map(e=>`<tr data-pid="${e.p.id}"><td class="num">${e.p.y||""}</td><td>${esc(e.p.au)}${e.p.x?' <span class="tag" title="Added from reference lists">ref</span>':""}</td><td>${esc((e.p.ct||[]).join(", "))}</td><td>${esc(e.p.de||"")}</td><td>${verdictChip(e.v)}</td><td>${esc(e.p.fd||"")}</td></tr>`).join("")}
+    <div class="scroll-x" style="margin-top:10px"><table class="ledger"><thead><tr><th>Year</th><th>Paper</th><th>Setting</th><th>Design</th><th>Verdict</th><th>Size</th><th>Finding</th></tr></thead><tbody>
+    ${ev.slice().reverse().map(e=>{ const k = CARD(e.p.id), note = k && (k.mechanisms||[]).find(x=>x.id===id);
+      return `<tr data-pid="${e.p.id}"><td class="num">${e.p.y||""}</td><td>${esc(e.p.au)}${e.p.x?' <span class="tag" title="Added from reference lists">ref</span>':""}</td><td>${esc((e.p.ct||[]).join(", "))}</td><td>${esc(e.p.de||"")}</td><td>${verdictChip(e.v)}${note&&note.note?`<div style="margin-top:3px;font-size:12.5px;color:var(--ink-2)">${esc(note.note)}</div>`:""}</td><td class="num">${k?(k.magnitudes||[]).map(magStr).join(", "):""}</td><td>${esc(e.p.fd||"")}</td></tr>`;}).join("")}
     </tbody></table></div></div>`;
   body.querySelectorAll("tr[data-pid],button[data-pid]").forEach(r=>r.addEventListener("click",()=>openPaper(+r.dataset.pid)));
   // strip: theory year marker + dots per verdict
@@ -954,9 +1050,267 @@ function agendaPapers(l){ return PALL.filter(p=> l.leaves.includes(p.lf) || (p.m
 function agendaLink(i){
   agendaSel=i; const l=D.agenda.links[i]; document.querySelectorAll(".link-step").forEach(b=>b.setAttribute("aria-pressed", +b.dataset.i===i));
   const ps=agendaPapers(l); const el=document.getElementById("chainBody");
-  el.innerHTML=`<div class="eyebrow">Link ${i+1}</div><h3>${esc(l.name)}</h3><p style="color:var(--ink-2);margin:0 0 8px">${esc(l.text)}</p><p style="font-size:13.5px;margin:0 0 10px"><b>Where to look.</b> ${l.leaves.map(id=>chipLeaf(id)).join(" ")}</p><div class="list">${ps.slice(0,40).map(p=>paperRow(p)).join("")}</div>${ps.length>40?`<p class="caption">${ps.length-40} more in the tree under the sub-literatures above.</p>`:""}`;
+  el.innerHTML=`<div class="eyebrow">Link ${i+1}</div><h3>${esc(l.name)}</h3><p style="color:var(--ink-2);margin:0 0 8px">${esc(l.text)}</p><p style="font-size:13.5px;margin:0 0 10px"><b>Where to look.</b> ${l.leaves.map(id=>chipLeaf(id)).join(" ")}</p>${leafEvidence(ps)}<div class="list">${ps.slice(0,40).map(p=>paperRow(p)).join("")}</div>${ps.length>40?`<p class="caption">${ps.length-40} more in the tree under the sub-literatures above.</p>`:""}`;
   wireRows(el);
+  el.querySelectorAll("[data-cellk]").forEach(bt=>bt.addEventListener("click",()=>{ KN.sel=bt.dataset.cellk; KN.minN=1; go("known"); }));
 }
+
+/* ================= full-text evidence views ================= */
+/* One card per paper read from its PDF (schema in scripts/reader_spec.md); a "cell" is one
+   treatment x outcome pair, i.e. one causal question the literature has attacked. */
+const KN = {minN:3, fr:false, cred:false, sel:null};
+
+function cellsNow(){
+  if(!EV) return [];
+  return EV.cells.map(c => {
+    if(!KN.fr && !KN.cred) return c;
+    const pids = c.pids.filter(id => (!KN.fr || P[id].fr) && (!KN.cred || CREDIBLE_DE.has((CARD(id)?.identification||{}).design)));
+    if(pids.length === c.n) return c;
+    const dir = {pos:0,neg:0,null:0,mixed:0,na:0};
+    pids.forEach(id => dir[CARD(id).direction]++);
+    const ct = new Set(); pids.forEach(id => (CARD(id).setting.countries||[]).forEach(x=>ct.add(x)));
+    return Object.assign({}, c, {pids, n:pids.length, dir, nCt:ct.size, ct:[...ct].slice(0,12),
+                                 fr:pids.filter(id=>P[id].fr).length});
+  }).filter(c => c.n >= KN.minN);
+}
+
+RENDER.known = function(){
+  const v = document.getElementById("v-known");
+  v.innerHTML = `
+  <div class="section">
+    <h2>What is known</h2>
+    <div class="intro">${EV.intro}</div>
+    <div class="stats">
+      <div class="stat"><div class="v">${fmt(EV.stats.nCards)}</div><div class="l">papers read from the PDF</div></div>
+      <div class="stat"><div class="v">${fmt(EV.stats.nCells)}</div><div class="l">causal questions with evidence</div></div>
+      <div class="stat"><div class="v">${fmt(EV.stats.nSettled)}</div><div class="l">questions where every paper&rsquo;s sign agrees</div></div>
+      <div class="stat"><div class="v">${fmt(EV.stats.nContested)}</div><div class="l">questions where it splits <button class="linkbtn" id="toCont">see them →</button></div></div>
+    </div>
+  </div>
+  <div class="section panel">
+    <h3>The evidence matrix</h3>
+    <p class="caption" style="margin-top:0">Each row is something that varies — a reform, a shock, an institution. Each column is something measured. A square is one causal question: its colour says which way the evidence leans, its number is how many papers asked it, and a dashed edge marks a question where the papers disagree. Empty space is unasked. Click a square to read the ledger.</p>
+    <div class="net-controls">
+      <label class="field">Minimum papers <select id="knMin">${[1,2,3,5,8].map(n=>`<option value="${n}"${n===KN.minN?" selected":""}>${n}</option>`).join("")}</select></label>
+      <label class="field"><input type="checkbox" id="knFr"${KN.fr?" checked":""}> Only papers published 2015 or later</label>
+      <label class="field"><input type="checkbox" id="knCred"${KN.cred?" checked":""}> Only RCT, RD, DiD, IV, natural experiments and structural work</label>
+    </div>
+    <div class="net-legend" id="knLegend"></div>
+    <div class="scroll-x" id="knMatrix"></div>
+  </div>
+  <div class="section" id="knBody"></div>`;
+  document.getElementById("toCont").addEventListener("click", () => go("contested"));
+  document.getElementById("knMin").addEventListener("change", e => { KN.minN = +e.target.value; drawKnown(); });
+  document.getElementById("knFr").addEventListener("change", e => { KN.fr = e.target.checked; drawKnown(); });
+  document.getElementById("knCred").addEventListener("change", e => { KN.cred = e.target.checked; drawKnown(); });
+  document.getElementById("knLegend").innerHTML =
+    Object.entries(DIRN).filter(([k])=>!["unknown","na"].includes(k)).map(([k,[l,c]]) => `<span class="chip"><span class="dot" style="background:var(${c})"></span>${l}</span>`).join("")
+    + `<span class="chip"><span class="dot" style="background:transparent;border:1.5px dashed var(--ink)"></span>papers disagree</span>`
+    + `<span class="chip" style="border-style:dotted">opacity = how one-sided the evidence is</span>`;
+  drawKnown();
+  themeListeners.push(() => { if(rendered.known) drawKnown(); });
+};
+
+function drawKnown(){
+  const host = document.getElementById("knMatrix"); if(!host) return; host.innerHTML = "";
+  const cells = cellsNow();
+  if(!cells.length){ host.innerHTML = `<p class="caption">No question has that many papers under these filters.</p>`; document.getElementById("knBody").innerHTML=""; return; }
+  const tot = (key, id) => cells.filter(c => c[key]===id).reduce((s,c)=>s+c.n, 0);
+  const rows = [...new Set(cells.map(c=>c.tr))].sort((a,b)=>tot("tr",b)-tot("tr",a));
+  const cols = [...new Set(cells.map(c=>c.ou))].sort((a,b)=>tot("ou",b)-tot("ou",a));
+  const at = Object.fromEntries(cells.map(c=>[c.tr+"|"+c.ou, c]));
+  const M = {l:218, t:132, r:12, b:12}, cw = 46, rh = 26;
+  const W = M.l + cols.length*cw + M.r, H = M.t + rows.length*rh + M.b;
+  const maxN = d3.max(cells, c=>c.n);
+  const svg = d3.select(host).append("svg").attr("class","chart hm").attr("width",W).attr("height",H);
+  cols.forEach((o,i) => svg.append("text").attr("transform",`translate(${M.l+i*cw+cw/2},${M.t-8}) rotate(-42)`).attr("class","lbl").text(OUL(o)));
+  rows.forEach((t,j) => {
+    svg.append("text").attr("x",M.l-8).attr("y",M.t+j*rh+rh/2).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl")
+      .text(TRL(t).length>32?TRL(t).slice(0,31)+"…":TRL(t));
+    cols.forEach((o,i) => {
+      const c = at[t+"|"+o];
+      const x = M.l+i*cw+1, y = M.t+j*rh+1;
+      if(!c){ svg.append("rect").attr("x",x).attr("y",y).attr("width",cw-2).attr("height",rh-2).attr("rx",2).attr("fill",cssVar("--seq0")).attr("opacity",0.35); return; }
+      const L = lean(c.dir), split = Math.min(c.dir.pos,c.dir.neg) + (c.dir.null>=2?c.dir.null:0);
+      const disagree = c.n>=4 && split>=2 && L.ag<=0.8;
+      svg.append("rect").attr("x",x).attr("y",y).attr("width",cw-2).attr("height",rh-2).attr("rx",2)
+        .attr("fill",`var(${DIRN[L.dir][1]})`).attr("opacity", 0.3 + 0.7*Math.max(0.25, L.ag) * (0.55+0.45*Math.sqrt(c.n/maxN)))
+        .attr("stroke", disagree?cssVar("--ink"):"none").attr("stroke-width",1.5).attr("stroke-dasharray", disagree?"3,2":null)
+        .style("cursor","pointer")
+        .on("mousemove", ev => showTip(ev, `<div class="tt">${esc(TRL(t))} → ${esc(OUL(o))}</div>`
+          + `<div class="ts">${c.n} papers · ${c.dir.pos} raises, ${c.dir.neg} lowers, ${c.dir.null} no effect, ${c.dir.mixed} mixed</div>`
+          + `<div class="ts">${c.nCt} ${c.nCt===1?"country":"countries"} · ${c.nCred} credible designs · ${c.fr} since 2015${disagree?" · <b>disagreement</b>":""}</div>`))
+        .on("mouseleave", hideTip).on("click", () => { hideTip(); KN.sel = t+"|"+o; knBody(c); });
+      svg.append("text").attr("x",x+(cw-2)/2).attr("y",y+(rh-2)/2).attr("dy","0.35em").attr("text-anchor","middle")
+        .attr("class","num").style("font-size","11px").style("pointer-events","none")
+        .style("fill", L.ag>0.55 && c.n>maxN*0.25 ? "#fff" : cssVar("--ink")).text(c.n);
+    });
+  });
+  const keep = KN.sel && at[KN.sel];
+  knBody(keep || cells[0]);
+}
+
+function knBody(c){
+  const el = document.getElementById("knBody"); if(!el) return;
+  KN.sel = c.tr+"|"+c.ou;
+  const L = lean(c.dir);
+  const byDir = w => c.pids.filter(id => CARD(id).direction===w);
+  const bar = [["pos",c.dir.pos],["neg",c.dir.neg],["null",c.dir.null],["mixed",c.dir.mixed]].filter(([,n])=>n);
+  const mags = c.pids.flatMap(id => (CARD(id).magnitudes||[]).map(m=>({id,m}))).slice(0,80);
+  const row = id => { const k = CARD(id), p = P[id], d=(k.identification||{});
+    return `<tr data-pid="${id}"><td class="num">${p.y||""}</td><td>${esc(p.au)}</td>
+      <td><span class="chip" style="background:var(${DIRN[k.direction][1]});color:#fff;border:0">${DIRN[k.direction][0]}</span></td>
+      <td style="color:var(--ink-2)">${esc(k.outcome_desc||"—")}</td>
+      <td>${esc(d.design||"—")}</td><td>${esc(setStr(k.setting)||"—")}</td>
+      <td class="num">${(k.magnitudes||[]).map(magStr).join(", ")||"—"}</td>
+      <td>${esc(k.claim||p.fd||"")}</td></tr>`; };
+  el.innerHTML = `<div class="panel">
+    <div class="eyebrow">${esc(TRL(c.tr))} → ${esc(OUL(c.ou))}</div>
+    <h3>${esc(cellQ(c.tr,c.ou))}</h3>
+    <div class="finding-box"><b>The ledger.</b> ${c.n} papers. ${c.dir.pos} find the outcome goes up, ${c.dir.neg} that it goes down, ${c.dir.null} find no effect, ${c.dir.mixed} report mixed signs.
+      ${L.ag>=0.8?`The signs point one way, but an outcome family covers several measures, so read the column below before calling it settled.`:`The signs divide. Whether that is real disagreement or just different measures is tested in <button class="linkbtn" data-goc="1">what is contested</button>, which only counts papers measuring the same thing.`}
+      Spread over ${c.nCt} ${c.nCt===1?"country":"countries"}${c.nCt<=1?" only, so it has not been shown to travel":""}; ${c.nCred} of ${c.n} use a credible design; ${c.fr} published 2015 or later.</div>
+    <div class="scroll-x" style="margin:10px 0"><div style="display:flex;height:16px;border-radius:3px;overflow:hidden;min-width:220px;max-width:460px">
+      ${bar.map(([k,n])=>`<div title="${n} ${DIRN[k][0]}" style="width:${100*n/c.n}%;background:var(${DIRN[k][1]})"></div>`).join("")}</div></div>
+    ${Object.keys(c.de).length?`<p style="font-size:13.5px;margin:4px 0 0"><b>Designs.</b> ${Object.entries(c.de).map(([d,n])=>`${esc(D.designs[d]||d)} (${n})`).join(" · ")}</p>`:""}
+    ${c.ct.length?`<p style="font-size:13.5px;margin:4px 0 0"><b>Settings.</b> ${c.ct.map(esc).join(" · ")}</p>`:""}
+    ${mags.length>=3?`<h4 style="margin-top:16px">Reported magnitudes</h4><div class="scroll-x" id="knMags"></div>`:""}
+    <h4 style="margin-top:16px">Paper by paper</h4>
+    <div class="scroll-x"><table class="ledger"><thead><tr><th>Year</th><th>Authors</th><th>Direction</th><th>What was measured</th><th>Design</th><th>Setting</th><th>Size</th><th>What it found</th></tr></thead>
+      <tbody>${c.pids.map(row).join("")}</tbody></table></div>
+  </div>`;
+  el.querySelectorAll("tr[data-pid]").forEach(r => r.addEventListener("click", () => openPaper(+r.dataset.pid)));
+  const gc = el.querySelector("[data-goc]"); if(gc) gc.addEventListener("click", () => go("contested"));
+  if(mags.length>=3) drawMagStrip("knMags", mags);
+}
+
+/* Dot strip of reported effect sizes, one lane per unit (they are not comparable across units). */
+function drawMagStrip(hostId, mags){
+  const host = document.getElementById(hostId); if(!host) return; host.innerHTML="";
+  const units = [...new Set(mags.map(x=>x.m.unit))];
+  const W = Math.max(520, host.clientWidth||600), M={l:62,r:18,t:10,b:22}, lane=34;
+  const H = M.t + units.length*lane + M.b;
+  const svg = d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  units.forEach((u,i) => {
+    const vs = mags.filter(x=>x.m.unit===u);
+    const ex = d3.extent(vs, x=>x.m.value), pad = Math.max(1e-6,(ex[1]-ex[0])*0.08) || 1;
+    const x = d3.scaleLinear().domain([Math.min(0,ex[0]-pad), Math.max(0,ex[1]+pad)]).range([M.l,W-M.r]);
+    const y = M.t + i*lane + lane/2;
+    svg.append("text").attr("x",M.l-8).attr("y",y).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").text(UNITL[u]||u);
+    svg.append("line").attr("x1",M.l).attr("x2",W-M.r).attr("y1",y).attr("y2",y).attr("stroke",cssVar("--rule"));
+    if(x.domain()[0]<0 && x.domain()[1]>0) svg.append("line").attr("x1",x(0)).attr("x2",x(0)).attr("y1",y-11).attr("y2",y+11).attr("stroke",cssVar("--ink-2")).attr("stroke-dasharray","2,2");
+    svg.append("g").attr("class","axis").attr("transform",`translate(0,${M.t+i*lane+lane-6})`).call(d3.axisBottom(x).ticks(5).tickSizeOuter(0));
+    svg.append("g").selectAll("circle").data(vs).join("circle")
+      .attr("cx",d=>x(d.m.value)).attr("cy",y).attr("r",4.5)
+      .attr("fill",d=>`var(${DIRN[CARD(d.id).direction][1]})`).attr("stroke",cssVar("--surface")).attr("stroke-width",1.3)
+      .style("cursor","pointer")
+      .on("mousemove",(ev,d)=>showTip(ev, paperTip(P[d.id]) + `<div class="ts"><b>${magStr(d.m)}</b> on ${esc(d.m.outcome||"the outcome")}</div>`))
+      .on("mouseleave",hideTip).on("click",(ev,d)=>openPaper(d.id));
+  });
+}
+
+/* ---------- What is contested ---------- */
+RENDER.contested = function(){
+  const v = document.getElementById("v-contested");
+  const cs = EV.contested;
+  v.innerHTML = `
+  <div class="section">
+    <h2>What is contested</h2>
+    <div class="intro">${EV.contestedIntro}</div>
+  </div>
+  ${cs.length? cs.map((c,i) => contestedCard(c,i)).join("") : `<div class="section panel"><p class="caption">No question in the atlas yet has enough papers on both sides to count as contested.</p></div>`}`;
+  v.querySelectorAll("tr[data-pid],button[data-pid]").forEach(r => r.addEventListener("click", () => openPaper(+r.dataset.pid)));
+  v.querySelectorAll("[data-cell]").forEach(b => b.addEventListener("click", () => { const [t,o]=b.dataset.cell.split("|"); KN.sel=b.dataset.cell; KN.minN=1; go("known"); }));
+};
+
+function contestedCard(c, i){
+  const sides = [["pos",c.pos],["neg",c.neg],["nul",c.nul],["mixed",c.mix]].filter(([,ps])=>ps&&ps.length);
+  const key = {pos:"pos",neg:"neg",nul:"null",mixed:"mixed"};
+  const dOf = id => (CARD(id).identification||{}).design || "—";
+  // What separates the sides: the dimensions on which the two camps differ most.
+  const diff = [];
+  const cmp = (a,b,f) => { const A=new Set(a.map(f).filter(Boolean)), B=new Set(b.map(f).filter(Boolean));
+    return [...A].filter(x=>!B.has(x)); };
+  if(c.pos.length && c.neg.length){
+    const dp = cmp(c.pos,c.neg,dOf), dn = cmp(c.neg,c.pos,dOf);
+    if(dp.length||dn.length) diff.push(`<b>Design.</b> ${dp.length?`only the "raises" side uses ${dp.map(esc).join(", ")}`:""}${dp.length&&dn.length?"; ":""}${dn.length?`only the "lowers" side uses ${dn.map(esc).join(", ")}`:""}`);
+    const yp = d3.median(c.pos.map(id=>P[id].y).filter(Boolean)), yn = d3.median(c.neg.map(id=>P[id].y).filter(Boolean));
+    if(yp && yn && Math.abs(yp-yn) >= 6) diff.push(`<b>Period.</b> the "${yp>yn?"raises":"lowers"}" side is the more recent work (median ${Math.max(yp,yn)} against ${Math.min(yp,yn)})`);
+    const cp = cmp(c.pos,c.neg,id=>(CARD(id).setting.countries||[])[0]), cn = cmp(c.neg,c.pos,id=>(CARD(id).setting.countries||[])[0]);
+    if(cp.length && cn.length) diff.push(`<b>Setting.</b> ${cp.slice(0,3).map(esc).join(", ")} against ${cn.slice(0,3).map(esc).join(", ")}`);
+  }
+  const row = id => { const k=CARD(id), p=P[id];
+    return `<tr data-pid="${id}"><td class="num">${p.y||""}</td><td>${esc(p.au)}</td><td style="color:var(--ink-2)">${esc(k.outcome_desc||"—")}</td><td>${esc(dOf(id))}</td>
+      <td>${esc(setStr(k.setting)||"—")}</td><td class="num">${(k.magnitudes||[]).map(magStr).join(", ")||"—"}</td>
+      <td>${esc(k.claim||p.fd||"")}</td>${k.scope?`<td style="color:var(--ink-2)">${esc(k.scope)}</td>`:"<td></td>"}</tr>`; };
+  return `<div class="section panel">
+    <div class="eyebrow">Contested ${String(i+1).padStart(2,"0")} · ${c.n} papers · ${Math.round(100*(1-(c.ag||0)))}% against the majority</div>
+    <h3>${esc(cellQ(c.tr,c.ou))}</h3>
+    ${c.label?`<p class="caption" style="margin:0 0 6px">These papers disagree while measuring the same thing — their outcome descriptions share <b>${esc(c.label)}</b>. Papers in this cell that measure something else are not counted against them.</p>`:""}
+    <div class="scroll-x" style="margin:6px 0 10px"><div style="display:flex;height:16px;border-radius:3px;overflow:hidden;min-width:220px;max-width:460px">
+      ${sides.map(([k,ps])=>`<div title="${ps.length} ${DIRN[key[k]][0]}" style="width:${100*ps.length/c.n}%;background:var(${DIRN[key[k]][1]})"></div>`).join("")}</div></div>
+    <p style="font-size:14px;margin:0 0 8px">${sides.map(([k,ps])=>`<span class="chip"><span class="dot" style="background:var(${DIRN[key[k]][1]})"></span>${ps.length} ${DIRN[key[k]][0]}</span>`).join(" ")}
+      <button class="linkbtn" data-cell="${c.tr}|${c.ou}">see the full cell →</button></p>
+    ${diff.length?`<div class="callout"><b>What separates them.</b><ul style="margin:6px 0 0;padding-left:18px">${diff.map(d=>`<li style="font-size:13.5px">${d}</li>`).join("")}</ul></div>`:""}
+    ${sides.map(([k,ps]) => `<h4 style="margin-top:14px"><span class="dot" style="background:var(${DIRN[key[k]][1]});display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px"></span>${ps.length} papers: ${DIRN[key[k]][0]}</h4>
+      <div class="scroll-x"><table class="ledger"><thead><tr><th>Year</th><th>Authors</th><th>What was measured</th><th>Design</th><th>Setting</th><th>Size</th><th>What it found</th><th>Scope</th></tr></thead><tbody>${ps.map(row).join("")}</tbody></table></div>`).join("")}
+  </div>`;
+}
+
+/* ---------- Gaps ---------- */
+RENDER.gaps = function(){
+  const v = document.getElementById("v-gaps");
+  const real = c => !["other","theory_only"].includes(c.tr) && !["other","theory_only"].includes(c.ou);
+  const mono = EV.cells.filter(c => real(c) && c.n>=4 && Object.keys(c.de).length===1).sort((a,b)=>b.n-a.n).slice(0,24);
+  const old = EV.cells.filter(c => real(c) && c.n>=4 && c.fr===0).sort((a,b)=>b.n-a.n).slice(0,24);
+  const TH = (EV.gapThemes||[]);
+  v.innerHTML = `
+  <div class="section">
+    <h2>Gaps</h2>
+    <div class="intro">${EV.gapsIntro}</div>
+  </div>
+  ${TH.length?`<div class="section">
+    <h3>What the authors themselves say is missing</h3>
+    <p class="intro">Every paper's own "future research", open questions and acknowledged limits, read out of the PDFs and grouped. A theme named by many papers is a gap the field agrees it has.</p>
+    <div class="grid2" id="gapThemes"></div>
+  </div>`:""}
+  <div class="section panel">
+    <h3>Questions nobody has asked</h3>
+    <p class="caption" style="margin-top:0">A square is dark where a well-studied cause and a well-studied outcome have barely been put together. "Expected" is how many papers the cell would hold if causes and outcomes were studied independently of each other — the shortfall is the hole. These are the cheapest new questions in the field: both halves already have measurement and data.</p>
+    <div class="scroll-x"><table class="ledger"><thead><tr><th>Cause</th><th>Outcome</th><th>Papers</th><th>Expected</th><th>Shortfall</th><th>Cause studied</th><th>Outcome studied</th></tr></thead><tbody>
+      ${EV.thin.map(t=>`<tr${t.pids.length?` data-cellk="${t.tr}|${t.ou}" style="cursor:pointer"`:""}><td>${esc(TRL(t.tr))}</td><td>${esc(OUL(t.ou))}</td><td class="num">${t.n}</td><td class="num">${t.exp}</td><td class="num"><b>${(t.exp-t.n).toFixed(1)}</b></td><td class="num">${t.trN}</td><td class="num">${t.ouN}</td></tr>`).join("")}
+    </tbody></table></div>
+  </div>
+  <div class="section grid2">
+    <div class="panel"><h3>Claims that have not travelled</h3>
+      <p class="caption" style="margin-top:0">Four or more papers, all in one country. The finding may be right; it has not been shown to hold anywhere else. Replication in a second setting is a publishable contribution with a known denominator.</p>
+      <div class="scroll-x"><table class="ledger"><thead><tr><th>Question</th><th>Papers</th><th>Where</th></tr></thead><tbody>
+        ${EV.travelled.length?"":`<tr><td colspan="3" style="color:var(--muted)">No question with four or more papers is confined to one country.</td></tr>`}${EV.travelled.map(t=>`<tr data-cellk="${t.tr}|${t.ou}" style="cursor:pointer"><td>${esc(TRL(t.tr))} → ${esc(OUL(t.ou))}</td><td class="num">${t.n}</td><td>${esc(t.ct.join(", ")||"—")}</td></tr>`).join("")}
+      </tbody></table></div></div>
+    <div class="panel"><h3>One design doing all the work</h3>
+      <p class="caption" style="margin-top:0">Questions where every paper uses the same identification strategy, so the answer inherits that design's blind spot. A second design is a contribution even with no new data.</p>
+      <div class="scroll-x"><table class="ledger"><thead><tr><th>Question</th><th>Papers</th><th>The only design</th></tr></thead><tbody>
+        ${mono.length?"":`<tr><td colspan="3" style="color:var(--muted)">No question with four or more papers rests on a single design — every one has at least two identification strategies behind it.</td></tr>`}${mono.map(c=>`<tr data-cellk="${c.tr}|${c.ou}" style="cursor:pointer"><td>${esc(TRL(c.tr))} → ${esc(OUL(c.ou))}</td><td class="num">${c.n}</td><td>${esc(D.designs[Object.keys(c.de)[0]]||Object.keys(c.de)[0]||"—")}</td></tr>`).join("")}
+      </tbody></table></div></div>
+  </div>
+  <div class="section panel"><h3>Questions the frontier has left behind</h3>
+    <p class="caption" style="margin-top:0">Four or more papers, none published since 2015. Either the question was settled and the field moved on, or the answer is resting on data and methods that have since been superseded. Worth checking which.</p>
+    <div class="scroll-x"><table class="ledger"><thead><tr><th>Question</th><th>Papers</th><th>Leans</th><th>Most recent data</th></tr></thead><tbody>
+      ${old.length?"":`<tr><td colspan="4" style="color:var(--muted)">No question with four or more papers has gone untouched since 2015.</td></tr>`}${old.map(c=>{const L=lean(c.dir); return `<tr data-cellk="${c.tr}|${c.ou}" style="cursor:pointer"><td>${esc(TRL(c.tr))} → ${esc(OUL(c.ou))}</td><td class="num">${c.n}</td><td>${DIRN[L.dir][0]}</td><td class="num">${c.yMax||"—"}</td></tr>`;}).join("")}
+    </tbody></table></div>
+  </div>`;
+  v.querySelectorAll("[data-cellk]").forEach(r => r.addEventListener("click", () => { KN.sel = r.dataset.cellk; KN.minN = 1; go("known"); }));
+  if(TH.length){
+    document.getElementById("gapThemes").innerHTML = TH.map(t => `<div class="panel" style="margin:0">
+      <div class="eyebrow">${esc(BR[t.branch]?.short||t.branch)} · named by ${t.n} papers${t.maturity?` · ${esc(t.maturity)}`:""}</div>
+      <div style="font-weight:600;font-size:15px">${esc(t.title)}</div>
+      <p style="margin:6px 0;font-size:14px;color:var(--ink-2)">${esc(t.text)}</p>
+      ${t.why?`<p style="margin:6px 0;font-size:13.5px"><b>Why it is open.</b> ${esc(t.why)}</p>`:""}
+      <div style="font-size:13px">${(t.pids||[]).slice(0,6).map(id=>P[id]?`<button class="linkbtn" data-pid="${id}">${esc(P[id].au)} ${P[id].y||""}</button>`:"").filter(Boolean).join(" · ")}</div>
+    </div>`).join("");
+    document.getElementById("gapThemes").querySelectorAll("[data-pid]").forEach(b => b.addEventListener("click", () => openPaper(+b.dataset.pid)));
+  }
+};
 
 /* ---------- 9 Library ---------- */
 const LIB={q:"",fam:"",br:"",lf:"",de:"",rs:"",y0:"",vx:"",scope:"pe",sort:"nc",dir:-1,limit:150};

@@ -1,5 +1,8 @@
 # Large binary/generated data
 pdfs/
+manual_download/
+download_list.csv
+pdfs_rejected/
 text/
 data/pdfs/
 data/cache/
@@ -13,3 +16,12 @@ NUL
 # Zotero import helpers
 zotero_bulk_import.ris
 zotero_dois.txt
+
+# Full-text reading pipeline (derived from the PDFs, regenerable)
+data/fulltext/
+data/fulltext_lite/
+data/read_batches/
+data/cards/
+
+# Gap clustering working files
+data/gap_input/
