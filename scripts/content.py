@@ -59,24 +59,31 @@ EVIDENCE = dict(
           "field's answer sheet: where the signs line up, where they split, and the large empty areas where nobody has asked. "
           "The read is still in progress, so a thin cell may mean the papers are unread rather than unwritten; each paper's "
           "drawer says how it was read and how confident the coding is.",
-    contestedIntro="Questions where papers <b>measuring the same thing</b> reach opposite answers. A sign only means "
-                   "something against a specific measure, so a turnout study is never counted as contradicting a vote-share "
-                   "study: a pair counts here only when one paper finds an increase, another a decrease or no effect, and their "
-                   "descriptions of what they measured overlap. Disagreement is rarely noise &mdash; it is usually a design, "
-                   "period or setting difference, and each panel says which. For a research agenda these are the best targets in "
-                   "the atlas, because the contribution is defined before the work starts: a design that discriminates between "
-                   "the two camps, in a setting that breaks the tie.",
-    gapsIntro="Four kinds of gap, in rising order of how much the field would thank you. A <b>hole</b> is a cause and an outcome "
-              "both well measured that nobody has crossed. A claim that <b>has not travelled</b> rests on one country. A "
-              "<b>design monoculture</b> inherits one strategy's blind spot. And a question the <b>frontier left behind</b> may "
-              "have been settled on data since superseded. The first block is different: it is what the authors themselves wrote "
-              "down as unknown, in their own conclusions, grouped so you can see which gaps the field names repeatedly.",
+    contestedIntro="Questions where papers measuring the same thing reach opposite answers &mdash; and the list is short "
+                   "on purpose. Finding them takes two stages. First an automatic test: a pair counts only when one paper "
+                   "finds an increase and another a decrease or no effect, <i>and</i> their descriptions of what they measured "
+                   "overlap, so a turnout study is never counted against a vote-share study. That test alone proposed 26 "
+                   "candidates. Reading them paper by paper kept <b>7</b>. Thirteen were not one question at all (&lsquo;"
+                   "information to voters&rsquo; bundles turnout drives, corruption disclosures and persuasion experiments), "
+                   "and six were the same finding framed from opposite ends &mdash; &lsquo;mayors eligible for re-election "
+                   "steal less&rsquo; and &lsquo;second-term mayors steal more&rsquo; carry opposite signs and agree "
+                   "completely. What survives is worth your attention precisely because three quarters of the candidates did "
+                   "not: each one is a contribution defined before the work starts, a design that discriminates between the "
+                   "camps in a setting that breaks the tie.",
+    gapsIntro="This page reads the literature for what it has <i>not</i> done. The panel below gathers every opening into one "
+              "ranked list; the sections after it are the raw material, each a different kind of absence. "
+              "<b>What the authors say is missing</b> is the field's own words, taken from ~2,500 open questions written in "
+              "their conclusions and grouped so you can see which ones recur. A <b>hole</b> is a cause and an outcome both well "
+              "measured that nobody has crossed, with the conceptual non-starters removed by hand. A claim that <b>has not "
+              "travelled</b> rests on a single country. A <b>design monoculture</b> inherits one strategy's blind spot. And a "
+              "question the <b>frontier left behind</b> may have been settled on data since superseded. "
+              "Nothing here is a verdict on what is worth doing &mdash; it is where the evidence stops.",
 )
 
 DESIGNS = {
     "RCT": "Field experiment (RCT)", "NatExp": "Natural experiment / lottery", "RD": "Regression discontinuity",
     "DiD": "Difference-in-differences / event study", "IV": "Instrumental variables", "Panel": "Panel / fixed effects",
-    "XC": "Cross-country", "Struct": "Structural estimation", "Survey": "Survey / list experiment", "Lab": "Lab or lab-in-the-field",
+    "XC": "Cross-country", "Obs": "Cross-sectional / selection on observables", "Struct": "Structural estimation", "Survey": "Survey / list experiment", "Lab": "Lab or lab-in-the-field",
     "Hist": "Historical / archival", "Text": "Text as data", "Desc": "Descriptive / measurement", "Theory": "Theory",
     "Review": "Review / survey article", "Book": "Book",
 }

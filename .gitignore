@@ -25,3 +25,6 @@ data/cards/
 
 # Gap clustering working files
 data/gap_input/
+
+# Gap-analysis working outputs (regenerable from the cards)
+data/sign_fixes.jsonl

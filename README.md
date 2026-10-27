@@ -4,7 +4,7 @@ An interactive map of the political-economy literature as top PhD programmes tea
 
 **Live site:** https://marcelopiemonteribeiro.github.io/polecon-frontier-atlas/
 
-Tabs: overview (journals, canon vs frontier), **what is known** (the evidence matrix), **what is contested**, **gaps**, build a review (pick topics, mechanisms, filters and your questions; get a structured review, Markdown, PDF, or a prompt that lets Claude/ChatGPT write it from the coded evidence), literature tree with cross-topic links, mechanism tree, models → evidence, citation network, who writes it (coauthor network, institutions, affiliation map), when & where (publication waves and study settings through time), courses, library.
+Tabs: overview (journals, canon vs frontier), **what is known** (the evidence matrix), **what is contested**, **how it evolved**, **gaps**, build a review (pick topics, mechanisms, filters and your questions; get a structured review, Markdown, PDF, or a prompt that lets Claude/ChatGPT write it from the coded evidence), literature tree with cross-topic links, mechanism tree, models → evidence, citation network, who writes it (coauthor network, institutions, affiliation map), when & where (publication waves and study settings through time), courses, library.
 
 Metadata from Crossref and OpenAlex; citation links from OpenAlex reference lists. Classification and the one-line findings are the author's own reading; treat verdicts as a reader's map, not a meta-analysis. Publisher abstracts are not included in this public copy.
 
@@ -20,6 +20,23 @@ say is settled, contested and still open.
 
 A **causal question** is one cause crossed with one outcome (information to voters against turnout,
 quotas against spending). The matrix is the field's answer sheet; the empty cells are the gap map.
+
+The four evidence tabs answer four different questions:
+
+| tab | what it answers |
+|---|---|
+| **What is known** | For any cause-and-outcome pair: how many papers asked, which way they came out, in how many countries, with what designs, and at what magnitudes. |
+| **What is contested** | Where papers *measuring the same thing* disagree, with a computed account of what separates the camps (design, period, setting) and a hand-written note on each. |
+| **How it evolved** | How the field learned to identify things (design mix by period), which answers have moved against the older evidence, and how each canonical model stands against the evidence that tests it, including the lag from model to first test. |
+| **Gaps** | A ranked board of openings across four kinds — live disagreements, structural holes, untested or contradicted models, and the field's own ~2,500 stated open questions clustered into themes. |
+
+Two of those outputs are vetted by a reading pass rather than left to arithmetic, because arithmetic
+gets them wrong in a specific way. Contested entries are checked for **treatment polarity**: a card
+signs the effect of the cause *as its paper framed it*, so "mayors eligible for re-election steal
+less" and "second-term mayors steal more" are the same finding with opposite signs, and counting them
+as disagreement is an artifact. Structural holes are checked for pairings that make no conceptual
+sense, or that a neighbouring cell already covers under a different label. Verdicts live in
+`data/contested_verdicts.jsonl` and `data/hole_verdicts.jsonl`; the aggregator applies them.
 
     python -P scripts/15_fulltext.py              # slice every PDF into its findings-bearing sections
     python -P scripts/15_fulltext.py --verify     # check each PDF really holds the paper its cid names

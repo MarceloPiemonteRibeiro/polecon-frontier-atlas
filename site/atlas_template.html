@@ -256,6 +256,7 @@ button.chip[aria-pressed="false"]{opacity:.45}
   <section class="view" id="v-overview" data-title="Overview"></section>
   <section class="view" id="v-known" data-title="What is known" hidden></section>
   <section class="view" id="v-contested" data-title="What is contested" hidden></section>
+  <section class="view" id="v-evo" data-title="How it evolved" hidden></section>
   <section class="view" id="v-gaps" data-title="Gaps" hidden></section>
   <section class="view" id="v-review" data-title="Build a review" hidden></section>
   <section class="view" id="v-tree" data-title="Literature tree" hidden></section>
@@ -417,8 +418,8 @@ function paperRow(p, extra=""){ return `<div class="prow" data-pid="${p.id}" tab
 function wireRows(root){ root.querySelectorAll("[data-pid]").forEach(r => { r.addEventListener("click", () => openPaper(+r.dataset.pid)); r.addEventListener("keydown", e => { if(e.key==="Enter") openPaper(+r.dataset.pid); }); }); }
 
 /* ---------- tabs / routing ---------- */
-const VIEWS = [["overview","Overview"],["known","What is known"],["contested","What is contested"],["gaps","Gaps"],["review","Build a review"],["tree","Literature tree"],["mtree","Mechanism tree"],["mechanisms","Models → evidence"],["network","Citation network"],["authors","Who writes it"],["timeline","When & where"],["courses","Courses"],["agenda","Your agenda"],["library","Library"]]
-  .filter(v => (v[0]!=="agenda"||D.agenda) && (!["known","contested","gaps"].includes(v[0]) || (D.ev&&D.ev.cells.length)));
+const VIEWS = [["overview","Overview"],["known","What is known"],["contested","What is contested"],["evo","How it evolved"],["gaps","Gaps"],["review","Build a review"],["tree","Literature tree"],["mtree","Mechanism tree"],["mechanisms","Models → evidence"],["network","Citation network"],["authors","Who writes it"],["timeline","When & where"],["courses","Courses"],["agenda","Your agenda"],["library","Library"]]
+  .filter(v => (v[0]!=="agenda"||D.agenda) && (!["known","contested","evo","gaps"].includes(v[0]) || (D.ev&&D.ev.cells.length)));
 const tabs = document.getElementById("tabs");
 const rendered = {};
 VIEWS.forEach(([id,label],i) => { const b = document.createElement("button"); b.className="tab"; b.role="tab"; b.id="t-"+id; b.innerHTML=`<span class="k">${String(i+1).padStart(2,"0")}</span>${label}`; b.addEventListener("click", () => go(id)); tabs.appendChild(b); });
@@ -1089,7 +1090,7 @@ RENDER.known = function(){
   </div>
   <div class="section panel">
     <h3>The evidence matrix</h3>
-    <p class="caption" style="margin-top:0">Each row is something that varies — a reform, a shock, an institution. Each column is something measured. A square is one causal question: its colour says which way the evidence leans, its number is how many papers asked it, and a dashed edge marks a question where the papers disagree. Empty space is unasked. Click a square to read the ledger.</p>
+    <p class="caption" style="margin-top:0">Each row is something that varies — a reform, a shock, an institution. Each column is something measured. Both are <b>families</b>: "information to voters" holds turnout drives, corruption disclosures and persuasion experiments together, so a square counts how much work exists on a pair rather than how much agreement there is about one question. A square is one causal question: its colour says which way the evidence leans, its number is how many papers asked it, and a dashed edge marks a question where the papers disagree. Empty space is unasked. Click a square to read the ledger.</p>
     <div class="net-controls">
       <label class="field">Minimum papers <select id="knMin">${[1,2,3,5,8].map(n=>`<option value="${n}"${n===KN.minN?" selected":""}>${n}</option>`).join("")}</select></label>
       <label class="field"><input type="checkbox" id="knFr"${KN.fr?" checked":""}> Only papers published 2015 or later</label>
@@ -1168,7 +1169,7 @@ function knBody(c){
     <div class="eyebrow">${esc(TRL(c.tr))} → ${esc(OUL(c.ou))}</div>
     <h3>${esc(cellQ(c.tr,c.ou))}</h3>
     <div class="finding-box"><b>The ledger.</b> ${c.n} papers. ${c.dir.pos} find the outcome goes up, ${c.dir.neg} that it goes down, ${c.dir.null} find no effect, ${c.dir.mixed} report mixed signs.
-      ${L.ag>=0.8?`The signs point one way, but an outcome family covers several measures, so read the column below before calling it settled.`:`The signs divide. Whether that is real disagreement or just different measures is tested in <button class="linkbtn" data-goc="1">what is contested</button>, which only counts papers measuring the same thing.`}
+      ${L.ag>=0.8?`The signs point one way, but read the ledger before calling it settled: a row here is a <i>family</i> of causes and a column a family of measures.`:`The signs divide &mdash; but a reading pass found that most apparent disagreement in this atlas is not disagreement at all, so check <button class="linkbtn" data-goc="1">what is contested</button>, which keeps only the questions that survived it.`}
       Spread over ${c.nCt} ${c.nCt===1?"country":"countries"}${c.nCt<=1?" only, so it has not been shown to travel":""}; ${c.nCred} of ${c.n} use a credible design; ${c.fr} published 2015 or later.</div>
     <div class="scroll-x" style="margin:10px 0"><div style="display:flex;height:16px;border-radius:3px;overflow:hidden;min-width:220px;max-width:460px">
       ${bar.map(([k,n])=>`<div title="${n} ${DIRN[k][0]}" style="width:${100*n/c.n}%;background:var(${DIRN[k][1]})"></div>`).join("")}</div></div>
@@ -1216,7 +1217,7 @@ RENDER.contested = function(){
   v.innerHTML = `
   <div class="section">
     <h2>What is contested</h2>
-    <div class="intro">${EV.contestedIntro}</div>
+    <div class="intro">${EV.contestedIntro}${(EV.vetted&&EV.vetted.contestedTotal)?`<p style="margin:10px 0 0;font-size:14px"><b>${EV.vetted.contested} of the ${EV.vetted.contestedTotal}</b> questions below carry a hand-written note on what actually divides their papers${EV.vetted.contested<EV.vetted.contestedTotal?"; the others passed the automatic test but have not yet been read, so treat them more cautiously":""}.</p>`:""}</div>
   </div>
   ${cs.length? cs.map((c,i) => contestedCard(c,i)).join("") : `<div class="section panel"><p class="caption">No question in the atlas yet has enough papers on both sides to count as contested.</p></div>`}`;
   v.querySelectorAll("tr[data-pid],button[data-pid]").forEach(r => r.addEventListener("click", () => openPaper(+r.dataset.pid)));
@@ -1246,6 +1247,7 @@ function contestedCard(c, i){
   return `<div class="section panel">
     <div class="eyebrow">Contested ${String(i+1).padStart(2,"0")} · ${c.n} papers · ${Math.round(100*(1-(c.ag||0)))}% against the majority</div>
     <h3>${esc(cellQ(c.tr,c.ou))}</h3>
+    ${c.why?`<div class="callout" style="margin:0 0 8px"><b>Why they differ.</b> ${esc(c.why)}</div>`:""}
     ${c.label?`<p class="caption" style="margin:0 0 6px">These papers disagree while measuring the same thing — their outcome descriptions share <b>${esc(c.label)}</b>. Papers in this cell that measure something else are not counted against them.</p>`:""}
     <div class="scroll-x" style="margin:6px 0 10px"><div style="display:flex;height:16px;border-radius:3px;overflow:hidden;min-width:220px;max-width:460px">
       ${sides.map(([k,ps])=>`<div title="${ps.length} ${DIRN[key[k]][0]}" style="width:${100*ps.length/c.n}%;background:var(${DIRN[key[k]][1]})"></div>`).join("")}</div></div>
@@ -1255,6 +1257,210 @@ function contestedCard(c, i){
     ${sides.map(([k,ps]) => `<h4 style="margin-top:14px"><span class="dot" style="background:var(${DIRN[key[k]][1]});display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px"></span>${ps.length} papers: ${DIRN[key[k]][0]}</h4>
       <div class="scroll-x"><table class="ledger"><thead><tr><th>Year</th><th>Authors</th><th>What was measured</th><th>Design</th><th>Setting</th><th>Size</th><th>What it found</th><th>Scope</th></tr></thead><tbody>${ps.map(row).join("")}</tbody></table></div>`).join("")}
   </div>`;
+}
+
+/* ---------- How it evolved ---------- */
+/* Three questions a reader choosing a research agenda actually asks: how did this field learn to
+   identify things, which of its answers have changed, and which canonical models nobody has tested. */
+const ERAS = [[0,1989,"to 1989"],[1990,1999,"1990s"],[2000,2009,"2000s"],[2010,2014,"2010-14"],[2015,2019,"2015-19"],[2020,2099,"2020-"]];
+const DESIGN_ORDER = ["RCT","RD","DiD","IV","NatExp","Struct","Panel","Obs","XC","Survey","Lab","Text","Hist","Desc"];
+
+RENDER.evo = function(){
+  const v = document.getElementById("v-evo");
+  v.innerHTML = `
+  <div class="section">
+    <h2>How it evolved</h2>
+    <div class="intro">${EV.evoIntro}</div>
+  </div>
+  <div class="section panel">
+    <h3>How this literature learned to identify things</h3>
+    <p class="caption" style="margin-top:0">Share of each period's empirical papers by identification strategy, from the full-text read. The credibility revolution is visible as a composition change, not a volume change: experiments and discontinuity designs displace cross-sectional regression. A design's share tells you what a referee now expects.</p>
+    <div class="net-legend" id="evoDesLegend" style="margin-bottom:8px"></div>
+    <div class="scroll-x" id="evoDesign"></div>
+  </div>
+  <div class="section panel">
+    <h3>Questions whose answer moved</h3>
+    <p class="caption" style="margin-top:0">Each row is one causal question. A dot is a paper, placed by publication year and coloured by what it found. Rows are sorted by how much the balance of findings shifted between the earlier and later halves of a question’s literature: at the top are the questions where recent work points the other way from the older work. Those are the live ones. Only questions with six or more dated papers appear, because a reversal measured on four papers is two against two. Click a dot to read the paper, or the row label for the full ledger.</p>
+    <div class="scroll-x" id="evoLanes"></div>
+  </div>
+  <div class="section panel">
+    <h3>Canonical models against the evidence that tests them</h3>
+    <p class="caption" style="margin-top:0">For each workhorse model: when it was written, how many empirical papers in this atlas speak to it, how they came out, and the median lag between the model and its tests. Two flags matter for choosing work. <b>Least tested</b> marks the quarter of models with the least evidence behind them: a gap with a ready-made theoretical frame, where the most expensive part of a paper is already published and cited. <b>Model in play</b> marks a model a fifth or more of its tests contradict &mdash; the theory itself is the open question, not just its parameters. Click a row for the full evidence ledger.</p>
+    <div class="scroll-x" id="evoMech"></div>
+  </div>`;
+  drawEvoDesign(); drawEvoLanes(); drawEvoMech();
+  themeListeners.push(() => { if(rendered.evo){ drawEvoDesign(); drawEvoLanes(); drawEvoMech(); } });
+};
+
+// Empirical cards only: a theory paper has no identification strategy to place in an era.
+function evoCards(){
+  return Object.entries(EV.cards).map(([id,k]) => ({id:+id, k, p:P[+id]}))
+    .filter(x => x.p && x.k.confidence!=="none" && !x.k.doubt && x.p.y
+                 && DESIGN_ORDER.includes((x.k.identification||{}).design));
+}
+
+function drawEvoDesign(){
+  const host = document.getElementById("evoDesign"); if(!host) return; host.innerHTML="";
+  const cs = evoCards();
+  const used = DESIGN_ORDER.filter(d => cs.some(x => x.k.identification.design===d));
+  const rows = ERAS.map(([a,b,label]) => {
+    const inEra = cs.filter(x => x.p.y>=a && x.p.y<=b);
+    return {label, n:inEra.length, by:used.map(d => inEra.filter(x=>x.k.identification.design===d).length)};
+  }).filter(r => r.n >= 5);
+  const W = Math.max(560, Math.min(980, host.clientWidth||900)), M={l:78,r:120,t:6,b:26}, rh=30;
+  const H = M.t + rows.length*rh + M.b;
+  const x = d3.scaleLinear().domain([0,1]).range([M.l, W-M.r]);
+  const col = d3.scaleOrdinal().domain(used).range(used.map((d,i)=>cssVar(`--f${i%9}`)));
+  const svg = d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  rows.forEach((r,j) => {
+    svg.append("text").attr("x",M.l-8).attr("y",M.t+j*rh+rh/2).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl").text(r.label);
+    let acc = 0;
+    r.by.forEach((n,i) => {
+      if(!n) return;
+      const w = n/r.n;
+      svg.append("rect").attr("x",x(acc)).attr("y",M.t+j*rh+4).attr("width",Math.max(1,x(acc+w)-x(acc))).attr("height",rh-10)
+        .attr("fill",col(used[i])).style("cursor","pointer")
+        .on("mousemove",ev=>showTip(ev,`<div class="tt">${esc(D.designs[used[i]]||used[i])}</div><div class="ts">${r.label}: ${n} of ${r.n} papers (${Math.round(100*w)}%)</div>`))
+        .on("mouseleave",hideTip);
+      acc += w;
+    });
+    svg.append("text").attr("x",W-M.r+8).attr("y",M.t+j*rh+rh/2).attr("dy","0.35em").attr("class","lbl num").text(`${r.n} papers`);
+  });
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${M.t+rows.length*rh})`)
+    .call(d3.axisBottom(x).ticks(5).tickFormat(d3.format(".0%")).tickSizeOuter(0));
+  document.getElementById("evoDesLegend").innerHTML = used.map((d,i)=>`<span class="chip"><span class="dot" style="background:${cssVar(`--f${i%9}`)}"></span>${esc(D.designs[d]||d)}</span>`).join("");
+}
+
+/* Shift = share of later-half papers on the modal sign of the earlier half, minus that share in the
+   earlier half. Strongly negative means the recent literature has turned against the old answer. */
+function evoShift(pids){
+  const ps = pids.map(id=>({id, y:P[id]?.y, d:CARD(id)?.direction})).filter(x=>x.y && ["pos","neg","null","mixed"].includes(x.d))
+    .sort((a,b)=>a.y-b.y);
+  if(ps.length < 6) return null;
+  const mid = Math.floor(ps.length/2), early = ps.slice(0,mid), late = ps.slice(mid);
+  const share = (arr,w) => arr.length ? arr.filter(x=>x.d===w).length/arr.length : 0;
+  const modal = share(early,"pos") >= share(early,"neg") ? "pos" : "neg";
+  return {ps, shift: share(late,modal) - share(early,modal), modal, cut: late[0].y};
+}
+
+function drawEvoLanes(){
+  const host = document.getElementById("evoLanes"); if(!host) return; host.innerHTML="";
+  const rows = EV.cells.filter(c=>c.n>=6).map(c => ({c, s:evoShift(c.pids)})).filter(r=>r.s)
+    .sort((a,b)=>a.s.shift-b.s.shift).slice(0,22);
+  if(!rows.length){ host.innerHTML='<p class="caption">Not enough dated papers per question yet.</p>'; return; }
+  const W = Math.max(640, Math.min(1000, host.clientWidth||940)), M={l:270,r:140,t:22,b:26}, rh=24;
+  const H = M.t + rows.length*rh + M.b;
+  const yrs = rows.flatMap(r=>r.s.ps.map(p=>p.y));
+  const x = d3.scaleLinear().domain([d3.min(yrs)-1, d3.max(yrs)+1]).range([M.l, W-M.r]);
+  const svg = d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  svg.append("g").attr("class","axis").attr("transform",`translate(0,${M.t+rows.length*rh})`)
+    .call(d3.axisBottom(x).ticks(8).tickFormat(d3.format("d")).tickSizeOuter(0));
+  svg.append("text").attr("x",W-M.r+8).attr("y",M.t-8).attr("class","lbl").style("font-size","11px").text("shift   papers");
+  rows.forEach((r,j) => {
+    const y = M.t + j*rh + rh/2;
+    const lab = `${TRL(r.c.tr)} → ${OUL(r.c.ou)}`;
+    svg.append("text").attr("x",M.l-10).attr("y",y).attr("dy","0.35em").attr("text-anchor","end").attr("class","lbl")
+      .style("cursor","pointer").text(lab.length>42?lab.slice(0,41)+"…":lab)
+      .on("click",()=>{ KN.sel=r.c.tr+"|"+r.c.ou; KN.minN=1; go("known"); })
+      .on("mousemove",ev=>showTip(ev,`<div class="tt">${esc(lab)}</div><div class="ts">click for the full ledger</div>`)).on("mouseleave",hideTip);
+    svg.append("line").attr("x1",M.l).attr("x2",W-M.r).attr("y1",y).attr("y2",y).attr("stroke",cssVar("--rule"));
+    svg.append("g").selectAll("circle").data(r.s.ps).join("circle")
+      .attr("cx",d=>x(d.y)).attr("cy",y).attr("r",4.2)
+      .attr("fill",d=>`var(${DIRN[d.d][1]})`).attr("stroke",cssVar("--surface")).attr("stroke-width",1.2)
+      .style("cursor","pointer")
+      .on("mousemove",(ev,d)=>showTip(ev, paperTip(P[d.id]) + `<div class="ts">${DIRN[d.d][0]} · ${esc((CARD(d.id).outcome_desc||"").slice(0,70))}</div>`))
+      .on("mouseleave",hideTip).on("click",(ev,d)=>openPaper(d.id));
+    const pct = Math.round(100*r.s.shift);
+    svg.append("text").attr("x",W-M.r+8).attr("y",y).attr("dy","0.35em").attr("class","lbl num")
+      .style("fill", pct<=-34?cssVar("--crit"):cssVar("--ink-2")).text(`${pct>0?"+":""}${pct}%`);
+    svg.append("text").attr("x",W-M.r+56).attr("y",y).attr("dy","0.35em").attr("class","lbl num")
+      .style("fill",cssVar("--muted")).text(`n=${r.s.ps.length}`);
+  });
+}
+
+function drawEvoMech(){
+  const host = document.getElementById("evoMech"); if(!host) return; host.innerHTML="";
+  const sc = EV.mechScore || {};
+  const rows = D.mechs.map(m => {
+    const d = sc[m.id] || {};
+    const all = ["supports","refines","contradicts","tests_inconclusive"].flatMap(v => (d[v]||[]).map(id=>({id,v})));
+    const yrs = all.map(x=>P[x.id]?.y).filter(Boolean).sort((a,b)=>a-b);
+    const m0 = (m.modelYears||[]).length ? Math.min(...m.modelYears) : null;
+    return {m, n:all.length, sup:(d.supports||[]).length, ref:(d.refines||[]).length,
+            con:(d.contradicts||[]).length, inc:(d.tests_inconclusive||[]).length,
+            m0, med: yrs.length ? yrs[Math.floor(yrs.length/2)] : null, last: yrs.length?yrs[yrs.length-1]:null};
+  }).sort((a,b)=>a.n-b.n);
+  const cut = rows.length ? rows[Math.floor(rows.length*0.25)].n : 0;
+  rows.forEach(r => { r.thin = r.n <= cut; r.conShare = r.n ? r.con/r.n : 0; });
+  const bar = r => { const t=r.sup+r.ref+r.con+r.inc; if(!t) return '<span style="color:var(--muted)">no test</span>';
+    const seg=[[r.sup,"--good","support"],[r.ref,"--warn","refine"],[r.con,"--crit","contradict"],[r.inc,"--muted","inconclusive"]];
+    return `<span style="display:inline-flex;height:11px;width:112px;border-radius:2px;overflow:hidden;vertical-align:middle">`
+      + seg.filter(s=>s[0]).map(s=>`<span title="${s[0]} ${s[2]}" style="width:${100*s[0]/t}%;background:var(${s[1]})"></span>`).join("")+`</span>`; };
+  host.innerHTML = `<table class="ledger"><thead><tr><th>Canonical model</th><th>Written</th><th>Papers testing it</th><th>How they came out</th><th>Median test</th><th>Lag</th><th>Latest</th></tr></thead><tbody>
+    ${rows.map(r=>`<tr data-mech="${r.m.id}" style="cursor:pointer">
+      <td>${esc(r.m.name)}${r.thin?' <span class="tag" title="In the least-tested quarter of the canonical models: a theoretical frame with comparatively little evidence behind it">least tested</span>':""}${r.conShare>=0.2?' <span class="tag" style="border-color:var(--crit);color:var(--crit)" title="A fifth or more of the papers testing this model contradict it: the model itself is in play">model in play</span>':""}</td>
+      <td class="num">${r.m0||"—"}</td><td class="num">${r.n||0}</td><td>${bar(r)}</td>
+      <td class="num">${r.med||"—"}</td><td class="num">${r.m0&&r.med?(r.med-r.m0)+"y":"—"}</td><td class="num">${r.last||"—"}</td></tr>`).join("")}
+  </tbody></table>`;
+  host.querySelectorAll("tr[data-mech]").forEach(tr => tr.addEventListener("click", () => { go("mechanisms"); selectMech(tr.dataset.mech); }));
+}
+
+/* One ranked list across the four kinds of opening, so a reader choosing a project sees them together
+   rather than having to weigh four separate tables. Scores are ordinal and deliberately simple: the
+   point is a defensible reading order, not a pretense of measurement. */
+function drawAgendaBoard(){
+  const host = document.getElementById("agendaBoard"); if(!host) return;
+  const items = [];
+  (EV.contested||[]).forEach(c => {
+    const sides = [c.pos.length, c.neg.length, c.nul.length].filter(Boolean).length;
+    items.push({score: 60 + c.n + (c.why?6:0), kind:"Live disagreement", tone:"--crit",
+      title: cellQ(c.tr,c.ou),
+      body: c.why || `${c.pos.length} find the outcome rises, ${c.neg.length} that it falls${c.nul.length?`, ${c.nul.length} find nothing`:""}${c.label?`, all measuring ${c.label}`:""}.`,
+      note: `${c.n} papers on ${sides} sides. The contribution is a design that discriminates between them.`,
+      act:["contested", null]});
+  });
+  (EV.thin||[]).filter(t=>t.promise).forEach(t => {
+    items.push({score: 40 + (t.promise||0)*9 + (t.exp - t.n), kind:"Hole", tone:"--accent",
+      title: `${TRL(t.tr)} → ${OUL(t.ou)}`,
+      body: t.why || `Both sides are well studied; their intersection holds ${t.n} paper${t.n===1?"":"s"} against ${t.exp} expected.`,
+      note: `Measurement exists on both halves. Promise ${"★".repeat(t.promise)}`,
+      act:["known", t.tr+"|"+t.ou]});
+  });
+  const sc = EV.mechScore||{};
+  const mech = D.mechs.map(m => { const d=sc[m.id]||{}; const n=Object.values(d).reduce((a,b)=>a+b.length,0);
+    return {m, n, con:(d.contradicts||[]).length}; }).filter(x=>x.n);
+  const cut = mech.length ? mech.map(x=>x.n).sort((a,b)=>a-b)[Math.floor(mech.length*0.25)] : 0;
+  mech.forEach(x => {
+    const inPlay = x.n && x.con/x.n >= 0.2;
+    if(!inPlay && x.n > cut) return;
+    items.push({score: (inPlay?66:44) + Math.max(0, 40-x.n)/2, kind: inPlay?"Model in play":"Least-tested model", tone: inPlay?"--crit":"--warn",
+      title: x.m.name,
+      body: inPlay ? `${x.con} of ${x.n} papers testing this model contradict it, so the theory itself is the open question.`
+                   : `Only ${x.n} papers in the atlas test this model, the thinnest quarter of the canon.`,
+      note: inPlay ? `Canonical statement: ${x.m.models.slice(0,2).join("; ")}.` : `The theoretical frame is published and cited: ${x.m.models.slice(0,2).join("; ")}.`,
+      act:["mechanisms", x.m.id]});
+  });
+  (EV.gapThemes||[]).forEach(t => {
+    const bonus = {"wide-open":16,"needs-new-data":10,"needs-new-design":12,"partly-answered":4}[t.maturity]||0;
+    items.push({score: 30 + Math.min(24, t.n) + bonus, kind:"Stated gap", tone:"--f4",
+      title: t.title, body: t.text || "", note: `${t.n} papers name this${t.maturity?` · ${t.maturity.replace(/-/g," ")}`:""}${t.why?` · ${t.why}`:""}`,
+      act:["tree", null]});
+  });
+  items.sort((a,b)=>b.score-a.score);
+  if(!items.length){ host.innerHTML = '<p class="caption">No openings yet — the gap analysis has not been run.</p>'; return; }
+  host.innerHTML = items.slice(0,24).map((it,i) => `<div class="panel" style="margin:0;border-left:3px solid var(${it.tone})">
+    <div class="eyebrow">${String(i+1).padStart(2,"0")} · ${esc(it.kind)}</div>
+    <div style="font-weight:600;font-size:15px;margin-top:2px">${esc(it.title)}</div>
+    ${it.body?`<p style="margin:6px 0;font-size:14px;color:var(--ink-2)">${esc(it.body)}</p>`:""}
+    <p style="margin:6px 0 0;font-size:13px">${esc(it.note)}</p>
+    ${it.act[0]?`<button class="linkbtn" data-go="${it.act[0]}" data-arg="${it.act[1]||""}">look at the evidence →</button>`:""}
+  </div>`).join("");
+  host.querySelectorAll("[data-go]").forEach(b => b.addEventListener("click", () => {
+    const to = b.dataset.go, arg = b.dataset.arg;
+    if(to==="known" && arg){ KN.sel = arg; KN.minN = 1; }
+    go(to);
+    if(to==="mechanisms" && arg) selectMech(arg);
+  }));
 }
 
 /* ---------- Gaps ---------- */
@@ -1269,16 +1475,21 @@ RENDER.gaps = function(){
     <h2>Gaps</h2>
     <div class="intro">${EV.gapsIntro}</div>
   </div>
+  <div class="section">
+    <h3>Openings, ranked</h3>
+    <p class="intro">Everything below this panel, gathered into one list and ordered by how ready it looks to be worked on. Four kinds of opening, each with a different reason to be attractive: a <b>live disagreement</b> gives you a contribution defined before you start, a <b>hole</b> gives you measurement on both sides already, an <b>untested model</b> gives you the theory already published, and a <b>stated gap</b> is the field telling you in its own words what it wants.</p>
+    <div class="grid2" id="agendaBoard"></div>
+  </div>
   ${TH.length?`<div class="section">
     <h3>What the authors themselves say is missing</h3>
-    <p class="intro">Every paper's own "future research", open questions and acknowledged limits, read out of the PDFs and grouped. A theme named by many papers is a gap the field agrees it has.</p>
+    <p class="intro">Every paper's own "future research", open questions and acknowledged limits &mdash; about 2,500 statements read out of the PDFs and grouped. A theme named by many papers is a gap the field agrees it has. ${(EV.vetted&&EV.vetted.themeBranches.length<12)?`<b>Clustering so far covers ${EV.vetted.themeBranches.map(b=>esc(BR[b]?BR[b].short:b)).join(", ")}</b>; for the other branches the same statements appear, ungrouped, on each sub-literature in the literature tree.`:""}</p>
     <div class="grid2" id="gapThemes"></div>
   </div>`:""}
   <div class="section panel">
     <h3>Questions nobody has asked</h3>
-    <p class="caption" style="margin-top:0">A square is dark where a well-studied cause and a well-studied outcome have barely been put together. "Expected" is how many papers the cell would hold if causes and outcomes were studied independently of each other — the shortfall is the hole. These are the cheapest new questions in the field: both halves already have measurement and data.</p>
-    <div class="scroll-x"><table class="ledger"><thead><tr><th>Cause</th><th>Outcome</th><th>Papers</th><th>Expected</th><th>Shortfall</th><th>Cause studied</th><th>Outcome studied</th></tr></thead><tbody>
-      ${EV.thin.map(t=>`<tr${t.pids.length?` data-cellk="${t.tr}|${t.ou}" style="cursor:pointer"`:""}><td>${esc(TRL(t.tr))}</td><td>${esc(OUL(t.ou))}</td><td class="num">${t.n}</td><td class="num">${t.exp}</td><td class="num"><b>${(t.exp-t.n).toFixed(1)}</b></td><td class="num">${t.trN}</td><td class="num">${t.ouN}</td></tr>`).join("")}
+    <p class="caption" style="margin-top:0">A square is dark where a well-studied cause and a well-studied outcome have barely been put together. "Expected" is how many papers the cell would hold if causes and outcomes were studied independently of each other — the shortfall is the hole. These are among the cheapest new questions in the field: both halves already have measurement and data. ${(EV.vetted&&EV.vetted.holes)?`${EV.vetted.holes} of these have been read by hand and scored for promise (the stars); the rest are still raw arithmetic and some will be conceptual non-starters.`:`<b>These are raw arithmetic and have not yet been read by hand</b>, so treat them as candidates rather than findings &mdash; the independence benchmark is crude and some pairings will make little conceptual sense.`}</p>
+    <div class="scroll-x"><table class="ledger"><thead><tr><th>Cause</th><th>Outcome</th><th>Papers</th><th>Shortfall</th><th>Promise</th><th>Why it is open</th></tr></thead><tbody>
+      ${EV.thin.map(t=>`<tr${t.pids.length?` data-cellk="${t.tr}|${t.ou}" style="cursor:pointer"`:""}><td>${esc(TRL(t.tr))}</td><td>${esc(OUL(t.ou))}</td><td class="num">${t.n}</td><td class="num"><b>${(t.exp-t.n).toFixed(1)}</b></td><td class="num">${t.promise?"★".repeat(t.promise):"—"}</td><td style="color:var(--ink-2)">${esc(t.why||"")}</td></tr>`).join("")}
     </tbody></table></div>
   </div>
   <div class="section grid2">
@@ -1299,6 +1510,7 @@ RENDER.gaps = function(){
       ${old.length?"":`<tr><td colspan="4" style="color:var(--muted)">No question with four or more papers has gone untouched since 2015.</td></tr>`}${old.map(c=>{const L=lean(c.dir); return `<tr data-cellk="${c.tr}|${c.ou}" style="cursor:pointer"><td>${esc(TRL(c.tr))} → ${esc(OUL(c.ou))}</td><td class="num">${c.n}</td><td>${DIRN[L.dir][0]}</td><td class="num">${c.yMax||"—"}</td></tr>`;}).join("")}
     </tbody></table></div>
   </div>`;
+  drawAgendaBoard();
   v.querySelectorAll("[data-cellk]").forEach(r => r.addEventListener("click", () => { KN.sel = r.dataset.cellk; KN.minN = 1; go("known"); }));
   if(TH.length){
     document.getElementById("gapThemes").innerHTML = TH.map(t => `<div class="panel" style="margin:0">

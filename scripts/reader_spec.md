@@ -121,6 +121,10 @@ The paper's title, authors, year, venue and current one-line finding are in the 
 `political_competition` entry of parties, closeness of races, party system structure ·
 `land_property_rights` land reform, titling, tenure systems, property-rights assignment ·
 `foreign_aid` aid, donor programmes, external intervention and state-building ·
+`corruption_as_cause` corruption, rents or misgovernance as the cause rather than the outcome ·
+`election_proximity` nearness or timing of an election: political budget cycles, pre-election periods ·
+`politician_identity` who holds office by gender, caste, ethnicity or religion when it is not a quota
+(a close-election margin, a candidate's background) &mdash; use `quotas_reservation` for quotas and reserved seats ·
 `other`
 
 ### `outcome` — one of (what is measured)
@@ -149,6 +153,7 @@ The paper's title, authors, year, venue and current one-line finding are in the 
 `media_supply` coverage volume, slant, outlet entry and exit, censorship intensity ·
 `civic_participation` social capital, associational membership, civic and community participation, collective action ·
 `institutions_rules` institutions or rules as the outcome: constitutions adopted, property rights, legal change, electoral rules chosen ·
+`environment_resources` forest cover, deforestation, emissions, pollution, water, resource extraction and conservation ·
 `theory_only` no empirical outcome ·
 `other`
 
@@ -156,10 +161,31 @@ The paper's title, authors, year, venue and current one-line finding are in the 
 
 `pos` the treatment raises the outcome · `neg` lowers it · `null` no detectable effect, and the paper
 says so · `mixed` signs differ across outcomes, groups or settings in the paper's own account ·
-`na` theory, review, descriptive or book with no estimated effect ·
+`na` theory, review, descriptive or book with no estimated effect of its own. A model's comparative
+static is not an estimated effect, so a theory paper is `na` even when its proposition carries a sign;
+put the prediction in `claim` and the model's verdict in `mechanisms`. A review that summarises other
+people's results is `na` too — signing it would count the same evidence twice ·
 `unknown` the paper clearly estimates an effect but these slices never say which way it goes.
 
 Code the direction of the paper's **headline** result. Put the rest in `scope`.
+
+**The sign is literal, never a verdict on whether the news is good.** `pos` means the number named in
+`outcome_desc` goes up; `neg` means it goes down. A programme that cuts infant mortality is `neg` on
+"infant mortality", not `pos` for being beneficial. A reform that cuts corruption is `neg` on
+"share of funds misappropriated". An audit that lowers re-election is `neg` on "probability of
+re-election". Nothing about desirability enters the direction field — the whole evidence matrix is
+built by counting these signs against each other, so one reader using "improvement" and another using
+the arithmetic sign makes two papers look like they disagree when they agree.
+
+Two rules follow:
+- **Name the outcome so the sign cannot be misread.** `outcome_desc` must be the measured quantity
+  ("infant mortality per 1,000", "years of schooling"), not the direction of travel
+  ("better health outcomes").
+- **One headline outcome per card.** When a paper moves several outcomes in different arithmetic
+  directions — schooling up *and* infant mortality down — pick the one its abstract leads with, name
+  it in `outcome_desc`, and sign against that one. Put the others in `magnitudes` and `scope`. Use
+  `mixed` only when the paper reports conflicting signs *on the same measure* across groups,
+  settings or specifications.
 
 `unknown` is the honest answer more often than it looks, and it is always better than a guess. Do not
 infer a direction from the title, from the prior one-liner in the batch file, from the topic, or from
@@ -183,8 +209,14 @@ publication. `n_units` is the main estimation sample's unit count, integer, else
 
 ### `identification.design`
 
-Reuse the atlas vocabulary: `RCT`, `NatExp`, `RD`, `DiD`, `IV`, `Panel`, `XC`, `Struct`, `Survey`,
-`Lab`, `Hist`, `Text`, `Desc`, `Theory`, `Review`, `Book`. Pick the one carrying the headline result.
+Reuse the atlas vocabulary: `RCT`, `NatExp`, `RD`, `DiD`, `IV`, `Panel`, `XC`, `Obs`, `Struct`,
+`Survey`, `Lab`, `Hist`, `Text`, `Desc`, `Theory`, `Review`, `Book`. Pick the one carrying the
+headline result.
+
+`XC` means **cross-country** specifically — a regression whose units are countries. A cross-sectional
+regression on districts, towns, firms or individuals inside one country is `Obs` (selection on
+observables), however many controls or robustness checks it carries. Use `Panel` when the identifying
+variation is within-unit over time, and `IV` when an instrument carries the headline result.
 `variation` names the actual source of variation in one clause. `threat` is the identification
 concern **the authors themselves raise**, not yours; `null` if they raise none.
 

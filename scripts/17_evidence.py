@@ -37,6 +37,8 @@ TREAT = {
     "institutional_constraints": "Constitutions, courts & checks", "protest_collective_action": "Protest & collective action",
     "education": "Education", "elite_capture": "Elites & capture", "political_competition": "Political competition",
     "land_property_rights": "Land reform & property rights", "foreign_aid": "Foreign aid & intervention",
+    "corruption_as_cause": "Corruption as a cause", "election_proximity": "Election timing & budget cycles",
+    "politician_identity": "Who holds office (gender, caste, ethnicity)",
     "other": "Other",
 }
 OUTC = {
@@ -52,6 +54,7 @@ OUTC = {
     "clientelism_out": "Clientelism", "human_capital_health": "Human capital & health",
     "migration_mobility": "Migration & mobility", "media_supply": "Media supply & censorship",
     "civic_participation": "Civic participation & social capital", "institutions_rules": "Institutions & rules adopted",
+    "environment_resources": "Environment & natural resources",
     "theory_only": "Theory only", "other": "Other",
 }
 DIRS = ("pos", "neg", "null", "mixed", "na", "unknown")
@@ -62,8 +65,8 @@ VERDICTS = ("supports", "contradicts", "refines", "tests_inconclusive")
 UNITS = ("pct", "pp", "sd", "log", "ratio", "level", "pctile")
 LEVELS = ("cross_country", "country", "region", "state", "district", "municipality", "village", "precinct",
           "school_clinic", "firm", "individual", "politician", "bureaucrat", "legislature", "household", "na")
-DESIGNS = ("RCT", "NatExp", "RD", "DiD", "IV", "Panel", "XC", "Struct", "Survey", "Lab", "Hist", "Text",
-           "Desc", "Theory", "Review", "Book")
+DESIGNS = ("RCT", "NatExp", "RD", "DiD", "IV", "Panel", "XC", "Obs", "Struct", "Survey", "Lab", "Hist",
+           "Text", "Desc", "Theory", "Review", "Book")
 CREDIBLE = {"RCT", "RD", "DiD", "IV", "NatExp", "Struct"}
 MECHS = {"M_median", "M_probvote", "M_moralhazard", "M_selection", "M_career", "M_visibility", "M_citizencand",
          "M_commit", "M_legbargain", "M_contest", "M_lobby", "M_collective", "M_clientelism", "M_fear",
@@ -117,6 +120,11 @@ def clean(c, problems):
     st = c.get("setting") or {}
     if st.get("level") not in LEVELS:
         st["level"] = None
+    # "XC" means cross-country, but readers reached for it to mean any cross-sectional regression, so
+    # 82 of 119 XC cards sat at a sub-national level. A single-country study is not cross-country, and
+    # the distinction matters: the cross-country growth-regression tradition carries its own discount.
+    if ident.get("design") == "XC" and st.get("level") not in (None, "cross_country", "country"):
+        ident["design"] = "Obs"
     cs = [x for x in (st.get("countries") or []) if isinstance(x, str) and 2 <= len(x) <= 40]
     st["countries"] = sorted(dict.fromkeys(cs))
     per = st.get("period")
@@ -267,14 +275,25 @@ def main():
 
     # Papers the readers could not code: wrong PDF, appendix only, book front matter, scanned image.
     # These are download failures masquerading as successes, so they get their own list to re-fetch.
-    unread = [(cid, (c.get("skip_reason") or "no reason given"), P[cid].get("au", ""), P[cid].get("y", ""),
-               P[cid]["t"][:70]) for cid, c in sorted(cards.items()) if c["confidence"] == "none"]
+    # Split by whether the record has a DOI: with one, a re-download can be automated; without one,
+    # the pipeline was guessing from a search, which is exactly where it went wrong most often.
+    unread = [(cid, (c.get("skip_reason") or "no reason given"), P[cid]) for cid, c in sorted(cards.items())
+              if c["confidence"] == "none"]
     if unread:
+        have, guess = [], []
+        for cid, r, p in unread:
+            line = f"{cid} | {r} | {p.get('au','')} | {p.get('y') or '?'} | {p['t'][:70]}"
+            (have if p.get("doi") else guess).append(line)
         (DATA / "bad_sources.txt").write_text(
             "# PDFs that are not the paper their cid names, or carry no readable text.\n"
-            "# cid | reason the reader gave | authors | year | title\n"
-            + "\n".join(f"{c} | {r} | {au} | {y} | {t}" for c, r, au, y, t in unread) + "\n", encoding="utf-8")
-        print(f"{len(unread)} papers unreadable from their PDF -> data/bad_sources.txt (re-download these)")
+            "# cid | reason the reader gave | authors | year | title\n\n"
+            f"## {len(have)} with a DOI - a re-download can be automated\n" + "\n".join(have) +
+            f"\n\n## {len(guess)} with no DOI - these need finding by hand\n"
+            "# Records without a DOI or venue are wrong about 63% of the time against 7% for records\n"
+            "# with both, because the download scripts fell back to picking a search result.\n"
+            + "\n".join(guess) + "\n", encoding="utf-8")
+        print(f"{len({c for c,_,_ in unread})} papers unreadable from their PDF -> data/bad_sources.txt "
+              f"({len(have)} re-downloadable by DOI, {len(guess)} need finding by hand)")
     if a.validate:
         for p in problems[:60]:
             print("  !", p)
@@ -285,8 +304,16 @@ def main():
     nm, nt = trace_magnitudes(cards)
     print(f"magnitudes: {nm}, of which {nt} ({100*nt/max(1,nm):.0f}%) traceable to the paper's own text")
 
+    # A cell counts primary empirical estimates. A model's comparative static and a review's summary of
+    # other people's results are not that: a review signed the same way as the studies it surveys would
+    # count the same evidence twice. Theory keeps its place in the mechanism scoreboard and the drawer.
+    NONEMPIRICAL = {"Theory", "Review", "Book"}
+    nskip = sum(1 for c in cards.values() if c["confidence"] != "none" and c["direction"] not in NOSIGN
+                and (c["identification"].get("design") in NONEMPIRICAL))
     usable = {cid: c for cid, c in cards.items()
-              if c["confidence"] != "none" and c["direction"] not in NOSIGN and not c.get("doubt")}
+              if c["confidence"] != "none" and c["direction"] not in NOSIGN and not c.get("doubt")
+              and c["identification"].get("design") not in NONEMPIRICAL}
+    print(f"{nskip} signed theory/review/book cards kept out of the cells (not primary estimates)")
     nd = sum(1 for c in cards.values() if c.get("doubt") and c["confidence"] != "none")
     print(f"{nd} coded cards held out of the aggregates: their PDF may not be the paper the cid names")
     rank = lambda cid: (-(P[cid]["nc"]), -(P[cid].get("y") or 0))
@@ -383,11 +410,23 @@ def main():
                for (t, o, u), vs in bag.items() if len(vs) >= 4]
     effects.sort(key=lambda e: -e["n"])
 
-    themes = []
+    # ---- the authors' own open questions, clustered into themes by a reading pass ----
+    themes, raw_themes = [], []
     tf = DATA / "gap_themes.json"
     if tf.exists():
-        raw_t = json.loads(tf.read_text(encoding="utf-8"))
-        for t in (raw_t.get("themes") if isinstance(raw_t, dict) else raw_t) or []:
+        raw = json.loads(tf.read_text(encoding="utf-8"))
+        raw_themes += (raw.get("themes") if isinstance(raw, dict) else raw) or []
+    for f in sorted(DATA.glob("gap_themes_*.jsonl")):          # one file per clustering agent
+        for line in f.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                raw_themes.append(json.loads(line))
+            except Exception as e:
+                problems.append(f"{f.name}: unparseable theme ({e})")
+    if raw_themes:
+        for t in raw_themes:
             cs = [c.upper() for c in (t.get("cids") or []) if c.upper() in P]
             if not t.get("title") or not cs:
                 continue
@@ -396,9 +435,77 @@ def main():
                                maturity=t.get("maturity"), n=len(cs), cids=sorted(cs, key=rank)[:40]))
         themes.sort(key=lambda t: -t["n"])
 
+    # ---- a reading pass over the two headline outputs, applied here ----
+    # Treatment polarity: a card signs the effect of the cause *as its paper framed it*, so two papers
+    # that agree can carry opposite signs when one frames the cause from the opposite end ("mayors
+    # eligible for re-election steal less" against "second-term mayors steal more"). Only a reader can
+    # tell that apart from real disagreement, so entries judged polarity or different-question leave
+    # the contested list, with the count kept so the page can say so.
+    vf = DATA / "contested_verdicts.jsonl"
+    npol = 0
+    if vf.exists():
+        verd = {}
+        for line in vf.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                x = json.loads(line)
+                verd[(x.get("tr"), x.get("ou"))] = x
+            except Exception as e:
+                problems.append(f"contested_verdicts.jsonl: unparseable ({e})")
+        kept = []
+        for c in contested:
+            x = verd.get((c["tr"], c["ou"]))
+            if x and x.get("verdict") in ("polarity", "different-question"):
+                npol += 1
+                continue
+            if x:
+                drop = {d.upper() for d in (x.get("drop_cids") or [])}
+                if drop:
+                    for side in ("pos", "neg", "nul", "mix"):
+                        c[side] = [cid for cid in c[side] if cid not in drop]
+                    c["n"] = sum(len(c[s]) for s in ("pos", "neg", "nul", "mix"))
+                c["why"] = (x.get("why") or "")[:300]
+            if c["n"] >= 3 and min(len(c["pos"]), len(c["neg"]) + len(c["nul"])) >= 1:
+                kept.append(c)
+        contested = kept
+        print(f"contested: {len(contested)} kept, {npol} dropped as a framing artifact rather than disagreement")
+
+    hv = DATA / "hole_verdicts.jsonl"
+    if hv.exists():
+        hverd = {}
+        for line in hv.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                x = json.loads(line)
+                hverd[(x.get("tr"), x.get("ou"))] = x
+            except Exception as e:
+                problems.append(f"hole_verdicts.jsonl: unparseable ({e})")
+        keep = []
+        for t in thin:
+            x = hverd.get((t["tr"], t["ou"]))
+            if x and x.get("verdict") != "real-gap":
+                continue
+            if x:
+                t["why"], t["promise"] = (x.get("why") or "")[:300], x.get("promise")
+            keep.append(t)
+        # Vetted gaps rank by how promising a reader judged them, not by arithmetic shortfall.
+        keep.sort(key=lambda t: (-(t.get("promise") or 0), -(t["exp"] - t["n"])))
+        print(f"structural holes: {len(keep)} judged real of {len(thin)} candidates")
+        thin = keep
+
     contested_keys = {(c["tr"], c["ou"]) for c in contested}
     nSettled = sum(1 for c in cells if c["n"] >= 4 and (c["tr"], c["ou"]) not in contested_keys and (c["ag"] or 0) >= 0.8)
+    # How much of the hand-vetting actually ran, so the page can describe itself truthfully instead of
+    # claiming a reading pass that was cut short by a usage limit.
+    vetted = dict(contested=sum(1 for c in contested if c.get("why")), contestedTotal=len(contested),
+                  contestedDropped=npol, holes=sum(1 for t in thin if t.get("promise")),
+                  holesTotal=len(thin), themeBranches=sorted({t["branch"] for t in themes}))
     out = dict(treatLabels=TREAT, outLabels=OUTC, cells=cells, contested=contested, thin=thin[:40],
+               vetted=vetted,
                travelled=travelled[:40], mechScore=mechScore, effects=effects, gapThemes=themes,
                cards=cards,
                stats=dict(nCards=len(cards), nUsable=len(usable), conf=dict(conf), nSettled=nSettled,
