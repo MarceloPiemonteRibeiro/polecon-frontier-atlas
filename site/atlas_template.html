@@ -1587,10 +1587,16 @@ RENDER.gaps = function(){
     <p class="intro">Everything below this panel, gathered into one list. It cycles through the four kinds rather than ranking them against each other, because they are not really comparable &mdash; each is a different reason to work on something, and within a kind the strongest come first. Four kinds of opening, each with a different reason to be attractive: a <b>live disagreement</b> gives you a contribution defined before you start, a <b>hole</b> gives you measurement on both sides already, an <b>untested model</b> gives you the theory already published, and a <b>stated gap</b> is the field telling you in its own words what it wants.</p>
     <div class="grid2" id="agendaBoard"></div>
   </div>
-  ${TH.length?`<div class="section">
+  ${TH.length?`<div class="section panel">
     <h3>What the authors themselves say is missing</h3>
-    <p class="intro">Every paper's own "future research", open questions and acknowledged limits &mdash; about 2,500 statements read out of the PDFs and grouped. A theme named by many papers is a gap the field agrees it has. ${(EV.vetted&&EV.vetted.themeBranches.length<12)?`<b>Clustering so far covers ${EV.vetted.themeBranches.map(b=>esc(BR[b]?BR[b].short:b)).join(", ")}</b>; for the other branches the same statements appear, ungrouped, on each sub-literature in the literature tree.`:""}</p>
-    <div class="grid2" id="gapThemes"></div>
+    <p class="caption" style="margin-top:0">Every paper's own "future research", open questions and acknowledged limits &mdash; 2,555 statements read out of the PDFs and grouped into ${TH.length} themes. A theme named by many papers is a gap the field agrees it has. Big circles are the parts of the literature; small ones are gaps, sized by how many papers name them and coloured by what is blocking them. An arrow runs from a gap to the part of the literature that raised it, and also to any other topic that two or more of its papers are cross-tagged in &mdash; so a gap pointing at two topics is a question both are waiting on, and where that happens the topics themselves are joined by a dashed line. <b>Click a gap</b> for its detail, or a topic to isolate its gaps.</p>
+    <div class="net-legend" id="gapNetLegend" style="margin-bottom:6px"></div>
+    <div class="net-controls">
+      <button class="btn" id="gapNetAll" hidden>← all topics</button>
+      <span class="caption" id="gapNetWhere" style="margin:0"></span>
+    </div>
+    <div class="scroll-x" id="gapNet"></div>
+    <div id="gapDetail" style="margin-top:14px"></div>
   </div>`:""}
   <div class="section panel">
     <h3>Questions nobody has asked</h3>
@@ -1620,16 +1626,146 @@ RENDER.gaps = function(){
   drawAgendaBoard();
   v.querySelectorAll("[data-cellk]").forEach(r => r.addEventListener("click", () => { KN.sel = r.dataset.cellk; KN.minN = 1; go("known"); }));
   if(TH.length){
-    document.getElementById("gapThemes").innerHTML = TH.map(t => `<div class="panel" style="margin:0">
-      <div class="eyebrow">${esc(BR[t.branch]?.short||t.branch)} · named by ${t.n} papers${t.maturity?` · ${esc(t.maturity)}`:""}</div>
-      <div style="font-weight:600;font-size:15px">${esc(t.title)}</div>
-      <p style="margin:6px 0;font-size:14px;color:var(--ink-2)">${esc(t.text)}</p>
-      ${t.why?`<p style="margin:6px 0;font-size:13.5px"><b>Why it is open.</b> ${esc(t.why)}</p>`:""}
-      <div style="font-size:13px">${(t.pids||[]).slice(0,6).map(id=>P[id]?`<button class="linkbtn" data-pid="${id}">${esc(P[id].au)} ${P[id].y||""}</button>`:"").filter(Boolean).join(" · ")}</div>
-    </div>`).join("");
-    document.getElementById("gapThemes").querySelectorAll("[data-pid]").forEach(b => b.addEventListener("click", () => openPaper(+b.dataset.pid)));
+    document.getElementById("gapNetAll").addEventListener("click", () => { GAP.topic = null; drawGapNet(); });
+    drawGapNet();
+    themeListeners.push(() => { if(rendered.gaps) drawGapNet(); });
   }
 };
+
+/* ---------- the gap network ---------- */
+/* Topics and the open questions hanging off them. A theme is filed under one branch but its papers
+   often come from several, and those cross-links are the interesting part: a question two parts of
+   the literature are both waiting on is a better bet than one only a corner cares about. */
+const GAP = {topic:null, sel:null, sim:null};
+const MATUR = {"wide-open":["--crit","nobody has attacked it"], "needs-new-design":["--accent","needs a new design"],
+               "needs-new-data":["--warn","needs new data"], "partly-answered":["--good","partly answered"]};
+const maturOf = t => MATUR[t.maturity] || ["--muted","unclassified"];
+
+/* Which topics a theme reaches. Its own branch is where it was clustered, but the statements were
+   grouped branch by branch, so a paper's primary branch can never cross — the reach comes from the
+   cross-topic tags the papers already carry (a paper filed under voters & accountability may also be
+   tagged in state capacity). Two or more such papers makes the second topic a real connection. */
+function themeTopics(t){
+  const c = new Map();
+  (t.pids||[]).forEach(id => { const p = P[id]; if(!p) return;
+    [p.lf].concat(p.l2||[]).forEach(lf => { const b = LF[lf] && LF[lf].br; if(b) c.set(b, (c.get(b)||0)+1); }); });
+  const out = new Set([t.branch]);
+  c.forEach((n,b) => { if(n >= 2 && BR[b]) out.add(b); });
+  return [...out].filter(b => BR[b]);
+}
+
+function drawGapNet(){
+  const host = document.getElementById("gapNet"); if(!host) return; host.innerHTML = "";
+  const all = (EV.gapThemes||[]).map((t,i) => ({...t, _i:i, topics:themeTopics(t)}));
+  const themes = GAP.topic ? all.filter(t => t.topics.includes(GAP.topic)) : all;
+  const topicIds = GAP.topic ? [...new Set(themes.flatMap(t=>t.topics))] : [...new Set(all.flatMap(t=>t.topics))];
+  document.getElementById("gapNetAll").hidden = !GAP.topic;
+  document.getElementById("gapNetWhere").textContent = GAP.topic
+    ? `${BR[GAP.topic].name} · ${themes.length} gaps, with the other topics they also touch`
+    : `${all.length} gaps across ${topicIds.length} parts of the literature · ${all.filter(t=>t.topics.length>1).length} touch more than one`;
+  document.getElementById("gapNetLegend").innerHTML =
+    Object.entries(MATUR).map(([k,[c,l]]) => `<span class="chip"><span class="dot" style="background:var(${c})"></span>${l}</span>`).join("")
+    + `<span class="chip" style="border-style:dotted">circle size = papers naming it</span>`;
+
+  const W = Math.max(680, Math.min(1020, host.clientWidth||1000)), H = GAP.topic ? 520 : 680;
+  const nodes = topicIds.map(b => ({id:"t_"+b, kind:"t", br:b, name:BR[b].short||BR[b].name,
+                                    n:all.filter(t=>t.topics.includes(b)).length, fam:BR[b].fam}))
+    .concat(themes.map(t => ({id:"g_"+t._i, kind:"g", t, name:t.title, n:t.n})));
+  const byId = Object.fromEntries(nodes.map(n=>[n.id,n]));
+  const links = [];
+  themes.forEach(t => t.topics.forEach(b => { if(byId["t_"+b]) links.push({source:"g_"+t._i, target:"t_"+b, kind:"gt"}); }));
+  // Topic-to-topic lines, one per pair of topics that share at least one gap.
+  const pair = new Map();
+  themes.forEach(t => { const ts = t.topics.filter(b=>byId["t_"+b]);
+    for(let i=0;i<ts.length;i++) for(let j=i+1;j<ts.length;j++){
+      const k = [ts[i],ts[j]].sort().join("|"); pair.set(k, (pair.get(k)||0)+1); } });
+  pair.forEach((n,k) => { const [a,b] = k.split("|"); links.push({source:"t_"+a, target:"t_"+b, kind:"tt", n}); });
+
+  const rOf = d => d.kind==="t" ? 13 + Math.sqrt(d.n)*3.4 : 4.5 + Math.sqrt(d.n)*1.25;
+  const svg = d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  svg.append("defs").append("marker").attr("id","gapArrow").attr("viewBox","0 -4 8 8")
+    .attr("refX",7).attr("refY",0).attr("markerWidth",6).attr("markerHeight",6).attr("orient","auto")
+    .append("path").attr("d","M0,-3.2L7,0L0,3.2").attr("fill",cssVar("--rule-2"));
+  const g = svg.append("g");
+  const lk = g.append("g").selectAll("line").data(links).join("line")
+    .attr("stroke", d => d.kind==="tt" ? cssVar("--accent") : cssVar("--rule-2"))
+    .attr("stroke-width", d => d.kind==="tt" ? Math.min(3.5, 0.8+d.n*0.5) : 1)
+    .attr("stroke-dasharray", d => d.kind==="tt" ? "4,3" : null)
+    .attr("opacity", d => d.kind==="tt" ? 0.5 : 0.65)
+    .attr("marker-end", d => d.kind==="gt" ? "url(#gapArrow)" : null);
+  const nd = g.append("g").selectAll("g").data(nodes).join("g").style("cursor","pointer");
+  nd.append("circle").attr("r",rOf)
+    .attr("fill", d => d.kind==="t" ? famVar(d.fam) : `var(${maturOf(d.t)[0]})`)
+    .attr("fill-opacity", d => d.kind==="t" ? 0.9 : 0.78)
+    .attr("stroke", d => d.kind==="t" ? cssVar("--ink") : cssVar("--surface")).attr("stroke-width", d => d.kind==="t"?1.5:1.2);
+  nd.filter(d=>d.kind==="t").append("text").attr("class","lbl").attr("text-anchor","middle").attr("dy","0.35em")
+    .style("font-weight","600").style("pointer-events","none")
+    .text(d => d.name.length>22 ? d.name.slice(0,21)+"…" : d.name);
+  nd.on("mousemove", (ev,d) => showTip(ev, d.kind==="t"
+      ? `<div class="tt">${esc(BR[d.br].name)}</div><div class="ts">${d.n} gaps touch this topic · click to isolate</div>`
+      : `<div class="tt">${esc(d.t.title)}</div><div class="ts">${d.n} papers name it · ${maturOf(d.t)[1]}</div>`
+        + `<div class="ts">${d.t.topics.map(b=>esc(BR[b].short||b)).join(" · ")}</div><div class="ts">click for the detail</div>`))
+    .on("mouseleave", hideTip)
+    .on("click", (ev,d) => { hideTip();
+      if(d.kind==="t"){ GAP.topic = GAP.topic===d.br ? null : d.br; drawGapNet(); }
+      else { GAP.sel = d.t._i; gapModal(d.t); gapDetail(d.t); }
+    });
+
+  if(GAP.sim) GAP.sim.stop();
+  GAP.sim = d3.forceSimulation(nodes)
+    .force("link", d3.forceLink(links).id(d=>d.id).distance(d=>d.kind==="tt"?170:70).strength(d=>d.kind==="tt"?0.05:0.6))
+    .force("charge", d3.forceManyBody().strength(d=>d.kind==="t"?-620:-70))
+    .force("center", d3.forceCenter(W/2, H/2))
+    .force("collide", d3.forceCollide().radius(d=>rOf(d)+3.5))
+    .on("tick", () => {
+      nodes.forEach(d => { const r = rOf(d); d.x = Math.max(r+2, Math.min(W-r-2, d.x)); d.y = Math.max(r+2, Math.min(H-r-2, d.y)); });
+      lk.attr("x1",d=>d.source.x).attr("y1",d=>d.source.y)
+        .attr("x2",d=>d.target.x).attr("y2",d=>d.target.y);
+      nd.attr("transform", d=>`translate(${d.x},${d.y})`);
+    });
+  nd.call(d3.drag().on("start",(ev,d)=>{ GAP.sim.alphaTarget(0.2).restart(); d.fx=d.x; d.fy=d.y; })
+    .on("drag",(ev,d)=>{ d.fx=ev.x; d.fy=ev.y; })
+    .on("end",(ev,d)=>{ GAP.sim.alphaTarget(0); d.fx=null; d.fy=null; }));
+  const keep = (EV.gapThemes||[])[GAP.sel];
+  if(keep && themes.some(t=>t._i===GAP.sel)) gapDetail({...keep, topics:themeTopics(keep), _i:GAP.sel});
+  else document.getElementById("gapDetail").innerHTML = `<p class="caption">Click a gap in the map to read it here.</p>`;
+}
+
+function gapModal(t){
+  mbody.innerHTML = `<div class="eyebrow">${esc(BR[t.branch]?BR[t.branch].name:t.branch)} · named by ${t.n} papers · ${maturOf(t)[1]}</div>
+    <h3>${esc(t.title)}</h3>
+    <p style="font-size:15px;color:var(--ink-2)">${esc(t.text||"")}</p>
+    ${t.why?`<div class="callout"><b>Why it is still open.</b> ${esc(t.why)}</div>`:""}
+    <p class="caption" style="margin-top:10px">The papers naming it, and the rest of the detail, are below the map.</p>`;
+  modal.hidden = false; modal.querySelector(".modal-card").scrollTop = 0;
+}
+
+function gapDetail(t){
+  const el = document.getElementById("gapDetail"); if(!el) return;
+  const ps = (t.pids||[]).map(id=>P[id]).filter(Boolean);
+  const des = collect(ps, p=>p.de), cts = collect(ps, p=>(p.ct||[])[0]);
+  const yrs = ps.map(p=>p.y).filter(Boolean);
+  el.innerHTML = `<div class="callout" style="border-left-color:var(${maturOf(t)[0]})">
+    <div class="eyebrow">${esc(BR[t.branch]?BR[t.branch].name:t.branch)} · named by ${t.n} papers · ${maturOf(t)[1]}</div>
+    <h3 style="margin:4px 0 6px">${esc(t.title)}</h3>
+    <p style="margin:0 0 8px;font-size:14.5px">${esc(t.text||"")}</p>
+    ${t.why?`<p style="margin:0 0 8px;font-size:14px"><b>Why it is still open.</b> ${esc(t.why)}</p>`:""}
+    <p style="margin:0 0 8px;font-size:13.5px"><b>Parts of the literature that raise it.</b>
+      ${t.topics.map(b=>`<span class="chip"><span class="dot" style="background:${famVar(BR[b].fam)}"></span>${esc(BR[b].name)}</span>`).join(" ")}</p>
+    ${des.length?`<p style="margin:0 0 4px;font-size:13.5px"><b>How these papers were done.</b> ${des.map(([k,n])=>`${esc(D.designs[k]||k)} (${n})`).join(" · ")}</p>`:""}
+    ${cts.length?`<p style="margin:0 0 4px;font-size:13.5px"><b>Where.</b> ${cts.map(([k,n])=>`${esc(k)} (${n})`).join(" · ")}</p>`:""}
+    ${yrs.length?`<p style="margin:0 0 8px;font-size:13.5px"><b>Published.</b> ${Math.min(...yrs)}&ndash;${Math.max(...yrs)}, ${ps.filter(p=>p.fr).length} since 2015</p>`:""}
+    <h4 style="margin:12px 0 4px">The ${ps.length} papers that name this gap</h4>
+    <div class="list">${ps.map(p=>paperRow(p)).join("")}</div>
+  </div>`;
+  wireRows(el);
+}
+// Count a property across papers, most common first; used for the design and setting summaries.
+function collect(ps, f){
+  const c = new Map();
+  ps.forEach(p => { const k = f(p); if(k) c.set(k, (c.get(k)||0)+1); });
+  return [...c.entries()].sort((a,b)=>b[1]-a[1]).slice(0,6);
+}
 
 /* ---------- 9 Library ---------- */
 const LIB={q:"",fam:"",br:"",lf:"",de:"",rs:"",y0:"",vx:"",scope:"pe",sort:"nc",dir:-1,limit:150};
