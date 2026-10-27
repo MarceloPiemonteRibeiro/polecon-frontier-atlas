@@ -1548,7 +1548,14 @@ function drawAgendaBoard(){
   });
   items.sort((a,b)=>b.score-a.score);
   if(!items.length){ host.innerHTML = '<p class="caption">No openings yet — the gap analysis has not been run.</p>'; return; }
-  host.innerHTML = items.slice(0,24).map((it,i) => `<div class="panel" style="margin:0;border-left:3px solid var(${it.tone})">
+  // Round-robin across the kinds rather than a pure score ranking: the four kinds are different
+  // reasons to work on something, and a straight sort lets whichever scores highest crowd the rest
+  // out entirely (18 holes once took every slot). Within a kind the order is still by score.
+  const byKind = new Map();
+  items.forEach(it => { const g = byKind.get(it.kind) || []; g.push(it); byKind.set(it.kind, g); });
+  const queues = [...byKind.values()], picked = [];
+  while(picked.length < 28 && queues.some(q=>q.length)) queues.forEach(q => { if(q.length && picked.length < 28) picked.push(q.shift()); });
+  host.innerHTML = picked.map((it,i) => `<div class="panel" style="margin:0;border-left:3px solid var(${it.tone})">
     <div class="eyebrow">${String(i+1).padStart(2,"0")} · ${esc(it.kind)}</div>
     <div style="font-weight:600;font-size:15px;margin-top:2px">${esc(it.title)}</div>
     ${it.body?`<p style="margin:6px 0;font-size:14px;color:var(--ink-2)">${esc(it.body)}</p>`:""}
@@ -1577,7 +1584,7 @@ RENDER.gaps = function(){
   </div>
   <div class="section">
     <h3>Openings, ranked</h3>
-    <p class="intro">Everything below this panel, gathered into one list and ordered by how ready it looks to be worked on. Four kinds of opening, each with a different reason to be attractive: a <b>live disagreement</b> gives you a contribution defined before you start, a <b>hole</b> gives you measurement on both sides already, an <b>untested model</b> gives you the theory already published, and a <b>stated gap</b> is the field telling you in its own words what it wants.</p>
+    <p class="intro">Everything below this panel, gathered into one list. It cycles through the four kinds rather than ranking them against each other, because they are not really comparable &mdash; each is a different reason to work on something, and within a kind the strongest come first. Four kinds of opening, each with a different reason to be attractive: a <b>live disagreement</b> gives you a contribution defined before you start, a <b>hole</b> gives you measurement on both sides already, an <b>untested model</b> gives you the theory already published, and a <b>stated gap</b> is the field telling you in its own words what it wants.</p>
     <div class="grid2" id="agendaBoard"></div>
   </div>
   ${TH.length?`<div class="section">
