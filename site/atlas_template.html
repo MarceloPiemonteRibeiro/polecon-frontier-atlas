@@ -311,9 +311,11 @@ const magStr = m => `${m.value>0?"+":""}${m.value}${UNITL[m.unit]||m.unit}`;
 const setStr = s => !s ? "" : [(s.countries||[]).slice(0,3).join(", "), s.period?`${s.period[0]}–${s.period[1]}`:""].filter(Boolean).join(" · ");
 // "Does X change Y?" only reads as a question when both sides are named things.
 const VAGUE = new Set(["other","theory_only"]);
+// "Does X change Y?" breaks on plurals ("Does colonial institutions change..."), and the cause labels
+// are a mix of singular and plural, so the neutral form is the one that always reads.
 const cellQ = (tr,ou) => VAGUE.has(tr)||VAGUE.has(ou)
   ? `${TRL(tr)} → ${OUL(ou)}`
-  : `Does ${TRL(tr).toLowerCase()} change ${OUL(ou).toLowerCase()}?`;
+  : `The effect of ${TRL(tr).toLowerCase()} on ${OUL(ou).toLowerCase()}`;
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const cssVar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const famVar = f => `var(--f${f})`;
@@ -1059,7 +1061,10 @@ function agendaLink(i){
 /* ================= full-text evidence views ================= */
 /* One card per paper read from its PDF (schema in scripts/reader_spec.md); a "cell" is one
    treatment x outcome pair, i.e. one causal question the literature has attacked. */
-const KN = {minN:3, fr:false, cred:false, sel:null};
+const KN = {minN:3, fr:false, cred:false, sel:null, zoom:null};
+const TGROUPS = () => (EV && EV.treatGroups) || [];
+const OGROUPS = () => (EV && EV.outGroups) || [];
+const groupOf = (groups, code) => (groups.find(g => g[1].includes(code)) || [null])[0];
 
 function cellsNow(){
   if(!EV) return [];
@@ -1089,6 +1094,15 @@ RENDER.known = function(){
     </div>
   </div>
   <div class="section panel">
+    <h3>The evidence map</h3>
+    <p class="caption" style="margin-top:0">The same evidence as the matrix below, but as flows instead of squares, and in families rather than one square per question. On the left is what varies, on the right what gets measured, and a ribbon is the body of evidence connecting them: its thickness is how many papers, its colour which way they lean. Read it for shape — which causes the field studies through many outcomes, which outcomes it reaches by many routes, and which pairs are thin threads or missing altogether. <b>Click a ribbon</b> to drop into that pair of families and see the individual causes and outcomes inside it; from there a ribbon opens the ledger for one question.</p>
+    <div class="net-controls">
+      <button class="btn" id="mapBack" hidden>← all families</button>
+      <span class="caption" id="mapWhere" style="margin:0"></span>
+    </div>
+    <div class="scroll-x" id="knMap"></div>
+  </div>
+  <div class="section panel">
     <h3>The evidence matrix</h3>
     <p class="caption" style="margin-top:0">Each row is something that varies — a reform, a shock, an institution. Each column is something measured. Both are <b>families</b>: "information to voters" holds turnout drives, corruption disclosures and persuasion experiments together, so a square counts how much work exists on a pair rather than how much agreement there is about one question. A square is one causal question: its colour says which way the evidence leans, its number is how many papers asked it, and a dashed edge marks a question where the papers disagree. Empty space is unasked. Click a square to read the ledger.</p>
     <div class="net-controls">
@@ -1104,6 +1118,7 @@ RENDER.known = function(){
   document.getElementById("knMin").addEventListener("change", e => { KN.minN = +e.target.value; drawKnown(); });
   document.getElementById("knFr").addEventListener("change", e => { KN.fr = e.target.checked; drawKnown(); });
   document.getElementById("knCred").addEventListener("change", e => { KN.cred = e.target.checked; drawKnown(); });
+  document.getElementById("mapBack").addEventListener("click", () => { KN.zoom = null; drawKnown(); });
   document.getElementById("knLegend").innerHTML =
     Object.entries(DIRN).filter(([k])=>!["unknown","na"].includes(k)).map(([k,[l,c]]) => `<span class="chip"><span class="dot" style="background:var(${c})"></span>${l}</span>`).join("")
     + `<span class="chip"><span class="dot" style="background:transparent;border:1.5px dashed var(--ink)"></span>papers disagree</span>`
@@ -1112,9 +1127,94 @@ RENDER.known = function(){
   themeListeners.push(() => { if(rendered.known) drawKnown(); });
 };
 
+/* Ribbon map of the same cells. Two levels: families of causes against families of outcomes, and
+   then, inside one chosen pair of families, the individual causes and outcomes. Drawn by hand rather
+   than with a sankey library, because the layout is two fixed columns and needs no solver. */
+function drawKnownMap(cells){
+  const host = document.getElementById("knMap"); if(!host) return; host.innerHTML = "";
+  const back = document.getElementById("mapBack"), where = document.getElementById("mapWhere");
+  const z = KN.zoom;
+  back.hidden = !z;
+  // At the top level a node is a family; inside a zoom it is a single cause or outcome.
+  const tg = TGROUPS(), og = OGROUPS();
+  const keyL = z ? (c => c.tr) : (c => groupOf(tg, c.tr));
+  const keyR = z ? (c => c.ou) : (c => groupOf(og, c.ou));
+  const shown = z ? cells.filter(c => groupOf(tg,c.tr)===z[0] && groupOf(og,c.ou)===z[1]) : cells;
+  where.textContent = z ? `${z[0]} → ${z[1]} · ${shown.length} question${shown.length===1?"":"s"}`
+                        : `${cells.length} questions in ${tg.length} × ${og.length} families`;
+  if(!shown.length){ host.innerHTML = '<p class="caption">Nothing here under these filters.</p>'; return; }
+
+  const flows = new Map();
+  shown.forEach(c => {
+    const k = keyL(c)+"\u0000"+keyR(c);
+    const f = flows.get(k) || {l:keyL(c), r:keyR(c), n:0, dir:{pos:0,neg:0,null:0,mixed:0,na:0,unknown:0}, cells:[]};
+    f.n += c.n; f.cells.push(c);
+    Object.keys(c.dir).forEach(d => { if(f.dir[d]!==undefined) f.dir[d]+=c.dir[d]; });
+    flows.set(k, f);
+  });
+  const fl = [...flows.values()].sort((a,b)=>b.n-a.n);
+  const order = (side, codes) => {
+    const tot = new Map();
+    fl.forEach(f => tot.set(f[side], (tot.get(f[side])||0)+f.n));
+    return [...tot.entries()].sort((a,b)=>b[1]-a[1]);
+  };
+  const L = order("l"), R = order("r");
+  const label = z ? (side,k)=> side==="l"?TRL(k):OUL(k) : (side,k)=>k;
+
+  const W = Math.max(700, Math.min(1040, host.clientWidth||1000));
+  const M = {l:238, r:238, t:14, b:14}, gap = 9;
+  const totL = d3.sum(L,d=>d[1]), totR = d3.sum(R,d=>d[1]);
+  const H = Math.max(300, Math.min(720, 26*Math.max(L.length,R.length) + 120));
+  const availL = H - M.t - M.b - gap*(L.length-1), availR = H - M.t - M.b - gap*(R.length-1);
+  const svg = d3.select(host).append("svg").attr("class","chart").attr("width",W).attr("height",H);
+  const pos = {};
+  let y = M.t;
+  L.forEach(([k,n]) => { const h = Math.max(6, availL*n/totL); pos["l"+k] = {y0:y, h, n, used:0}; y += h + gap; });
+  y = M.t;
+  R.forEach(([k,n]) => { const h = Math.max(6, availR*n/totR); pos["r"+k] = {y0:y, h, n, used:0}; y += h + gap; });
+
+  const x1 = M.l, x2 = W - M.r, xm = (x1+x2)/2;
+  // Thickest flows first so a thin ribbon is never hidden behind a fat one.
+  fl.forEach(f => {
+    const a = pos["l"+f.l], b = pos["r"+f.r]; if(!a||!b) return;
+    const ha = a.h*f.n/a.n, hb = b.h*f.n/b.n;
+    const ya = a.y0 + a.used, yb = b.y0 + b.used; a.used += ha; b.used += hb;
+    const lean = lean_(f.dir);
+    const d = `M${x1},${ya} C${xm},${ya} ${xm},${yb} ${x2},${yb} L${x2},${yb+hb} C${xm},${yb+hb} ${xm},${ya+ha} ${x1},${ya+ha} Z`;
+    svg.append("path").attr("d",d).attr("fill",`var(${DIRN[lean.dir][1]})`).attr("opacity",0.3+0.4*lean.ag)
+      .style("cursor","pointer")
+      .on("mouseover",function(){ d3.select(this).attr("opacity",0.85); })
+      .on("mouseout",function(){ d3.select(this).attr("opacity",0.3+0.4*lean.ag); })
+      .on("mousemove",ev=>showTip(ev,`<div class="tt">${esc(label("l",f.l))} → ${esc(label("r",f.r))}</div>`
+        +`<div class="ts">${f.n} papers in ${f.cells.length} question${f.cells.length===1?"":"s"} · ${f.dir.pos} up, ${f.dir.neg} down, ${f.dir.null} none, ${f.dir.mixed} mixed</div>`
+        +`<div class="ts">${z?"click to open the ledger":"click to open this pair"}</div>`))
+      .on("mouseleave",hideTip)
+      .on("click",()=>{ hideTip();
+        if(!z){ KN.zoom = [f.l, f.r]; drawKnown(); }
+        else { KN.sel = f.cells[0].tr+"|"+f.cells[0].ou; knBody(f.cells[0]); document.getElementById("knBody").scrollIntoView({behavior:"smooth"}); }
+      });
+  });
+  const node = (side,k,n) => {
+    const p = pos[side+k], isL = side==="l";
+    svg.append("rect").attr("x",isL?x1-9:x2).attr("y",p.y0).attr("width",9).attr("height",p.h).attr("fill",cssVar("--ink-2"));
+    svg.append("text").attr("x",isL?x1-15:x2+15).attr("y",p.y0+p.h/2).attr("dy","0.35em")
+      .attr("text-anchor",isL?"end":"start").attr("class","lbl")
+      .style("cursor", z?"default":"pointer")
+      .text(() => { const t = `${label(side,k)} (${n})`; return t.length>34 ? t.slice(0,33)+"…" : t; })
+      .on("mousemove",ev=>showTip(ev,`<div class="tt">${esc(label(side,k))}</div><div class="ts">${n} papers</div>`))
+      .on("mouseleave",hideTip);
+  };
+  L.forEach(([k,n])=>node("l",k,n)); R.forEach(([k,n])=>node("r",k,n));
+  svg.append("text").attr("x",x1-9).attr("y",H-2).attr("text-anchor","end").attr("class","lbl").style("fill",cssVar("--muted")).text("what varies");
+  svg.append("text").attr("x",x2+9).attr("y",H-2).attr("class","lbl").style("fill",cssVar("--muted")).text("what is measured");
+}
+// lean() takes a dir object; this variant tolerates the extra keys a summed flow carries.
+function lean_(d){ return lean({pos:d.pos||0, neg:d.neg||0, null:d.null||0, mixed:d.mixed||0}); }
+
 function drawKnown(){
   const host = document.getElementById("knMatrix"); if(!host) return; host.innerHTML = "";
   const cells = cellsNow();
+  drawKnownMap(cells);
   if(!cells.length){ host.innerHTML = `<p class="caption">No question has that many papers under these filters.</p>`; document.getElementById("knBody").innerHTML=""; return; }
   const tot = (key, id) => cells.filter(c => c[key]===id).reduce((s,c)=>s+c.n, 0);
   const rows = [...new Set(cells.map(c=>c.tr))].sort((a,b)=>tot("tr",b)-tot("tr",a));

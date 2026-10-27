@@ -50,14 +50,49 @@ VOX_FINDINGS = {
                detail="Personnel rules, credentials and oversight bodies can stop managers from directing frontline workers; political will and capacity are complements."),
 }
 
+# Families for the evidence map: 300 cause-outcome cells are too many to hold in the head at once, so
+# the map draws ~7 x 7 flows between families first and only then the cells inside a chosen pair.
+# Every code in 17_evidence.py's TREAT and OUTC must appear exactly once below.
+TREAT_GROUPS = [
+    ("Rules & representation", ["electoral_rules", "franchise_democracy", "institutional_constraints",
+                                "decentralization", "quotas_reservation", "politician_identity",
+                                "political_competition", "election_proximity"]),
+    ("Information & media", ["info_voters", "info_politicians", "media_access", "media_content"]),
+    ("Money & organised interests", ["campaign_money_lobbying", "elite_capture", "clientelism_vote_buying"]),
+    ("The state's own machinery", ["bureaucrat_personnel", "politician_pay_selection", "audit_monitoring",
+                                   "anti_corruption_policy", "taxation_fiscal_capacity", "corruption_as_cause"]),
+    ("Programmes & resources", ["transfers_cash", "public_goods_infra", "education", "land_property_rights",
+                                "foreign_aid"]),
+    ("Shocks, history & culture", ["economic_shock", "conflict_violence", "migration_immigration",
+                                   "colonial_historical", "culture_identity", "protest_collective_action"]),
+    ("Other causes", ["other"]),
+]
+OUT_GROUPS = [
+    ("Elections & politicians", ["voting_behaviour", "politician_selection", "politician_behaviour",
+                                 "clientelism_out", "polarisation"]),
+    ("Policy & public money", ["fiscal_spending", "taxation_revenue", "policy_adoption",
+                               "inequality_redistribution"]),
+    ("Delivery & capacity", ["public_goods_access", "public_services_quality", "state_capacity",
+                             "corruption_rents"]),
+    ("Development, firms & people", ["economic_development", "firm_outcomes", "human_capital_health",
+                                     "environment_resources", "migration_mobility"]),
+    ("Beliefs & information", ["beliefs_attitudes", "information_knowledge", "civic_participation",
+                               "media_supply"]),
+    ("Regime & conflict", ["regime_democracy", "conflict_violence_out", "institutions_rules"]),
+    ("Other outcomes", ["other", "theory_only"]),
+]
+
 # Lede text for the three views built from the full-text read (data/evidence.json).
 EVIDENCE = dict(
+    treatGroups=[[n, c] for n, c in TREAT_GROUPS],
+    outGroups=[[n, c] for n, c in OUT_GROUPS],
     intro="These papers were read from the PDF itself, not just the abstract, and coded the same way: what varies, what is "
           "measured, which way the effect goes, how large, where, with what design, and which canonical model it speaks to. "
           "That makes papers comparable, and comparable papers make a map. A <b>causal question</b> here is one cause crossed "
           "with one outcome &mdash; information to voters against turnout, quotas against spending. The matrix below is the "
           "field's answer sheet: where the signs line up, where they split, and the large empty areas where nobody has asked. "
-          "The read is still in progress, so a thin cell may mean the papers are unread rather than unwritten; each paper's "
+          "Every paper in the atlas with a readable PDF has been read this way; a thin cell therefore means the question is "
+          "little studied rather than little read. Each paper's "
           "drawer says how it was read and how confident the coding is.",
     contestedIntro="Questions where papers measuring the same thing reach opposite answers &mdash; and the list is short "
                    "on purpose. Finding them takes two stages. First an automatic test: a pair counts only when one paper "
